@@ -91,7 +91,7 @@
       "ideas": 3
     },
     "brazil": {
-      "candidates": 20,
+      "candidates": 40,
       "discoveries": 3,
       "ideas": 0
     },
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "personal-care",
     "condiments-sauces",
     "cleaning",
     "health-wellness",
-    "grocery-pantry"
+    "grocery-pantry",
+    "kitchen"
   ],
-  "total_candidates": 870,
+  "total_candidates": 890,
   "total_discoveries": 66,
   "total_ideas": 33
 }
