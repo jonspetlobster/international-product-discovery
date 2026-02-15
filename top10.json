@@ -1,41 +1,145 @@
 {
-  "generated": "2026-02-14 21:46",
+  "generated": "2026-02-14 21:53",
   "total_discoveries": 3,
-  "total_candidates_evaluated": 50,
-  "total_rejected": 11,
+  "total_candidates_evaluated": 73,
+  "total_rejected": 34,
   "top10": [
     {
-      "rank": 1,
       "id": "discovery_002",
+      "date": "2026-02-14",
       "product_name": "Korean Sunscreens with Advanced UV Filters (FDA-Unapproved)",
       "brand_example": "MEDIHEAL Madecassoside Moisture Sun Serum, Beauty of Joseon Relief Sun Rice+Probiotics SPF50+",
       "country": "south_korea",
       "category": "personal-care",
+      "description": "Korean sunscreens using next-generation UV filters like Tinosorb S, Uvinul A Plus, and Bemotrizinol that provide superior UVA/UVB protection. These filters have been proven safe and effective globally for decades but remain unapproved by the FDA (no new filters approved since 1999). Korean formulations offer lightweight textures, no white cast, and superior photoprotection compared to US alternatives.",
+      "problem_solved": "Americans are stuck with outdated sunscreen technology. US sunscreens use old chemical filters (avobenzone, oxybenzone) that are heavier, greasier, leave white cast, and only need to block 30% of UVA rays to be labeled 'broad spectrum.' Korean sunscreens solve this with modern filters that are cosmetically elegant and offer true broad-spectrum protection.",
+      "us_gap": "US sunscreens rely on filters approved in the 1990s. Korean/Japanese/European sunscreens use filters from the 2000s-2010s that are photostable, less irritating, and more effective. Products on Amazon US are either grey market imports at inflated prices or reformulated FDA-compliant versions with inferior filters.",
+      "demand_signals": [
+        "Reddit threads with thousands of upvotes asking why Asian sunscreens are better",
+        "Beauty influencers import Korean sunscreen in bulk",
+        "Multiple articles explaining FDA regulatory lag",
+        "'Can't live without' sentiment in travel forums - people stock up when visiting Korea",
+        "YesStyle, Stylevana, K-beauty retailers built around importing these products"
+      ],
+      "source_urls": [
+        "https://www.reddit.com/r/AsianBeauty/comments/1df6vu9/can_someone_explain_to_me_like_im_5_why_japanese/",
+        "https://www.provisionfda.com/post/k-beauty-sunscreens-and-the-fda-how-regulatory-differences-affect-u-s-consumers",
+        "https://coveteur.com/best-korean-beauty-products"
+      ],
+      "estimated_local_price_usd": 15.0,
+      "potential_us_retail_price_usd": 35.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 10,
+        "us_gap": 10,
+        "importability": 9,
+        "margin_potential": 8,
+        "defensibility": 7,
+        "wow_factor": 8
+      },
       "score_avg": 8.7,
-      "potential_us_retail_price_usd": 35.00,
-      "one_liner": "Next-gen UV filters (Tinosorb, Uvinul) that outperform outdated US sunscreens - lightweight, no white cast, true broad-spectrum protection"
+      "rejection_risks": [
+        "FDA could crack down on grey market sales",
+        "Brands might reformulate for US and lose advantage",
+        "Requires ongoing regulatory arbitrage"
+      ],
+      "sourcing_notes": "Source from Korean distributors, Olive Young bulk purchases, or direct from brands like MEDIHEAL, Beauty of Joseon, Isntree. Products are shelf-stable, lightweight, easy to ship. Olive Young often has 1+1 deals.",
+      "next_steps": "Create curated subscription box of 'FDA-unapproved but globally trusted' Korean sunscreens. Educational marketing explaining the FDA lag and why these are superior. Partner with dermatologists to validate. Build email list of skincare enthusiasts frustrated with US sunscreen options."
     },
     {
-      "rank": 2,
       "id": "discovery_001",
+      "date": "2026-02-14",
       "product_name": "Minimal Wash Muro Portable Washing Machine",
       "brand_example": "CB Japan",
       "country": "japan",
       "category": "laundry-clothing",
+      "description": "Ultra-compact motorized washing device that attaches to any bucket, sink, or basin to wash clothes. Has 4 settings including delicate mode. USB-powered, weighs only 170g (6 oz), includes carrying bag. Designed for washing delicates separately or washing clothes while traveling without access to laundromats.",
+      "problem_solved": "Hand-washing clothes is tedious and tiring; traditional portable washers are bulky and manual. Travelers, RV owners, and apartment dwellers need a compact, effective solution for small loads and delicates.",
+      "us_gap": "US portable washers are either manual (WonderWash, bucket washers requiring physical effort) or bulky folding units. No compact, motorized, truly portable solution exists. Americans use manual agitation or large portable machines that defeat the purpose of portability.",
+      "demand_signals": [
+        "RV and camping communities actively searching for portable washing solutions",
+        "Reddit threads show frustration with laundromat costs and inconvenience",
+        "Travel forums mention hand-washing as major pain point",
+        "Niche for delicates washing (bras, baby clothes) separate from main wash"
+      ],
+      "source_urls": [
+        "https://www.japantrendshop.com/minimal-wash-muro-portable-washing-machine-p-5440.html",
+        "https://www.pcmag.com/picks/japanese-products-you-didnt-know-you-needed",
+        "https://www.reddit.com/r/RVLiving/comments/1cl6udf/best_portable_washing_machine_for_full_time/"
+      ],
+      "estimated_local_price_usd": 49.0,
+      "potential_us_retail_price_usd": 99.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 7,
+        "us_gap": 8,
+        "importability": 9,
+        "margin_potential": 7,
+        "defensibility": 6,
+        "wow_factor": 8
+      },
       "score_avg": 7.5,
-      "potential_us_retail_price_usd": 99.00,
-      "one_liner": "Ultra-compact USB-powered motorized washing device (170g) that turns any sink/bucket into a washing machine"
+      "rejection_risks": [
+        "May need UL/electrical certification for US market",
+        "Low power (10W) might seem less capable than competitors",
+        "Requires bucket/container (not standalone)",
+        "Niche market (not mass consumer)"
+      ],
+      "sourcing_notes": "CB Japan manufacturer. Product appears to be Japan-only distribution. Compact size (100x100x55mm) means low shipping costs. USB adapter might need US voltage version. Check Alibaba for similar motorized agitators or OEM sourcing.",
+      "next_steps": "Import small batch (10-20 units) to test US market. Target RV forums, van life communities, travel influencers. Bundle with collapsible bucket. Price at $99-$129. Measure demand before bulk order. Could potentially find OEM manufacturer for US-branded version."
     },
     {
-      "rank": 3,
       "id": "discovery_003",
+      "date": "2026-02-14",
       "product_name": "Tamburins Perfumes",
       "brand_example": "Tamburins (fragrances: Chamo, Angelica, Cloud Armor)",
       "country": "south_korea",
       "category": "personal-care",
+      "description": "Tamburins is a trendy Korean fragrance and lifestyle brand known for minimalist aesthetics and unique scent profiles. Available in Korea (Olive Young, standalone boutiques), Japan, China, and Thailand, but no official US presence. Only available via grey market eBay sellers and import sites like DODOSKIN.",
+      "problem_solved": "Fills the niche between mass-market fragrances and luxury perfumes with artistic, gender-neutral scents at mid-tier pricing ($50-80). Appeals to millennials/Gen Z seeking unique fragrances that aren't widely available in US department stores.",
+      "us_gap": "No official Tamburins stockists in the US. Grey market sellers on eBay charge $60-100 with slow shipping from Korea. Tamburins has physical stores in Seoul, Tokyo, Shanghai but zero US retail presence despite growing K-beauty interest.",
+      "demand_signals": [
+        "eBay sellers with positive feedback for Tamburins imports",
+        "Mentioned in Lonely Planet as trendy Korean brand to buy",
+        "DODOSKIN carries it but small selection",
+        "Instagram aesthetic appeal - minimalist packaging popular with influencers"
+      ],
+      "source_urls": [
+        "https://www.lonelyplanet.com/articles/skin-care-beauty-products-to-buy-korea",
+        "https://www.tamburins.com/en/",
+        "https://www.ebay.com/itm/256329259971"
+      ],
+      "estimated_local_price_usd": 55.0,
+      "potential_us_retail_price_usd": 95.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 6,
+        "us_gap": 8,
+        "importability": 10,
+        "margin_potential": 7,
+        "defensibility": 6,
+        "wow_factor": 7
+      },
       "score_avg": 7.3,
-      "potential_us_retail_price_usd": 95.00,
-      "one_liner": "Trendy Korean niche fragrance brand with minimalist aesthetic - no official US presence, only grey market imports"
+      "rejection_risks": [
+        "Niche appeal - not mass market",
+        "Tamburins could open US distribution anytime",
+        "Fragrance preferences are subjective and regional"
+      ],
+      "sourcing_notes": "Source from Olive Young Seoul, Tamburins flagship stores, or Korean distributors. Perfumes are small (11ml/50ml), lightweight, high-margin. Shelf-stable. Could also source hand creams and candles from same brand.",
+      "next_steps": "Import curated selection of 3-4 Tamburins scents. Create DTC site with editorial content about Korean fragrance culture. Partner with niche fragrance bloggers. Offer discovery sets (2ml samples of 5 scents for $25). Build on Instagram aesthetic appeal."
     }
   ]
 }
