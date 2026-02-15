@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-15 10:23",
+  "generated": "2026-02-15 10:43",
   "total_discoveries": 37,
-  "total_candidates_evaluated": 385,
-  "total_rejected": 206,
+  "total_candidates_evaluated": 405,
+  "total_rejected": 212,
   "top10": [
     {
       "id": "discovery_015",
@@ -23,8 +23,8 @@
       "source_urls": [
         "https://kristinarodulfo.substack.com/p/best-filipino-makeup-products-philippines-beauty-haul"
       ],
-      "estimated_local_price_usd": 9.00,
-      "potential_us_retail_price_usd": 22.00,
+      "estimated_local_price_usd": 9.0,
+      "potential_us_retail_price_usd": 22.0,
       "google_trends": {
         "avg": 0,
         "recent": 0,
@@ -69,8 +69,8 @@
         "https://www.provisionfda.com/post/k-beauty-sunscreens-and-the-fda-how-regulatory-differences-affect-u-s-consumers",
         "https://coveteur.com/best-korean-beauty-products"
       ],
-      "estimated_local_price_usd": 15.00,
-      "potential_us_retail_price_usd": 35.00,
+      "estimated_local_price_usd": 15.0,
+      "potential_us_retail_price_usd": 35.0,
       "google_trends": {
         "avg": 0,
         "recent": 0,
@@ -96,13 +96,13 @@
     {
       "id": "discovery_033",
       "date": "2026-02-15",
-      "product_name": "Tołpa Peat Extract Face Cream",
-      "brand_example": "Tołpa",
+      "product_name": "To\u0142pa Peat Extract Face Cream",
+      "brand_example": "To\u0142pa",
       "country": "poland",
       "category": "personal-care",
-      "description": "Unique Polish skincare brand built on world-unique peat extract and mud technology. Founded in 1989, Tołpa uses peat from specific Polish bogs combined with proprietary extraction process. Clinically proven to help acne, redness, rosacea, and sensitive skin. Available in UK (Lloyds Pharmacy, Boots) but not widely in US.",
+      "description": "Unique Polish skincare brand built on world-unique peat extract and mud technology. Founded in 1989, To\u0142pa uses peat from specific Polish bogs combined with proprietary extraction process. Clinically proven to help acne, redness, rosacea, and sensitive skin. Available in UK (Lloyds Pharmacy, Boots) but not widely in US.",
       "problem_solved": "People with acne-prone, redness-prone, and sensitive skin struggle to find products that actually calm inflammation without causing more irritation. Peat has anti-inflammatory and healing properties used for centuries.",
-      "us_gap": "US has some peat skincare (belif from Korea, Irish peat masks) but not Tołpa's specific Polish peat extraction. Tołpa is available in UK pharmacies with strong results, but virtually unknown in US. Lab tests show improvements in elasticity, hydration, pore size, sebum, and redness reduction.",
+      "us_gap": "US has some peat skincare (belif from Korea, Irish peat masks) but not To\u0142pa's specific Polish peat extraction. To\u0142pa is available in UK pharmacies with strong results, but virtually unknown in US. Lab tests show improvements in elasticity, hydration, pore size, sebum, and redness reduction.",
       "demand_signals": [
         "Available at major UK pharmacies (Lloyds, Boots) - validates demand",
         "Marketed specifically for acne/rosacea with clinical backing",
@@ -114,8 +114,8 @@
         "https://tolpa.co.uk/about-tolpa",
         "https://cewuk.co.uk/tolpa-dermo-face-skincare-solutions-for-acne-rosacea-and-dryness-available-at-boots/"
       ],
-      "estimated_local_price_usd": 18.00,
-      "potential_us_retail_price_usd": 42.00,
+      "estimated_local_price_usd": 18.0,
+      "potential_us_retail_price_usd": 42.0,
       "google_trends": {
         "avg": 0,
         "recent": 0,
@@ -135,7 +135,7 @@
         "'Mud' and 'peat' might not test well in US marketing"
       ],
       "sourcing_notes": "Manufactured by Torf Corporation, Poland since 1989. Recently acquired by Bielenda Group. Has UK distribution already, so export infrastructure exists. Shelf-stable creams and serums. Need to verify peat sourcing is sustainable for US messaging.",
-      "next_steps": "Contact Tołpa/Bielenda for US distribution rights. Position as 'European pharmacy secret for sensitive skin.' Target acne and rosacea communities. Emphasize clinical testing and natural peat benefits."
+      "next_steps": "Contact To\u0142pa/Bielenda for US distribution rights. Position as 'European pharmacy secret for sensitive skin.' Target acne and rosacea communities. Emphasize clinical testing and natural peat benefits."
     },
     {
       "id": "discovery_032",
@@ -157,8 +157,8 @@
         "https://www.ladymakeup.com/shop/basiclab.html",
         "https://www.reddit.com/r/EuroSkincare/comments/1hqkvoa/polish_drugstore_skincare_tips_needed/"
       ],
-      "estimated_local_price_usd": 25.00,
-      "potential_us_retail_price_usd": 59.00,
+      "estimated_local_price_usd": 25.0,
+      "potential_us_retail_price_usd": 59.0,
       "google_trends": {
         "avg": 0,
         "recent": 0,
@@ -224,16 +224,16 @@
         "Some users report mild musty smell from MCE ingredient"
       ],
       "sourcing_notes": "French pharmacy exclusive. L'Oreal owns La Roche-Posay and Mexoryl 400 is their proprietary ingredient. Widely available at Citypharma in Paris and French pharmacy chains. 50ml bottles. Shelf-stable for 12 months after opening.",
-      "next_steps": "Source bulk from French pharmacy distributor or gray-market EU beauty suppliers. Market heavily to r/SkincareAddiction and skincare TikTok. Emphasize the FDA filter gap and superior UVA1 protection. Could bundle with other French sunscreens (Bioderma, Avène) as a 'European Sun Protection Kit'."
+      "next_steps": "Source bulk from French pharmacy distributor or gray-market EU beauty suppliers. Market heavily to r/SkincareAddiction and skincare TikTok. Emphasize the FDA filter gap and superior UVA1 protection. Could bundle with other French sunscreens (Bioderma, Av\u00e8ne) as a 'European Sun Protection Kit'."
     },
     {
       "id": "discovery_035",
       "date": "2026-02-15",
-      "product_name": "Granado Polvilho Antisséptico",
+      "product_name": "Granado Polvilho Antiss\u00e9ptico",
       "brand_example": "Granado",
       "country": "brazil",
       "category": "personal-care",
-      "description": "Iconic antiseptic cassava powder created in 1903 by João Bernardo Granado. Combines antibacterial, antifungal, drying, and deodorizing properties in a talc-free starch powder. Widely used for diaper rash, heat rash, chafing, and foot odor. Cultural staple in Brazilian households for over a century.",
+      "description": "Iconic antiseptic cassava powder created in 1903 by Jo\u00e3o Bernardo Granado. Combines antibacterial, antifungal, drying, and deodorizing properties in a talc-free starch powder. Widely used for diaper rash, heat rash, chafing, and foot odor. Cultural staple in Brazilian households for over a century.",
       "problem_solved": "Prevents and treats diaper rash, prickly heat, and skin irritation with antiseptic action that goes beyond simple moisture absorption. Safer than talc, more effective than cornstarch alone.",
       "us_gap": "US baby powders are mostly cornstarch or arrowroot (moisture absorption only) or have been reformulated away from talc due to health concerns. None combine antiseptic properties (boric acid + zinc oxide) with natural starch base. Anti Monkey Butt and similar are cornstarch with calamine, not antiseptic.",
       "demand_signals": [
@@ -247,7 +247,7 @@
         "https://www.amazon.com/Linha-Antisseptica-Granado-Antisseptico-Tradicional/dp/B0DZXYW7Z4",
         "https://mkpbr.com/en-us/products/polvilho-antisseptico-granado-100g"
       ],
-      "estimated_local_price_usd": 3.50,
+      "estimated_local_price_usd": 3.5,
       "potential_us_retail_price_usd": 14.99,
       "google_trends": {
         "avg": 0,
@@ -272,30 +272,26 @@
       "next_steps": "Contact Granado USA (granado.us) about wholesale/distribution. Research FDA OTC antiseptic requirements for boric acid products. Test market on Amazon to Brazilian expat community first."
     },
     {
-      "id": "discovery_021",
+      "id": "discovery_014",
       "date": "2026-02-14",
-      "product_name": "Kama Ayurveda Kumkumadi Tailam",
-      "brand_example": "Kama Ayurveda",
-      "country": "india",
+      "product_name": "Happy Skin Lip Mallow Plush Matte Lip Tint",
+      "brand_example": "Happy Skin",
+      "country": "philippines",
       "category": "personal-care",
-      "description": "Premium ayurvedic brightening face oil with saffron (kumkuma), lotus, manjistha, sandalwood, and turmeric in sesame oil base. Known as 'miracle elixir' in Ayurveda, prescribed for 5000+ years for glowing skin, even tone, and anti-aging. Each batch is handmade following traditional methods. The authentic version takes weeks to prepare with 16+ herbs.",
-      "problem_solved": "Addresses hyperpigmentation, dullness, dark spots, and aging with a single traditional oil. US shoppers buy separate vitamin C serum, niacinamide, retinol, and face oil - spending $100+ on a multi-step routine.",
-      "us_gap": "US has brightening serums (The Ordinary, Paula's Choice) but they're synthetic, clinical, and require layering. Kumkumadi offers ancient wisdom, single-product simplicity, luxury ritual, and saffron prestige. No US brand has the cultural heritage story or traditional preparation method. Closest competitors are generic 'glow oils' without the depth.",
+      "description": "Cushiony, moisturizing matte lip tint with refreshing cucumber scent. Combines the longevity of a matte lip with the comfort of a balm. Lasts through meals without drying out lips or requiring constant reapplication. Leaves lips looking pillowy and plump.",
+      "problem_solved": "The trade-off between long-lasting matte lips and comfortable, moisturizing formula. Most long-wear lip products are drying; most moisturizing ones don't last.",
+      "us_gap": "US long-wear lip tints are either drying (liquid lipsticks) or don't truly last through eating. Rare Beauty lip oil ($22) is moisturizing but users say it's 'super drying' long-term. Violette_FR tint ($30) is good but expensive. No drugstore option hits both marks.",
       "demand_signals": [
-        "'Miracle cure for almost all skin ailments' per Reddit",
-        "Premium positioning justified by visible results",
-        "Kama Ayurveda version sells at $55.60 on Amazon US (12ml)",
-        "Called 'timeless Kumkumadi oil', 'Ayurvedic beauty recipe'",
-        "Recent resurgence: 'back in popularity' among wellness seekers"
+        "Beauty editor: 'might be my favorite purchase, wish I bought more shades'",
+        "Lasts through greasy meals (kare-kare test)",
+        "Described as 'cushiony' repeatedly",
+        "Cucumber scent is refreshing and pleasant"
       ],
       "source_urls": [
-        "https://www.reddit.com/r/IndianSkincareAddicts/comments/shyyy3/",
-        "https://www.amazon.com/Kama-Ayurveda-Kumkumadi-Miraculous-Fluid-4/dp/B007UPKJAO",
-        "https://www.kamaayurveda.in/blog/kumkumadi-tailam-review",
-        "https://www.moneycontrol.com/lifestyle/beauty/benefits-of-kumkumadi-oil-the-elixir-for-youthful-glowing-skin-article-13824891.html"
+        "https://kristinarodulfo.substack.com/p/best-filipino-makeup-products-philippines-beauty-haul"
       ],
-      "estimated_local_price_usd": 25.00,
-      "potential_us_retail_price_usd": 68.00,
+      "estimated_local_price_usd": 11.0,
+      "potential_us_retail_price_usd": 24.0,
       "google_trends": {
         "avg": 0,
         "recent": 0,
@@ -304,20 +300,63 @@
       "scores": {
         "demand_signal": 7,
         "us_gap": 8,
-        "importability": 7,
-        "margin_potential": 7,
-        "defensibility": 9,
-        "wow_factor": 9
+        "importability": 9,
+        "margin_potential": 8,
+        "defensibility": 7,
+        "wow_factor": 8
       },
       "score_avg": 7.8,
       "rejection_risks": [
-        "High price point may limit market size",
-        "Requires education on ayurvedic benefits",
-        "Authenticity concerns (many low-quality versions exist)",
-        "Sesame oil base may not appeal to acne-prone skin"
+        "Formula may not survive temperature fluctuations in shipping",
+        "Scent preferences vary",
+        "Competitive lip tint market"
       ],
-      "sourcing_notes": "Kama Ayurveda is premium Indian brand with existing US Amazon presence. Could approach as authorized distributor or create curated 'best of Indian ayurvedic oils' collection. Alternatively source from Kerala Ayurveda or Blue Nectar (other reputable brands). MOQ likely 100-500 units. Shelf life 12-18 months if stored properly.",
-      "next_steps": "Contact Kama Ayurveda for US distribution terms. Order competitor samples (Kerala Ayurveda, Shankara, Forest Essentials). Survey wellness/clean beauty audiences for willingness to pay. Create educational content on kumkumadi history and traditional preparation. Partner with ayurvedic practitioners or influencers for credibility."
+      "sourcing_notes": "Happy Skin is established Filipino beauty brand. Compact packaging, lightweight. Shelf-stable but may need climate-controlled shipping. Available on Shopee, Lazada.",
+      "next_steps": "Order multiple shades to test formula consistency. Verify ingredient list for US cosmetics compliance. Test longevity claims (meal test). Calculate import duties. Research Happy Skin's current US distribution if any."
+    },
+    {
+      "id": "discovery_016",
+      "date": "2026-02-14",
+      "product_name": "Colourette First Base Skin Tint",
+      "brand_example": "Colourette",
+      "country": "philippines",
+      "category": "personal-care",
+      "description": "Affordable skin tint with cult following in Philippines. Described as 'feels like a luxury formulation' despite low price. Perfect for no-makeup makeup look with buildable, natural coverage. Shelves are often empty because it sells out constantly. Excellent shade range for medium to deep skin tones.",
+      "problem_solved": "Finding affordable skin tint that doesn't look cheap. Getting perfect shade match for morena/tan skin without orange or ashy tones. Skin tints that actually feel good on skin.",
+      "us_gap": "US drugstore skin tints (Maybelline Dream Radiant $11, CoverGirl TruBlend $10) have poor shade ranges and feel chalky. Prestige options (Ilia $48, Kosas $38, Tower 28 $30) are expensive. Nothing hits the 'affordable + luxury feel + great morena shades' trifecta.",
+      "demand_signals": [
+        "'Shelves were literally empty when I went to find my shade'",
+        "Cult following mentioned explicitly",
+        "Got 'last bottle' of popular shade",
+        "Beauty editor traveled to Manila specifically to buy",
+        "Reddit users confirm popularity"
+      ],
+      "source_urls": [
+        "https://kristinarodulfo.substack.com/p/best-filipino-makeup-products-philippines-beauty-haul"
+      ],
+      "estimated_local_price_usd": 12.0,
+      "potential_us_retail_price_usd": 28.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 9,
+        "us_gap": 8,
+        "importability": 8,
+        "margin_potential": 8,
+        "defensibility": 7,
+        "wow_factor": 7
+      },
+      "score_avg": 7.8,
+      "rejection_risks": [
+        "Shade matching is crucial, hard to do online",
+        "Colourette may already be planning US expansion",
+        "Skin tint market is saturated"
+      ],
+      "sourcing_notes": "Colourette is major Filipino beauty brand. Likely has established manufacturing. Bottles are lightweight. Formula may need temp control. High demand = may have MOQ issues or supply constraints.",
+      "next_steps": "Order full shade range for photography/swatching. Test formula in different climates. Research Colourette's international expansion plans. Calculate break-even on shade inventory. Investigate influencer partnerships in Filipino-American community."
     },
     {
       "id": "discovery_020",
@@ -341,7 +380,7 @@
         "https://www.indiatoday.in/lifestyle/beauty/story/how-boroline-has-managed-to-remain-a-cult-favourite-from-the-swadeshi-movement-to-becoming-gen-zs-favourite-2689221-2025-03-06",
         "https://boroline.com/products/boroline/"
       ],
-      "estimated_local_price_usd": 1.50,
+      "estimated_local_price_usd": 1.5,
       "potential_us_retail_price_usd": 12.99,
       "google_trends": {
         "avg": 0,
@@ -366,70 +405,30 @@
       "next_steps": "Order samples from multiple Indian suppliers. Test US customs/FDA clearance for boric acid content. Survey Indian diaspora for pricing sensitivity. Create content highlighting multi-use versatility vs buying 5 separate US products."
     },
     {
-      "id": "discovery_016",
+      "id": "discovery_021",
       "date": "2026-02-14",
-      "product_name": "Colourette First Base Skin Tint",
-      "brand_example": "Colourette",
-      "country": "philippines",
+      "product_name": "Kama Ayurveda Kumkumadi Tailam",
+      "brand_example": "Kama Ayurveda",
+      "country": "india",
       "category": "personal-care",
-      "description": "Affordable skin tint with cult following in Philippines. Described as 'feels like a luxury formulation' despite low price. Perfect for no-makeup makeup look with buildable, natural coverage. Shelves are often empty because it sells out constantly. Excellent shade range for medium to deep skin tones.",
-      "problem_solved": "Finding affordable skin tint that doesn't look cheap. Getting perfect shade match for morena/tan skin without orange or ashy tones. Skin tints that actually feel good on skin.",
-      "us_gap": "US drugstore skin tints (Maybelline Dream Radiant $11, CoverGirl TruBlend $10) have poor shade ranges and feel chalky. Prestige options (Ilia $48, Kosas $38, Tower 28 $30) are expensive. Nothing hits the 'affordable + luxury feel + great morena shades' trifecta.",
+      "description": "Premium ayurvedic brightening face oil with saffron (kumkuma), lotus, manjistha, sandalwood, and turmeric in sesame oil base. Known as 'miracle elixir' in Ayurveda, prescribed for 5000+ years for glowing skin, even tone, and anti-aging. Each batch is handmade following traditional methods. The authentic version takes weeks to prepare with 16+ herbs.",
+      "problem_solved": "Addresses hyperpigmentation, dullness, dark spots, and aging with a single traditional oil. US shoppers buy separate vitamin C serum, niacinamide, retinol, and face oil - spending $100+ on a multi-step routine.",
+      "us_gap": "US has brightening serums (The Ordinary, Paula's Choice) but they're synthetic, clinical, and require layering. Kumkumadi offers ancient wisdom, single-product simplicity, luxury ritual, and saffron prestige. No US brand has the cultural heritage story or traditional preparation method. Closest competitors are generic 'glow oils' without the depth.",
       "demand_signals": [
-        "'Shelves were literally empty when I went to find my shade'",
-        "Cult following mentioned explicitly",
-        "Got 'last bottle' of popular shade",
-        "Beauty editor traveled to Manila specifically to buy",
-        "Reddit users confirm popularity"
+        "'Miracle cure for almost all skin ailments' per Reddit",
+        "Premium positioning justified by visible results",
+        "Kama Ayurveda version sells at $55.60 on Amazon US (12ml)",
+        "Called 'timeless Kumkumadi oil', 'Ayurvedic beauty recipe'",
+        "Recent resurgence: 'back in popularity' among wellness seekers"
       ],
       "source_urls": [
-        "https://kristinarodulfo.substack.com/p/best-filipino-makeup-products-philippines-beauty-haul"
+        "https://www.reddit.com/r/IndianSkincareAddicts/comments/shyyy3/",
+        "https://www.amazon.com/Kama-Ayurveda-Kumkumadi-Miraculous-Fluid-4/dp/B007UPKJAO",
+        "https://www.kamaayurveda.in/blog/kumkumadi-tailam-review",
+        "https://www.moneycontrol.com/lifestyle/beauty/benefits-of-kumkumadi-oil-the-elixir-for-youthful-glowing-skin-article-13824891.html"
       ],
-      "estimated_local_price_usd": 12.00,
-      "potential_us_retail_price_usd": 28.00,
-      "google_trends": {
-        "avg": 0,
-        "recent": 0,
-        "trend": "no_data"
-      },
-      "scores": {
-        "demand_signal": 9,
-        "us_gap": 8,
-        "importability": 8,
-        "margin_potential": 8,
-        "defensibility": 7,
-        "wow_factor": 7
-      },
-      "score_avg": 7.8,
-      "rejection_risks": [
-        "Shade matching is crucial, hard to do online",
-        "Colourette may already be planning US expansion",
-        "Skin tint market is saturated"
-      ],
-      "sourcing_notes": "Colourette is major Filipino beauty brand. Likely has established manufacturing. Bottles are lightweight. Formula may need temp control. High demand = may have MOQ issues or supply constraints.",
-      "next_steps": "Order full shade range for photography/swatching. Test formula in different climates. Research Colourette's international expansion plans. Calculate break-even on shade inventory. Investigate influencer partnerships in Filipino-American community."
-    },
-    {
-      "id": "discovery_014",
-      "date": "2026-02-14",
-      "product_name": "Happy Skin Lip Mallow Plush Matte Lip Tint",
-      "brand_example": "Happy Skin",
-      "country": "philippines",
-      "category": "personal-care",
-      "description": "Cushiony, moisturizing matte lip tint with refreshing cucumber scent. Combines the longevity of a matte lip with the comfort of a balm. Lasts through meals without drying out lips or requiring constant reapplication. Leaves lips looking pillowy and plump.",
-      "problem_solved": "The trade-off between long-lasting matte lips and comfortable, moisturizing formula. Most long-wear lip products are drying; most moisturizing ones don't last.",
-      "us_gap": "US long-wear lip tints are either drying (liquid lipsticks) or don't truly last through eating. Rare Beauty lip oil ($22) is moisturizing but users say it's 'super drying' long-term. Violette_FR tint ($30) is good but expensive. No drugstore option hits both marks.",
-      "demand_signals": [
-        "Beauty editor: 'might be my favorite purchase, wish I bought more shades'",
-        "Lasts through greasy meals (kare-kare test)",
-        "Described as 'cushiony' repeatedly",
-        "Cucumber scent is refreshing and pleasant"
-      ],
-      "source_urls": [
-        "https://kristinarodulfo.substack.com/p/best-filipino-makeup-products-philippines-beauty-haul"
-      ],
-      "estimated_local_price_usd": 11.00,
-      "potential_us_retail_price_usd": 24.00,
+      "estimated_local_price_usd": 25.0,
+      "potential_us_retail_price_usd": 68.0,
       "google_trends": {
         "avg": 0,
         "recent": 0,
@@ -438,19 +437,20 @@
       "scores": {
         "demand_signal": 7,
         "us_gap": 8,
-        "importability": 9,
-        "margin_potential": 8,
-        "defensibility": 7,
-        "wow_factor": 8
+        "importability": 7,
+        "margin_potential": 7,
+        "defensibility": 9,
+        "wow_factor": 9
       },
       "score_avg": 7.8,
       "rejection_risks": [
-        "Formula may not survive temperature fluctuations in shipping",
-        "Scent preferences vary",
-        "Competitive lip tint market"
+        "High price point may limit market size",
+        "Requires education on ayurvedic benefits",
+        "Authenticity concerns (many low-quality versions exist)",
+        "Sesame oil base may not appeal to acne-prone skin"
       ],
-      "sourcing_notes": "Happy Skin is established Filipino beauty brand. Compact packaging, lightweight. Shelf-stable but may need climate-controlled shipping. Available on Shopee, Lazada.",
-      "next_steps": "Order multiple shades to test formula consistency. Verify ingredient list for US cosmetics compliance. Test longevity claims (meal test). Calculate import duties. Research Happy Skin's current US distribution if any."
+      "sourcing_notes": "Kama Ayurveda is premium Indian brand with existing US Amazon presence. Could approach as authorized distributor or create curated 'best of Indian ayurvedic oils' collection. Alternatively source from Kerala Ayurveda or Blue Nectar (other reputable brands). MOQ likely 100-500 units. Shelf life 12-18 months if stored properly.",
+      "next_steps": "Contact Kama Ayurveda for US distribution terms. Order competitor samples (Kerala Ayurveda, Shankara, Forest Essentials). Survey wellness/clean beauty audiences for willingness to pay. Create educational content on kumkumadi history and traditional preparation. Partner with ayurvedic practitioners or influencers for credibility."
     }
   ]
 }
