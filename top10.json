@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-15 09:44",
-  "total_ideas": 33,
-  "total_candidates_evaluated": 870,
-  "total_rejected": 374,
+  "generated": "2026-02-15 10:04",
+  "total_ideas": 36,
+  "total_candidates_evaluated": 911,
+  "total_rejected": 2,
   "top10": [
     {
       "id": "idea_001",
@@ -513,58 +513,62 @@
       ]
     },
     {
-      "id": "idea_008",
+      "id": "idea_034",
       "date": "2026-02-15",
-      "inspiration_product": "Italian Bicarbonato + Aceto Cleaning Method",
-      "inspiration_brand": "Traditional Italian household method (no brand)",
-      "inspiration_country": "Italy",
-      "category": "cleaning",
-      "us_brand_concept": "The Italian Cleaning Co. - Pre-portioned natural cleaning system kit with Italian nonna recipes",
-      "the_twist": "Don't just sell baking soda and vinegar - sell the METHOD. Pre-portioned sachets, beautiful spray bottles, and authentic Italian cleaning recipes. Turn commodities into a branded system.",
-      "twist_type": "bundle-kit|brand-upgrade|niche-targeting",
-      "target_customer": "Eco-conscious homeowners (30-50) who want natural cleaning but don't want to research DIY recipes. Value European/Italian lifestyle aesthetics. Shop at Target, West Elm.",
-      "description": "Italians use bicarbonato (baking soda) and white wine vinegar for nearly all household cleaning - it's a cultural tradition. Reddit threads confirm this is unknown to Americans. No US brand has packaged this as a system. The opportunity: create a beautiful kit with pre-measured sachets, spray bottles, and an Italian recipe booklet. Market it as 'the Italian secret' for natural cleaning.",
-      "problem_solved": "Natural cleaning enthusiasts are overwhelmed by DIY recipes and measuring. They want eco-friendly but need it to be EASY and fool-proof. Pre-portioned system removes friction.",
-      "us_competitive_landscape": "Branch Basics sells refillable concentrate system ($75). Blueland sells tablets ($40 starter). Grove Collaborative curates eco brands. NO ONE sells a baking soda + vinegar METHOD system with cultural positioning. Zero search results for packaged kits.",
+      "inspiration_product": "Ol\u00e9 Capilar Hair Perfume with Cookie Scents",
+      "inspiration_brand": "Ol\u00e9 Capilar",
+      "inspiration_country": "colombia",
+      "category": "personal-care",
+      "us_brand_concept": "SnackHair - Gourmand hair perfume with dessert scents (sugar cookie, birthday cake, brownie batter) targeting Gen Z",
+      "the_twist": "Take Colombian hair perfume concept but rebrand with fun gourmand/dessert scents instead of traditional florals. Fill the gap between luxury hair perfume ($60+) and drugstore hair mists ($8). Price at $22, DTC-first, TikTok-native brand.",
+      "twist_type": "brand-upgrade",
+      "target_customer": "Gen Z and young millennials (18-28) who love Glossier, Glow Recipe, and Sol de Janeiro. Hair enthusiasts who follow hair care routines on TikTok. People who want their hair to smell like dessert without damage from body spray.",
+      "description": "Colombian hair perfume culture is huge - Ol\u00e9 Capilar sells hair perfumes in cookie and floral scents that are beloved locally. In the US, hair perfume is growing fast (search volume doubled since pandemic) but the market is split between luxury ($60+ Byredo, Chanel) and basic drugstore ($10 TRESemm\u00e9). NO brand has captured the affordable-premium DTC space with FUN scents. Hair perfume works because it's alcohol-free (won't dry hair like body spray), lasts longer, and designed for hair texture. Position as 'the fun hair perfume brand' with gourmand scents Gen Z actually wants.",
+      "problem_solved": "Gen Z sprays body fragrance on their hair (damages it). Luxury hair perfumes are too expensive for daily use. Drugstore options are boring vanilla/floral. This gives affordable, hair-safe fragrance in scents they actually love (cookie dough > rose).",
+      "us_competitive_landscape": "Luxury: Byredo ($68), Chanel ($78), Crown Affair ($50) - too expensive for Gen Z. Drugstore: TRESemm\u00e9 A-List ($8), Verb ($18) - boring scents, not cool. DTC: LUS Brand has signature scent but not gourmand. NO ONE owns the affordable gourmand hair perfume space. Huge white space at $18-25 price point with dessert scents.",
       "demand_signals": [
-        "Eco-cleaning market growing (Branch Basics, Blueland success)",
-        "Italian lifestyle content popular on social media",
-        "Reddit discussions show Americans don't know this method",
-        "Zero branded competition = total market gap"
+        "Hair perfume search volume doubled since 2020",
+        "Gourmand fragrances trending on TikTok (Ariana Grande Cloud, Sol de Janeiro 68)",
+        "Reddit threads asking for affordable hair perfume alternatives to Byredo",
+        "Gen Z beauty spending up 15% YoY, prioritizing hair care",
+        "TikTok #hairperfume has 45M+ views"
       ],
       "source_urls": [
-        "https://www.reddit.com/r/italy/comments/gdbkz5/cleaning_supplies/"
+        "https://www.businessoffashion.com/articles/beauty/the-sweet-smelling-success-of-hair-perfume-chanel-dior-byredo/",
+        "https://olecapilar.com/",
+        "https://www.marieclaire.com/beauty/best-hair-perfumes/"
       ],
-      "manufacturing_path": "Simple assembly: Source bulk baking soda and white vinegar. Partner with sachet co-packer for pre-portioned packets. Buy spray bottles from Alibaba (or US supplier for faster ship). Assemble kits domestically or via 3PL.",
-      "estimated_cogs_per_unit": 8.5,
-      "target_retail_price": 39.0,
-      "estimated_margin_multiplier": 4.6,
-      "startup_cost_estimate": "$5K - $12K (starter kit inventory, spray bottles, sachets, branding, photography)",
-      "go_to_market": "DTC with Italian lifestyle branding - think 'what your nonna uses'. Instagram/TikTok content showing the method. Sell on Amazon too. Target Uncommon Goods, Goop gift guides. Subscription refills (sachets only).",
+      "manufacturing_path": "US fragrance house for custom scent development (Alpha Aromatics, Vigon International - $500-1K per scent). Bottle filling via contract manufacturer (Cosmopak, SKS Bottle - MOQ 500 units). Aluminum spray bottles ($1.50 ea wholesale), custom labels. Could start with 250 units per scent.",
+      "estimated_cogs_per_unit": 4.5,
+      "target_retail_price": 22.0,
+      "estimated_margin_multiplier": 4.9,
+      "startup_cost_estimate": "$4K-$7K for first 500 units total (3 scents x ~165 units each). Includes scent development $1.5K, bottles/packaging $2K, filling $1K, labels $500.",
+      "go_to_market": "TikTok-first launch. Send to hair influencers (@bradmondo, @hairbyscott, curly hair creators). Film scent reveal videos. Instagram ads targeting Glossier/Glow Recipe followers. Launch 3 scents: Sugar Cookie Dreams, Birthday Cake Bliss, Brownie Batter. Shopify DTC with subscription option (refill every 60 days). Expansion: Ulta/Sephora after proving DTC traction.",
       "google_trends": {
         "avg": 0,
         "recent": 0,
-        "trend": "no_data"
+        "trend": "rising"
       },
       "scores": {
-        "demand_proof": 7,
-        "us_gap": 10,
+        "demand_proof": 8,
+        "us_gap": 9,
         "manufacturing_ease": 8,
         "twist_strength": 9,
-        "margin_potential": 7,
-        "brandability": 9,
-        "low_capital_start": 8
+        "margin_potential": 8,
+        "brandability": 10,
+        "low_capital_start": 7
       },
-      "score_avg": 8.29,
+      "score_avg": 8.4,
       "risks": [
-        "Customers might buy once and then DIY themselves with bulk ingredients",
-        "Need strong branding to justify premium over raw materials",
-        "Education required - not plug-and-play like typical cleaning sprays"
+        "Gourmand scents might be too sweet/polarizing - need sample program",
+        "Gen Z fickleness - scent trends change fast, need to iterate",
+        "Hair perfume education needed (many don't know it exists)",
+        "Competing with free body spray they already own"
       ],
       "first_3_steps": [
-        "Create MVP kit manually - buy supplies, design simple labels, gift to 10 friends for feedback",
-        "Produce brand lookbook and recipe cards - hire designer for Italian aesthetic (terracotta, olive, linen vibes)",
-        "Find sachet co-packer for baking soda, vinegar powder (or sell liquid vinegar in small bottles)"
+        "Develop 3 custom gourmand scents with fragrance house, order scent samples, test with 30 target customers (18-28 Gen Z) for favorite",
+        "Design TikTok-native branding (Canva or hire Fiverr designer $200-400), create product mockups, film teaser videos",
+        "Order 250 units of winning scent, build Shopify store, run $1K TikTok ad test targeting hair care + dessert fragrance content viewers"
       ]
     }
   ]

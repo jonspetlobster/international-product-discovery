@@ -96,9 +96,9 @@
       "ideas": 0
     },
     "colombia": {
-      "candidates": 20,
+      "candidates": 41,
       "discoveries": 0,
-      "ideas": 0
+      "ideas": 3
     },
     "argentina": {
       "candidates": 34,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "condiments-sauces",
     "cleaning",
     "health-wellness",
     "grocery-pantry",
-    "kitchen"
+    "kitchen",
+    "personal-care"
   ],
-  "total_candidates": 890,
+  "total_candidates": 911,
   "total_discoveries": 66,
-  "total_ideas": 33
+  "total_ideas": 36
 }
