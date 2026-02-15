@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-15 10:43",
-  "total_discoveries": 37,
-  "total_candidates_evaluated": 405,
-  "total_rejected": 212,
+  "generated": "2026-02-15 03:04",
+  "total_discoveries": 38,
+  "total_candidates_evaluated": 426,
+  "total_rejected": 134,
   "top10": [
     {
       "id": "discovery_015",
@@ -136,6 +136,54 @@
       ],
       "sourcing_notes": "Manufactured by Torf Corporation, Poland since 1989. Recently acquired by Bielenda Group. Has UK distribution already, so export infrastructure exists. Shelf-stable creams and serums. Need to verify peat sourcing is sustainable for US messaging.",
       "next_steps": "Contact To\u0142pa/Bielenda for US distribution rights. Position as 'European pharmacy secret for sensitive skin.' Target acne and rosacea communities. Emphasize clinical testing and natural peat benefits."
+    },
+    {
+      "id": "discovery_038",
+      "date": "2026-02-15",
+      "product_name": "MooGoo Eczema & Psoriasis Cream (Pink Cream)",
+      "brand_example": "MooGoo",
+      "country": "australia",
+      "category": "health-wellness",
+      "description": "All-natural Australian eczema and psoriasis cream with marshmallow and elderberry extracts. 100% Australian-made, family-owned brand since 2005. Restores skin barrier and provides effective relief without steroids or harsh chemicals. Pink-tinted cream with gentle, edible ingredients safe for hypersensitive skin and children.",
+      "problem_solved": "People with eczema and psoriasis struggle with flare-ups and rely on steroid creams that thin skin over time. MooGoo offers steroid-free relief using natural anti-inflammatory ingredients, allowing daily use without side effects.",
+      "us_gap": "US eczema treatments are either steroid-based (Hydrocortisone, prescription steroids) or basic moisturizers (CeraVe, Aveeno, Eucerin) that only hydrate but don't actively treat inflammation. No major US brand offers a natural, Australian-formulated eczema cream with clinical backing and cult following.",
+      "demand_signals": [
+        "'This cream has changed my life' - ProductReview.com.au",
+        "'I have suffered from severe eczema my whole life... now eczema free' - Inspire.com",
+        "Reddit: 'MooGoo cream was a great alternative' to steroids",
+        "Clears flare-ups in 1-1.5 weeks without steroids",
+        "Has US distribution (moogoousa.com) but eczema cream not on Amazon",
+        "Australian TGA registered (ARTG 335464)"
+      ],
+      "source_urls": [
+        "https://www.productreview.com.au/listings/moogoo-eczema-psoriasis-balm",
+        "https://www.inspire.com/groups/psoriasis-community/discussion/moogoo-products-in-australia/",
+        "https://www.reddit.com/r/AusSkincare/comments/zx7gg7/moogoo_eczema_cream/",
+        "https://moogoo.com.au/products/pink-eczema-cream"
+      ],
+      "estimated_local_price_usd": 18.0,
+      "potential_us_retail_price_usd": 32.99,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 9,
+        "us_gap": 9,
+        "importability": 10,
+        "margin_potential": 8,
+        "defensibility": 8,
+        "wow_factor": 7
+      },
+      "score_avg": 8.5,
+      "rejection_risks": [
+        "MooGoo has US distribution already - check if eczema cream specifically is available or just other products",
+        "Natural eczema claims may require FDA review",
+        "Crowded eczema market with established brands"
+      ],
+      "sourcing_notes": "Manufactured by MooGoo in Australia. Has US entity (moogoousa.com). Shampoo on Amazon US but NOT eczema cream specifically. 120g tube. Shelf-stable cream. Could approach MooGoo USA for Amazon distribution or exclusive deal. Family-owned, may be open to partnerships.",
+      "next_steps": "Contact MooGoo USA to confirm eczema cream is NOT on Amazon US (only shampoo appears there). If true, negotiate Amazon exclusivity or wholesale deal. Target eczema/psoriasis communities on Reddit, Facebook groups. Emphasize steroid-free, Australian natural formulation, TGA registered. Price at $29.99-32.99 for 120g."
     },
     {
       "id": "discovery_032",
@@ -403,54 +451,6 @@
       ],
       "sourcing_notes": "Manufactured by GD Pharmaceuticals in Kolkata since 1947. Available on Amazon US from importers at 3x markup ($6-8 for 40g vs ~$2 in India). Could negotiate direct import. Shelf-stable, lightweight, long shelf life.",
       "next_steps": "Order samples from multiple Indian suppliers. Test US customs/FDA clearance for boric acid content. Survey Indian diaspora for pricing sensitivity. Create content highlighting multi-use versatility vs buying 5 separate US products."
-    },
-    {
-      "id": "discovery_021",
-      "date": "2026-02-14",
-      "product_name": "Kama Ayurveda Kumkumadi Tailam",
-      "brand_example": "Kama Ayurveda",
-      "country": "india",
-      "category": "personal-care",
-      "description": "Premium ayurvedic brightening face oil with saffron (kumkuma), lotus, manjistha, sandalwood, and turmeric in sesame oil base. Known as 'miracle elixir' in Ayurveda, prescribed for 5000+ years for glowing skin, even tone, and anti-aging. Each batch is handmade following traditional methods. The authentic version takes weeks to prepare with 16+ herbs.",
-      "problem_solved": "Addresses hyperpigmentation, dullness, dark spots, and aging with a single traditional oil. US shoppers buy separate vitamin C serum, niacinamide, retinol, and face oil - spending $100+ on a multi-step routine.",
-      "us_gap": "US has brightening serums (The Ordinary, Paula's Choice) but they're synthetic, clinical, and require layering. Kumkumadi offers ancient wisdom, single-product simplicity, luxury ritual, and saffron prestige. No US brand has the cultural heritage story or traditional preparation method. Closest competitors are generic 'glow oils' without the depth.",
-      "demand_signals": [
-        "'Miracle cure for almost all skin ailments' per Reddit",
-        "Premium positioning justified by visible results",
-        "Kama Ayurveda version sells at $55.60 on Amazon US (12ml)",
-        "Called 'timeless Kumkumadi oil', 'Ayurvedic beauty recipe'",
-        "Recent resurgence: 'back in popularity' among wellness seekers"
-      ],
-      "source_urls": [
-        "https://www.reddit.com/r/IndianSkincareAddicts/comments/shyyy3/",
-        "https://www.amazon.com/Kama-Ayurveda-Kumkumadi-Miraculous-Fluid-4/dp/B007UPKJAO",
-        "https://www.kamaayurveda.in/blog/kumkumadi-tailam-review",
-        "https://www.moneycontrol.com/lifestyle/beauty/benefits-of-kumkumadi-oil-the-elixir-for-youthful-glowing-skin-article-13824891.html"
-      ],
-      "estimated_local_price_usd": 25.0,
-      "potential_us_retail_price_usd": 68.0,
-      "google_trends": {
-        "avg": 0,
-        "recent": 0,
-        "trend": "no_data"
-      },
-      "scores": {
-        "demand_signal": 7,
-        "us_gap": 8,
-        "importability": 7,
-        "margin_potential": 7,
-        "defensibility": 9,
-        "wow_factor": 9
-      },
-      "score_avg": 7.8,
-      "rejection_risks": [
-        "High price point may limit market size",
-        "Requires education on ayurvedic benefits",
-        "Authenticity concerns (many low-quality versions exist)",
-        "Sesame oil base may not appeal to acne-prone skin"
-      ],
-      "sourcing_notes": "Kama Ayurveda is premium Indian brand with existing US Amazon presence. Could approach as authorized distributor or create curated 'best of Indian ayurvedic oils' collection. Alternatively source from Kerala Ayurveda or Blue Nectar (other reputable brands). MOQ likely 100-500 units. Shelf life 12-18 months if stored properly.",
-      "next_steps": "Contact Kama Ayurveda for US distribution terms. Order competitor samples (Kerala Ayurveda, Shankara, Forest Essentials). Survey wellness/clean beauty audiences for willingness to pay. Create educational content on kumkumadi history and traditional preparation. Partner with ayurvedic practitioners or influencers for credibility."
     }
   ]
 }

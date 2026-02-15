@@ -24,14 +24,14 @@
     "morocco": {"candidates": 0, "discoveries": 0},
     "kenya": {"candidates": 0, "discoveries": 0},
     "south_africa": {"candidates": 0, "discoveries": 0},
-    "australia": {"candidates": 0, "discoveries": 0},
+    "australia": {"candidates": 21, "discoveries": 1},
     "new_zealand": {"candidates": 0, "discoveries": 0},
     "israel": {"candidates": 0, "discoveries": 0},
     "egypt": {"candidates": 0, "discoveries": 0},
     "malaysia": {"candidates": 0, "discoveries": 0},
     "singapore": {"candidates": 0, "discoveries": 0}
   },
-  "categories_recent": ["cleaning", "grocery", "personal-care", "kitchen", "home-tools"],
-  "total_candidates": 405,
-  "total_discoveries": 37
+  "categories_recent": ["grocery", "personal-care", "kitchen", "home-tools", "health-wellness"],
+  "total_candidates": 426,
+  "total_discoveries": 38
 }
