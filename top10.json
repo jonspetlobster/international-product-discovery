@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-15 03:45",
-  "total_discoveries": 44,
-  "total_candidates_evaluated": 464,
-  "total_rejected": 234,
+  "generated": "2026-02-15 04:27",
+  "total_discoveries": 45,
+  "total_candidates_evaluated": 492,
+  "total_rejected": 261,
   "top10": [
     {
       "id": "discovery_015",
