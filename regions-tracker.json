@@ -29,8 +29,8 @@
       "discoveries": 4
     },
     "indonesia": {
-      "candidates": 15,
-      "discoveries": 3
+      "candidates": 35,
+      "discoveries": 6
     },
     "india": {
       "candidates": 18,
@@ -122,12 +122,12 @@
     }
   },
   "categories_recent": [
-    "kitchen",
     "stationery",
     "health-wellness",
     "cleaning",
-    "grocery"
+    "grocery",
+    "personal-care"
   ],
-  "total_candidates": 605,
-  "total_discoveries": 59
+  "total_candidates": 625,
+  "total_discoveries": 62
 }
