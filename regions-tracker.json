@@ -53,7 +53,7 @@
       "discoveries": 3
     },
     "italy": {
-      "candidates": 0,
+      "candidates": 18,
       "discoveries": 0
     },
     "netherlands": {
@@ -122,12 +122,12 @@
     }
   },
   "categories_recent": [
-    "health-wellness",
     "cleaning",
     "grocery",
     "personal-care",
-    "kitchen"
+    "kitchen",
+    "stationery"
   ],
-  "total_candidates": 266,
+  "total_candidates": 284,
   "total_discoveries": 28
 }

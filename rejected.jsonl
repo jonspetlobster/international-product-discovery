@@ -133,3 +133,21 @@
 {"product_name": "Simplex Copper Kettle", "country": "uk", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Newey & Bloomer kettles sold directly on Amazon US"}
 {"product_name": "Falcon Enamelware Mug", "country": "uk", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Available on Amazon US plus multiple US retailers"}
 {"product_name": "Denby Heritage Stoneware Bowl", "country": "uk", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Denby has extensive US distribution via Amazon and specialty retailers"}
+{"product_name":"Fabriano EcoQua Notebooks","country":"italy","reason":"already_on_amazon","date":"2026-02-15","notes":"Readily available on Amazon US for $15-20, multiple sellers, various sizes"}
+{"product_name":"Rossi 1931 Florentine Boxed Stationery","country":"italy","reason":"already_on_amazon","date":"2026-02-15","notes":"Available on Amazon US as sheets and boxed sets from authorized sellers"}
+{"product_name":"Epica Italian Leather Journals","country":"italy","reason":"already_on_amazon","date":"2026-02-15","notes":"Full product line available on Amazon US, established brand with storefront"}
+{"product_name":"Il Torchio Handmade Journals","country":"italy","reason":"already_on_amazon","date":"2026-02-15","notes":"Photo albums and handbound products available on Amazon US"}
+{"product_name":"Papuro Capri Leather Journals","country":"italy","reason":"already_on_amazon","date":"2026-02-15","notes":"Papuro Milano series available on Amazon US, refillable journals in various colors"}
+{"product_name":"Leonardo Officina Italiana Fountain Pens","country":"italy","reason":"already_on_amazon","date":"2026-02-15","notes":"Available on Amazon US, various models and colors"}
+{"product_name":"Venetian Marbled Paper","country":"italy","reason":"already_on_amazon","date":"2026-02-15","notes":"Handmade Italian marbled paper available from multiple sellers on Amazon US"}
+{"product_name":"Pineider Luxury Stationery","country":"italy","reason":"already_on_amazon","date":"2026-02-15","notes":"Boston Notes and Hollywood series notebooks available on Amazon US"}
+{"product_name":"Il Papiro Florentine Stationery","country":"italy","reason":"already_on_amazon","date":"2026-02-15","notes":"Full product line including handmade notebooks and address books on Amazon US"}
+{"product_name":"Aurora Fountain Pens","country":"italy","reason":"us_equivalent_exists","date":"2026-02-15","notes":"Available on Amazon $500-700+, but at this luxury price point US has Montblanc, high-end Parker, etc. performing same function"}
+{"product_name":"Visconti Mirage Mythos Fountain Pen","country":"italy","reason":"us_equivalent_exists","date":"2026-02-15","notes":"Sub-$200 luxury pen market has strong US/German competitors (Lamy, Pilot, TWSBI)"}
+{"product_name":"Montegrappa Fountain Pens","country":"italy","reason":"us_equivalent_exists","date":"2026-02-15","notes":"Luxury fountain pen market well-served by Montblanc, Cross, Waterman in US"}
+{"product_name":"Kartos Tuscan Decorative Paper","country":"italy","reason":"too_niche","date":"2026-02-15","notes":"Decorative paper/packaging is a B2B/craft niche, not consumer DTC opportunity"}
+{"product_name":"Signum Florence Stationery","country":"italy","reason":"too_niche","date":"2026-02-15","notes":"Single boutique shop in Florence, no distinct product line, generic stationery"}
+{"product_name":"Amalfi Paper Medieval Journals","country":"italy","reason":"already_on_amazon","date":"2026-02-15","notes":"Amalfi paper journals widely available from multiple Italian artisan sellers on Amazon"}
+{"product_name":"Favini High-End Paper Products","country":"italy","reason":"too_niche","date":"2026-02-15","notes":"B2B paper manufacturer for school/office/leisure, not distinctive consumer product"}
+{"product_name":"Fiorentina Recycled Leather Journals","country":"italy","reason":"us_equivalent_exists","date":"2026-02-15","notes":"Recycled leather journal market saturated with similar products from multiple brands on Amazon"}
+{"product_name":"Rossi 1931 Marbled Classica Italiana","country":"italy","reason":"already_on_amazon","date":"2026-02-15","notes":"Same as Rossi Florentine - available on Amazon from authorized sellers"}
