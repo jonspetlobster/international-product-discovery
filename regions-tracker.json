@@ -61,9 +61,9 @@
       "ideas": 0
     },
     "france": {
-      "candidates": 20,
+      "candidates": 43,
       "discoveries": 3,
-      "ideas": 0
+      "ideas": 3
     },
     "italy": {
       "candidates": 38,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "kitchen",
     "snacks-candy",
     "health-wellness",
     "cleaning",
-    "condiments-sauces"
+    "condiments-sauces",
+    "personal-care"
   ],
-  "total_candidates": 811,
+  "total_candidates": 834,
   "total_discoveries": 66,
-  "total_ideas": 24
+  "total_ideas": 27
 }
