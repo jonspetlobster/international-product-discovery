@@ -1,456 +1,456 @@
 {
-  "generated": "2026-02-14 22:41",
-  "total_discoveries":       16,
-  "total_candidates_evaluated":      174,
-  "total_rejected":       91,
+  "generated": "2026-02-14 23:05",
+  "total_discoveries": 19,
+  "total_candidates_evaluated": 189,
+  "total_rejected": 12,
   "top10": [
-  {
-    "id": "discovery_015",
-    "date": "2026-02-14",
-    "product_name": "Detail Lip Trace Extreme Wear Lip Liner",
-    "brand_example": "Detail",
-    "country": "philippines",
-    "category": "personal-care",
-    "description": "Extreme long-wear lip liner that survives showers, meals, and full days without budging. Glides on smoothly before setting to a completely transfer-proof finish. Thin precision tip allows both lip lining and filling. Must be worn with product on top as it can dry out lips if worn alone.",
-    "problem_solved": "Lip liner that fades, feathers, or transfers within hours. Need for constant touch-ups. Finding a liner that truly SETS and doesn't move.",
-    "us_gap": "High-end options like Charlotte Tilbury Lip Cheat ($25) and Urban Decay 24/7 ($23) claim long-wear but still transfer and fade. MAC Pro Longwear ($20) gets mixed reviews. No true 'survives a shower' level staying power at any price point.",
-    "demand_signals": [
-      "Beauty editor: 'I don't know what sorcery is used'",
-      "Hand swatch survived a shower",
-      "Described as 'glides on then you can't move it'",
-      "Top of shopping list recommendation"
-    ],
-    "source_urls": [
-      "https://kristinarodulfo.substack.com/p/best-filipino-makeup-products-philippines-beauty-haul"
-    ],
-    "estimated_local_price_usd": 9.00,
-    "potential_us_retail_price_usd": 22.00,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
+    {
+      "id": "discovery_015",
+      "date": "2026-02-14",
+      "product_name": "Detail Lip Trace Extreme Wear Lip Liner",
+      "brand_example": "Detail",
+      "country": "philippines",
+      "category": "personal-care",
+      "description": "Extreme long-wear lip liner that survives showers, meals, and full days without budging. Glides on smoothly before setting to a completely transfer-proof finish. Thin precision tip allows both lip lining and filling. Must be worn with product on top as it can dry out lips if worn alone.",
+      "problem_solved": "Lip liner that fades, feathers, or transfers within hours. Need for constant touch-ups. Finding a liner that truly SETS and doesn't move.",
+      "us_gap": "High-end options like Charlotte Tilbury Lip Cheat ($25) and Urban Decay 24/7 ($23) claim long-wear but still transfer and fade. MAC Pro Longwear ($20) gets mixed reviews. No true 'survives a shower' level staying power at any price point.",
+      "demand_signals": [
+        "Beauty editor: 'I don't know what sorcery is used'",
+        "Hand swatch survived a shower",
+        "Described as 'glides on then you can't move it'",
+        "Top of shopping list recommendation"
+      ],
+      "source_urls": [
+        "https://kristinarodulfo.substack.com/p/best-filipino-makeup-products-philippines-beauty-haul"
+      ],
+      "estimated_local_price_usd": 9.0,
+      "potential_us_retail_price_usd": 22.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 8,
+        "us_gap": 9,
+        "importability": 10,
+        "margin_potential": 9,
+        "defensibility": 8,
+        "wow_factor": 9
+      },
+      "score_avg": 8.8,
+      "rejection_risks": [
+        "Can be drying if worn alone",
+        "Extreme staying power may be off-putting to some users",
+        "Small product = harder to justify shipping"
+      ],
+      "sourcing_notes": "Detail is Filipino 'older sister brand', more sophisticated positioning. Pencil format = tiny, lightweight, high-value density. Very shelf-stable. Likely manufactured locally.",
+      "next_steps": "Order all shades for shade range assessment. Test staying power claims rigorously (shower test, meal test, exercise test). Calculate per-unit import cost. Check if retractable or requires sharpening. Research Detail brand's positioning and pricing strategy."
     },
-    "scores": {
-      "demand_signal": 8,
-      "us_gap": 9,
-      "importability": 10,
-      "margin_potential": 9,
-      "defensibility": 8,
-      "wow_factor": 9
+    {
+      "id": "discovery_002",
+      "date": "2026-02-14",
+      "product_name": "Korean Sunscreens with Advanced UV Filters (FDA-Unapproved)",
+      "brand_example": "MEDIHEAL Madecassoside Moisture Sun Serum, Beauty of Joseon Relief Sun Rice+Probiotics SPF50+",
+      "country": "south_korea",
+      "category": "personal-care",
+      "description": "Korean sunscreens using next-generation UV filters like Tinosorb S, Uvinul A Plus, and Bemotrizinol that provide superior UVA/UVB protection. These filters have been proven safe and effective globally for decades but remain unapproved by the FDA (no new filters approved since 1999). Korean formulations offer lightweight textures, no white cast, and superior photoprotection compared to US alternatives.",
+      "problem_solved": "Americans are stuck with outdated sunscreen technology. US sunscreens use old chemical filters (avobenzone, oxybenzone) that are heavier, greasier, leave white cast, and only need to block 30% of UVA rays to be labeled 'broad spectrum.' Korean sunscreens solve this with modern filters that are cosmetically elegant and offer true broad-spectrum protection.",
+      "us_gap": "US sunscreens rely on filters approved in the 1990s. Korean/Japanese/European sunscreens use filters from the 2000s-2010s that are photostable, less irritating, and more effective. Products on Amazon US are either grey market imports at inflated prices or reformulated FDA-compliant versions with inferior filters.",
+      "demand_signals": [
+        "Reddit threads with thousands of upvotes asking why Asian sunscreens are better",
+        "Beauty influencers import Korean sunscreen in bulk",
+        "Multiple articles explaining FDA regulatory lag",
+        "'Can't live without' sentiment in travel forums - people stock up when visiting Korea",
+        "YesStyle, Stylevana, K-beauty retailers built around importing these products"
+      ],
+      "source_urls": [
+        "https://www.reddit.com/r/AsianBeauty/comments/1df6vu9/can_someone_explain_to_me_like_im_5_why_japanese/",
+        "https://www.provisionfda.com/post/k-beauty-sunscreens-and-the-fda-how-regulatory-differences-affect-u-s-consumers",
+        "https://coveteur.com/best-korean-beauty-products"
+      ],
+      "estimated_local_price_usd": 15.0,
+      "potential_us_retail_price_usd": 35.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 10,
+        "us_gap": 10,
+        "importability": 9,
+        "margin_potential": 8,
+        "defensibility": 7,
+        "wow_factor": 8
+      },
+      "score_avg": 8.7,
+      "rejection_risks": [
+        "FDA could crack down on grey market sales",
+        "Brands might reformulate for US and lose advantage",
+        "Requires ongoing regulatory arbitrage"
+      ],
+      "sourcing_notes": "Source from Korean distributors, Olive Young bulk purchases, or direct from brands like MEDIHEAL, Beauty of Joseon, Isntree. Products are shelf-stable, lightweight, easy to ship. Olive Young often has 1+1 deals.",
+      "next_steps": "Create curated subscription box of 'FDA-unapproved but globally trusted' Korean sunscreens. Educational marketing explaining the FDA lag and why these are superior. Partner with dermatologists to validate. Build email list of skincare enthusiasts frustrated with US sunscreen options."
     },
-    "score_avg": 8.8,
-    "rejection_risks": [
-      "Can be drying if worn alone",
-      "Extreme staying power may be off-putting to some users",
-      "Small product = harder to justify shipping"
-    ],
-    "sourcing_notes": "Detail is Filipino 'older sister brand', more sophisticated positioning. Pencil format = tiny, lightweight, high-value density. Very shelf-stable. Likely manufactured locally.",
-    "next_steps": "Order all shades for shade range assessment. Test staying power claims rigorously (shower test, meal test, exercise test). Calculate per-unit import cost. Check if retractable or requires sharpening. Research Detail brand's positioning and pricing strategy."
-  },
-  {
-    "id": "discovery_002",
-    "date": "2026-02-14",
-    "product_name": "Korean Sunscreens with Advanced UV Filters (FDA-Unapproved)",
-    "brand_example": "MEDIHEAL Madecassoside Moisture Sun Serum, Beauty of Joseon Relief Sun Rice+Probiotics SPF50+",
-    "country": "south_korea",
-    "category": "personal-care",
-    "description": "Korean sunscreens using next-generation UV filters like Tinosorb S, Uvinul A Plus, and Bemotrizinol that provide superior UVA/UVB protection. These filters have been proven safe and effective globally for decades but remain unapproved by the FDA (no new filters approved since 1999). Korean formulations offer lightweight textures, no white cast, and superior photoprotection compared to US alternatives.",
-    "problem_solved": "Americans are stuck with outdated sunscreen technology. US sunscreens use old chemical filters (avobenzone, oxybenzone) that are heavier, greasier, leave white cast, and only need to block 30% of UVA rays to be labeled 'broad spectrum.' Korean sunscreens solve this with modern filters that are cosmetically elegant and offer true broad-spectrum protection.",
-    "us_gap": "US sunscreens rely on filters approved in the 1990s. Korean/Japanese/European sunscreens use filters from the 2000s-2010s that are photostable, less irritating, and more effective. Products on Amazon US are either grey market imports at inflated prices or reformulated FDA-compliant versions with inferior filters.",
-    "demand_signals": [
-      "Reddit threads with thousands of upvotes asking why Asian sunscreens are better",
-      "Beauty influencers import Korean sunscreen in bulk",
-      "Multiple articles explaining FDA regulatory lag",
-      "'Can't live without' sentiment in travel forums - people stock up when visiting Korea",
-      "YesStyle, Stylevana, K-beauty retailers built around importing these products"
-    ],
-    "source_urls": [
-      "https://www.reddit.com/r/AsianBeauty/comments/1df6vu9/can_someone_explain_to_me_like_im_5_why_japanese/",
-      "https://www.provisionfda.com/post/k-beauty-sunscreens-and-the-fda-how-regulatory-differences-affect-u-s-consumers",
-      "https://coveteur.com/best-korean-beauty-products"
-    ],
-    "estimated_local_price_usd": 15.00,
-    "potential_us_retail_price_usd": 35.00,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
+    {
+      "id": "discovery_014",
+      "date": "2026-02-14",
+      "product_name": "Happy Skin Lip Mallow Plush Matte Lip Tint",
+      "brand_example": "Happy Skin",
+      "country": "philippines",
+      "category": "personal-care",
+      "description": "Cushiony, moisturizing matte lip tint with refreshing cucumber scent. Combines the longevity of a matte lip with the comfort of a balm. Lasts through meals without drying out lips or requiring constant reapplication. Leaves lips looking pillowy and plump.",
+      "problem_solved": "The trade-off between long-lasting matte lips and comfortable, moisturizing formula. Most long-wear lip products are drying; most moisturizing ones don't last.",
+      "us_gap": "US long-wear lip tints are either drying (liquid lipsticks) or don't truly last through eating. Rare Beauty lip oil ($22) is moisturizing but users say it's 'super drying' long-term. Violette_FR tint ($30) is good but expensive. No drugstore option hits both marks.",
+      "demand_signals": [
+        "Beauty editor: 'might be my favorite purchase, wish I bought more shades'",
+        "Lasts through greasy meals (kare-kare test)",
+        "Described as 'cushiony' repeatedly",
+        "Cucumber scent is refreshing and pleasant"
+      ],
+      "source_urls": [
+        "https://kristinarodulfo.substack.com/p/best-filipino-makeup-products-philippines-beauty-haul"
+      ],
+      "estimated_local_price_usd": 11.0,
+      "potential_us_retail_price_usd": 24.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 7,
+        "us_gap": 8,
+        "importability": 9,
+        "margin_potential": 8,
+        "defensibility": 7,
+        "wow_factor": 8
+      },
+      "score_avg": 7.8,
+      "rejection_risks": [
+        "Formula may not survive temperature fluctuations in shipping",
+        "Scent preferences vary",
+        "Competitive lip tint market"
+      ],
+      "sourcing_notes": "Happy Skin is established Filipino beauty brand. Compact packaging, lightweight. Shelf-stable but may need climate-controlled shipping. Available on Shopee, Lazada.",
+      "next_steps": "Order multiple shades to test formula consistency. Verify ingredient list for US cosmetics compliance. Test longevity claims (meal test). Calculate import duties. Research Happy Skin's current US distribution if any."
     },
-    "scores": {
-      "demand_signal": 10,
-      "us_gap": 10,
-      "importability": 9,
-      "margin_potential": 8,
-      "defensibility": 7,
-      "wow_factor": 8
+    {
+      "id": "discovery_016",
+      "date": "2026-02-14",
+      "product_name": "Colourette First Base Skin Tint",
+      "brand_example": "Colourette",
+      "country": "philippines",
+      "category": "personal-care",
+      "description": "Affordable skin tint with cult following in Philippines. Described as 'feels like a luxury formulation' despite low price. Perfect for no-makeup makeup look with buildable, natural coverage. Shelves are often empty because it sells out constantly. Excellent shade range for medium to deep skin tones.",
+      "problem_solved": "Finding affordable skin tint that doesn't look cheap. Getting perfect shade match for morena/tan skin without orange or ashy tones. Skin tints that actually feel good on skin.",
+      "us_gap": "US drugstore skin tints (Maybelline Dream Radiant $11, CoverGirl TruBlend $10) have poor shade ranges and feel chalky. Prestige options (Ilia $48, Kosas $38, Tower 28 $30) are expensive. Nothing hits the 'affordable + luxury feel + great morena shades' trifecta.",
+      "demand_signals": [
+        "'Shelves were literally empty when I went to find my shade'",
+        "Cult following mentioned explicitly",
+        "Got 'last bottle' of popular shade",
+        "Beauty editor traveled to Manila specifically to buy",
+        "Reddit users confirm popularity"
+      ],
+      "source_urls": [
+        "https://kristinarodulfo.substack.com/p/best-filipino-makeup-products-philippines-beauty-haul"
+      ],
+      "estimated_local_price_usd": 12.0,
+      "potential_us_retail_price_usd": 28.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 9,
+        "us_gap": 8,
+        "importability": 8,
+        "margin_potential": 8,
+        "defensibility": 7,
+        "wow_factor": 7
+      },
+      "score_avg": 7.8,
+      "rejection_risks": [
+        "Shade matching is crucial, hard to do online",
+        "Colourette may already be planning US expansion",
+        "Skin tint market is saturated"
+      ],
+      "sourcing_notes": "Colourette is major Filipino beauty brand. Likely has established manufacturing. Bottles are lightweight. Formula may need temp control. High demand = may have MOQ issues or supply constraints.",
+      "next_steps": "Order full shade range for photography/swatching. Test formula in different climates. Research Colourette's international expansion plans. Calculate break-even on shade inventory. Investigate influencer partnerships in Filipino-American community."
     },
-    "score_avg": 8.7,
-    "rejection_risks": [
-      "FDA could crack down on grey market sales",
-      "Brands might reformulate for US and lose advantage",
-      "Requires ongoing regulatory arbitrage"
-    ],
-    "sourcing_notes": "Source from Korean distributors, Olive Young bulk purchases, or direct from brands like MEDIHEAL, Beauty of Joseon, Isntree. Products are shelf-stable, lightweight, easy to ship. Olive Young often has 1+1 deals.",
-    "next_steps": "Create curated subscription box of 'FDA-unapproved but globally trusted' Korean sunscreens. Educational marketing explaining the FDA lag and why these are superior. Partner with dermatologists to validate. Build email list of skincare enthusiasts frustrated with US sunscreen options."
-  },
-  {
-    "id": "discovery_014",
-    "date": "2026-02-14",
-    "product_name": "Happy Skin Lip Mallow Plush Matte Lip Tint",
-    "brand_example": "Happy Skin",
-    "country": "philippines",
-    "category": "personal-care",
-    "description": "Cushiony, moisturizing matte lip tint with refreshing cucumber scent. Combines the longevity of a matte lip with the comfort of a balm. Lasts through meals without drying out lips or requiring constant reapplication. Leaves lips looking pillowy and plump.",
-    "problem_solved": "The trade-off between long-lasting matte lips and comfortable, moisturizing formula. Most long-wear lip products are drying; most moisturizing ones don't last.",
-    "us_gap": "US long-wear lip tints are either drying (liquid lipsticks) or don't truly last through eating. Rare Beauty lip oil ($22) is moisturizing but users say it's 'super drying' long-term. Violette_FR tint ($30) is good but expensive. No drugstore option hits both marks.",
-    "demand_signals": [
-      "Beauty editor: 'might be my favorite purchase, wish I bought more shades'",
-      "Lasts through greasy meals (kare-kare test)",
-      "Described as 'cushiony' repeatedly",
-      "Cucumber scent is refreshing and pleasant"
-    ],
-    "source_urls": [
-      "https://kristinarodulfo.substack.com/p/best-filipino-makeup-products-philippines-beauty-haul"
-    ],
-    "estimated_local_price_usd": 11.00,
-    "potential_us_retail_price_usd": 24.00,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
+    {
+      "id": "discovery_012",
+      "date": "2026-02-14",
+      "product_name": "\u00d4 Mai Traditional Vietnamese Preserved Fruits",
+      "brand_example": "Hong Lam, V\u1ea1n L\u1ee3i, or Hanoi street vendors",
+      "country": "vietnam",
+      "category": "grocery",
+      "description": "Traditional Hanoi snack of preserved fruits (apricot, plum, kumquat, mango, tamarind, star fruit) coated with sugar, salt, chili, or ginger. Eaten with tea, used as palate cleanser, traditional Tet (Vietnamese New Year) treat. Sweet-salty-sour-spicy flavor profile. Chewy, intense, and uniquely Vietnamese.",
+      "problem_solved": "Americans love sweet-salty-sour flavors (see: Taj\u00edn, chamoy, Asian candy trends) but have zero access to Vietnamese preserved fruits. This is a gap in the exotic snack category.",
+      "us_gap": "The closest US equivalent is maybe dried fruit or Asian preserved plums, but nothing captures the complex sweet-salty-chili-ginger coating and cultural significance. Zero authentic \u00f4 mai brands in US.",
+      "demand_signals": [
+        "Repeatedly mentioned in what to bring back from Vietnam threads",
+        "Hanoi specialty with strong cultural association",
+        "Americans love complex flavor profiles (see: Taj\u00edn success)",
+        "Gifting culture around Tet could translate to US Vietnamese diaspora"
+      ],
+      "source_urls": [
+        "https://www.tasteatlas.com/o-mai",
+        "https://www.reddit.com/r/VietNam/comments/1gd6bfi/what_should_i_bring_home_from_vietnam/",
+        "https://www.thefoodmaps.com/hong-lam-o-mai-preserving-vietnams-culinary-heritage/"
+      ],
+      "estimated_local_price_usd": 4.0,
+      "potential_us_retail_price_usd": 14.99,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 6,
+        "us_gap": 9,
+        "importability": 7,
+        "margin_potential": 8,
+        "defensibility": 8,
+        "wow_factor": 8
+      },
+      "score_avg": 7.7,
+      "rejection_risks": [
+        "Acquired taste - not immediately accessible to Western palate",
+        "Need education and storytelling",
+        "Unclear FDA import requirements for preserved fruits",
+        "May have texture/appearance barrier (looks unusual)"
+      ],
+      "sourcing_notes": "Hong Lam is established Hanoi brand. V\u1ea1n L\u1ee3i also mentioned. Could source from specialty producers. Shelf-stable, good for shipping. Likely need FDA import approval for preserved fruit category. MOQ unclear but probably 200-500 units. Packaging is key - needs premium positioning.",
+      "next_steps": "Research FDA requirements for preserved fruit imports. Contact Hong Lam for US distribution. Position as premium exotic snack ($14.99 for 6-8oz jar). Target Vietnamese diaspora first, then expand to adventurous snackers. Sampling is crucial - this needs to be tasted to be understood. Could partner with specialty Asian grocery chains."
     },
-    "scores": {
-      "demand_signal": 7,
-      "us_gap": 8,
-      "importability": 9,
-      "margin_potential": 8,
-      "defensibility": 7,
-      "wow_factor": 8
+    {
+      "id": "discovery_001",
+      "date": "2026-02-14",
+      "product_name": "Minimal Wash Muro Portable Washing Machine",
+      "brand_example": "CB Japan",
+      "country": "japan",
+      "category": "laundry-clothing",
+      "description": "Ultra-compact motorized washing device that attaches to any bucket, sink, or basin to wash clothes. Has 4 settings including delicate mode. USB-powered, weighs only 170g (6 oz), includes carrying bag. Designed for washing delicates separately or washing clothes while traveling without access to laundromats.",
+      "problem_solved": "Hand-washing clothes is tedious and tiring; traditional portable washers are bulky and manual. Travelers, RV owners, and apartment dwellers need a compact, effective solution for small loads and delicates.",
+      "us_gap": "US portable washers are either manual (WonderWash, bucket washers requiring physical effort) or bulky folding units. No compact, motorized, truly portable solution exists. Americans use manual agitation or large portable machines that defeat the purpose of portability.",
+      "demand_signals": [
+        "RV and camping communities actively searching for portable washing solutions",
+        "Reddit threads show frustration with laundromat costs and inconvenience",
+        "Travel forums mention hand-washing as major pain point",
+        "Niche for delicates washing (bras, baby clothes) separate from main wash"
+      ],
+      "source_urls": [
+        "https://www.japantrendshop.com/minimal-wash-muro-portable-washing-machine-p-5440.html",
+        "https://www.pcmag.com/picks/japanese-products-you-didnt-know-you-needed",
+        "https://www.reddit.com/r/RVLiving/comments/1cl6udf/best_portable_washing_machine_for_full_time/"
+      ],
+      "estimated_local_price_usd": 49.0,
+      "potential_us_retail_price_usd": 99.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 7,
+        "us_gap": 8,
+        "importability": 9,
+        "margin_potential": 7,
+        "defensibility": 6,
+        "wow_factor": 8
+      },
+      "score_avg": 7.5,
+      "rejection_risks": [
+        "May need UL/electrical certification for US market",
+        "Low power (10W) might seem less capable than competitors",
+        "Requires bucket/container (not standalone)",
+        "Niche market (not mass consumer)"
+      ],
+      "sourcing_notes": "CB Japan manufacturer. Product appears to be Japan-only distribution. Compact size (100x100x55mm) means low shipping costs. USB adapter might need US voltage version. Check Alibaba for similar motorized agitators or OEM sourcing.",
+      "next_steps": "Import small batch (10-20 units) to test US market. Target RV forums, van life communities, travel influencers. Bundle with collapsible bucket. Price at $99-$129. Measure demand before bulk order. Could potentially find OEM manufacturer for US-branded version."
     },
-    "score_avg": 7.8,
-    "rejection_risks": [
-      "Formula may not survive temperature fluctuations in shipping",
-      "Scent preferences vary",
-      "Competitive lip tint market"
-    ],
-    "sourcing_notes": "Happy Skin is established Filipino beauty brand. Compact packaging, lightweight. Shelf-stable but may need climate-controlled shipping. Available on Shopee, Lazada.",
-    "next_steps": "Order multiple shades to test formula consistency. Verify ingredient list for US cosmetics compliance. Test longevity claims (meal test). Calculate import duties. Research Happy Skin's current US distribution if any."
-  },
-  {
-    "id": "discovery_016",
-    "date": "2026-02-14",
-    "product_name": "Colourette First Base Skin Tint",
-    "brand_example": "Colourette",
-    "country": "philippines",
-    "category": "personal-care",
-    "description": "Affordable skin tint with cult following in Philippines. Described as 'feels like a luxury formulation' despite low price. Perfect for no-makeup makeup look with buildable, natural coverage. Shelves are often empty because it sells out constantly. Excellent shade range for medium to deep skin tones.",
-    "problem_solved": "Finding affordable skin tint that doesn't look cheap. Getting perfect shade match for morena/tan skin without orange or ashy tones. Skin tints that actually feel good on skin.",
-    "us_gap": "US drugstore skin tints (Maybelline Dream Radiant $11, CoverGirl TruBlend $10) have poor shade ranges and feel chalky. Prestige options (Ilia $48, Kosas $38, Tower 28 $30) are expensive. Nothing hits the 'affordable + luxury feel + great morena shades' trifecta.",
-    "demand_signals": [
-      "'Shelves were literally empty when I went to find my shade'",
-      "Cult following mentioned explicitly",
-      "Got 'last bottle' of popular shade",
-      "Beauty editor traveled to Manila specifically to buy",
-      "Reddit users confirm popularity"
-    ],
-    "source_urls": [
-      "https://kristinarodulfo.substack.com/p/best-filipino-makeup-products-philippines-beauty-haul"
-    ],
-    "estimated_local_price_usd": 12.00,
-    "potential_us_retail_price_usd": 28.00,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
+    {
+      "id": "discovery_010",
+      "date": "2026-02-14",
+      "product_name": "M\u1eafc Kh\u00e9n Vietnamese Forest Peppercorns",
+      "brand_example": "Various (small specialty producers from Hoa Binh region)",
+      "country": "vietnam",
+      "category": "grocery",
+      "description": "Rare spice berries from Vietnam's Northwest mountains with unique citrusy, floral, numbing sensation. Similar to Sichuan pepper but distinctly different - less aggressive numbing, more complex citrus notes (mandarin, clementine, rooibos tea), and slight bitterness. Hand-picked from wild trees in mountainous regions.",
+      "problem_solved": "Sichuan peppercorns available in US are often low quality with little flavor. Adventurous home cooks want unique, high-quality peppercorns with complex flavor profiles.",
+      "us_gap": "The only Vietnamese peppercorn available is low-volume specialty import. Most Americans have never heard of it. Sichuan pepper is more widely known but often disappointing quality in US.",
+      "demand_signals": [
+        "Growing interest in Southeast Asian cooking beyond Thai/Vietnamese basics",
+        "Specialty spice enthusiasts seek unique regional ingredients",
+        "Food blogs highlighting m\u1eafc kh\u00e9n as next trendy spice",
+        "Chefs using in high-end Vietnamese restaurants"
+      ],
+      "source_urls": [
+        "https://www.thepepperquest.com/products/mac-khen",
+        "https://www.amazon.com/Khen-Seeds-Northwest-Special-Spices/dp/B0F7FV6RMM",
+        "https://spicesontheweb.co.uk/mac-khen-forest-pepper/"
+      ],
+      "estimated_local_price_usd": 8.0,
+      "potential_us_retail_price_usd": 24.99,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 5,
+        "us_gap": 8,
+        "importability": 8,
+        "margin_potential": 9,
+        "defensibility": 7,
+        "wow_factor": 8
+      },
+      "score_avg": 7.5,
+      "rejection_risks": [
+        "Very niche - requires customer education",
+        "Limited awareness outside foodie circles",
+        "Needs storytelling and recipe content"
+      ],
+      "sourcing_notes": "Hand-picked from wild trees in Northwest Vietnam (Hoa Binh region). Small-scale producers. The Pepper Quest and Doi Spices work with local farmers. Likely low MOQ (10-50kg initial). Shelf-stable, lightweight, high-margin.",
+      "next_steps": "Partner with specialty spice importer or source direct from Doi Spices. Create content around Vietnamese Sichuan pepper angle. Sell 50g jars at premium ($24.99). Target specialty food stores, chef-focused channels, foodie influencers."
     },
-    "scores": {
-      "demand_signal": 9,
-      "us_gap": 8,
-      "importability": 8,
-      "margin_potential": 8,
-      "defensibility": 7,
-      "wow_factor": 7
+    {
+      "id": "discovery_013",
+      "date": "2026-02-14",
+      "product_name": "GRWM Life-Proof Fixing Spray Matte",
+      "brand_example": "GRWM Cosmetics",
+      "country": "philippines",
+      "category": "personal-care",
+      "description": "Ultra-matte makeup setting spray specifically formulated for extreme humidity. Locks makeup in place for 12+ hours even in tropical heat. Unlike most setting sprays that leave a dewy or tacky finish, this truly sets matte and stays non-greasy.",
+      "problem_solved": "Makeup melting off in heat and humidity; finding a truly matte (not dewy) setting spray that actually works in extreme conditions.",
+      "us_gap": "US setting sprays like Urban Decay All Nighter ($36) are dewy finish. Truly matte options (NYX Matte Finish $8) don't have the same humidity-proof staying power. Nothing specifically targets tropical/extreme humidity.",
+      "demand_signals": [
+        "Beauty editor said 'I regret not buying the bigger size'",
+        "Multiple reviews: 'locks in everything', 'subway heat couldn't budge makeup'",
+        "Reddit users confirm it works 8am-8pm even when oily",
+        "Described as 'humidity-proof' repeatedly"
+      ],
+      "source_urls": [
+        "https://kristinarodulfo.substack.com/p/best-filipino-makeup-products-philippines-beauty-haul",
+        "https://www.reddit.com/r/beautytalkph/comments/1f6ww1z/review_grwm_lifeproof_fixing_spray/",
+        "https://grwmcosmetics.com.ph/products/life-proof-fixing-spray"
+      ],
+      "estimated_local_price_usd": 13.0,
+      "potential_us_retail_price_usd": 28.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 8,
+        "us_gap": 7,
+        "importability": 9,
+        "margin_potential": 8,
+        "defensibility": 6,
+        "wow_factor": 7
+      },
+      "score_avg": 7.5,
+      "rejection_risks": [
+        "Cult beauty brand loyalty in US",
+        "Regulatory hurdles for cosmetics",
+        "Needs cold chain for quality"
+      ],
+      "sourcing_notes": "GRWM is Filipino-owned brand, likely manufactured locally. Small bottle format = low shipping weight. Shelf-stable. Could source directly from brand or Shopee PH.",
+      "next_steps": "Order samples from Shopee PH. Test in real humidity conditions. Calculate landed cost. Research FDA cosmetics import requirements. Check if GRWM has international shipping/distribution already."
     },
-    "score_avg": 7.8,
-    "rejection_risks": [
-      "Shade matching is crucial, hard to do online",
-      "Colourette may already be planning US expansion",
-      "Skin tint market is saturated"
-    ],
-    "sourcing_notes": "Colourette is major Filipino beauty brand. Likely has established manufacturing. Bottles are lightweight. Formula may need temp control. High demand = may have MOQ issues or supply constraints.",
-    "next_steps": "Order full shade range for photography/swatching. Test formula in different climates. Research Colourette's international expansion plans. Calculate break-even on shade inventory. Investigate influencer partnerships in Filipino-American community."
-  },
-  {
-    "id": "discovery_012",
-    "date": "2026-02-14",
-    "product_name": "Ô Mai Traditional Vietnamese Preserved Fruits",
-    "brand_example": "Hong Lam, Vạn Lợi, or Hanoi street vendors",
-    "country": "vietnam",
-    "category": "grocery",
-    "description": "Traditional Hanoi snack of preserved fruits (apricot, plum, kumquat, mango, tamarind, star fruit) coated with sugar, salt, chili, or ginger. Eaten with tea, used as palate cleanser, traditional Tet (Vietnamese New Year) treat. Sweet-salty-sour-spicy flavor profile. Chewy, intense, and uniquely Vietnamese.",
-    "problem_solved": "Americans love sweet-salty-sour flavors (see: Tajín, chamoy, Asian candy trends) but have zero access to Vietnamese preserved fruits. This is a gap in the exotic snack category.",
-    "us_gap": "The closest US equivalent is maybe dried fruit or Asian preserved plums, but nothing captures the complex sweet-salty-chili-ginger coating and cultural significance. Zero authentic ô mai brands in US.",
-    "demand_signals": [
-      "Repeatedly mentioned in what to bring back from Vietnam threads",
-      "Hanoi specialty with strong cultural association",
-      "Americans love complex flavor profiles (see: Tajín success)",
-      "Gifting culture around Tet could translate to US Vietnamese diaspora"
-    ],
-    "source_urls": [
-      "https://www.tasteatlas.com/o-mai",
-      "https://www.reddit.com/r/VietNam/comments/1gd6bfi/what_should_i_bring_home_from_vietnam/",
-      "https://www.thefoodmaps.com/hong-lam-o-mai-preserving-vietnams-culinary-heritage/"
-    ],
-    "estimated_local_price_usd": 4.00,
-    "potential_us_retail_price_usd": 14.99,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
+    {
+      "id": "discovery_003",
+      "date": "2026-02-14",
+      "product_name": "Tamburins Perfumes",
+      "brand_example": "Tamburins (fragrances: Chamo, Angelica, Cloud Armor)",
+      "country": "south_korea",
+      "category": "personal-care",
+      "description": "Tamburins is a trendy Korean fragrance and lifestyle brand known for minimalist aesthetics and unique scent profiles. Available in Korea (Olive Young, standalone boutiques), Japan, China, and Thailand, but no official US presence. Only available via grey market eBay sellers and import sites like DODOSKIN.",
+      "problem_solved": "Fills the niche between mass-market fragrances and luxury perfumes with artistic, gender-neutral scents at mid-tier pricing ($50-80). Appeals to millennials/Gen Z seeking unique fragrances that aren't widely available in US department stores.",
+      "us_gap": "No official Tamburins stockists in the US. Grey market sellers on eBay charge $60-100 with slow shipping from Korea. Tamburins has physical stores in Seoul, Tokyo, Shanghai but zero US retail presence despite growing K-beauty interest.",
+      "demand_signals": [
+        "eBay sellers with positive feedback for Tamburins imports",
+        "Mentioned in Lonely Planet as trendy Korean brand to buy",
+        "DODOSKIN carries it but small selection",
+        "Instagram aesthetic appeal - minimalist packaging popular with influencers"
+      ],
+      "source_urls": [
+        "https://www.lonelyplanet.com/articles/skin-care-beauty-products-to-buy-korea",
+        "https://www.tamburins.com/en/",
+        "https://www.ebay.com/itm/256329259971"
+      ],
+      "estimated_local_price_usd": 55.0,
+      "potential_us_retail_price_usd": 95.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 6,
+        "us_gap": 8,
+        "importability": 10,
+        "margin_potential": 7,
+        "defensibility": 6,
+        "wow_factor": 7
+      },
+      "score_avg": 7.3,
+      "rejection_risks": [
+        "Niche appeal - not mass market",
+        "Tamburins could open US distribution anytime",
+        "Fragrance preferences are subjective and regional"
+      ],
+      "sourcing_notes": "Source from Olive Young Seoul, Tamburins flagship stores, or Korean distributors. Perfumes are small (11ml/50ml), lightweight, high-margin. Shelf-stable. Could also source hand creams and candles from same brand.",
+      "next_steps": "Import curated selection of 3-4 Tamburins scents. Create DTC site with editorial content about Korean fragrance culture. Partner with niche fragrance bloggers. Offer discovery sets (2ml samples of 5 scents for $25). Build on Instagram aesthetic appeal."
     },
-    "scores": {
-      "demand_signal": 6,
-      "us_gap": 9,
-      "importability": 7,
-      "margin_potential": 8,
-      "defensibility": 8,
-      "wow_factor": 8
-    },
-    "score_avg": 7.7,
-    "rejection_risks": [
-      "Acquired taste - not immediately accessible to Western palate",
-      "Need education and storytelling",
-      "Unclear FDA import requirements for preserved fruits",
-      "May have texture/appearance barrier (looks unusual)"
-    ],
-    "sourcing_notes": "Hong Lam is established Hanoi brand. Vạn Lợi also mentioned. Could source from specialty producers. Shelf-stable, good for shipping. Likely need FDA import approval for preserved fruit category. MOQ unclear but probably 200-500 units. Packaging is key - needs premium positioning.",
-    "next_steps": "Research FDA requirements for preserved fruit imports. Contact Hong Lam for US distribution. Position as premium exotic snack ($14.99 for 6-8oz jar). Target Vietnamese diaspora first, then expand to adventurous snackers. Sampling is crucial - this needs to be tasted to be understood. Could partner with specialty Asian grocery chains."
-  },
-  {
-    "id": "discovery_001",
-    "date": "2026-02-14",
-    "product_name": "Minimal Wash Muro Portable Washing Machine",
-    "brand_example": "CB Japan",
-    "country": "japan",
-    "category": "laundry-clothing",
-    "description": "Ultra-compact motorized washing device that attaches to any bucket, sink, or basin to wash clothes. Has 4 settings including delicate mode. USB-powered, weighs only 170g (6 oz), includes carrying bag. Designed for washing delicates separately or washing clothes while traveling without access to laundromats.",
-    "problem_solved": "Hand-washing clothes is tedious and tiring; traditional portable washers are bulky and manual. Travelers, RV owners, and apartment dwellers need a compact, effective solution for small loads and delicates.",
-    "us_gap": "US portable washers are either manual (WonderWash, bucket washers requiring physical effort) or bulky folding units. No compact, motorized, truly portable solution exists. Americans use manual agitation or large portable machines that defeat the purpose of portability.",
-    "demand_signals": [
-      "RV and camping communities actively searching for portable washing solutions",
-      "Reddit threads show frustration with laundromat costs and inconvenience",
-      "Travel forums mention hand-washing as major pain point",
-      "Niche for delicates washing (bras, baby clothes) separate from main wash"
-    ],
-    "source_urls": [
-      "https://www.japantrendshop.com/minimal-wash-muro-portable-washing-machine-p-5440.html",
-      "https://www.pcmag.com/picks/japanese-products-you-didnt-know-you-needed",
-      "https://www.reddit.com/r/RVLiving/comments/1cl6udf/best_portable_washing_machine_for_full_time/"
-    ],
-    "estimated_local_price_usd": 49.00,
-    "potential_us_retail_price_usd": 99.00,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
-    },
-    "scores": {
-      "demand_signal": 7,
-      "us_gap": 8,
-      "importability": 9,
-      "margin_potential": 7,
-      "defensibility": 6,
-      "wow_factor": 8
-    },
-    "score_avg": 7.5,
-    "rejection_risks": [
-      "May need UL/electrical certification for US market",
-      "Low power (10W) might seem less capable than competitors",
-      "Requires bucket/container (not standalone)",
-      "Niche market (not mass consumer)"
-    ],
-    "sourcing_notes": "CB Japan manufacturer. Product appears to be Japan-only distribution. Compact size (100x100x55mm) means low shipping costs. USB adapter might need US voltage version. Check Alibaba for similar motorized agitators or OEM sourcing.",
-    "next_steps": "Import small batch (10-20 units) to test US market. Target RV forums, van life communities, travel influencers. Bundle with collapsible bucket. Price at $99-$129. Measure demand before bulk order. Could potentially find OEM manufacturer for US-branded version."
-  },
-  {
-    "id": "discovery_010",
-    "date": "2026-02-14",
-    "product_name": "Mắc Khén Vietnamese Forest Peppercorns",
-    "brand_example": "Various (small specialty producers from Hoa Binh region)",
-    "country": "vietnam",
-    "category": "grocery",
-    "description": "Rare spice berries from Vietnam's Northwest mountains with unique citrusy, floral, numbing sensation. Similar to Sichuan pepper but distinctly different - less aggressive numbing, more complex citrus notes (mandarin, clementine, rooibos tea), and slight bitterness. Hand-picked from wild trees in mountainous regions.",
-    "problem_solved": "Sichuan peppercorns available in US are often low quality with little flavor. Adventurous home cooks want unique, high-quality peppercorns with complex flavor profiles.",
-    "us_gap": "The only Vietnamese peppercorn available is low-volume specialty import. Most Americans have never heard of it. Sichuan pepper is more widely known but often disappointing quality in US.",
-    "demand_signals": [
-      "Growing interest in Southeast Asian cooking beyond Thai/Vietnamese basics",
-      "Specialty spice enthusiasts seek unique regional ingredients",
-      "Food blogs highlighting mắc khén as next trendy spice",
-      "Chefs using in high-end Vietnamese restaurants"
-    ],
-    "source_urls": [
-      "https://www.thepepperquest.com/products/mac-khen",
-      "https://www.amazon.com/Khen-Seeds-Northwest-Special-Spices/dp/B0F7FV6RMM",
-      "https://spicesontheweb.co.uk/mac-khen-forest-pepper/"
-    ],
-    "estimated_local_price_usd": 8.00,
-    "potential_us_retail_price_usd": 24.99,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
-    },
-    "scores": {
-      "demand_signal": 5,
-      "us_gap": 8,
-      "importability": 8,
-      "margin_potential": 9,
-      "defensibility": 7,
-      "wow_factor": 8
-    },
-    "score_avg": 7.5,
-    "rejection_risks": [
-      "Very niche - requires customer education",
-      "Limited awareness outside foodie circles",
-      "Needs storytelling and recipe content"
-    ],
-    "sourcing_notes": "Hand-picked from wild trees in Northwest Vietnam (Hoa Binh region). Small-scale producers. The Pepper Quest and Doi Spices work with local farmers. Likely low MOQ (10-50kg initial). Shelf-stable, lightweight, high-margin.",
-    "next_steps": "Partner with specialty spice importer or source direct from Doi Spices. Create content around Vietnamese Sichuan pepper angle. Sell 50g jars at premium ($24.99). Target specialty food stores, chef-focused channels, foodie influencers."
-  },
-  {
-    "id": "discovery_013",
-    "date": "2026-02-14",
-    "product_name": "GRWM Life-Proof Fixing Spray Matte",
-    "brand_example": "GRWM Cosmetics",
-    "country": "philippines",
-    "category": "personal-care",
-    "description": "Ultra-matte makeup setting spray specifically formulated for extreme humidity. Locks makeup in place for 12+ hours even in tropical heat. Unlike most setting sprays that leave a dewy or tacky finish, this truly sets matte and stays non-greasy.",
-    "problem_solved": "Makeup melting off in heat and humidity; finding a truly matte (not dewy) setting spray that actually works in extreme conditions.",
-    "us_gap": "US setting sprays like Urban Decay All Nighter ($36) are dewy finish. Truly matte options (NYX Matte Finish $8) don't have the same humidity-proof staying power. Nothing specifically targets tropical/extreme humidity.",
-    "demand_signals": [
-      "Beauty editor said 'I regret not buying the bigger size'",
-      "Multiple reviews: 'locks in everything', 'subway heat couldn't budge makeup'",
-      "Reddit users confirm it works 8am-8pm even when oily",
-      "Described as 'humidity-proof' repeatedly"
-    ],
-    "source_urls": [
-      "https://kristinarodulfo.substack.com/p/best-filipino-makeup-products-philippines-beauty-haul",
-      "https://www.reddit.com/r/beautytalkph/comments/1f6ww1z/review_grwm_lifeproof_fixing_spray/",
-      "https://grwmcosmetics.com.ph/products/life-proof-fixing-spray"
-    ],
-    "estimated_local_price_usd": 13.00,
-    "potential_us_retail_price_usd": 28.00,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
-    },
-    "scores": {
-      "demand_signal": 8,
-      "us_gap": 7,
-      "importability": 9,
-      "margin_potential": 8,
-      "defensibility": 6,
-      "wow_factor": 7
-    },
-    "score_avg": 7.5,
-    "rejection_risks": [
-      "Cult beauty brand loyalty in US",
-      "Regulatory hurdles for cosmetics",
-      "Needs cold chain for quality"
-    ],
-    "sourcing_notes": "GRWM is Filipino-owned brand, likely manufactured locally. Small bottle format = low shipping weight. Shelf-stable. Could source directly from brand or Shopee PH.",
-    "next_steps": "Order samples from Shopee PH. Test in real humidity conditions. Calculate landed cost. Research FDA cosmetics import requirements. Check if GRWM has international shipping/distribution already."
-  },
-  {
-    "id": "discovery_003",
-    "date": "2026-02-14",
-    "product_name": "Tamburins Perfumes",
-    "brand_example": "Tamburins (fragrances: Chamo, Angelica, Cloud Armor)",
-    "country": "south_korea",
-    "category": "personal-care",
-    "description": "Tamburins is a trendy Korean fragrance and lifestyle brand known for minimalist aesthetics and unique scent profiles. Available in Korea (Olive Young, standalone boutiques), Japan, China, and Thailand, but no official US presence. Only available via grey market eBay sellers and import sites like DODOSKIN.",
-    "problem_solved": "Fills the niche between mass-market fragrances and luxury perfumes with artistic, gender-neutral scents at mid-tier pricing ($50-80). Appeals to millennials/Gen Z seeking unique fragrances that aren't widely available in US department stores.",
-    "us_gap": "No official Tamburins stockists in the US. Grey market sellers on eBay charge $60-100 with slow shipping from Korea. Tamburins has physical stores in Seoul, Tokyo, Shanghai but zero US retail presence despite growing K-beauty interest.",
-    "demand_signals": [
-      "eBay sellers with positive feedback for Tamburins imports",
-      "Mentioned in Lonely Planet as trendy Korean brand to buy",
-      "DODOSKIN carries it but small selection",
-      "Instagram aesthetic appeal - minimalist packaging popular with influencers"
-    ],
-    "source_urls": [
-      "https://www.lonelyplanet.com/articles/skin-care-beauty-products-to-buy-korea",
-      "https://www.tamburins.com/en/",
-      "https://www.ebay.com/itm/256329259971"
-    ],
-    "estimated_local_price_usd": 55.00,
-    "potential_us_retail_price_usd": 95.00,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
-    },
-    "scores": {
-      "demand_signal": 6,
-      "us_gap": 8,
-      "importability": 10,
-      "margin_potential": 7,
-      "defensibility": 6,
-      "wow_factor": 7
-    },
-    "score_avg": 7.3,
-    "rejection_risks": [
-      "Niche appeal - not mass market",
-      "Tamburins could open US distribution anytime",
-      "Fragrance preferences are subjective and regional"
-    ],
-    "sourcing_notes": "Source from Olive Young Seoul, Tamburins flagship stores, or Korean distributors. Perfumes are small (11ml/50ml), lightweight, high-margin. Shelf-stable. Could also source hand creams and candles from same brand.",
-    "next_steps": "Import curated selection of 3-4 Tamburins scents. Create DTC site with editorial content about Korean fragrance culture. Partner with niche fragrance bloggers. Offer discovery sets (2ml samples of 5 scents for $25). Build on Instagram aesthetic appeal."
-  },
-  {
-    "id": "discovery_004",
-    "date": "2026-02-14",
-    "product_name": "German Square Down Pillow (Kopfkissen 80x80cm)",
-    "brand_example": "Various (Billerbeck, Schlafgut, Paradies)",
-    "country": "germany",
-    "category": "home-tools",
-    "description": "Huge quadratic down pillows (31\"x31\") that are the standard sleeping pillow across Germany and most of Europe. Unlike American rectangular pillows, these allow you to fold, bunch, and shape them for perfect neck support. Filled with down/feather mix, breathable cotton cambric cover, 3-chamber construction for firmness.",
-    "problem_solved": "American pillows are too thin and rectangular to provide proper neck support when side-sleeping. You need 2-3 stacked pillows. German squares solve this with one thick, shapeable pillow.",
-    "us_gap": "US market only has decorative 26\" Euro shams (for show, not sleep) or standard 20\"x26\" rectangles. True 80x80cm German sleeping pillows almost impossible to find. Specialty importers charge $80-150 vs €20-40 in Germany.",
-    "demand_signals": [
-      "Reddit post: 'MOST comfortable pillows I've ever used... obsessed... need to sleep on these at home'",
-      "TripAdvisor forum: 'Looking for these for over 20 years, replaced mine last time in Germany'",
-      "Cultural difference — every German hotel uses them, Americans notice immediately",
-      "IKEA carries them in Europe but not US stores"
-    ],
-    "source_urls": [
-      "https://www.reddit.com/r/germany/comments/1cx26cl/where_to_find_german_pillows/",
-      "https://www.tripadvisor.com/ShowTopic-g187275-i116-k7753780-80cm_x_80cm_German_Pillows_Where_to_Find_them_in_the_US-Germany.html",
-      "https://www.reddit.com/r/germany/comments/wv1xy7/what_home_goods_can_you_buy_in_germany_but_not_in/"
-    ],
-    "estimated_local_price_usd": 35.00,
-    "potential_us_retail_price_usd": 79.00,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
-    },
-    "scores": {
-      "demand_signal": 8,
-      "us_gap": 9,
-      "importability": 7,
-      "margin_potential": 7,
-      "defensibility": 6,
-      "wow_factor": 7
-    },
-    "score_avg": 7.3,
-    "rejection_risks": [
-      "Bulky shipping (lightweight but volume-heavy)",
-      "Cultural habit — Americans may not understand why square is better",
-      "Needs education/marketing about proper use"
-    ],
-    "sourcing_notes": "Major German bedding manufacturers (Billerbeck, Paradies, Schlafgut) make these. Minimum order likely 50-100 units. Available at every German department store (Galeria, Kaufhof) and IKEA Germany. Cotton cambric cover, 30% down / 70% feather fill standard.",
-    "next_steps": "Contact German bedding wholesalers (Billerbeck, Paradies). Test market with Shopify store targeting expats and travel subreddits. Content marketing: 'Why Germans sleep better' angle. Partner with European furniture stores already importing."
-  }
-]
+    {
+      "id": "discovery_004",
+      "date": "2026-02-14",
+      "product_name": "German Square Down Pillow (Kopfkissen 80x80cm)",
+      "brand_example": "Various (Billerbeck, Schlafgut, Paradies)",
+      "country": "germany",
+      "category": "home-tools",
+      "description": "Huge quadratic down pillows (31\"x31\") that are the standard sleeping pillow across Germany and most of Europe. Unlike American rectangular pillows, these allow you to fold, bunch, and shape them for perfect neck support. Filled with down/feather mix, breathable cotton cambric cover, 3-chamber construction for firmness.",
+      "problem_solved": "American pillows are too thin and rectangular to provide proper neck support when side-sleeping. You need 2-3 stacked pillows. German squares solve this with one thick, shapeable pillow.",
+      "us_gap": "US market only has decorative 26\" Euro shams (for show, not sleep) or standard 20\"x26\" rectangles. True 80x80cm German sleeping pillows almost impossible to find. Specialty importers charge $80-150 vs \u20ac20-40 in Germany.",
+      "demand_signals": [
+        "Reddit post: 'MOST comfortable pillows I've ever used... obsessed... need to sleep on these at home'",
+        "TripAdvisor forum: 'Looking for these for over 20 years, replaced mine last time in Germany'",
+        "Cultural difference \u2014 every German hotel uses them, Americans notice immediately",
+        "IKEA carries them in Europe but not US stores"
+      ],
+      "source_urls": [
+        "https://www.reddit.com/r/germany/comments/1cx26cl/where_to_find_german_pillows/",
+        "https://www.tripadvisor.com/ShowTopic-g187275-i116-k7753780-80cm_x_80cm_German_Pillows_Where_to_Find_them_in_the_US-Germany.html",
+        "https://www.reddit.com/r/germany/comments/wv1xy7/what_home_goods_can_you_buy_in_germany_but_not_in/"
+      ],
+      "estimated_local_price_usd": 35.0,
+      "potential_us_retail_price_usd": 79.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 8,
+        "us_gap": 9,
+        "importability": 7,
+        "margin_potential": 7,
+        "defensibility": 6,
+        "wow_factor": 7
+      },
+      "score_avg": 7.3,
+      "rejection_risks": [
+        "Bulky shipping (lightweight but volume-heavy)",
+        "Cultural habit \u2014 Americans may not understand why square is better",
+        "Needs education/marketing about proper use"
+      ],
+      "sourcing_notes": "Major German bedding manufacturers (Billerbeck, Paradies, Schlafgut) make these. Minimum order likely 50-100 units. Available at every German department store (Galeria, Kaufhof) and IKEA Germany. Cotton cambric cover, 30% down / 70% feather fill standard.",
+      "next_steps": "Contact German bedding wholesalers (Billerbeck, Paradies). Test market with Shopify store targeting expats and travel subreddits. Content marketing: 'Why Germans sleep better' angle. Partner with European furniture stores already importing."
+    }
+  ]
 }
