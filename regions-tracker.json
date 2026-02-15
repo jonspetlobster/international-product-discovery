@@ -45,7 +45,7 @@
       "discoveries": 3
     },
     "uk": {
-      "candidates": 0,
+      "candidates": 21,
       "discoveries": 0
     },
     "france": {
@@ -122,12 +122,12 @@
     }
   },
   "categories_recent": [
-    "home-tools",
     "health-wellness",
     "cleaning",
     "grocery",
-    "personal-care"
+    "personal-care",
+    "kitchen"
   ],
-  "total_candidates": 245,
+  "total_candidates": 266,
   "total_discoveries": 28
 }
