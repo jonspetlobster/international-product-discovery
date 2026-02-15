@@ -89,8 +89,8 @@
       "discoveries": 3
     },
     "kenya": {
-      "candidates": 12,
-      "discoveries": 0
+      "candidates": 27,
+      "discoveries": 3
     },
     "south_africa": {
       "candidates": 16,
@@ -122,12 +122,12 @@
     }
   },
   "categories_recent": [
-    "personal-care",
     "kitchen",
     "stationery",
     "health-wellness",
-    "cleaning"
+    "cleaning",
+    "grocery"
   ],
-  "total_candidates": 590,
-  "total_discoveries": 56
+  "total_candidates": 605,
+  "total_discoveries": 59
 }
