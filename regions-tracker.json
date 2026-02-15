@@ -93,8 +93,8 @@
       "discoveries": 3
     },
     "south_africa": {
-      "candidates": 16,
-      "discoveries": 1
+      "candidates": 28,
+      "discoveries": 2
     },
     "australia": {
       "candidates": 21,
@@ -122,12 +122,12 @@
     }
   },
   "categories_recent": [
+    "laundry-clothing",
     "health-wellness",
     "cleaning",
     "grocery",
-    "personal-care",
-    "kitchen"
+    "personal-care"
   ],
-  "total_candidates": 632,
-  "total_discoveries": 62
+  "total_candidates": 644,
+  "total_discoveries": 63
 }
