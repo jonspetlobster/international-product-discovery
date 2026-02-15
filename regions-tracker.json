@@ -49,8 +49,8 @@
       "discoveries": 0
     },
     "france": {
-      "candidates": 0,
-      "discoveries": 0
+      "candidates": 20,
+      "discoveries": 3
     },
     "italy": {
       "candidates": 0,
@@ -122,12 +122,12 @@
     }
   },
   "categories_recent": [
-    "kitchen",
     "home-tools",
     "health-wellness",
     "cleaning",
-    "grocery"
+    "grocery",
+    "personal-care"
   ],
-  "total_candidates": 225,
-  "total_discoveries": 25
+  "total_candidates": 245,
+  "total_discoveries": 28
 }

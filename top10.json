@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-14 23:46",
-  "total_discoveries": 25,
-  "total_candidates_evaluated": 225,
-  "total_rejected": 120,
+  "generated": "2026-02-15 00:06",
+  "total_discoveries": 28,
+  "total_candidates_evaluated": 245,
+  "total_rejected": 130,
   "top10": [
     {
       "id": "discovery_015",
@@ -92,6 +92,52 @@
       ],
       "sourcing_notes": "Source from Korean distributors, Olive Young bulk purchases, or direct from brands like MEDIHEAL, Beauty of Joseon, Isntree. Products are shelf-stable, lightweight, easy to ship. Olive Young often has 1+1 deals.",
       "next_steps": "Create curated subscription box of 'FDA-unapproved but globally trusted' Korean sunscreens. Educational marketing explaining the FDA lag and why these are superior. Partner with dermatologists to validate. Build email list of skincare enthusiasts frustrated with US sunscreen options."
+    },
+    {
+      "id": "discovery_026",
+      "date": "2026-02-15",
+      "product_name": "La Roche-Posay Anthelios UVMune 400 Sunscreen",
+      "brand_example": "La Roche-Posay (L'Oreal)",
+      "country": "france",
+      "category": "personal-care",
+      "description": "Advanced French sunscreen formula featuring Mexoryl 400 (Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate), a revolutionary UV filter that provides superior protection in the long UVA1 spectrum (370-400nm). This wavelength range is not well-covered by US-approved sunscreen filters. The formula has undergone extensive clinical trials showing particular benefits for fading pigmented spots in darker skin tones. Water-resistant for 80 minutes, SPF 50+ with exceptionally high PPD rating of 46.",
+      "problem_solved": "Americans have no access to cutting-edge UVA1 protection because the FDA hasn't approved new sunscreen filters since 1999. This leaves a critical gap in protection against wavelengths that cause pigmentation and aging.",
+      "us_gap": "US La Roche-Posay sunscreens use older, FDA-approved filters (avobenzone, octinoxate) that don't cover the 370-400nm range as effectively. European formulas are objectively superior due to access to modern filters like Mexoryl 400, Tinosorb S, and Uvinul A Plus.",
+      "demand_signals": [
+        "Massive Reddit skincare community hype (r/SkincareAddiction, r/EuroSkincare)",
+        "Lab Muffin Beauty Science (cosmetic chemist) dedicated review article",
+        "People specifically travel to Europe to stock up on this sunscreen",
+        "Import sellers on Amazon charging 2-3x markup",
+        "Dermatologists recommend it over US alternatives"
+      ],
+      "source_urls": [
+        "https://labmuffin.com/la-roche-posay-uvmune-400-science-and-review/",
+        "https://www.reddit.com/r/SkincareAddiction/comments/u7y6s1/first_impressions_la_rocheposay_anthelios_uvmune/",
+        "https://www.reddit.com/r/30PlusSkinCare/comments/1dqqfas/what_would_you_buy_from_a_french_pharmacy/"
+      ],
+      "estimated_local_price_usd": 18.0,
+      "potential_us_retail_price_usd": 42.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 9,
+        "us_gap": 10,
+        "importability": 8,
+        "margin_potential": 7,
+        "defensibility": 8,
+        "wow_factor": 7
+      },
+      "score_avg": 8.2,
+      "rejection_risks": [
+        "FDA could eventually approve Mexoryl 400 for US market (but unlikely soon given slow approval process)",
+        "Shipping liquids adds cost and complexity",
+        "Some users report mild musty smell from MCE ingredient"
+      ],
+      "sourcing_notes": "French pharmacy exclusive. L'Oreal owns La Roche-Posay and Mexoryl 400 is their proprietary ingredient. Widely available at Citypharma in Paris and French pharmacy chains. 50ml bottles. Shelf-stable for 12 months after opening.",
+      "next_steps": "Source bulk from French pharmacy distributor or gray-market EU beauty suppliers. Market heavily to r/SkincareAddiction and skincare TikTok. Emphasize the FDA filter gap and superior UVA1 protection. Could bundle with other French sunscreens (Bioderma, Av\u00e8ne) as a 'European Sun Protection Kit'."
     },
     {
       "id": "discovery_014",
@@ -321,6 +367,52 @@
       "next_steps": "Research FDA requirements for preserved fruit imports. Contact Hong Lam for US distribution. Position as premium exotic snack ($14.99 for 6-8oz jar). Target Vietnamese diaspora first, then expand to adventurous snackers. Sampling is crucial - this needs to be tasted to be understood. Could partner with specialty Asian grocery chains."
     },
     {
+      "id": "discovery_027",
+      "date": "2026-02-15",
+      "product_name": "Biafine Emulsion Cream",
+      "brand_example": "Biafine (Johnson & Johnson subsidiary)",
+      "country": "france",
+      "category": "personal-care",
+      "description": "A cult French pharmacy healing emulsion classified as a medication in France, trusted by hospitals and dermatologists for over 25 years. Contains trolamine in a unique oil-in-water emulsion that creates a moist healing environment for burns, wounds, radiation therapy skin reactions, and severe sunburns. The silky, lightweight texture absorbs quickly despite being intensely hydrating. Used in French hospitals for radiotherapy patients and recommended by oncology departments worldwide.",
+      "problem_solved": "Americans dealing with sunburns, minor burns, or post-procedure skin healing have limited options beyond petroleum jelly or basic antibiotic ointments. Biafine offers a clinically-proven, non-steroidal healing emulsion that's more sophisticated and effective.",
+      "us_gap": "US has Aquaphor, Neosporin, and Vaseline, but none match Biafine's emulsion technology that maintains optimal moisture for healing while feeling lightweight. The clinical backing for burn and wound healing is also much stronger.",
+      "demand_signals": [
+        "Harper's Bazaar review calling it 'worth the hype' (Jan 2026)",
+        "French expats and travelers consistently stock up when visiting France",
+        "Dermatologists mention it as a must-buy from French pharmacies",
+        "Reddit threads full of people asking where to buy it in the US",
+        "Used by makeup artists to heal dry, irritated skin on models"
+      ],
+      "source_urls": [
+        "https://www.harpersbazaar.com/beauty/skin-care/a69888409/biafine-emulsion-review/",
+        "https://www.reddit.com/r/30PlusSkinCare/comments/1euj2iv/im_in_france_what_should_i_buy/",
+        "https://shop.sherberandrad.com/products/biafine"
+      ],
+      "estimated_local_price_usd": 10.0,
+      "potential_us_retail_price_usd": 32.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 8,
+        "us_gap": 9,
+        "importability": 8,
+        "margin_potential": 8,
+        "defensibility": 7,
+        "wow_factor": 6
+      },
+      "score_avg": 7.7,
+      "rejection_risks": [
+        "Classified as medication in France, may face FDA import restrictions",
+        "Requires refrigeration after opening for best results",
+        "Medical claims could trigger FDA scrutiny if marketed improperly"
+      ],
+      "sourcing_notes": "Available in 93g and 186g tubes at French pharmacies. Manufactured by Sinclair Pharma (Johnson & Johnson). May need to import as 'cosmetic' rather than 'medication' to avoid FDA complications. Jumbo sizes are affordable in France (~\u20ac8-12 for 186g).",
+      "next_steps": "Consult FDA import attorney about classification. Could position as 'moisturizing emulsion' rather than healing cream. Target post-laser/peel recovery market, outdoor workers, and people with eczema-prone skin. Partner with dermatology practices for sampling."
+    },
+    {
       "id": "discovery_001",
       "date": "2026-02-14",
       "product_name": "Minimal Wash Muro Portable Washing Machine",
@@ -365,96 +457,6 @@
       ],
       "sourcing_notes": "CB Japan manufacturer. Product appears to be Japan-only distribution. Compact size (100x100x55mm) means low shipping costs. USB adapter might need US voltage version. Check Alibaba for similar motorized agitators or OEM sourcing.",
       "next_steps": "Import small batch (10-20 units) to test US market. Target RV forums, van life communities, travel influencers. Bundle with collapsible bucket. Price at $99-$129. Measure demand before bulk order. Could potentially find OEM manufacturer for US-branded version."
-    },
-    {
-      "id": "discovery_010",
-      "date": "2026-02-14",
-      "product_name": "M\u1eafc Kh\u00e9n Vietnamese Forest Peppercorns",
-      "brand_example": "Various (small specialty producers from Hoa Binh region)",
-      "country": "vietnam",
-      "category": "grocery",
-      "description": "Rare spice berries from Vietnam's Northwest mountains with unique citrusy, floral, numbing sensation. Similar to Sichuan pepper but distinctly different - less aggressive numbing, more complex citrus notes (mandarin, clementine, rooibos tea), and slight bitterness. Hand-picked from wild trees in mountainous regions.",
-      "problem_solved": "Sichuan peppercorns available in US are often low quality with little flavor. Adventurous home cooks want unique, high-quality peppercorns with complex flavor profiles.",
-      "us_gap": "The only Vietnamese peppercorn available is low-volume specialty import. Most Americans have never heard of it. Sichuan pepper is more widely known but often disappointing quality in US.",
-      "demand_signals": [
-        "Growing interest in Southeast Asian cooking beyond Thai/Vietnamese basics",
-        "Specialty spice enthusiasts seek unique regional ingredients",
-        "Food blogs highlighting m\u1eafc kh\u00e9n as next trendy spice",
-        "Chefs using in high-end Vietnamese restaurants"
-      ],
-      "source_urls": [
-        "https://www.thepepperquest.com/products/mac-khen",
-        "https://www.amazon.com/Khen-Seeds-Northwest-Special-Spices/dp/B0F7FV6RMM",
-        "https://spicesontheweb.co.uk/mac-khen-forest-pepper/"
-      ],
-      "estimated_local_price_usd": 8.0,
-      "potential_us_retail_price_usd": 24.99,
-      "google_trends": {
-        "avg": 0,
-        "recent": 0,
-        "trend": "no_data"
-      },
-      "scores": {
-        "demand_signal": 5,
-        "us_gap": 8,
-        "importability": 8,
-        "margin_potential": 9,
-        "defensibility": 7,
-        "wow_factor": 8
-      },
-      "score_avg": 7.5,
-      "rejection_risks": [
-        "Very niche - requires customer education",
-        "Limited awareness outside foodie circles",
-        "Needs storytelling and recipe content"
-      ],
-      "sourcing_notes": "Hand-picked from wild trees in Northwest Vietnam (Hoa Binh region). Small-scale producers. The Pepper Quest and Doi Spices work with local farmers. Likely low MOQ (10-50kg initial). Shelf-stable, lightweight, high-margin.",
-      "next_steps": "Partner with specialty spice importer or source direct from Doi Spices. Create content around Vietnamese Sichuan pepper angle. Sell 50g jars at premium ($24.99). Target specialty food stores, chef-focused channels, foodie influencers."
-    },
-    {
-      "id": "discovery_013",
-      "date": "2026-02-14",
-      "product_name": "GRWM Life-Proof Fixing Spray Matte",
-      "brand_example": "GRWM Cosmetics",
-      "country": "philippines",
-      "category": "personal-care",
-      "description": "Ultra-matte makeup setting spray specifically formulated for extreme humidity. Locks makeup in place for 12+ hours even in tropical heat. Unlike most setting sprays that leave a dewy or tacky finish, this truly sets matte and stays non-greasy.",
-      "problem_solved": "Makeup melting off in heat and humidity; finding a truly matte (not dewy) setting spray that actually works in extreme conditions.",
-      "us_gap": "US setting sprays like Urban Decay All Nighter ($36) are dewy finish. Truly matte options (NYX Matte Finish $8) don't have the same humidity-proof staying power. Nothing specifically targets tropical/extreme humidity.",
-      "demand_signals": [
-        "Beauty editor said 'I regret not buying the bigger size'",
-        "Multiple reviews: 'locks in everything', 'subway heat couldn't budge makeup'",
-        "Reddit users confirm it works 8am-8pm even when oily",
-        "Described as 'humidity-proof' repeatedly"
-      ],
-      "source_urls": [
-        "https://kristinarodulfo.substack.com/p/best-filipino-makeup-products-philippines-beauty-haul",
-        "https://www.reddit.com/r/beautytalkph/comments/1f6ww1z/review_grwm_lifeproof_fixing_spray/",
-        "https://grwmcosmetics.com.ph/products/life-proof-fixing-spray"
-      ],
-      "estimated_local_price_usd": 13.0,
-      "potential_us_retail_price_usd": 28.0,
-      "google_trends": {
-        "avg": 0,
-        "recent": 0,
-        "trend": "no_data"
-      },
-      "scores": {
-        "demand_signal": 8,
-        "us_gap": 7,
-        "importability": 9,
-        "margin_potential": 8,
-        "defensibility": 6,
-        "wow_factor": 7
-      },
-      "score_avg": 7.5,
-      "rejection_risks": [
-        "Cult beauty brand loyalty in US",
-        "Regulatory hurdles for cosmetics",
-        "Needs cold chain for quality"
-      ],
-      "sourcing_notes": "GRWM is Filipino-owned brand, likely manufactured locally. Small bottle format = low shipping weight. Shelf-stable. Could source directly from brand or Shopee PH.",
-      "next_steps": "Order samples from Shopee PH. Test in real humidity conditions. Calculate landed cost. Research FDA cosmetics import requirements. Check if GRWM has international shipping/distribution already."
     }
   ]
 }
