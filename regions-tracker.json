@@ -101,9 +101,9 @@
       "ideas": 0
     },
     "argentina": {
-      "candidates": 18,
+      "candidates": 34,
       "discoveries": 3,
-      "ideas": 0
+      "ideas": 3
     },
     "morocco": {
       "candidates": 20,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
+    "grocery-pantry",
     "personal-care",
     "kitchen",
     "snacks-candy",
-    "health-wellness",
-    "cleaning"
+    "health-wellness"
   ],
-  "total_candidates": 725,
+  "total_candidates": 741,
   "total_discoveries": 66,
-  "total_ideas": 9
+  "total_ideas": 12
 }
