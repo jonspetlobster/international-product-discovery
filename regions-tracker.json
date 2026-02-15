@@ -101,8 +101,8 @@
       "discoveries": 1
     },
     "new_zealand": {
-      "candidates": 0,
-      "discoveries": 0
+      "candidates": 20,
+      "discoveries": 2
     },
     "israel": {
       "candidates": 0,
@@ -122,12 +122,12 @@
     }
   },
   "categories_recent": [
-    "home-tools",
     "health-wellness",
     "cleaning",
     "grocery",
-    "personal-care"
+    "personal-care",
+    "kitchen"
   ],
-  "total_candidates": 513,
-  "total_discoveries": 48
+  "total_candidates": 533,
+  "total_discoveries": 50
 }
