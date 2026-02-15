@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-15 03:24",
-  "total_discoveries": 41,
-  "total_candidates_evaluated": 444,
-  "total_rejected": 224,
+  "generated": "2026-02-15 03:45",
+  "total_discoveries": 44,
+  "total_candidates_evaluated": 464,
+  "total_rejected": 234,
   "top10": [
     {
       "id": "discovery_015",
@@ -275,6 +275,51 @@
       "next_steps": "Source bulk from French pharmacy distributor or gray-market EU beauty suppliers. Market heavily to r/SkincareAddiction and skincare TikTok. Emphasize the FDA filter gap and superior UVA1 protection. Could bundle with other French sunscreens (Bioderma, Av\u00e8ne) as a 'European Sun Protection Kit'."
     },
     {
+      "id": "discovery_044",
+      "date": "2026-02-15",
+      "product_name": "Kessa Exfoliating Glove + Beldi Soap Ritual",
+      "brand_example": "Zakia's Morocco, Fatima's Garden, Zawina Morocco",
+      "country": "morocco",
+      "category": "personal-care",
+      "description": "Traditional Moroccan hammam exfoliation system: black beldi soap (olive oil-based gel) + rough kessa glove. The ritual: steam/soak skin, apply beldi soap, let sit 5-10 min, then scrub with wet kessa glove in circular motions. Dead skin rolls off in dramatic visible sheets. Results in baby-soft skin and addresses keratosis pilaris, ingrown hairs, spray tan removal.",
+      "problem_solved": "American exfoliation is weak (sugar scrubs, loofahs, chemical exfoliants). This provides dramatic, visible results and a spa-like ritual at home. Addresses KP (chicken skin) which affects 40% of adults.",
+      "us_gap": "US has exfoliating gloves (Korean Italy towels, generic mitts) but they lack the cultural ritual and beldi soap pairing. American body washes don't prep skin the same way. The hammam ritual is the differentiator - it's an experience, not just a product.",
+      "demand_signals": [
+        "Reddit: 'Nothing exfoliates like the kessa glove and nothing makes me feel as clean'",
+        "'My favorite bath ritual of all time'",
+        "'It will be worth it' - practiced for thousands of years",
+        "Multiple users describe it as life-changing for KP treatment"
+      ],
+      "source_urls": [
+        "https://www.reddit.com/r/SkincareAddiction/comments/1njx9aa/",
+        "https://zakiasmorocco.com/",
+        "https://www.amazon.com/Moroccan-Black-Soap-Amber-Musk/dp/B01F04JWM2"
+      ],
+      "estimated_local_price_usd": 8.0,
+      "potential_us_retail_price_usd": 29.99,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 8,
+        "us_gap": 7,
+        "importability": 10,
+        "margin_potential": 9,
+        "defensibility": 6,
+        "wow_factor": 9
+      },
+      "score_avg": 8.2,
+      "rejection_risks": [
+        "Already available on Amazon (but positioned as ethnic product, not mainstream)",
+        "Could be copied easily by big beauty brands",
+        "Education required - ritual is key, not just the glove"
+      ],
+      "sourcing_notes": "Gloves are simple textile - can source from Morocco or manufacture domestically. Beldi soap is olive oil + potassium hydroxide (easy to make). The value is in the bundling, branding, and education. Target DTC with strong content showing before/after.",
+      "next_steps": "Create DTC brand around the ritual (not just selling gloves). Film dramatic exfoliation videos for TikTok/IG. Bundle glove + soap + instruction card. Partner with estheticians/spas. Position as solution for KP, not 'Moroccan novelty'. Price at $30-40 for the set (vs $8-12 on Amazon for glove alone)."
+    },
+    {
       "id": "discovery_035",
       "date": "2026-02-15",
       "product_name": "Granado Polvilho Antiss\u00e9ptico",
@@ -405,52 +450,6 @@
       ],
       "sourcing_notes": "Colourette is major Filipino beauty brand. Likely has established manufacturing. Bottles are lightweight. Formula may need temp control. High demand = may have MOQ issues or supply constraints.",
       "next_steps": "Order full shade range for photography/swatching. Test formula in different climates. Research Colourette's international expansion plans. Calculate break-even on shade inventory. Investigate influencer partnerships in Filipino-American community."
-    },
-    {
-      "id": "discovery_020",
-      "date": "2026-02-14",
-      "product_name": "Boroline Antiseptic Ayurvedic Cream",
-      "brand_example": "GD Pharmaceuticals (Boroline)",
-      "country": "india",
-      "category": "personal-care",
-      "description": "Multi-purpose antiseptic cream combining boric acid, zinc oxide, and lanolin in an ayurvedic formula. Known as 'the cream with the elephant logo', it's been a Bengali household staple since 1947. Treats cuts, wounds, dry skin, chapped lips, cracked heels, and general skin infections. The distinctive green tube with elephant branding is iconic across India.",
-      "problem_solved": "Replaces 5+ single-use products: antiseptic ointment, lip balm, hand cream, heel repair, wound care. Americans buy separate products for each use case.",
-      "us_gap": "US has Neosporin (only antiseptic), Aquaphor (only moisturizer), or Vaseline (only occlusive). No single product combines antiseptic + deep moisturizing + ayurvedic heritage + multi-purpose versatility. US products are clinical; Boroline has emotional/cultural resonance.",
-      "demand_signals": [
-        "Reddit: 'Bengali's cult favourite, first thing I saw after birth'",
-        "'Healed my extremely chapped lips in just 3 days'",
-        "'Outstanding product, treats everything'",
-        "Gen Z rediscovering it as skincare hero",
-        "India Today article on cult status"
-      ],
-      "source_urls": [
-        "https://www.reddit.com/r/IndianSkincareAddicts/comments/10an9gh/",
-        "https://www.indiatoday.in/lifestyle/beauty/story/how-boroline-has-managed-to-remain-a-cult-favourite-from-the-swadeshi-movement-to-becoming-gen-zs-favourite-2689221-2025-03-06",
-        "https://boroline.com/products/boroline/"
-      ],
-      "estimated_local_price_usd": 1.5,
-      "potential_us_retail_price_usd": 12.99,
-      "google_trends": {
-        "avg": 0,
-        "recent": 0,
-        "trend": "no_data"
-      },
-      "scores": {
-        "demand_signal": 8,
-        "us_gap": 8,
-        "importability": 9,
-        "margin_potential": 8,
-        "defensibility": 7,
-        "wow_factor": 7
-      },
-      "score_avg": 7.8,
-      "rejection_risks": [
-        "Contains boric acid (may face FDA scrutiny)",
-        "Heritage packaging may not translate to US aesthetics",
-        "Needs education on multi-use benefits"
-      ],
-      "sourcing_notes": "Manufactured by GD Pharmaceuticals in Kolkata since 1947. Available on Amazon US from importers at 3x markup ($6-8 for 40g vs ~$2 in India). Could negotiate direct import. Shelf-stable, lightweight, long shelf life.",
-      "next_steps": "Order samples from multiple Indian suppliers. Test US customs/FDA clearance for boric acid content. Survey Indian diaspora for pricing sensitivity. Create content highlighting multi-use versatility vs buying 5 separate US products."
     }
   ]
 }
