@@ -105,7 +105,7 @@
       "discoveries": 2
     },
     "israel": {
-      "candidates": 0,
+      "candidates": 20,
       "discoveries": 0
     },
     "egypt": {
@@ -122,12 +122,12 @@
     }
   },
   "categories_recent": [
-    "cleaning",
     "grocery",
     "personal-care",
     "kitchen",
-    "stationery"
+    "stationery",
+    "health-wellness"
   ],
-  "total_candidates": 555,
+  "total_candidates": 575,
   "total_discoveries": 53
 }
