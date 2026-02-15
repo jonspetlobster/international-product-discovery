@@ -41,9 +41,9 @@
       "ideas": 0
     },
     "india": {
-      "candidates": 18,
+      "candidates": 41,
       "discoveries": 3,
-      "ideas": 0
+      "ideas": 3
     },
     "germany": {
       "candidates": 20,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "health-wellness",
     "cleaning",
     "grocery",
     "personal-care",
-    "kitchen"
+    "kitchen",
+    "snacks-candy"
   ],
-  "total_candidates": 659,
+  "total_candidates": 682,
   "total_discoveries": 66,
-  "total_ideas": 0
+  "total_ideas": 3
 }
