@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-15 08:55",
-  "total_ideas": 18,
-  "total_candidates_evaluated": 772,
-  "total_rejected": 348,
+  "generated": "2026-02-15 09:05",
+  "total_ideas": 21,
+  "total_candidates_evaluated": 793,
+  "total_rejected": 366,
   "top10": [
     {
       "id": "idea_001",
@@ -345,6 +345,63 @@
       ]
     },
     {
+      "id": "idea_019",
+      "date": "2026-02-15",
+      "inspiration_product": "Zote Laundry Bar Soap",
+      "inspiration_brand": "La Corona",
+      "inspiration_country": "mexico",
+      "category": "cleaning",
+      "us_brand_concept": "ONEBAR \u2014 The minimalist's all-in-one cleaning bar for travel, van life, and tiny homes",
+      "the_twist": "Travel-sized (1.5oz) bar soap in modern, giftable packaging with magnetic tin case. Sold as 3-pack starter kit (Clothes/Dishes/All-Purpose). Each bar labeled for specific use but formula is same multi-purpose soap.",
+      "twist_type": "format-change|brand-upgrade|niche-targeting",
+      "target_customer": "Digital nomads, van lifers, minimalists, backpackers, tiny home dwellers, frequent travelers aged 25-40 who value 'less stuff'",
+      "description": "Zote is a Mexican laundry bar soap that's gone viral \u2014 even popular in South Korea. It's a 66% fatty acid multi-purpose soap used for laundry, floors, dishes, and stain removal. The US version is a huge pink bar in dated packaging, sold mainly in Latino grocery stores. The twist: create travel-sized bars (TSA-friendly 1.5oz) in beautiful modern packaging positioned as 'the one cleaning bar you need' for people living with less.",
+      "problem_solved": "Travelers and minimalists hate carrying multiple cleaning products. Liquid detergents leak, pods waste space. A single multi-purpose bar solves laundry, dishes, and spot cleaning in one package.",
+      "us_competitive_landscape": "Travel laundry market has soap sheets (Travelon), liquid packets (SinkSuds), and generic bars. NO ONE offers modern-branded, purpose-designed travel soap bars targeting the minimalist/van life aesthetic. Closest competitor: Sea to Summit soap leaves at $8 for 50 uses, but it's ugly outdoor-gear branding.",
+      "demand_signals": [
+        "Zote popular on TikTok for cleaning hacks",
+        "Van life and minimalism trends growing (r/vanlife has 500K+ members)",
+        "Travel soap searches spike pre-summer",
+        "Zero-waste movement wants solid products over liquids"
+      ],
+      "source_urls": [
+        "https://www.housebeautiful.com/lifestyle/cleaning-tips/a46342448/zote-soap-laundry-guide/",
+        "https://www.reddit.com/r/asklatinamerica/comments/1d30a7a/what_soap_do_mexicans_use_often/"
+      ],
+      "manufacturing_path": "Alibaba private label bar soap manufacturers. MOQ as low as 100 pieces at $0.50-0.90/unit. Custom mold for embossed logo, biodegradable kraft paper sleeve, magnetic tin case sourced separately. First run: 500 units (166 3-packs) for ~$500-1000 product + $300 packaging.",
+      "estimated_cogs_per_unit": 2.5,
+      "target_retail_price": 14.99,
+      "estimated_margin_multiplier": 6.0,
+      "startup_cost_estimate": "$2K - $3K for first 500-unit run, basic Shopify site, product photography",
+      "go_to_market": "Shopify DTC + Instagram/TikTok ads targeting #vanlife #minimalism #digitalnomad. Seed to van life influencers. Later: REI, outdoor stores, Urban Outfitters gift section. Amazon FBA once proven.",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 7,
+        "us_gap": 9,
+        "manufacturing_ease": 9,
+        "twist_strength": 8,
+        "margin_potential": 8,
+        "brandability": 9,
+        "low_capital_start": 9
+      },
+      "score_avg": 8.4,
+      "risks": [
+        "Zote already sold in US (could expand distribution)",
+        "Bar soap is 'old-fashioned' \u2014 need to make it cool again",
+        "Formula testing needed to verify it actually works well for all uses",
+        "Magnetic tins add cost"
+      ],
+      "first_3_steps": [
+        "Order Zote samples + competitors, test for hand-washing clothes, dishes, surfaces",
+        "Find Alibaba manufacturer who can do 1.5oz bars with custom embossing, get quotes for 500-unit run",
+        "Design brand identity + packaging mockups, validate with r/vanlife and minimalist communities"
+      ]
+    },
+    {
       "id": "idea_008",
       "date": "2026-02-15",
       "inspiration_product": "Italian Bicarbonato + Aceto Cleaning Method",
@@ -511,65 +568,6 @@
         "Survey Reddit + travel forums to gather scent descriptions, compile notes (bergamot, cedar, clean linen, masculine)",
         "Contact 3-5 fragrance houses with Italian scent brief, get samples and quotes",
         "Create Kickstarter/pre-order campaign with Italian hotel lifestyle imagery to validate demand before manufacturing"
-      ]
-    },
-    {
-      "id": "idea_004",
-      "date": "2026-02-15",
-      "inspiration_product": "Swedish Linen Sauna Wraps & Birch Whisks",
-      "inspiration_brand": "Various Swedish sauna brands",
-      "inspiration_country": "sweden",
-      "category": "health-wellness",
-      "us_brand_concept": "SweatHaus - Premium sauna essentials kit (linen wrap, birch whisk, essential oil blend, guide)",
-      "the_twist": "Bundle Swedish sauna ritual into a DTC starter kit - sauna trend is exploding in US but accessories are scattered/imported/ugly. Create Instagram-friendly brand targeting new sauna owners.",
-      "twist_type": "bundle-kit",
-      "target_customer": "Sauna enthusiasts, biohackers, wellness influencers, people who just bought home saunas (Barrel Sauna, Costco buyers). 25-45, affluent, health-conscious.",
-      "description": "Swedish sauna culture centers on birch whisks (vihta/vasta) for circulation, linen wraps for modesty in public saunas, and essential oils for steam. Individual items exist from Finnish brands (Harvia, Rento) but no well-branded US 'sauna starter kit'. Sauna market growing 15%+ annually, barrel saunas selling out, but accessories are an afterthought. Create the 'Away luggage' of sauna - premium, cohesive, Instagram-ready essentials.",
-      "problem_solved": "New sauna owners don't know what accessories they need. Existing options are imported Finnish brands with no cohesive branding or education. This solves discovery, bundling, and brand story.",
-      "us_competitive_landscape": "Individual items available: Harvia birch whisks ($15-25), generic linen towels, random essential oils. NO branded 'sauna essentials' kit exists. The sauna itself (Barrel Sauna, Almost Heaven, Finnleo) sells the hardware but not the ritual accessories. Huge white space for DTC brand.",
-      "demand_signals": [
-        "Google Trends: 'home sauna' up 200% since 2020",
-        "Barrel Sauna wait times 6+ months, $4K+ price point",
-        "Reddit r/Sauna has 50K+ members, growing fast",
-        "Influencers (Andrew Huberman, Tim Ferriss) promoting sauna benefits",
-        "Sauna studios opening in major cities (Othership NYC, REMEDY Chicago)"
-      ],
-      "source_urls": [
-        "https://www.harvia.com/en-US/products/SAC80100/sauna-whisk-birch",
-        "https://www.finnstyle.com/rento-birch-sauna-whisk.html",
-        "https://www.vogue.com/article/swedish-beauty-shopping-stockholm-pharmacies"
-      ],
-      "manufacturing_path": "Source linen wraps from European linen supplier (Linoto, LibeCo). Import birch whisks from Finland/Estonia suppliers (same as Harvia uses). Blend essential oils domestically (eucalyptus, birch tar, pine). Design custom packaging + ritual guide. MOQ likely 100-500 kits.",
-      "estimated_cogs_per_unit": 25.0,
-      "target_retail_price": 89.0,
-      "estimated_margin_multiplier": 3.6,
-      "startup_cost_estimate": "$3K-$6K for first 100 kits (linen wraps $8-12 ea wholesale, birch whisks $5-8 ea import, oils $3-5 ea, packaging $5-8 ea)",
-      "go_to_market": "DTC Shopify targeting sauna owners. Partner with sauna manufacturers (Barrel Sauna, Almost Heaven) for cross-promotion. Instagram ads targeting wellness/biohacking audiences. Send kits to sauna influencers. Pitch to Goop, Well+Good. Pop-up at sauna studios.",
-      "google_trends": {
-        "avg": 73,
-        "recent": 89,
-        "trend": "rising"
-      },
-      "scores": {
-        "demand_proof": 8,
-        "us_gap": 9,
-        "manufacturing_ease": 7,
-        "twist_strength": 8,
-        "margin_potential": 7,
-        "brandability": 9,
-        "low_capital_start": 7
-      },
-      "score_avg": 7.9,
-      "risks": [
-        "Sauna trend could plateau (but multi-year runway seems solid)",
-        "Birch whisk import logistics (perishable, seasonal availability)",
-        "Market size limited to sauna owners (but growing fast)",
-        "Competing with 'just buy individual items' mindset"
-      ],
-      "first_3_steps": [
-        "Source samples: order 10 birch whisks from Saunainter/Harvia distributors, 10 linen wraps from LibeCo, create 3 essential oil blends, hand-assemble 10 prototype kits",
-        "Create branding: hire designer on Dribbble ($500-1K) for logo/packaging/ritual guide, film unboxing video showing Swedish sauna ritual",
-        "Launch presale: Build Shopify store, run $1K Instagram ad test targeting 'sauna owner' lookalikes, aim for 25 presales at $79 early-bird to validate demand"
       ]
     }
   ]
