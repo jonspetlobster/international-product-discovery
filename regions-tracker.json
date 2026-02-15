@@ -121,9 +121,9 @@
       "ideas": 0
     },
     "australia": {
-      "candidates": 21,
+      "candidates": 41,
       "discoveries": 1,
-      "ideas": 0
+      "ideas": 3
     },
     "new_zealand": {
       "candidates": 38,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "kitchen",
     "personal-care",
     "snacks-candy",
     "cleaning",
-    "health-wellness"
+    "health-wellness",
+    "organizing-storage"
   ],
-  "total_candidates": 972,
+  "total_candidates": 992,
   "total_discoveries": 69,
-  "total_ideas": 46
+  "total_ideas": 49
 }
