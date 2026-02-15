@@ -8,7 +8,7 @@
     "vietnam": {"candidates": 20, "discoveries": 4},
     "philippines": {"candidates": 22, "discoveries": 4},
     "indonesia": {"candidates": 15, "discoveries": 3},
-    "india": {"candidates": 0, "discoveries": 0},
+    "india": {"candidates": 18, "discoveries": 3},
     "germany": {"candidates": 20, "discoveries": 3},
     "sweden": {"candidates": 0, "discoveries": 0},
     "uk": {"candidates": 0, "discoveries": 0},
@@ -31,7 +31,7 @@
     "malaysia": {"candidates": 0, "discoveries": 0},
     "singapore": {"candidates": 0, "discoveries": 0}
   },
-  "categories_recent": ["kitchen", "home-tools", "health-wellness", "cleaning", "grocery"],
-  "total_candidates": 189,
-  "total_discoveries": 19
+  "categories_recent": ["home-tools", "health-wellness", "cleaning", "grocery", "personal-care"],
+  "total_candidates": 207,
+  "total_discoveries": 22
 }
