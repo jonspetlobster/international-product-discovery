@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-15 01:04",
-  "total_discoveries": 31,
-  "total_candidates_evaluated": 304,
-  "total_rejected": 168,
+  "generated": "2026-02-15 01:24",
+  "total_discoveries": 34,
+  "total_candidates_evaluated": 325,
+  "total_rejected": 171,
   "top10": [
     {
       "id": "discovery_015",
@@ -92,6 +92,93 @@
       ],
       "sourcing_notes": "Source from Korean distributors, Olive Young bulk purchases, or direct from brands like MEDIHEAL, Beauty of Joseon, Isntree. Products are shelf-stable, lightweight, easy to ship. Olive Young often has 1+1 deals.",
       "next_steps": "Create curated subscription box of 'FDA-unapproved but globally trusted' Korean sunscreens. Educational marketing explaining the FDA lag and why these are superior. Partner with dermatologists to validate. Build email list of skincare enthusiasts frustrated with US sunscreen options."
+    },
+    {
+      "id": "discovery_033",
+      "date": "2026-02-15",
+      "product_name": "To\u0142pa Peat Extract Face Cream",
+      "brand_example": "To\u0142pa",
+      "country": "poland",
+      "category": "personal-care",
+      "description": "Unique Polish skincare brand built on world-unique peat extract and mud technology. Founded in 1989, To\u0142pa uses peat from specific Polish bogs combined with proprietary extraction process. Clinically proven to help acne, redness, rosacea, and sensitive skin. Available in UK (Lloyds Pharmacy, Boots) but not widely in US.",
+      "problem_solved": "People with acne-prone, redness-prone, and sensitive skin struggle to find products that actually calm inflammation without causing more irritation. Peat has anti-inflammatory and healing properties used for centuries.",
+      "us_gap": "US has some peat skincare (belif from Korea, Irish peat masks) but not To\u0142pa's specific Polish peat extraction. To\u0142pa is available in UK pharmacies with strong results, but virtually unknown in US. Lab tests show improvements in elasticity, hydration, pore size, sebum, and redness reduction.",
+      "demand_signals": [
+        "Available at major UK pharmacies (Lloyds, Boots) - validates demand",
+        "Marketed specifically for acne/rosacea with clinical backing",
+        "Peat skincare is niche but growing (belif success)",
+        "'Delivering stand-out results' per UK marketing materials"
+      ],
+      "source_urls": [
+        "https://lloydspharmacy.com/pages/tolpa",
+        "https://tolpa.co.uk/about-tolpa",
+        "https://cewuk.co.uk/tolpa-dermo-face-skincare-solutions-for-acne-rosacea-and-dryness-available-at-boots/"
+      ],
+      "estimated_local_price_usd": 18.0,
+      "potential_us_retail_price_usd": 42.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 8,
+        "us_gap": 9,
+        "importability": 9,
+        "margin_potential": 8,
+        "defensibility": 9,
+        "wow_factor": 8
+      },
+      "score_avg": 8.5,
+      "rejection_risks": [
+        "Peat sustainability concerns could emerge",
+        "'Mud' and 'peat' might not test well in US marketing"
+      ],
+      "sourcing_notes": "Manufactured by Torf Corporation, Poland since 1989. Recently acquired by Bielenda Group. Has UK distribution already, so export infrastructure exists. Shelf-stable creams and serums. Need to verify peat sourcing is sustainable for US messaging.",
+      "next_steps": "Contact To\u0142pa/Bielenda for US distribution rights. Position as 'European pharmacy secret for sensitive skin.' Target acne and rosacea communities. Emphasize clinical testing and natural peat benefits."
+    },
+    {
+      "id": "discovery_032",
+      "date": "2026-02-15",
+      "product_name": "BasicLab Dermocosmetics 0.5% Retinol Night Serum",
+      "brand_example": "BasicLab",
+      "country": "poland",
+      "category": "personal-care",
+      "description": "Advanced retinol night serum from Polish dermocosmetics brand BasicLab, founded in 2018 specifically to address the lack of effective products for sensitive and problematic skin. Formulated with 0.5% pure retinol, 4% vitamin C, CBD, coenzyme Q10, ceramides, and squalane for comprehensive anti-aging and skin renewal.",
+      "problem_solved": "High-quality retinol serums are expensive in the US, and many irritate sensitive skin. BasicLab's unique formula combines retinol with soothing ingredients like CBD and ceramides to deliver results without harsh reactions.",
+      "us_gap": "US has countless retinol serums, but most are either cheap and irritating or premium brands at $80-150. BasicLab offers dermatologically-tested, pharmacist-formulated retinol at mid-tier pricing with unique soothing complex. Reddit reviews say it's 'absolutely fantastic' for acne and hyperpigmentation.",
+      "demand_signals": [
+        "Reddit EuroSkincare users call it 'absolutely fantastic'",
+        "Polish users report excellent results on acne and discoloration",
+        "Growing interest in European dermocosmetics in US market",
+        "Retinol is top anti-aging ingredient with massive US demand"
+      ],
+      "source_urls": [
+        "https://www.ladymakeup.com/shop/basiclab.html",
+        "https://www.reddit.com/r/EuroSkincare/comments/1hqkvoa/polish_drugstore_skincare_tips_needed/"
+      ],
+      "estimated_local_price_usd": 25.0,
+      "potential_us_retail_price_usd": 59.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 9,
+        "us_gap": 8,
+        "importability": 9,
+        "margin_potential": 9,
+        "defensibility": 7,
+        "wow_factor": 8
+      },
+      "score_avg": 8.3,
+      "rejection_risks": [
+        "Amazon could copy formula",
+        "Competition from established retinol brands"
+      ],
+      "sourcing_notes": "Manufactured in Poland by BasicLab. Likely available via European distributors. Small 30ml bottles are lightweight and easy to ship. Shelf-stable. Would need FDA cosmetics compliance for US import.",
+      "next_steps": "Source directly from BasicLab Poland, test US demand with small batch via Amazon/Shopify, position as 'European dermocosmetics secret' with CBD+retinol angle"
     },
     {
       "id": "discovery_026",
@@ -365,97 +452,6 @@
       ],
       "sourcing_notes": "Hong Lam is established Hanoi brand. V\u1ea1n L\u1ee3i also mentioned. Could source from specialty producers. Shelf-stable, good for shipping. Likely need FDA import approval for preserved fruit category. MOQ unclear but probably 200-500 units. Packaging is key - needs premium positioning.",
       "next_steps": "Research FDA requirements for preserved fruit imports. Contact Hong Lam for US distribution. Position as premium exotic snack ($14.99 for 6-8oz jar). Target Vietnamese diaspora first, then expand to adventurous snackers. Sampling is crucial - this needs to be tasted to be understood. Could partner with specialty Asian grocery chains."
-    },
-    {
-      "id": "discovery_027",
-      "date": "2026-02-15",
-      "product_name": "Biafine Emulsion Cream",
-      "brand_example": "Biafine (Johnson & Johnson subsidiary)",
-      "country": "france",
-      "category": "personal-care",
-      "description": "A cult French pharmacy healing emulsion classified as a medication in France, trusted by hospitals and dermatologists for over 25 years. Contains trolamine in a unique oil-in-water emulsion that creates a moist healing environment for burns, wounds, radiation therapy skin reactions, and severe sunburns. The silky, lightweight texture absorbs quickly despite being intensely hydrating. Used in French hospitals for radiotherapy patients and recommended by oncology departments worldwide.",
-      "problem_solved": "Americans dealing with sunburns, minor burns, or post-procedure skin healing have limited options beyond petroleum jelly or basic antibiotic ointments. Biafine offers a clinically-proven, non-steroidal healing emulsion that's more sophisticated and effective.",
-      "us_gap": "US has Aquaphor, Neosporin, and Vaseline, but none match Biafine's emulsion technology that maintains optimal moisture for healing while feeling lightweight. The clinical backing for burn and wound healing is also much stronger.",
-      "demand_signals": [
-        "Harper's Bazaar review calling it 'worth the hype' (Jan 2026)",
-        "French expats and travelers consistently stock up when visiting France",
-        "Dermatologists mention it as a must-buy from French pharmacies",
-        "Reddit threads full of people asking where to buy it in the US",
-        "Used by makeup artists to heal dry, irritated skin on models"
-      ],
-      "source_urls": [
-        "https://www.harpersbazaar.com/beauty/skin-care/a69888409/biafine-emulsion-review/",
-        "https://www.reddit.com/r/30PlusSkinCare/comments/1euj2iv/im_in_france_what_should_i_buy/",
-        "https://shop.sherberandrad.com/products/biafine"
-      ],
-      "estimated_local_price_usd": 10.0,
-      "potential_us_retail_price_usd": 32.0,
-      "google_trends": {
-        "avg": 0,
-        "recent": 0,
-        "trend": "no_data"
-      },
-      "scores": {
-        "demand_signal": 8,
-        "us_gap": 9,
-        "importability": 8,
-        "margin_potential": 8,
-        "defensibility": 7,
-        "wow_factor": 6
-      },
-      "score_avg": 7.7,
-      "rejection_risks": [
-        "Classified as medication in France, may face FDA import restrictions",
-        "Requires refrigeration after opening for best results",
-        "Medical claims could trigger FDA scrutiny if marketed improperly"
-      ],
-      "sourcing_notes": "Available in 93g and 186g tubes at French pharmacies. Manufactured by Sinclair Pharma (Johnson & Johnson). May need to import as 'cosmetic' rather than 'medication' to avoid FDA complications. Jumbo sizes are affordable in France (~\u20ac8-12 for 186g).",
-      "next_steps": "Consult FDA import attorney about classification. Could position as 'moisturizing emulsion' rather than healing cream. Target post-laser/peel recovery market, outdoor workers, and people with eczema-prone skin. Partner with dermatology practices for sampling."
-    },
-    {
-      "id": "discovery_030",
-      "date": "2026-02-15",
-      "product_name": "Gevulde Speculaas",
-      "brand_example": "Various Dutch bakeries",
-      "country": "netherlands",
-      "category": "grocery",
-      "description": "Traditional Dutch spiced cookie cake filled with thick almond paste layer. Unlike regular speculaas cookies, this is a substantial 2-3 inch thick cake-like cookie with warming spices (cinnamon, ginger, cardamom, cloves) and rich marzipan center. Traditionally served during Sinterklaas season but eaten year-round.",
-      "problem_solved": "Premium gifting cookie that bridges gap between cookies and cake. Americans love almond flavors and European-style baked goods but lack this specific format. Perfect for holidays, gifting, and special occasions.",
-      "us_gap": "US has speculaas cookies (Biscoff/Lotus widely available) and marzipan separately, but not combined in this substantial cookie-cake format. American almond-filled pastries are typically Danish-style with icing, not this spiced cookie version.",
-      "demand_signals": [
-        "Food bloggers describe it as 'very well worth the effort' to make from scratch",
-        "Consistently mentioned as favorite Dutch product to bring as gifts",
-        "Premium positioning - sells at higher price point than regular cookies",
-        "Strong seasonal sales spike but also year-round appeal"
-      ],
-      "source_urls": [
-        "https://www.reddit.com/r/Netherlands/comments/16oo3ew/your_favourite_dutch_products/",
-        "https://chefindisguise.com/2013/01/27/gevulde-speculaas-dutch-spice-cookies-filled-with-almond-paste/"
-      ],
-      "estimated_local_price_usd": 8.0,
-      "potential_us_retail_price_usd": 24.99,
-      "google_trends": {
-        "avg": 0,
-        "recent": 0,
-        "trend": "no_data"
-      },
-      "scores": {
-        "demand_signal": 7,
-        "us_gap": 7,
-        "importability": 9,
-        "margin_potential": 8,
-        "defensibility": 7,
-        "wow_factor": 8
-      },
-      "score_avg": 7.7,
-      "rejection_risks": [
-        "Seasonal association may limit year-round sales",
-        "Niche product - not mainstream American taste",
-        "Price sensitivity - premium pricing may limit mass market appeal",
-        "Almond allergies reduce addressable market"
-      ],
-      "sourcing_notes": "Shelf-stable, ships well, no refrigeration needed. Multiple Dutch bakeries produce it. Could potentially find US bakery to produce under license. High margin potential due to premium positioning. Packaging and branding crucial for US market.",
-      "next_steps": "Source samples from top Dutch brands. Test with American consumers in blind taste test vs. US almond pastries. Develop holiday gift packaging strategy. Target specialty food stores and premium grocers (Whole Foods, Trader Joe's). Consider launching as limited-edition holiday product first."
     }
   ]
 }

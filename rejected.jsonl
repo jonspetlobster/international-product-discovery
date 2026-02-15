@@ -166,3 +166,6 @@
 {"product_name": "Pepernoten spice cookies", "country": "netherlands", "reason": "cultural_only", "date": "2026-02-15", "notes": "Seasonal Sinterklaas product, limited year-round appeal"}
 {"product_name": "Katja Apekoppen candy", "country": "netherlands", "reason": "cultural_only", "date": "2026-02-15", "notes": "Acquired taste salty licorice, most Americans hate it"}
 {"product_name": "Etos Vitamin C Serum", "country": "netherlands", "reason": "us_equivalent_exists", "date": "2026-02-15", "notes": "Generic drugstore vitamin C serum, US has countless equivalents"}
+{"product_name":"YOPE Natural Hand Soap","country":"poland","reason":"already_on_amazon","date":"2026-02-15","notes":"Available on Amazon US directly from sellers at $5-10, not obscure enough to import"}
+{"product_name":"Wedel Ptasie Mleczko Vanilla Marshmallow","country":"poland","reason":"already_on_amazon","date":"2026-02-15","notes":"Widely available at Polish stores in US and Amazon, not a gap product"}
+{"product_name":"Krakus Polish Dill Pickles","country":"poland","reason":"already_on_amazon","date":"2026-02-15","notes":"Available on Amazon US, perishable/heavy makes poor import candidate"}

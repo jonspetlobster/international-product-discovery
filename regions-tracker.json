@@ -61,8 +61,8 @@
       "discoveries": 3
     },
     "poland": {
-      "candidates": 0,
-      "discoveries": 0
+      "candidates": 21,
+      "discoveries": 3
     },
     "turkey": {
       "candidates": 0,
@@ -122,12 +122,12 @@
     }
   },
   "categories_recent": [
-    "grocery",
     "personal-care",
     "kitchen",
     "stationery",
-    "health-wellness"
+    "health-wellness",
+    "cleaning"
   ],
-  "total_candidates": 304,
-  "total_discoveries": 31
+  "total_candidates": 325,
+  "total_discoveries": 34
 }
