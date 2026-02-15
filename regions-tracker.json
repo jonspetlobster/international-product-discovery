@@ -71,9 +71,9 @@
       "ideas": 3
     },
     "netherlands": {
-      "candidates": 20,
+      "candidates": 38,
       "discoveries": 3,
-      "ideas": 0
+      "ideas": 3
     },
     "poland": {
       "candidates": 21,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "kitchen",
     "personal-care",
     "condiments-sauces",
     "cleaning",
-    "health-wellness"
+    "health-wellness",
+    "grocery-pantry"
   ],
-  "total_candidates": 852,
+  "total_candidates": 870,
   "total_discoveries": 66,
-  "total_ideas": 30
+  "total_ideas": 33
 }
