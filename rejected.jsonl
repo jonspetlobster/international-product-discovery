@@ -151,3 +151,18 @@
 {"product_name":"Favini High-End Paper Products","country":"italy","reason":"too_niche","date":"2026-02-15","notes":"B2B paper manufacturer for school/office/leisure, not distinctive consumer product"}
 {"product_name":"Fiorentina Recycled Leather Journals","country":"italy","reason":"us_equivalent_exists","date":"2026-02-15","notes":"Recycled leather journal market saturated with similar products from multiple brands on Amazon"}
 {"product_name":"Rossi 1931 Marbled Classica Italiana","country":"italy","reason":"already_on_amazon","date":"2026-02-15","notes":"Same as Rossi Florentine - available on Amazon from authorized sellers"}
+{"product_name": "Zwitsal Baby Cream", "country": "netherlands", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Multiple sellers on Amazon US, readily available"}
+{"product_name": "Hagelslag chocolate sprinkles", "country": "netherlands", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "De Ruijter and other brands widely available on Amazon US"}
+{"product_name": "Miffy/Nijntje plush toys", "country": "netherlands", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Licensed products available from multiple sellers on Amazon"}
+{"product_name": "Appelstroop apple syrup", "country": "netherlands", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Canisius brand widely available on Amazon US in multiple pack sizes"}
+{"product_name": "Chocomel chocolate milk", "country": "netherlands", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Multiple pack sizes available on Amazon US from importers"}
+{"product_name": "Klene Drop salty licorice", "country": "netherlands", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Multiple Klene products available including salty varieties"}
+{"product_name": "Daelmans Stroopwafels", "country": "netherlands", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Stroopwafels widely available in US, lost uniqueness"}
+{"product_name": "Tompouce pastry", "country": "netherlands", "reason": "perishable", "date": "2026-02-15", "notes": "Fresh pastry with custard cream, cannot ship internationally"}
+{"product_name": "Ossenworst raw beef sausage", "country": "netherlands", "reason": "regulated", "date": "2026-02-15", "notes": "Raw meat product, US import restrictions"}
+{"product_name": "Leverworst liver sausage", "country": "netherlands", "reason": "us_equivalent_exists", "date": "2026-02-15", "notes": "Liverwurst widely available in US delis and supermarkets"}
+{"product_name": "Dutch mayonnaise salads", "country": "netherlands", "reason": "perishable", "date": "2026-02-15", "notes": "Refrigerated prepared salads, short shelf life"}
+{"product_name": "Boterkoekjes butter cookies", "country": "netherlands", "reason": "us_equivalent_exists", "date": "2026-02-15", "notes": "Dutch butter cookies similar to shortbread, many equivalents"}
+{"product_name": "Pepernoten spice cookies", "country": "netherlands", "reason": "cultural_only", "date": "2026-02-15", "notes": "Seasonal Sinterklaas product, limited year-round appeal"}
+{"product_name": "Katja Apekoppen candy", "country": "netherlands", "reason": "cultural_only", "date": "2026-02-15", "notes": "Acquired taste salty licorice, most Americans hate it"}
+{"product_name": "Etos Vitamin C Serum", "country": "netherlands", "reason": "us_equivalent_exists", "date": "2026-02-15", "notes": "Generic drugstore vitamin C serum, US has countless equivalents"}
