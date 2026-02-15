@@ -2,123 +2,153 @@
   "regions": {
     "japan": {
       "candidates": 26,
-      "discoveries": 1
+      "discoveries": 1,
+      "ideas": 0
     },
     "south_korea": {
       "candidates": 24,
-      "discoveries": 2
+      "discoveries": 2,
+      "ideas": 0
     },
     "taiwan": {
       "candidates": 23,
-      "discoveries": 0
+      "discoveries": 0,
+      "ideas": 0
     },
     "china": {
       "candidates": 32,
-      "discoveries": 3
+      "discoveries": 3,
+      "ideas": 0
     },
     "thailand": {
       "candidates": 22,
-      "discoveries": 2
+      "discoveries": 2,
+      "ideas": 0
     },
     "vietnam": {
       "candidates": 20,
-      "discoveries": 4
+      "discoveries": 4,
+      "ideas": 0
     },
     "philippines": {
       "candidates": 22,
-      "discoveries": 4
+      "discoveries": 4,
+      "ideas": 0
     },
     "indonesia": {
       "candidates": 35,
-      "discoveries": 6
+      "discoveries": 6,
+      "ideas": 0
     },
     "india": {
       "candidates": 18,
-      "discoveries": 3
+      "discoveries": 3,
+      "ideas": 0
     },
     "germany": {
       "candidates": 20,
-      "discoveries": 3
+      "discoveries": 3,
+      "ideas": 0
     },
     "sweden": {
       "candidates": 18,
-      "discoveries": 3
+      "discoveries": 3,
+      "ideas": 0
     },
     "uk": {
       "candidates": 21,
-      "discoveries": 0
+      "discoveries": 0,
+      "ideas": 0
     },
     "france": {
       "candidates": 20,
-      "discoveries": 3
+      "discoveries": 3,
+      "ideas": 0
     },
     "italy": {
       "candidates": 18,
-      "discoveries": 0
+      "discoveries": 0,
+      "ideas": 0
     },
     "netherlands": {
       "candidates": 20,
-      "discoveries": 3
+      "discoveries": 3,
+      "ideas": 0
     },
     "poland": {
       "candidates": 21,
-      "discoveries": 3
+      "discoveries": 3,
+      "ideas": 0
     },
     "turkey": {
       "candidates": 20,
-      "discoveries": 0
+      "discoveries": 0,
+      "ideas": 0
     },
     "mexico": {
       "candidates": 20,
-      "discoveries": 0
+      "discoveries": 0,
+      "ideas": 0
     },
     "brazil": {
       "candidates": 20,
-      "discoveries": 3
+      "discoveries": 3,
+      "ideas": 0
     },
     "colombia": {
       "candidates": 20,
-      "discoveries": 0
+      "discoveries": 0,
+      "ideas": 0
     },
     "argentina": {
       "candidates": 18,
-      "discoveries": 3
+      "discoveries": 3,
+      "ideas": 0
     },
     "morocco": {
       "candidates": 20,
-      "discoveries": 3
+      "discoveries": 3,
+      "ideas": 0
     },
     "kenya": {
       "candidates": 27,
-      "discoveries": 3
+      "discoveries": 3,
+      "ideas": 0
     },
     "south_africa": {
       "candidates": 28,
-      "discoveries": 2
+      "discoveries": 2,
+      "ideas": 0
     },
     "australia": {
       "candidates": 21,
-      "discoveries": 1
+      "discoveries": 1,
+      "ideas": 0
     },
     "new_zealand": {
       "candidates": 20,
-      "discoveries": 2
+      "discoveries": 2,
+      "ideas": 0
     },
     "israel": {
       "candidates": 20,
-      "discoveries": 0
+      "discoveries": 0,
+      "ideas": 0
     },
     "egypt": {
       "candidates": 22,
-      "discoveries": 3
+      "discoveries": 3,
+      "ideas": 0
     },
     "malaysia": {
       "candidates": 22,
-      "discoveries": 3
+      "discoveries": 3,
+      "ideas": 0
     },
     "singapore": {
       "candidates": 21,
-      "discoveries": 3
+      "discoveries": 3,
+      "ideas": 0
     }
   },
   "categories_recent": [
@@ -129,5 +159,6 @@
     "kitchen"
   ],
   "total_candidates": 659,
-  "total_discoveries": 66
+  "total_discoveries": 66,
+  "total_ideas": 0
 }
