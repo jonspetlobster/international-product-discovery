@@ -17,7 +17,7 @@
     "netherlands": {"candidates": 20, "discoveries": 3},
     "poland": {"candidates": 21, "discoveries": 3},
     "turkey": {"candidates": 20, "discoveries": 0},
-    "mexico": {"candidates": 0, "discoveries": 0},
+    "mexico": {"candidates": 20, "discoveries": 0},
     "brazil": {"candidates": 20, "discoveries": 3},
     "colombia": {"candidates": 0, "discoveries": 0},
     "argentina": {"candidates": 0, "discoveries": 0},
@@ -31,7 +31,7 @@
     "malaysia": {"candidates": 0, "discoveries": 0},
     "singapore": {"candidates": 0, "discoveries": 0}
   },
-  "categories_recent": ["stationery", "health-wellness", "cleaning", "grocery", "personal-care"],
-  "total_candidates": 365,
+  "categories_recent": ["health-wellness", "cleaning", "grocery", "personal-care", "kitchen"],
+  "total_candidates": 385,
   "total_discoveries": 37
 }
