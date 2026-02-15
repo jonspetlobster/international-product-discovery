@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-15 09:25",
-  "total_ideas": 27,
-  "total_candidates_evaluated": 834,
-  "total_rejected": 370,
+  "generated": "2026-02-15 17:35",
+  "total_ideas": 30,
+  "total_candidates_evaluated": 852,
+  "total_rejected": 372,
   "top10": [
     {
       "id": "idea_001",
@@ -30,7 +30,7 @@
         "https://www.reddit.com/r/traderjoes/comments/w4p1ur/trader_joes_umami_seasoning_has_anyone_tried_it/"
       ],
       "manufacturing_path": "US-based spice co-packer. Source roasted lentils in bulk (already available from US suppliers), blend with spices, fill into shaker bottles. Hongar Farms does private label with 24-unit minimums. Could also hand-blend first 100 units to validate.",
-      "estimated_cogs_per_unit": 1.5,
+      "estimated_cogs_per_unit": 1.50,
       "target_retail_price": 8.99,
       "estimated_margin_multiplier": 6.0,
       "startup_cost_estimate": "$500-$1500 for first 100 units (hand blend + bottles + labels). $2000-$3500 for first co-packer run of 240-500 units.",
@@ -65,7 +65,7 @@
       "id": "idea_013",
       "date": "2026-02-15",
       "inspiration_product": "Kolonya (Turkish Lemon Cologne)",
-      "inspiration_brand": "Rebul, Ey\u00fcp Sabri Tuncer, Pereja, Duru",
+      "inspiration_brand": "Rebul, Eyüp Sabri Tuncer, Pereja, Duru",
       "inspiration_country": "turkey",
       "category": "cleaning",
       "us_brand_concept": "Luxury hospitality hand sanitizer brand - premium lemon cologne-based sanitizer positioned as 'the entertaining essential' for hosts",
@@ -88,8 +88,8 @@
         "https://www.amazon.com/Duru-Cologne-Lemon-400-ml/dp/B00375SRGY"
       ],
       "manufacturing_path": "Private label via Alibaba - hundreds of manufacturers offer 75-80% alcohol hand sanitizer with custom fragrances. Can start with stock formulation + custom labels, then graduate to proprietary scent blends. Domestic co-packer also possible (many hand sanitizer manufacturers emerged during COVID). Glass bottles from container suppliers.",
-      "estimated_cogs_per_unit": 3.5,
-      "target_retail_price": 24.0,
+      "estimated_cogs_per_unit": 3.50,
+      "target_retail_price": 24.00,
       "estimated_margin_multiplier": 6.9,
       "startup_cost_estimate": "$3K - $5K for first 500 units (product + beautiful packaging + basic Shopify site)",
       "go_to_market": "Shopify DTC with Instagram/TikTok ads targeting home entertainers. Influencer gifting to lifestyle/entertaining creators. Amazon FBA as secondary channel. Wholesale to boutique gift shops and design stores. Farmers markets and pop-ups for validation. Subscription model for refills.",
@@ -130,7 +130,7 @@
       "us_brand_concept": "NutDust - Savory roasted peanut seasoning blend (the peanut version of Everything Bagel)",
       "the_twist": "Take peanut podi's roasted peanut + spice concept, remove Indian branding, position as 'savory peanut seasoning' competing with Everything Bagel Seasoning but with protein + nutty richness",
       "twist_type": "brand-upgrade",
-      "target_customer": "Same customer who buys Everything Bagel Seasoning, Maldon salt, Taj\u00edn. People who put seasoning on everything. Bonus: peanut allergy-avoiders can skip, but peanut lovers get a unique option.",
+      "target_customer": "Same customer who buys Everything Bagel Seasoning, Maldon salt, Tajín. People who put seasoning on everything. Bonus: peanut allergy-avoiders can skip, but peanut lovers get a unique option.",
       "description": "Peanut podi is a South Indian condiment powder made from roasted peanuts, lentils, red chili, garlic, curry leaves, and spices. Mix with oil for instant peanut chutney or sprinkle dry on food. It's intensely savory with nutty depth. No US brand has done 'savory peanut seasoning' - all peanut products are sweet (PB) or whole roasted nuts. This fills the gap between Everything Bagel and actual peanut butter.",
       "problem_solved": "Everything Bagel Seasoning is ubiquitous but lacks protein and nutty richness. Peanut powder products exist but are all SWEET (PB2, etc). This is the first SAVORY peanut-based seasoning for the US market.",
       "us_competitive_landscape": "Everything Bagel Seasoning owns the savory-sprinkle space. Trader Joe's sells it, so do 50+ copycat brands. But zero brands have done savory peanut seasoning. Peanut powder (PB2) exists but it's reconstituted peanut butter, not a seasoning. Huge white space.",
@@ -200,7 +200,7 @@
         "https://vickypham.com/blog/vietnamese-caramel-cooking-sauce-nuoc-mau/"
       ],
       "manufacturing_path": "Contract sauce co-packer (California or Texas near Vietnamese communities). Simple formulation: sugar + water. Cook in batches, bottle hot, shelf-stable for 12+ months. MOQ likely 500-1000 units (~$2-3K first run).",
-      "estimated_cogs_per_unit": 1.5,
+      "estimated_cogs_per_unit": 1.50,
       "target_retail_price": 8.99,
       "estimated_margin_multiplier": 6.0,
       "startup_cost_estimate": "$3K - $5K (first production run 500-1000 bottles, basic label design, food safety compliance)",
@@ -242,7 +242,7 @@
       "the_twist": "Break the import monopoly by domestic manufacturing - offer Dr. Oetker quality at $3-4 vs $15, with Instagram-worthy packaging targeting Gen Z/Millennial bakers",
       "twist_type": "brand-upgrade|us-sizing",
       "target_customer": "Home bakers (25-45, female-skewing) who make cakes, whipped cream desserts - Pinterest/Instagram users, amateur but passionate",
-      "description": "Paneangeli cream stabilizer costs \u20ac1 in Italy but $15 for 3 sachets on Amazon US. Dr. Oetker (German) dominates US market with ugly functional packaging. US version with better branding, competitive pricing ($3-4), and marketing to social media bakers creates massive opportunity. The product is simple (modified starch + gelatin) - easy to manufacture domestically via co-packer.",
+      "description": "Paneangeli cream stabilizer costs €1 in Italy but $15 for 3 sachets on Amazon US. Dr. Oetker (German) dominates US market with ugly functional packaging. US version with better branding, competitive pricing ($3-4), and marketing to social media bakers creates massive opportunity. The product is simple (modified starch + gelatin) - easy to manufacture domestically via co-packer.",
       "problem_solved": "Home bakers need whipped cream to stay stiff for layered cakes and desserts, but current options are either expensive imports or industrial bulk sizes. No US brand owns the home baker segment with approachable pricing and beautiful branding.",
       "us_competitive_landscape": "Dr. Oetker dominates with functional packaging. Cuisine Tech and Pastry 1 serve industrial/bulk. Imports (Yamkay, Neotea) have poor branding. NO premium US home baker brand exists. Market gap is clear.",
       "demand_signals": [
@@ -294,7 +294,7 @@
       "inspiration_brand": "Various German Apotheke brands",
       "inspiration_country": "germany",
       "category": "health-wellness",
-      "us_brand_concept": "Remedy Tea Co. \u2014 Single-herb functional tea sachets for specific ailments with pharma-grade sourcing",
+      "us_brand_concept": "Remedy Tea Co. — Single-herb functional tea sachets for specific ailments with pharma-grade sourcing",
       "the_twist": "Replace multi-herb 'wellness' blends with single-ingredient teas backed by clinical research, each targeting one specific condition (sore throat, digestion, sleep, inflammation). German apotheken approach: precise dosing, medical-grade herbs, clear function.",
       "twist_type": "ingredient-swap",
       "target_customer": "Health-conscious millennials who want natural remedies but distrust 'woo-woo' wellness products. People with recurring minor ailments (seasonal allergies, stress insomnia, digestive issues).",
@@ -368,7 +368,7 @@
         "https://www.walmart.com/browse/food/seasoning-mixes-blends/provenzal/976759_976794_3029941_9677176/YnJhbmQ6UHJvdmVuemFs"
       ],
       "manufacturing_path": "Contract spice blender (US-based). Simple dried herbs + granulated garlic. MOQ likely 500-1000 units. Companies like Spice Dynamics or Frontier Co-op can do private label. Estimated $2-3 COGS per 4oz jar.",
-      "estimated_cogs_per_unit": 2.5,
+      "estimated_cogs_per_unit": 2.50,
       "target_retail_price": 12.99,
       "estimated_margin_multiplier": 5.2,
       "startup_cost_estimate": "$3K-$5K (first 500 units + jars + labels + Shopify site)",
@@ -406,11 +406,11 @@
       "inspiration_brand": "La Corona",
       "inspiration_country": "mexico",
       "category": "cleaning",
-      "us_brand_concept": "ONEBAR \u2014 The minimalist's all-in-one cleaning bar for travel, van life, and tiny homes",
+      "us_brand_concept": "ONEBAR — The minimalist's all-in-one cleaning bar for travel, van life, and tiny homes",
       "the_twist": "Travel-sized (1.5oz) bar soap in modern, giftable packaging with magnetic tin case. Sold as 3-pack starter kit (Clothes/Dishes/All-Purpose). Each bar labeled for specific use but formula is same multi-purpose soap.",
       "twist_type": "format-change|brand-upgrade|niche-targeting",
       "target_customer": "Digital nomads, van lifers, minimalists, backpackers, tiny home dwellers, frequent travelers aged 25-40 who value 'less stuff'",
-      "description": "Zote is a Mexican laundry bar soap that's gone viral \u2014 even popular in South Korea. It's a 66% fatty acid multi-purpose soap used for laundry, floors, dishes, and stain removal. The US version is a huge pink bar in dated packaging, sold mainly in Latino grocery stores. The twist: create travel-sized bars (TSA-friendly 1.5oz) in beautiful modern packaging positioned as 'the one cleaning bar you need' for people living with less.",
+      "description": "Zote is a Mexican laundry bar soap that's gone viral — even popular in South Korea. It's a 66% fatty acid multi-purpose soap used for laundry, floors, dishes, and stain removal. The US version is a huge pink bar in dated packaging, sold mainly in Latino grocery stores. The twist: create travel-sized bars (TSA-friendly 1.5oz) in beautiful modern packaging positioned as 'the one cleaning bar you need' for people living with less.",
       "problem_solved": "Travelers and minimalists hate carrying multiple cleaning products. Liquid detergents leak, pods waste space. A single multi-purpose bar solves laundry, dishes, and spot cleaning in one package.",
       "us_competitive_landscape": "Travel laundry market has soap sheets (Travelon), liquid packets (SinkSuds), and generic bars. NO ONE offers modern-branded, purpose-designed travel soap bars targeting the minimalist/van life aesthetic. Closest competitor: Sea to Summit soap leaves at $8 for 50 uses, but it's ugly outdoor-gear branding.",
       "demand_signals": [
@@ -446,7 +446,7 @@
       "score_avg": 8.4,
       "risks": [
         "Zote already sold in US (could expand distribution)",
-        "Bar soap is 'old-fashioned' \u2014 need to make it cool again",
+        "Bar soap is 'old-fashioned' — need to make it cool again",
         "Formula testing needed to verify it actually works well for all uses",
         "Magnetic tins add cost"
       ],
@@ -480,8 +480,8 @@
         "https://www.reddit.com/r/italy/comments/gdbkz5/cleaning_supplies/"
       ],
       "manufacturing_path": "Simple assembly: Source bulk baking soda and white vinegar. Partner with sachet co-packer for pre-portioned packets. Buy spray bottles from Alibaba (or US supplier for faster ship). Assemble kits domestically or via 3PL.",
-      "estimated_cogs_per_unit": 8.5,
-      "target_retail_price": 39.0,
+      "estimated_cogs_per_unit": 8.50,
+      "target_retail_price": 39.00,
       "estimated_margin_multiplier": 4.6,
       "startup_cost_estimate": "$5K - $12K (starter kit inventory, spray bottles, sachets, branding, photography)",
       "go_to_market": "DTC with Italian lifestyle branding - think 'what your nonna uses'. Instagram/TikTok content showing the method. Sell on Amazon too. Target Uncommon Goods, Goop gift guides. Subscription refills (sachets only).",
