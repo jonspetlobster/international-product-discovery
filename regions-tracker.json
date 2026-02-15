@@ -13,8 +13,8 @@
       "discoveries": 0
     },
     "china": {
-      "candidates": 17,
-      "discoveries": 0
+      "candidates": 32,
+      "discoveries": 3
     },
     "thailand": {
       "candidates": 22,
@@ -122,12 +122,12 @@
     }
   },
   "categories_recent": [
-    "laundry-clothing",
     "health-wellness",
     "cleaning",
     "grocery",
-    "personal-care"
+    "personal-care",
+    "kitchen"
   ],
-  "total_candidates": 644,
-  "total_discoveries": 63
+  "total_candidates": 659,
+  "total_discoveries": 66
 }
