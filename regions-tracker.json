@@ -113,8 +113,8 @@
       "discoveries": 0
     },
     "malaysia": {
-      "candidates": 0,
-      "discoveries": 0
+      "candidates": 22,
+      "discoveries": 3
     },
     "singapore": {
       "candidates": 21,
@@ -122,12 +122,12 @@
     }
   },
   "categories_recent": [
-    "health-wellness",
     "cleaning",
     "grocery",
     "personal-care",
-    "kitchen"
+    "kitchen",
+    "stationery"
   ],
-  "total_candidates": 533,
-  "total_discoveries": 50
+  "total_candidates": 555,
+  "total_discoveries": 53
 }
