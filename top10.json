@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-15 01:24",
-  "total_discoveries": 34,
-  "total_candidates_evaluated": 325,
-  "total_rejected": 171,
+  "generated": "2026-02-15 02:04",
+  "total_discoveries": 37,
+  "total_candidates_evaluated": 365,
+  "total_rejected": 186,
   "top10": [
     {
       "id": "discovery_015",
@@ -227,6 +227,51 @@
       "next_steps": "Source bulk from French pharmacy distributor or gray-market EU beauty suppliers. Market heavily to r/SkincareAddiction and skincare TikTok. Emphasize the FDA filter gap and superior UVA1 protection. Could bundle with other French sunscreens (Bioderma, Av\u00e8ne) as a 'European Sun Protection Kit'."
     },
     {
+      "id": "discovery_035",
+      "date": "2026-02-15",
+      "product_name": "Granado Polvilho Antiss\u00e9ptico",
+      "brand_example": "Granado",
+      "country": "brazil",
+      "category": "personal-care",
+      "description": "Iconic antiseptic cassava powder created in 1903 by Jo\u00e3o Bernardo Granado. Combines antibacterial, antifungal, drying, and deodorizing properties in a talc-free starch powder. Widely used for diaper rash, heat rash, chafing, and foot odor. Cultural staple in Brazilian households for over a century.",
+      "problem_solved": "Prevents and treats diaper rash, prickly heat, and skin irritation with antiseptic action that goes beyond simple moisture absorption. Safer than talc, more effective than cornstarch alone.",
+      "us_gap": "US baby powders are mostly cornstarch or arrowroot (moisture absorption only) or have been reformulated away from talc due to health concerns. None combine antiseptic properties (boric acid + zinc oxide) with natural starch base. Anti Monkey Butt and similar are cornstarch with calamine, not antiseptic.",
+      "demand_signals": [
+        "Mentioned repeatedly on Reddit as must-bring item from Brazil",
+        "Historical brand with 120+ year heritage",
+        "Approved by Oswaldo Cruz (Brazilian public health pioneer)",
+        "Used by multiple generations of Brazilians",
+        "Expats stock up when visiting Brazil"
+      ],
+      "source_urls": [
+        "https://www.amazon.com/Linha-Antisseptica-Granado-Antisseptico-Tradicional/dp/B0DZXYW7Z4",
+        "https://mkpbr.com/en-us/products/polvilho-antisseptico-granado-100g"
+      ],
+      "estimated_local_price_usd": 3.5,
+      "potential_us_retail_price_usd": 14.99,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 7,
+        "us_gap": 9,
+        "importability": 10,
+        "margin_potential": 9,
+        "defensibility": 7,
+        "wow_factor": 6
+      },
+      "score_avg": 8.0,
+      "rejection_risks": [
+        "FDA regulation of antiseptic OTC products",
+        "Boric acid content may require approval",
+        "Cultural unfamiliarity with cassava-based products"
+      ],
+      "sourcing_notes": "Manufactured by Granado in Brazil since 1903. 100g tins. Shelf-stable powder. Likely available from Brazilian distributors or Granado direct. Low weight, easy to ship.",
+      "next_steps": "Contact Granado USA (granado.us) about wholesale/distribution. Research FDA OTC antiseptic requirements for boric acid products. Test market on Amazon to Brazilian expat community first."
+    },
+    {
       "id": "discovery_014",
       "date": "2026-02-14",
       "product_name": "Happy Skin Lip Mallow Plush Matte Lip Tint",
@@ -406,52 +451,6 @@
       ],
       "sourcing_notes": "Kama Ayurveda is premium Indian brand with existing US Amazon presence. Could approach as authorized distributor or create curated 'best of Indian ayurvedic oils' collection. Alternatively source from Kerala Ayurveda or Blue Nectar (other reputable brands). MOQ likely 100-500 units. Shelf life 12-18 months if stored properly.",
       "next_steps": "Contact Kama Ayurveda for US distribution terms. Order competitor samples (Kerala Ayurveda, Shankara, Forest Essentials). Survey wellness/clean beauty audiences for willingness to pay. Create educational content on kumkumadi history and traditional preparation. Partner with ayurvedic practitioners or influencers for credibility."
-    },
-    {
-      "id": "discovery_012",
-      "date": "2026-02-14",
-      "product_name": "\u00d4 Mai Traditional Vietnamese Preserved Fruits",
-      "brand_example": "Hong Lam, V\u1ea1n L\u1ee3i, or Hanoi street vendors",
-      "country": "vietnam",
-      "category": "grocery",
-      "description": "Traditional Hanoi snack of preserved fruits (apricot, plum, kumquat, mango, tamarind, star fruit) coated with sugar, salt, chili, or ginger. Eaten with tea, used as palate cleanser, traditional Tet (Vietnamese New Year) treat. Sweet-salty-sour-spicy flavor profile. Chewy, intense, and uniquely Vietnamese.",
-      "problem_solved": "Americans love sweet-salty-sour flavors (see: Taj\u00edn, chamoy, Asian candy trends) but have zero access to Vietnamese preserved fruits. This is a gap in the exotic snack category.",
-      "us_gap": "The closest US equivalent is maybe dried fruit or Asian preserved plums, but nothing captures the complex sweet-salty-chili-ginger coating and cultural significance. Zero authentic \u00f4 mai brands in US.",
-      "demand_signals": [
-        "Repeatedly mentioned in what to bring back from Vietnam threads",
-        "Hanoi specialty with strong cultural association",
-        "Americans love complex flavor profiles (see: Taj\u00edn success)",
-        "Gifting culture around Tet could translate to US Vietnamese diaspora"
-      ],
-      "source_urls": [
-        "https://www.tasteatlas.com/o-mai",
-        "https://www.reddit.com/r/VietNam/comments/1gd6bfi/what_should_i_bring_home_from_vietnam/",
-        "https://www.thefoodmaps.com/hong-lam-o-mai-preserving-vietnams-culinary-heritage/"
-      ],
-      "estimated_local_price_usd": 4.0,
-      "potential_us_retail_price_usd": 14.99,
-      "google_trends": {
-        "avg": 0,
-        "recent": 0,
-        "trend": "no_data"
-      },
-      "scores": {
-        "demand_signal": 6,
-        "us_gap": 9,
-        "importability": 7,
-        "margin_potential": 8,
-        "defensibility": 8,
-        "wow_factor": 8
-      },
-      "score_avg": 7.7,
-      "rejection_risks": [
-        "Acquired taste - not immediately accessible to Western palate",
-        "Need education and storytelling",
-        "Unclear FDA import requirements for preserved fruits",
-        "May have texture/appearance barrier (looks unusual)"
-      ],
-      "sourcing_notes": "Hong Lam is established Hanoi brand. V\u1ea1n L\u1ee3i also mentioned. Could source from specialty producers. Shelf-stable, good for shipping. Likely need FDA import approval for preserved fruit category. MOQ unclear but probably 200-500 units. Packaging is key - needs premium positioning.",
-      "next_steps": "Research FDA requirements for preserved fruit imports. Contact Hong Lam for US distribution. Position as premium exotic snack ($14.99 for 6-8oz jar). Target Vietnamese diaspora first, then expand to adventurous snackers. Sampling is crucial - this needs to be tasted to be understood. Could partner with specialty Asian grocery chains."
     }
   ]
 }
