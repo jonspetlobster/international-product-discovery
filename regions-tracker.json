@@ -22,7 +22,7 @@
     "colombia": {"candidates": 20, "discoveries": 0},
     "argentina": {"candidates": 18, "discoveries": 3},
     "morocco": {"candidates": 20, "discoveries": 3},
-    "kenya": {"candidates": 0, "discoveries": 0},
+    "kenya": {"candidates": 12, "discoveries": 0},
     "south_africa": {"candidates": 0, "discoveries": 0},
     "australia": {"candidates": 21, "discoveries": 1},
     "new_zealand": {"candidates": 0, "discoveries": 0},
@@ -31,7 +31,7 @@
     "malaysia": {"candidates": 0, "discoveries": 0},
     "singapore": {"candidates": 0, "discoveries": 0}
   },
-  "categories_recent": ["grocery", "personal-care", "kitchen", "home-tools", "health-wellness"],
-  "total_candidates": 464,
+  "categories_recent": ["personal-care", "kitchen", "home-tools", "health-wellness", "cleaning"],
+  "total_candidates": 476,
   "total_discoveries": 44
 }
