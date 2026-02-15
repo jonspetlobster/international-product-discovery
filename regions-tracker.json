@@ -106,9 +106,9 @@
       "ideas": 3
     },
     "morocco": {
-      "candidates": 20,
+      "candidates": 40,
       "discoveries": 3,
-      "ideas": 0
+      "ideas": 3
     },
     "kenya": {
       "candidates": 27,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "cleaning",
     "health-wellness",
     "grocery-pantry",
     "kitchen",
-    "personal-care"
+    "personal-care",
+    "snacks-candy"
   ],
-  "total_candidates": 911,
+  "total_candidates": 931,
   "total_discoveries": 66,
-  "total_ideas": 36
+  "total_ideas": 39
 }
