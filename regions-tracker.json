@@ -65,7 +65,7 @@
       "discoveries": 3
     },
     "turkey": {
-      "candidates": 0,
+      "candidates": 20,
       "discoveries": 0
     },
     "mexico": {
@@ -122,12 +122,12 @@
     }
   },
   "categories_recent": [
-    "personal-care",
     "kitchen",
     "stationery",
     "health-wellness",
-    "cleaning"
+    "cleaning",
+    "grocery"
   ],
-  "total_candidates": 325,
+  "total_candidates": 345,
   "total_discoveries": 34
 }
