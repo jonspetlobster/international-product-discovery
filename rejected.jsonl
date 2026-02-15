@@ -259,3 +259,21 @@
 {"product_name": "Robertson's Spice Blends", "country": "south_africa", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Robertson's Chicken Spice and other blends available"}
 {"product_name": "Kola Tonic Soda", "country": "south_africa", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Claytons and Roses Kola Tonic both available"}
 {"product_name": "Bovril Beef Extract", "country": "south_africa", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Available as Bovrite (US equivalent) on Amazon"}
+{"product_name": "Suubalm Rapid Acting Soothing Moisturizer", "country": "singapore", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Full product line readily available on Amazon US with good reviews and National Eczema Association seal"}
+{"product_name": "Handmade Heroes Sugar Lip Scrub", "country": "singapore", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Amazon #1 bestseller but already widely available on Amazon US, full product line present"}
+{"product_name": "Allies of Skin Advanced Repair Serum", "country": "singapore", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Entire Allies of Skin line available on Amazon US, also at Sephora and SpaceNK"}
+{"product_name": "Axe Brand Universal Oil", "country": "singapore", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Multiple sizes available on Amazon US from various sellers"}
+{"product_name": "Wong To Yick Wood Lock Oil", "country": "singapore", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Widely available on Amazon US in multiple pack sizes"}
+{"product_name": "Po Sum On Oil", "country": "singapore", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Available on Amazon US in single and multi-packs"}
+{"product_name": "Tiger Balm Red", "country": "singapore", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Tiger Balm is globally distributed and readily available in US drugstores and Amazon"}
+{"product_name": "Handmade Heroes Bakuchiol Booster Oil", "country": "singapore", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Part of Handmade Heroes line already on Amazon US"}
+{"product_name": "Handmade Heroes Hyaluronic Acid Snow Shroom Serum", "country": "singapore", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Part of Handmade Heroes line already on Amazon US"}
+{"product_name": "Allies of Skin GF Advanced Lifting Serum", "country": "singapore", "reason": "already_on_amazon", "date": "2026-02-15", "notes": "Full Allies of Skin collection on Amazon US"}
+{"product_name": "Imada Red Flower Oil", "country": "singapore", "reason": "us_equivalent_exists", "date": "2026-02-15", "notes": "Similar Hung FA Red Flower Oil available on Amazon US, same product category"}
+{"product_name": "Skin Inc Custom Serums", "country": "singapore", "reason": "too_niche", "date": "2026-02-15", "notes": "Customization model requires infrastructure, not suitable for import/resale"}
+{"product_name": "Romi Skincare Collection", "country": "singapore", "reason": "too_niche", "date": "2026-02-15", "notes": "Insufficient product details found, appears to be boutique/niche with limited demand signals"}
+{"product_name": "Nodspark Skincare Line", "country": "singapore", "reason": "too_niche", "date": "2026-02-15", "notes": "Minimal online presence, no strong demand signals, unclear product differentiation"}
+{"product_name": "Sigi Skin Hydrating Cleanser", "country": "singapore", "reason": "duplicate", "date": "2026-02-15", "notes": "Duplicate of Kaleanser which was validated separately"}
+{"product_name": "Sage & Ylang Natural Skincare", "country": "singapore", "reason": "too_niche", "date": "2026-02-15", "notes": "Limited product information, no clear hero product or strong demand signals"}
+{"product_name": "Est.lab Professional Skincare", "country": "singapore", "reason": "too_niche", "date": "2026-02-15", "notes": "Appears to be professional/clinical line, limited consumer demand signals"}
+{"product_name": "Postcard Natural Body Care", "country": "singapore", "reason": "too_niche", "date": "2026-02-15", "notes": "Minimal online presence outside Singapore, handcrafted but no clear differentiation"}

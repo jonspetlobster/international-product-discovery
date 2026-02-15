@@ -117,17 +117,17 @@
       "discoveries": 0
     },
     "singapore": {
-      "candidates": 0,
-      "discoveries": 0
+      "candidates": 21,
+      "discoveries": 3
     }
   },
   "categories_recent": [
-    "kitchen",
     "home-tools",
     "health-wellness",
     "cleaning",
-    "grocery"
+    "grocery",
+    "personal-care"
   ],
-  "total_candidates": 492,
-  "total_discoveries": 45
+  "total_candidates": 513,
+  "total_discoveries": 48
 }
