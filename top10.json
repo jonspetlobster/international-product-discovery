@@ -1,460 +1,459 @@
 {
-  "generated": "2026-02-15 05:20",
-  "total_discoveries": 53,
-  "total_candidates_evaluated": 555,
-  "total_rejected": 290,
-  "top10": 
-[
-  {
-    "id": "discovery_015",
-    "date": "2026-02-14",
-    "product_name": "Detail Lip Trace Extreme Wear Lip Liner",
-    "brand_example": "Detail",
-    "country": "philippines",
-    "category": "personal-care",
-    "description": "Extreme long-wear lip liner that survives showers, meals, and full days without budging. Glides on smoothly before setting to a completely transfer-proof finish. Thin precision tip allows both lip lining and filling. Must be worn with product on top as it can dry out lips if worn alone.",
-    "problem_solved": "Lip liner that fades, feathers, or transfers within hours. Need for constant touch-ups. Finding a liner that truly SETS and doesn't move.",
-    "us_gap": "High-end options like Charlotte Tilbury Lip Cheat ($25) and Urban Decay 24/7 ($23) claim long-wear but still transfer and fade. MAC Pro Longwear ($20) gets mixed reviews. No true 'survives a shower' level staying power at any price point.",
-    "demand_signals": [
-      "Beauty editor: 'I don't know what sorcery is used'",
-      "Hand swatch survived a shower",
-      "Described as 'glides on then you can't move it'",
-      "Top of shopping list recommendation"
-    ],
-    "source_urls": [
-      "https://kristinarodulfo.substack.com/p/best-filipino-makeup-products-philippines-beauty-haul"
-    ],
-    "estimated_local_price_usd": 9.00,
-    "potential_us_retail_price_usd": 22.00,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
+  "generated": "2026-02-15 06:08",
+  "total_discoveries": 56,
+  "total_candidates_evaluated": 590,
+  "total_rejected": 313,
+  "top10": [
+    {
+      "id": "discovery_015",
+      "date": "2026-02-14",
+      "product_name": "Detail Lip Trace Extreme Wear Lip Liner",
+      "brand_example": "Detail",
+      "country": "philippines",
+      "category": "personal-care",
+      "description": "Extreme long-wear lip liner that survives showers, meals, and full days without budging. Glides on smoothly before setting to a completely transfer-proof finish. Thin precision tip allows both lip lining and filling. Must be worn with product on top as it can dry out lips if worn alone.",
+      "problem_solved": "Lip liner that fades, feathers, or transfers within hours. Need for constant touch-ups. Finding a liner that truly SETS and doesn't move.",
+      "us_gap": "High-end options like Charlotte Tilbury Lip Cheat ($25) and Urban Decay 24/7 ($23) claim long-wear but still transfer and fade. MAC Pro Longwear ($20) gets mixed reviews. No true 'survives a shower' level staying power at any price point.",
+      "demand_signals": [
+        "Beauty editor: 'I don't know what sorcery is used'",
+        "Hand swatch survived a shower",
+        "Described as 'glides on then you can't move it'",
+        "Top of shopping list recommendation"
+      ],
+      "source_urls": [
+        "https://kristinarodulfo.substack.com/p/best-filipino-makeup-products-philippines-beauty-haul"
+      ],
+      "estimated_local_price_usd": 9.0,
+      "potential_us_retail_price_usd": 22.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 8,
+        "us_gap": 9,
+        "importability": 10,
+        "margin_potential": 9,
+        "defensibility": 8,
+        "wow_factor": 9
+      },
+      "score_avg": 8.8,
+      "rejection_risks": [
+        "Can be drying if worn alone",
+        "Extreme staying power may be off-putting to some users",
+        "Small product = harder to justify shipping"
+      ],
+      "sourcing_notes": "Detail is Filipino 'older sister brand', more sophisticated positioning. Pencil format = tiny, lightweight, high-value density. Very shelf-stable. Likely manufactured locally.",
+      "next_steps": "Order all shades for shade range assessment. Test staying power claims rigorously (shower test, meal test, exercise test). Calculate per-unit import cost. Check if retractable or requires sharpening. Research Detail brand's positioning and pricing strategy."
     },
-    "scores": {
-      "demand_signal": 8,
-      "us_gap": 9,
-      "importability": 10,
-      "margin_potential": 9,
-      "defensibility": 8,
-      "wow_factor": 9
+    {
+      "id": "discovery_002",
+      "date": "2026-02-14",
+      "product_name": "Korean Sunscreens with Advanced UV Filters (FDA-Unapproved)",
+      "brand_example": "MEDIHEAL Madecassoside Moisture Sun Serum, Beauty of Joseon Relief Sun Rice+Probiotics SPF50+",
+      "country": "south_korea",
+      "category": "personal-care",
+      "description": "Korean sunscreens using next-generation UV filters like Tinosorb S, Uvinul A Plus, and Bemotrizinol that provide superior UVA/UVB protection. These filters have been proven safe and effective globally for decades but remain unapproved by the FDA (no new filters approved since 1999). Korean formulations offer lightweight textures, no white cast, and superior photoprotection compared to US alternatives.",
+      "problem_solved": "Americans are stuck with outdated sunscreen technology. US sunscreens use old chemical filters (avobenzone, oxybenzone) that are heavier, greasier, leave white cast, and only need to block 30% of UVA rays to be labeled 'broad spectrum.' Korean sunscreens solve this with modern filters that are cosmetically elegant and offer true broad-spectrum protection.",
+      "us_gap": "US sunscreens rely on filters approved in the 1990s. Korean/Japanese/European sunscreens use filters from the 2000s-2010s that are photostable, less irritating, and more effective. Products on Amazon US are either grey market imports at inflated prices or reformulated FDA-compliant versions with inferior filters.",
+      "demand_signals": [
+        "Reddit threads with thousands of upvotes asking why Asian sunscreens are better",
+        "Beauty influencers import Korean sunscreen in bulk",
+        "Multiple articles explaining FDA regulatory lag",
+        "'Can't live without' sentiment in travel forums - people stock up when visiting Korea",
+        "YesStyle, Stylevana, K-beauty retailers built around importing these products"
+      ],
+      "source_urls": [
+        "https://www.reddit.com/r/AsianBeauty/comments/1df6vu9/can_someone_explain_to_me_like_im_5_why_japanese/",
+        "https://www.provisionfda.com/post/k-beauty-sunscreens-and-the-fda-how-regulatory-differences-affect-u-s-consumers",
+        "https://coveteur.com/best-korean-beauty-products"
+      ],
+      "estimated_local_price_usd": 15.0,
+      "potential_us_retail_price_usd": 35.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 10,
+        "us_gap": 10,
+        "importability": 9,
+        "margin_potential": 8,
+        "defensibility": 7,
+        "wow_factor": 8
+      },
+      "score_avg": 8.7,
+      "rejection_risks": [
+        "FDA could crack down on grey market sales",
+        "Brands might reformulate for US and lose advantage",
+        "Requires ongoing regulatory arbitrage"
+      ],
+      "sourcing_notes": "Source from Korean distributors, Olive Young bulk purchases, or direct from brands like MEDIHEAL, Beauty of Joseon, Isntree. Products are shelf-stable, lightweight, easy to ship. Olive Young often has 1+1 deals.",
+      "next_steps": "Create curated subscription box of 'FDA-unapproved but globally trusted' Korean sunscreens. Educational marketing explaining the FDA lag and why these are superior. Partner with dermatologists to validate. Build email list of skincare enthusiasts frustrated with US sunscreen options."
     },
-    "score_avg": 8.8,
-    "rejection_risks": [
-      "Can be drying if worn alone",
-      "Extreme staying power may be off-putting to some users",
-      "Small product = harder to justify shipping"
-    ],
-    "sourcing_notes": "Detail is Filipino 'older sister brand', more sophisticated positioning. Pencil format = tiny, lightweight, high-value density. Very shelf-stable. Likely manufactured locally.",
-    "next_steps": "Order all shades for shade range assessment. Test staying power claims rigorously (shower test, meal test, exercise test). Calculate per-unit import cost. Check if retractable or requires sharpening. Research Detail brand's positioning and pricing strategy."
-  },
-  {
-    "id": "discovery_002",
-    "date": "2026-02-14",
-    "product_name": "Korean Sunscreens with Advanced UV Filters (FDA-Unapproved)",
-    "brand_example": "MEDIHEAL Madecassoside Moisture Sun Serum, Beauty of Joseon Relief Sun Rice+Probiotics SPF50+",
-    "country": "south_korea",
-    "category": "personal-care",
-    "description": "Korean sunscreens using next-generation UV filters like Tinosorb S, Uvinul A Plus, and Bemotrizinol that provide superior UVA/UVB protection. These filters have been proven safe and effective globally for decades but remain unapproved by the FDA (no new filters approved since 1999). Korean formulations offer lightweight textures, no white cast, and superior photoprotection compared to US alternatives.",
-    "problem_solved": "Americans are stuck with outdated sunscreen technology. US sunscreens use old chemical filters (avobenzone, oxybenzone) that are heavier, greasier, leave white cast, and only need to block 30% of UVA rays to be labeled 'broad spectrum.' Korean sunscreens solve this with modern filters that are cosmetically elegant and offer true broad-spectrum protection.",
-    "us_gap": "US sunscreens rely on filters approved in the 1990s. Korean/Japanese/European sunscreens use filters from the 2000s-2010s that are photostable, less irritating, and more effective. Products on Amazon US are either grey market imports at inflated prices or reformulated FDA-compliant versions with inferior filters.",
-    "demand_signals": [
-      "Reddit threads with thousands of upvotes asking why Asian sunscreens are better",
-      "Beauty influencers import Korean sunscreen in bulk",
-      "Multiple articles explaining FDA regulatory lag",
-      "'Can't live without' sentiment in travel forums - people stock up when visiting Korea",
-      "YesStyle, Stylevana, K-beauty retailers built around importing these products"
-    ],
-    "source_urls": [
-      "https://www.reddit.com/r/AsianBeauty/comments/1df6vu9/can_someone_explain_to_me_like_im_5_why_japanese/",
-      "https://www.provisionfda.com/post/k-beauty-sunscreens-and-the-fda-how-regulatory-differences-affect-u-s-consumers",
-      "https://coveteur.com/best-korean-beauty-products"
-    ],
-    "estimated_local_price_usd": 15.00,
-    "potential_us_retail_price_usd": 35.00,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
+    {
+      "id": "discovery_033",
+      "date": "2026-02-15",
+      "product_name": "To\u0142pa Peat Extract Face Cream",
+      "brand_example": "To\u0142pa",
+      "country": "poland",
+      "category": "personal-care",
+      "description": "Unique Polish skincare brand built on world-unique peat extract and mud technology. Founded in 1989, To\u0142pa uses peat from specific Polish bogs combined with proprietary extraction process. Clinically proven to help acne, redness, rosacea, and sensitive skin. Available in UK (Lloyds Pharmacy, Boots) but not widely in US.",
+      "problem_solved": "People with acne-prone, redness-prone, and sensitive skin struggle to find products that actually calm inflammation without causing more irritation. Peat has anti-inflammatory and healing properties used for centuries.",
+      "us_gap": "US has some peat skincare (belif from Korea, Irish peat masks) but not To\u0142pa's specific Polish peat extraction. To\u0142pa is available in UK pharmacies with strong results, but virtually unknown in US. Lab tests show improvements in elasticity, hydration, pore size, sebum, and redness reduction.",
+      "demand_signals": [
+        "Available at major UK pharmacies (Lloyds, Boots) - validates demand",
+        "Marketed specifically for acne/rosacea with clinical backing",
+        "Peat skincare is niche but growing (belif success)",
+        "'Delivering stand-out results' per UK marketing materials"
+      ],
+      "source_urls": [
+        "https://lloydspharmacy.com/pages/tolpa",
+        "https://tolpa.co.uk/about-tolpa",
+        "https://cewuk.co.uk/tolpa-dermo-face-skincare-solutions-for-acne-rosacea-and-dryness-available-at-boots/"
+      ],
+      "estimated_local_price_usd": 18.0,
+      "potential_us_retail_price_usd": 42.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 8,
+        "us_gap": 9,
+        "importability": 9,
+        "margin_potential": 8,
+        "defensibility": 9,
+        "wow_factor": 8
+      },
+      "score_avg": 8.5,
+      "rejection_risks": [
+        "Peat sustainability concerns could emerge",
+        "'Mud' and 'peat' might not test well in US marketing"
+      ],
+      "sourcing_notes": "Manufactured by Torf Corporation, Poland since 1989. Recently acquired by Bielenda Group. Has UK distribution already, so export infrastructure exists. Shelf-stable creams and serums. Need to verify peat sourcing is sustainable for US messaging.",
+      "next_steps": "Contact To\u0142pa/Bielenda for US distribution rights. Position as 'European pharmacy secret for sensitive skin.' Target acne and rosacea communities. Emphasize clinical testing and natural peat benefits."
     },
-    "scores": {
-      "demand_signal": 10,
-      "us_gap": 10,
-      "importability": 9,
-      "margin_potential": 8,
-      "defensibility": 7,
-      "wow_factor": 8
+    {
+      "id": "discovery_038",
+      "date": "2026-02-15",
+      "product_name": "MooGoo Eczema & Psoriasis Cream (Pink Cream)",
+      "brand_example": "MooGoo",
+      "country": "australia",
+      "category": "health-wellness",
+      "description": "All-natural Australian eczema and psoriasis cream with marshmallow and elderberry extracts. 100% Australian-made, family-owned brand since 2005. Restores skin barrier and provides effective relief without steroids or harsh chemicals. Pink-tinted cream with gentle, edible ingredients safe for hypersensitive skin and children.",
+      "problem_solved": "People with eczema and psoriasis struggle with flare-ups and rely on steroid creams that thin skin over time. MooGoo offers steroid-free relief using natural anti-inflammatory ingredients, allowing daily use without side effects.",
+      "us_gap": "US eczema treatments are either steroid-based (Hydrocortisone, prescription steroids) or basic moisturizers (CeraVe, Aveeno, Eucerin) that only hydrate but don't actively treat inflammation. No major US brand offers a natural, Australian-formulated eczema cream with clinical backing and cult following.",
+      "demand_signals": [
+        "'This cream has changed my life' - ProductReview.com.au",
+        "'I have suffered from severe eczema my whole life... now eczema free' - Inspire.com",
+        "Reddit: 'MooGoo cream was a great alternative' to steroids",
+        "Clears flare-ups in 1-1.5 weeks without steroids",
+        "Has US distribution (moogoousa.com) but eczema cream not on Amazon",
+        "Australian TGA registered (ARTG 335464)"
+      ],
+      "source_urls": [
+        "https://www.productreview.com.au/listings/moogoo-eczema-psoriasis-balm",
+        "https://www.inspire.com/groups/psoriasis-community/discussion/moogoo-products-in-australia/",
+        "https://www.reddit.com/r/AusSkincare/comments/zx7gg7/moogoo_eczema_cream/",
+        "https://moogoo.com.au/products/pink-eczema-cream"
+      ],
+      "estimated_local_price_usd": 18.0,
+      "potential_us_retail_price_usd": 32.99,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 9,
+        "us_gap": 9,
+        "importability": 10,
+        "margin_potential": 8,
+        "defensibility": 8,
+        "wow_factor": 7
+      },
+      "score_avg": 8.5,
+      "rejection_risks": [
+        "MooGoo has US distribution already - check if eczema cream specifically is available or just other products",
+        "Natural eczema claims may require FDA review",
+        "Crowded eczema market with established brands"
+      ],
+      "sourcing_notes": "Manufactured by MooGoo in Australia. Has US entity (moogoousa.com). Shampoo on Amazon US but NOT eczema cream specifically. 120g tube. Shelf-stable cream. Could approach MooGoo USA for Amazon distribution or exclusive deal. Family-owned, may be open to partnerships.",
+      "next_steps": "Contact MooGoo USA to confirm eczema cream is NOT on Amazon US (only shampoo appears there). If true, negotiate Amazon exclusivity or wholesale deal. Target eczema/psoriasis communities on Reddit, Facebook groups. Emphasize steroid-free, Australian natural formulation, TGA registered. Price at $29.99-32.99 for 120g."
     },
-    "score_avg": 8.7,
-    "rejection_risks": [
-      "FDA could crack down on grey market sales",
-      "Brands might reformulate for US and lose advantage",
-      "Requires ongoing regulatory arbitrage"
-    ],
-    "sourcing_notes": "Source from Korean distributors, Olive Young bulk purchases, or direct from brands like MEDIHEAL, Beauty of Joseon, Isntree. Products are shelf-stable, lightweight, easy to ship. Olive Young often has 1+1 deals.",
-    "next_steps": "Create curated subscription box of 'FDA-unapproved but globally trusted' Korean sunscreens. Educational marketing explaining the FDA lag and why these are superior. Partner with dermatologists to validate. Build email list of skincare enthusiasts frustrated with US sunscreen options."
-  },
-  {
-    "id": "discovery_033",
-    "date": "2026-02-15",
-    "product_name": "Tołpa Peat Extract Face Cream",
-    "brand_example": "Tołpa",
-    "country": "poland",
-    "category": "personal-care",
-    "description": "Unique Polish skincare brand built on world-unique peat extract and mud technology. Founded in 1989, Tołpa uses peat from specific Polish bogs combined with proprietary extraction process. Clinically proven to help acne, redness, rosacea, and sensitive skin. Available in UK (Lloyds Pharmacy, Boots) but not widely in US.",
-    "problem_solved": "People with acne-prone, redness-prone, and sensitive skin struggle to find products that actually calm inflammation without causing more irritation. Peat has anti-inflammatory and healing properties used for centuries.",
-    "us_gap": "US has some peat skincare (belif from Korea, Irish peat masks) but not Tołpa's specific Polish peat extraction. Tołpa is available in UK pharmacies with strong results, but virtually unknown in US. Lab tests show improvements in elasticity, hydration, pore size, sebum, and redness reduction.",
-    "demand_signals": [
-      "Available at major UK pharmacies (Lloyds, Boots) - validates demand",
-      "Marketed specifically for acne/rosacea with clinical backing",
-      "Peat skincare is niche but growing (belif success)",
-      "'Delivering stand-out results' per UK marketing materials"
-    ],
-    "source_urls": [
-      "https://lloydspharmacy.com/pages/tolpa",
-      "https://tolpa.co.uk/about-tolpa",
-      "https://cewuk.co.uk/tolpa-dermo-face-skincare-solutions-for-acne-rosacea-and-dryness-available-at-boots/"
-    ],
-    "estimated_local_price_usd": 18.00,
-    "potential_us_retail_price_usd": 42.00,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
+    {
+      "id": "discovery_032",
+      "date": "2026-02-15",
+      "product_name": "BasicLab Dermocosmetics 0.5% Retinol Night Serum",
+      "brand_example": "BasicLab",
+      "country": "poland",
+      "category": "personal-care",
+      "description": "Advanced retinol night serum from Polish dermocosmetics brand BasicLab, founded in 2018 specifically to address the lack of effective products for sensitive and problematic skin. Formulated with 0.5% pure retinol, 4% vitamin C, CBD, coenzyme Q10, ceramides, and squalane for comprehensive anti-aging and skin renewal.",
+      "problem_solved": "High-quality retinol serums are expensive in the US, and many irritate sensitive skin. BasicLab's unique formula combines retinol with soothing ingredients like CBD and ceramides to deliver results without harsh reactions.",
+      "us_gap": "US has countless retinol serums, but most are either cheap and irritating or premium brands at $80-150. BasicLab offers dermatologically-tested, pharmacist-formulated retinol at mid-tier pricing with unique soothing complex. Reddit reviews say it's 'absolutely fantastic' for acne and hyperpigmentation.",
+      "demand_signals": [
+        "Reddit EuroSkincare users call it 'absolutely fantastic'",
+        "Polish users report excellent results on acne and discoloration",
+        "Growing interest in European dermocosmetics in US market",
+        "Retinol is top anti-aging ingredient with massive US demand"
+      ],
+      "source_urls": [
+        "https://www.ladymakeup.com/shop/basiclab.html",
+        "https://www.reddit.com/r/EuroSkincare/comments/1hqkvoa/polish_drugstore_skincare_tips_needed/"
+      ],
+      "estimated_local_price_usd": 25.0,
+      "potential_us_retail_price_usd": 59.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 9,
+        "us_gap": 8,
+        "importability": 9,
+        "margin_potential": 9,
+        "defensibility": 7,
+        "wow_factor": 8
+      },
+      "score_avg": 8.3,
+      "rejection_risks": [
+        "Amazon could copy formula",
+        "Competition from established retinol brands"
+      ],
+      "sourcing_notes": "Manufactured in Poland by BasicLab. Likely available via European distributors. Small 30ml bottles are lightweight and easy to ship. Shelf-stable. Would need FDA cosmetics compliance for US import.",
+      "next_steps": "Source directly from BasicLab Poland, test US demand with small batch via Amazon/Shopify, position as 'European dermocosmetics secret' with CBD+retinol angle"
     },
-    "scores": {
-      "demand_signal": 8,
-      "us_gap": 9,
-      "importability": 9,
-      "margin_potential": 8,
-      "defensibility": 9,
-      "wow_factor": 8
+    {
+      "id": "discovery_026",
+      "date": "2026-02-15",
+      "product_name": "La Roche-Posay Anthelios UVMune 400 Sunscreen",
+      "brand_example": "La Roche-Posay (L'Oreal)",
+      "country": "france",
+      "category": "personal-care",
+      "description": "Advanced French sunscreen formula featuring Mexoryl 400 (Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate), a revolutionary UV filter that provides superior protection in the long UVA1 spectrum (370-400nm). This wavelength range is not well-covered by US-approved sunscreen filters. The formula has undergone extensive clinical trials showing particular benefits for fading pigmented spots in darker skin tones. Water-resistant for 80 minutes, SPF 50+ with exceptionally high PPD rating of 46.",
+      "problem_solved": "Americans have no access to cutting-edge UVA1 protection because the FDA hasn't approved new sunscreen filters since 1999. This leaves a critical gap in protection against wavelengths that cause pigmentation and aging.",
+      "us_gap": "US La Roche-Posay sunscreens use older, FDA-approved filters (avobenzone, octinoxate) that don't cover the 370-400nm range as effectively. European formulas are objectively superior due to access to modern filters like Mexoryl 400, Tinosorb S, and Uvinul A Plus.",
+      "demand_signals": [
+        "Massive Reddit skincare community hype (r/SkincareAddiction, r/EuroSkincare)",
+        "Lab Muffin Beauty Science (cosmetic chemist) dedicated review article",
+        "People specifically travel to Europe to stock up on this sunscreen",
+        "Import sellers on Amazon charging 2-3x markup",
+        "Dermatologists recommend it over US alternatives"
+      ],
+      "source_urls": [
+        "https://labmuffin.com/la-roche-posay-uvmune-400-science-and-review/",
+        "https://www.reddit.com/r/SkincareAddiction/comments/u7y6s1/first_impressions_la_rocheposay_anthelios_uvmune/",
+        "https://www.reddit.com/r/30PlusSkinCare/comments/1dqqfas/what_would_you_buy_from_a_french_pharmacy/"
+      ],
+      "estimated_local_price_usd": 18.0,
+      "potential_us_retail_price_usd": 42.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 9,
+        "us_gap": 10,
+        "importability": 8,
+        "margin_potential": 7,
+        "defensibility": 8,
+        "wow_factor": 7
+      },
+      "score_avg": 8.2,
+      "rejection_risks": [
+        "FDA could eventually approve Mexoryl 400 for US market (but unlikely soon given slow approval process)",
+        "Shipping liquids adds cost and complexity",
+        "Some users report mild musty smell from MCE ingredient"
+      ],
+      "sourcing_notes": "French pharmacy exclusive. L'Oreal owns La Roche-Posay and Mexoryl 400 is their proprietary ingredient. Widely available at Citypharma in Paris and French pharmacy chains. 50ml bottles. Shelf-stable for 12 months after opening.",
+      "next_steps": "Source bulk from French pharmacy distributor or gray-market EU beauty suppliers. Market heavily to r/SkincareAddiction and skincare TikTok. Emphasize the FDA filter gap and superior UVA1 protection. Could bundle with other French sunscreens (Bioderma, Av\u00e8ne) as a 'European Sun Protection Kit'."
     },
-    "score_avg": 8.5,
-    "rejection_risks": [
-      "Peat sustainability concerns could emerge",
-      "'Mud' and 'peat' might not test well in US marketing"
-    ],
-    "sourcing_notes": "Manufactured by Torf Corporation, Poland since 1989. Recently acquired by Bielenda Group. Has UK distribution already, so export infrastructure exists. Shelf-stable creams and serums. Need to verify peat sourcing is sustainable for US messaging.",
-    "next_steps": "Contact Tołpa/Bielenda for US distribution rights. Position as 'European pharmacy secret for sensitive skin.' Target acne and rosacea communities. Emphasize clinical testing and natural peat benefits."
-  },
-  {
-    "id": "discovery_038",
-    "date": "2026-02-15",
-    "product_name": "MooGoo Eczema & Psoriasis Cream (Pink Cream)",
-    "brand_example": "MooGoo",
-    "country": "australia",
-    "category": "health-wellness",
-    "description": "All-natural Australian eczema and psoriasis cream with marshmallow and elderberry extracts. 100% Australian-made, family-owned brand since 2005. Restores skin barrier and provides effective relief without steroids or harsh chemicals. Pink-tinted cream with gentle, edible ingredients safe for hypersensitive skin and children.",
-    "problem_solved": "People with eczema and psoriasis struggle with flare-ups and rely on steroid creams that thin skin over time. MooGoo offers steroid-free relief using natural anti-inflammatory ingredients, allowing daily use without side effects.",
-    "us_gap": "US eczema treatments are either steroid-based (Hydrocortisone, prescription steroids) or basic moisturizers (CeraVe, Aveeno, Eucerin) that only hydrate but don't actively treat inflammation. No major US brand offers a natural, Australian-formulated eczema cream with clinical backing and cult following.",
-    "demand_signals": [
-      "'This cream has changed my life' - ProductReview.com.au",
-      "'I have suffered from severe eczema my whole life... now eczema free' - Inspire.com",
-      "Reddit: 'MooGoo cream was a great alternative' to steroids",
-      "Clears flare-ups in 1-1.5 weeks without steroids",
-      "Has US distribution (moogoousa.com) but eczema cream not on Amazon",
-      "Australian TGA registered (ARTG 335464)"
-    ],
-    "source_urls": [
-      "https://www.productreview.com.au/listings/moogoo-eczema-psoriasis-balm",
-      "https://www.inspire.com/groups/psoriasis-community/discussion/moogoo-products-in-australia/",
-      "https://www.reddit.com/r/AusSkincare/comments/zx7gg7/moogoo_eczema_cream/",
-      "https://moogoo.com.au/products/pink-eczema-cream"
-    ],
-    "estimated_local_price_usd": 18.00,
-    "potential_us_retail_price_usd": 32.99,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
+    {
+      "id": "discovery_044",
+      "date": "2026-02-15",
+      "product_name": "Kessa Exfoliating Glove + Beldi Soap Ritual",
+      "brand_example": "Zakia's Morocco, Fatima's Garden, Zawina Morocco",
+      "country": "morocco",
+      "category": "personal-care",
+      "description": "Traditional Moroccan hammam exfoliation system: black beldi soap (olive oil-based gel) + rough kessa glove. The ritual: steam/soak skin, apply beldi soap, let sit 5-10 min, then scrub with wet kessa glove in circular motions. Dead skin rolls off in dramatic visible sheets. Results in baby-soft skin and addresses keratosis pilaris, ingrown hairs, spray tan removal.",
+      "problem_solved": "American exfoliation is weak (sugar scrubs, loofahs, chemical exfoliants). This provides dramatic, visible results and a spa-like ritual at home. Addresses KP (chicken skin) which affects 40% of adults.",
+      "us_gap": "US has exfoliating gloves (Korean Italy towels, generic mitts) but they lack the cultural ritual and beldi soap pairing. American body washes don't prep skin the same way. The hammam ritual is the differentiator - it's an experience, not just a product.",
+      "demand_signals": [
+        "Reddit: 'Nothing exfoliates like the kessa glove and nothing makes me feel as clean'",
+        "'My favorite bath ritual of all time'",
+        "'It will be worth it' - practiced for thousands of years",
+        "Multiple users describe it as life-changing for KP treatment"
+      ],
+      "source_urls": [
+        "https://www.reddit.com/r/SkincareAddiction/comments/1njx9aa/",
+        "https://zakiasmorocco.com/",
+        "https://www.amazon.com/Moroccan-Black-Soap-Amber-Musk/dp/B01F04JWM2"
+      ],
+      "estimated_local_price_usd": 8.0,
+      "potential_us_retail_price_usd": 29.99,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 8,
+        "us_gap": 7,
+        "importability": 10,
+        "margin_potential": 9,
+        "defensibility": 6,
+        "wow_factor": 9
+      },
+      "score_avg": 8.2,
+      "rejection_risks": [
+        "Already available on Amazon (but positioned as ethnic product, not mainstream)",
+        "Could be copied easily by big beauty brands",
+        "Education required - ritual is key, not just the glove"
+      ],
+      "sourcing_notes": "Gloves are simple textile - can source from Morocco or manufacture domestically. Beldi soap is olive oil + potassium hydroxide (easy to make). The value is in the bundling, branding, and education. Target DTC with strong content showing before/after.",
+      "next_steps": "Create DTC brand around the ritual (not just selling gloves). Film dramatic exfoliation videos for TikTok/IG. Bundle glove + soap + instruction card. Partner with estheticians/spas. Position as solution for KP, not 'Moroccan novelty'. Price at $30-40 for the set (vs $8-12 on Amazon for glove alone)."
     },
-    "scores": {
-      "demand_signal": 9,
-      "us_gap": 9,
-      "importability": 10,
-      "margin_potential": 8,
-      "defensibility": 8,
-      "wow_factor": 7
+    {
+      "id": "discovery_035",
+      "date": "2026-02-15",
+      "product_name": "Granado Polvilho Antiss\u00e9ptico",
+      "brand_example": "Granado",
+      "country": "brazil",
+      "category": "personal-care",
+      "description": "Iconic antiseptic cassava powder created in 1903 by Jo\u00e3o Bernardo Granado. Combines antibacterial, antifungal, drying, and deodorizing properties in a talc-free starch powder. Widely used for diaper rash, heat rash, chafing, and foot odor. Cultural staple in Brazilian households for over a century.",
+      "problem_solved": "Prevents and treats diaper rash, prickly heat, and skin irritation with antiseptic action that goes beyond simple moisture absorption. Safer than talc, more effective than cornstarch alone.",
+      "us_gap": "US baby powders are mostly cornstarch or arrowroot (moisture absorption only) or have been reformulated away from talc due to health concerns. None combine antiseptic properties (boric acid + zinc oxide) with natural starch base. Anti Monkey Butt and similar are cornstarch with calamine, not antiseptic.",
+      "demand_signals": [
+        "Mentioned repeatedly on Reddit as must-bring item from Brazil",
+        "Historical brand with 120+ year heritage",
+        "Approved by Oswaldo Cruz (Brazilian public health pioneer)",
+        "Used by multiple generations of Brazilians",
+        "Expats stock up when visiting Brazil"
+      ],
+      "source_urls": [
+        "https://www.amazon.com/Linha-Antisseptica-Granado-Antisseptico-Tradicional/dp/B0DZXYW7Z4",
+        "https://mkpbr.com/en-us/products/polvilho-antisseptico-granado-100g"
+      ],
+      "estimated_local_price_usd": 3.5,
+      "potential_us_retail_price_usd": 14.99,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 7,
+        "us_gap": 9,
+        "importability": 10,
+        "margin_potential": 9,
+        "defensibility": 7,
+        "wow_factor": 6
+      },
+      "score_avg": 8.0,
+      "rejection_risks": [
+        "FDA regulation of antiseptic OTC products",
+        "Boric acid content may require approval",
+        "Cultural unfamiliarity with cassava-based products"
+      ],
+      "sourcing_notes": "Manufactured by Granado in Brazil since 1903. 100g tins. Shelf-stable powder. Likely available from Brazilian distributors or Granado direct. Low weight, easy to ship.",
+      "next_steps": "Contact Granado USA (granado.us) about wholesale/distribution. Research FDA OTC antiseptic requirements for boric acid products. Test market on Amazon to Brazilian expat community first."
     },
-    "score_avg": 8.5,
-    "rejection_risks": [
-      "MooGoo has US distribution already - check if eczema cream specifically is available or just other products",
-      "Natural eczema claims may require FDA review",
-      "Crowded eczema market with established brands"
-    ],
-    "sourcing_notes": "Manufactured by MooGoo in Australia. Has US entity (moogoousa.com). Shampoo on Amazon US but NOT eczema cream specifically. 120g tube. Shelf-stable cream. Could approach MooGoo USA for Amazon distribution or exclusive deal. Family-owned, may be open to partnerships.",
-    "next_steps": "Contact MooGoo USA to confirm eczema cream is NOT on Amazon US (only shampoo appears there). If true, negotiate Amazon exclusivity or wholesale deal. Target eczema/psoriasis communities on Reddit, Facebook groups. Emphasize steroid-free, Australian natural formulation, TGA registered. Price at $29.99-32.99 for 120g."
-  },
-  {
-    "id": "discovery_032",
-    "date": "2026-02-15",
-    "product_name": "BasicLab Dermocosmetics 0.5% Retinol Night Serum",
-    "brand_example": "BasicLab",
-    "country": "poland",
-    "category": "personal-care",
-    "description": "Advanced retinol night serum from Polish dermocosmetics brand BasicLab, founded in 2018 specifically to address the lack of effective products for sensitive and problematic skin. Formulated with 0.5% pure retinol, 4% vitamin C, CBD, coenzyme Q10, ceramides, and squalane for comprehensive anti-aging and skin renewal.",
-    "problem_solved": "High-quality retinol serums are expensive in the US, and many irritate sensitive skin. BasicLab's unique formula combines retinol with soothing ingredients like CBD and ceramides to deliver results without harsh reactions.",
-    "us_gap": "US has countless retinol serums, but most are either cheap and irritating or premium brands at $80-150. BasicLab offers dermatologically-tested, pharmacist-formulated retinol at mid-tier pricing with unique soothing complex. Reddit reviews say it's 'absolutely fantastic' for acne and hyperpigmentation.",
-    "demand_signals": [
-      "Reddit EuroSkincare users call it 'absolutely fantastic'",
-      "Polish users report excellent results on acne and discoloration",
-      "Growing interest in European dermocosmetics in US market",
-      "Retinol is top anti-aging ingredient with massive US demand"
-    ],
-    "source_urls": [
-      "https://www.ladymakeup.com/shop/basiclab.html",
-      "https://www.reddit.com/r/EuroSkincare/comments/1hqkvoa/polish_drugstore_skincare_tips_needed/"
-    ],
-    "estimated_local_price_usd": 25.00,
-    "potential_us_retail_price_usd": 59.00,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
+    {
+      "id": "discovery_052",
+      "date": "2026-02-15",
+      "product_name": "Legendary Perfume Orchid",
+      "brand_example": "Legendary Perfume",
+      "country": "malaysia",
+      "category": "personal-care",
+      "description": "The first orchid-based perfume produced in Malaysia, inspired by blooming orchids in Malaysian rainforests. Described as 'smelling exactly like Malaysia' with rich, floral, humid-in-a-good-way tropical elegance. Clean and delicate scent with notes of orchid, light fruit, orange, apple, pansy, magnolia, peach, amber, and musk. Long-lasting (4-7 hours). Beloved by locals and sought after by tourists.",
+      "problem_solved": "Unique tropical floral scent you can't find elsewhere. Evokes specific place memories. Gift-worthy presentation in glass bottle.",
+      "us_gap": "US has many floral perfumes but nothing that captures this specific Malaysian tropical orchid character. Most US orchid perfumes are synthetic or overly sweet. This is described as 'humid elegance' and 'walks in KL after rain' - very specific terroir.",
+      "demand_signals": [
+        "Half-Korean, half-Japanese expat calls it 'OBSESSED'",
+        "'Smells exactly like Malaysia to me' - strong emotional connection",
+        "First perfume from Malaysia - pioneering product with legendary status",
+        "'Beloved by locals and sought after by tourists'",
+        "'Distinctive fragrant smell that lasts for hours unlike other perfume brands'",
+        "Premium packaging described as 'luxury', 'beautiful yellow box people don't want to throw away'"
+      ],
+      "source_urls": [
+        "https://www.reddit.com/r/malaysia/comments/1lyvowd/my_mustbuy_souvenir_list_from_malaysia_that/",
+        "https://mylagenda.com/orchid-perfume/",
+        "https://www.legendaryperfume.com.my/perfume/p/style-01-ej5na-zxz8l",
+        "https://www.adventurose.com/2024/07/review-legendary-perfume-orchid.html"
+      ],
+      "estimated_local_price_usd": 18.0,
+      "potential_us_retail_price_usd": 48.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 7,
+        "us_gap": 8,
+        "importability": 9,
+        "margin_potential": 7,
+        "defensibility": 8,
+        "wow_factor": 8
+      },
+      "score_avg": 7.83,
+      "rejection_risks": [
+        "Fragrance is very subjective",
+        "May not translate outside tropical climate nostalgia",
+        "Perfume market is crowded"
+      ],
+      "sourcing_notes": "Brand: Legendary Perfume Malaysia (legendaryperfume.com.my). 30ml EDP bottles. Glass packaging, lightweight. Also has non-alcohol line (Wish 3 popular). Direct brand relationship would be ideal. Likely open to US distribution.",
+      "next_steps": "Contact Legendary Perfume for US distribution/import pricing. Position as 'rainforest-inspired luxury fragrance from Malaysia's first orchid perfume'. Target Malaysian diaspora, Asian beauty enthusiasts, and luxury natural fragrance seekers. Launch with Orchid + Wish 3 duo. Price at $48 for 30ml."
     },
-    "scores": {
-      "demand_signal": 9,
-      "us_gap": 8,
-      "importability": 9,
-      "margin_potential": 9,
-      "defensibility": 7,
-      "wow_factor": 8
-    },
-    "score_avg": 8.3,
-    "rejection_risks": [
-      "Amazon could copy formula",
-      "Competition from established retinol brands"
-    ],
-    "sourcing_notes": "Manufactured in Poland by BasicLab. Likely available via European distributors. Small 30ml bottles are lightweight and easy to ship. Shelf-stable. Would need FDA cosmetics compliance for US import.",
-    "next_steps": "Source directly from BasicLab Poland, test US demand with small batch via Amazon/Shopify, position as 'European dermocosmetics secret' with CBD+retinol angle"
-  },
-  {
-    "id": "discovery_026",
-    "date": "2026-02-15",
-    "product_name": "La Roche-Posay Anthelios UVMune 400 Sunscreen",
-    "brand_example": "La Roche-Posay (L'Oreal)",
-    "country": "france",
-    "category": "personal-care",
-    "description": "Advanced French sunscreen formula featuring Mexoryl 400 (Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate), a revolutionary UV filter that provides superior protection in the long UVA1 spectrum (370-400nm). This wavelength range is not well-covered by US-approved sunscreen filters. The formula has undergone extensive clinical trials showing particular benefits for fading pigmented spots in darker skin tones. Water-resistant for 80 minutes, SPF 50+ with exceptionally high PPD rating of 46.",
-    "problem_solved": "Americans have no access to cutting-edge UVA1 protection because the FDA hasn't approved new sunscreen filters since 1999. This leaves a critical gap in protection against wavelengths that cause pigmentation and aging.",
-    "us_gap": "US La Roche-Posay sunscreens use older, FDA-approved filters (avobenzone, octinoxate) that don't cover the 370-400nm range as effectively. European formulas are objectively superior due to access to modern filters like Mexoryl 400, Tinosorb S, and Uvinul A Plus.",
-    "demand_signals": [
-      "Massive Reddit skincare community hype (r/SkincareAddiction, r/EuroSkincare)",
-      "Lab Muffin Beauty Science (cosmetic chemist) dedicated review article",
-      "People specifically travel to Europe to stock up on this sunscreen",
-      "Import sellers on Amazon charging 2-3x markup",
-      "Dermatologists recommend it over US alternatives"
-    ],
-    "source_urls": [
-      "https://labmuffin.com/la-roche-posay-uvmune-400-science-and-review/",
-      "https://www.reddit.com/r/SkincareAddiction/comments/u7y6s1/first_impressions_la_rocheposay_anthelios_uvmune/",
-      "https://www.reddit.com/r/30PlusSkinCare/comments/1dqqfas/what_would_you_buy_from_a_french_pharmacy/"
-    ],
-    "estimated_local_price_usd": 18.0,
-    "potential_us_retail_price_usd": 42.0,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
-    },
-    "scores": {
-      "demand_signal": 9,
-      "us_gap": 10,
-      "importability": 8,
-      "margin_potential": 7,
-      "defensibility": 8,
-      "wow_factor": 7
-    },
-    "score_avg": 8.2,
-    "rejection_risks": [
-      "FDA could eventually approve Mexoryl 400 for US market (but unlikely soon given slow approval process)",
-      "Shipping liquids adds cost and complexity",
-      "Some users report mild musty smell from MCE ingredient"
-    ],
-    "sourcing_notes": "French pharmacy exclusive. L'Oreal owns La Roche-Posay and Mexoryl 400 is their proprietary ingredient. Widely available at Citypharma in Paris and French pharmacy chains. 50ml bottles. Shelf-stable for 12 months after opening.",
-    "next_steps": "Source bulk from French pharmacy distributor or gray-market EU beauty suppliers. Market heavily to r/SkincareAddiction and skincare TikTok. Emphasize the FDA filter gap and superior UVA1 protection. Could bundle with other French sunscreens (Bioderma, Avène) as a 'European Sun Protection Kit'."
-  },
-  {
-    "id": "discovery_044",
-    "date": "2026-02-15",
-    "product_name": "Kessa Exfoliating Glove + Beldi Soap Ritual",
-    "brand_example": "Zakia's Morocco, Fatima's Garden, Zawina Morocco",
-    "country": "morocco",
-    "category": "personal-care",
-    "description": "Traditional Moroccan hammam exfoliation system: black beldi soap (olive oil-based gel) + rough kessa glove. The ritual: steam/soak skin, apply beldi soap, let sit 5-10 min, then scrub with wet kessa glove in circular motions. Dead skin rolls off in dramatic visible sheets. Results in baby-soft skin and addresses keratosis pilaris, ingrown hairs, spray tan removal.",
-    "problem_solved": "American exfoliation is weak (sugar scrubs, loofahs, chemical exfoliants). This provides dramatic, visible results and a spa-like ritual at home. Addresses KP (chicken skin) which affects 40% of adults.",
-    "us_gap": "US has exfoliating gloves (Korean Italy towels, generic mitts) but they lack the cultural ritual and beldi soap pairing. American body washes don't prep skin the same way. The hammam ritual is the differentiator - it's an experience, not just a product.",
-    "demand_signals": [
-      "Reddit: 'Nothing exfoliates like the kessa glove and nothing makes me feel as clean'",
-      "'My favorite bath ritual of all time'",
-      "'It will be worth it' - practiced for thousands of years",
-      "Multiple users describe it as life-changing for KP treatment"
-    ],
-    "source_urls": [
-      "https://www.reddit.com/r/SkincareAddiction/comments/1njx9aa/",
-      "https://zakiasmorocco.com/",
-      "https://www.amazon.com/Moroccan-Black-Soap-Amber-Musk/dp/B01F04JWM2"
-    ],
-    "estimated_local_price_usd": 8.00,
-    "potential_us_retail_price_usd": 29.99,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
-    },
-    "scores": {
-      "demand_signal": 8,
-      "us_gap": 7,
-      "importability": 10,
-      "margin_potential": 9,
-      "defensibility": 6,
-      "wow_factor": 9
-    },
-    "score_avg": 8.2,
-    "rejection_risks": [
-      "Already available on Amazon (but positioned as ethnic product, not mainstream)",
-      "Could be copied easily by big beauty brands",
-      "Education required - ritual is key, not just the glove"
-    ],
-    "sourcing_notes": "Gloves are simple textile - can source from Morocco or manufacture domestically. Beldi soap is olive oil + potassium hydroxide (easy to make). The value is in the bundling, branding, and education. Target DTC with strong content showing before/after.",
-    "next_steps": "Create DTC brand around the ritual (not just selling gloves). Film dramatic exfoliation videos for TikTok/IG. Bundle glove + soap + instruction card. Partner with estheticians/spas. Position as solution for KP, not 'Moroccan novelty'. Price at $30-40 for the set (vs $8-12 on Amazon for glove alone)."
-  },
-  {
-    "id": "discovery_035",
-    "date": "2026-02-15",
-    "product_name": "Granado Polvilho Antisséptico",
-    "brand_example": "Granado",
-    "country": "brazil",
-    "category": "personal-care",
-    "description": "Iconic antiseptic cassava powder created in 1903 by João Bernardo Granado. Combines antibacterial, antifungal, drying, and deodorizing properties in a talc-free starch powder. Widely used for diaper rash, heat rash, chafing, and foot odor. Cultural staple in Brazilian households for over a century.",
-    "problem_solved": "Prevents and treats diaper rash, prickly heat, and skin irritation with antiseptic action that goes beyond simple moisture absorption. Safer than talc, more effective than cornstarch alone.",
-    "us_gap": "US baby powders are mostly cornstarch or arrowroot (moisture absorption only) or have been reformulated away from talc due to health concerns. None combine antiseptic properties (boric acid + zinc oxide) with natural starch base. Anti Monkey Butt and similar are cornstarch with calamine, not antiseptic.",
-    "demand_signals": [
-      "Mentioned repeatedly on Reddit as must-bring item from Brazil",
-      "Historical brand with 120+ year heritage",
-      "Approved by Oswaldo Cruz (Brazilian public health pioneer)",
-      "Used by multiple generations of Brazilians",
-      "Expats stock up when visiting Brazil"
-    ],
-    "source_urls": [
-      "https://www.amazon.com/Linha-Antisseptica-Granado-Antisseptico-Tradicional/dp/B0DZXYW7Z4",
-      "https://mkpbr.com/en-us/products/polvilho-antisseptico-granado-100g"
-    ],
-    "estimated_local_price_usd": 3.50,
-    "potential_us_retail_price_usd": 14.99,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
-    },
-    "scores": {
-      "demand_signal": 7,
-      "us_gap": 9,
-      "importability": 10,
-      "margin_potential": 9,
-      "defensibility": 7,
-      "wow_factor": 6
-    },
-    "score_avg": 8.0,
-    "rejection_risks": [
-      "FDA regulation of antiseptic OTC products",
-      "Boric acid content may require approval",
-      "Cultural unfamiliarity with cassava-based products"
-    ],
-    "sourcing_notes": "Manufactured by Granado in Brazil since 1903. 100g tins. Shelf-stable powder. Likely available from Brazilian distributors or Granado direct. Low weight, easy to ship.",
-    "next_steps": "Contact Granado USA (granado.us) about wholesale/distribution. Research FDA OTC antiseptic requirements for boric acid products. Test market on Amazon to Brazilian expat community first."
-  },
-  {
-    "id": "discovery_052",
-    "date": "2026-02-15",
-    "product_name": "Legendary Perfume Orchid",
-    "brand_example": "Legendary Perfume",
-    "country": "malaysia",
-    "category": "personal-care",
-    "description": "The first orchid-based perfume produced in Malaysia, inspired by blooming orchids in Malaysian rainforests. Described as 'smelling exactly like Malaysia' with rich, floral, humid-in-a-good-way tropical elegance. Clean and delicate scent with notes of orchid, light fruit, orange, apple, pansy, magnolia, peach, amber, and musk. Long-lasting (4-7 hours). Beloved by locals and sought after by tourists.",
-    "problem_solved": "Unique tropical floral scent you can't find elsewhere. Evokes specific place memories. Gift-worthy presentation in glass bottle.",
-    "us_gap": "US has many floral perfumes but nothing that captures this specific Malaysian tropical orchid character. Most US orchid perfumes are synthetic or overly sweet. This is described as 'humid elegance' and 'walks in KL after rain' - very specific terroir.",
-    "demand_signals": [
-      "Half-Korean, half-Japanese expat calls it 'OBSESSED'",
-      "'Smells exactly like Malaysia to me' - strong emotional connection",
-      "First perfume from Malaysia - pioneering product with legendary status",
-      "'Beloved by locals and sought after by tourists'",
-      "'Distinctive fragrant smell that lasts for hours unlike other perfume brands'",
-      "Premium packaging described as 'luxury', 'beautiful yellow box people don't want to throw away'"
-    ],
-    "source_urls": [
-      "https://www.reddit.com/r/malaysia/comments/1lyvowd/my_mustbuy_souvenir_list_from_malaysia_that/",
-      "https://mylagenda.com/orchid-perfume/",
-      "https://www.legendaryperfume.com.my/perfume/p/style-01-ej5na-zxz8l",
-      "https://www.adventurose.com/2024/07/review-legendary-perfume-orchid.html"
-    ],
-    "estimated_local_price_usd": 18.00,
-    "potential_us_retail_price_usd": 48.00,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
-    },
-    "scores": {
-      "demand_signal": 7,
-      "us_gap": 8,
-      "importability": 9,
-      "margin_potential": 7,
-      "defensibility": 8,
-      "wow_factor": 8
-    },
-    "score_avg": 7.83,
-    "rejection_risks": [
-      "Fragrance is very subjective",
-      "May not translate outside tropical climate nostalgia",
-      "Perfume market is crowded"
-    ],
-    "sourcing_notes": "Brand: Legendary Perfume Malaysia (legendaryperfume.com.my). 30ml EDP bottles. Glass packaging, lightweight. Also has non-alcohol line (Wish 3 popular). Direct brand relationship would be ideal. Likely open to US distribution.",
-    "next_steps": "Contact Legendary Perfume for US distribution/import pricing. Position as 'rainforest-inspired luxury fragrance from Malaysia's first orchid perfume'. Target Malaysian diaspora, Asian beauty enthusiasts, and luxury natural fragrance seekers. Launch with Orchid + Wish 3 duo. Price at $48 for 30ml."
-  },
-  {
-    "id": "discovery_014",
-    "date": "2026-02-14",
-    "product_name": "Happy Skin Lip Mallow Plush Matte Lip Tint",
-    "brand_example": "Happy Skin",
-    "country": "philippines",
-    "category": "personal-care",
-    "description": "Cushiony, moisturizing matte lip tint with refreshing cucumber scent. Combines the longevity of a matte lip with the comfort of a balm. Lasts through meals without drying out lips or requiring constant reapplication. Leaves lips looking pillowy and plump.",
-    "problem_solved": "The trade-off between long-lasting matte lips and comfortable, moisturizing formula. Most long-wear lip products are drying; most moisturizing ones don't last.",
-    "us_gap": "US long-wear lip tints are either drying (liquid lipsticks) or don't truly last through eating. Rare Beauty lip oil ($22) is moisturizing but users say it's 'super drying' long-term. Violette_FR tint ($30) is good but expensive. No drugstore option hits both marks.",
-    "demand_signals": [
-      "Beauty editor: 'might be my favorite purchase, wish I bought more shades'",
-      "Lasts through greasy meals (kare-kare test)",
-      "Described as 'cushiony' repeatedly",
-      "Cucumber scent is refreshing and pleasant"
-    ],
-    "source_urls": [
-      "https://kristinarodulfo.substack.com/p/best-filipino-makeup-products-philippines-beauty-haul"
-    ],
-    "estimated_local_price_usd": 11.00,
-    "potential_us_retail_price_usd": 24.00,
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
-    },
-    "scores": {
-      "demand_signal": 7,
-      "us_gap": 8,
-      "importability": 9,
-      "margin_potential": 8,
-      "defensibility": 7,
-      "wow_factor": 8
-    },
-    "score_avg": 7.8,
-    "rejection_risks": [
-      "Formula may not survive temperature fluctuations in shipping",
-      "Scent preferences vary",
-      "Competitive lip tint market"
-    ],
-    "sourcing_notes": "Happy Skin is established Filipino beauty brand. Compact packaging, lightweight. Shelf-stable but may need climate-controlled shipping. Available on Shopee, Lazada.",
-    "next_steps": "Order multiple shades to test formula consistency. Verify ingredient list for US cosmetics compliance. Test longevity claims (meal test). Calculate import duties. Research Happy Skin's current US distribution if any."
-  }
-]
+    {
+      "id": "discovery_014",
+      "date": "2026-02-14",
+      "product_name": "Happy Skin Lip Mallow Plush Matte Lip Tint",
+      "brand_example": "Happy Skin",
+      "country": "philippines",
+      "category": "personal-care",
+      "description": "Cushiony, moisturizing matte lip tint with refreshing cucumber scent. Combines the longevity of a matte lip with the comfort of a balm. Lasts through meals without drying out lips or requiring constant reapplication. Leaves lips looking pillowy and plump.",
+      "problem_solved": "The trade-off between long-lasting matte lips and comfortable, moisturizing formula. Most long-wear lip products are drying; most moisturizing ones don't last.",
+      "us_gap": "US long-wear lip tints are either drying (liquid lipsticks) or don't truly last through eating. Rare Beauty lip oil ($22) is moisturizing but users say it's 'super drying' long-term. Violette_FR tint ($30) is good but expensive. No drugstore option hits both marks.",
+      "demand_signals": [
+        "Beauty editor: 'might be my favorite purchase, wish I bought more shades'",
+        "Lasts through greasy meals (kare-kare test)",
+        "Described as 'cushiony' repeatedly",
+        "Cucumber scent is refreshing and pleasant"
+      ],
+      "source_urls": [
+        "https://kristinarodulfo.substack.com/p/best-filipino-makeup-products-philippines-beauty-haul"
+      ],
+      "estimated_local_price_usd": 11.0,
+      "potential_us_retail_price_usd": 24.0,
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_signal": 7,
+        "us_gap": 8,
+        "importability": 9,
+        "margin_potential": 8,
+        "defensibility": 7,
+        "wow_factor": 8
+      },
+      "score_avg": 7.8,
+      "rejection_risks": [
+        "Formula may not survive temperature fluctuations in shipping",
+        "Scent preferences vary",
+        "Competitive lip tint market"
+      ],
+      "sourcing_notes": "Happy Skin is established Filipino beauty brand. Compact packaging, lightweight. Shelf-stable but may need climate-controlled shipping. Available on Shopee, Lazada.",
+      "next_steps": "Order multiple shades to test formula consistency. Verify ingredient list for US cosmetics compliance. Test longevity claims (meal test). Calculate import duties. Research Happy Skin's current US distribution if any."
+    }
+  ]
 }

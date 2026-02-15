@@ -109,8 +109,8 @@
       "discoveries": 0
     },
     "egypt": {
-      "candidates": 0,
-      "discoveries": 0
+      "candidates": 15,
+      "discoveries": 3
     },
     "malaysia": {
       "candidates": 22,
@@ -122,12 +122,12 @@
     }
   },
   "categories_recent": [
-    "grocery",
     "personal-care",
     "kitchen",
     "stationery",
-    "health-wellness"
+    "health-wellness",
+    "cleaning"
   ],
-  "total_candidates": 575,
-  "total_discoveries": 53
+  "total_candidates": 590,
+  "total_discoveries": 56
 }
