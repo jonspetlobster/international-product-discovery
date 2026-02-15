@@ -1,7 +1,7 @@
 {
   "regions": {
     "japan": {"candidates": 26, "discoveries": 1},
-    "south_korea": {"candidates": 0, "discoveries": 0},
+    "south_korea": {"candidates": 24, "discoveries": 2},
     "taiwan": {"candidates": 0, "discoveries": 0},
     "china": {"candidates": 0, "discoveries": 0},
     "thailand": {"candidates": 0, "discoveries": 0},
@@ -31,7 +31,7 @@
     "malaysia": {"candidates": 0, "discoveries": 0},
     "singapore": {"candidates": 0, "discoveries": 0}
   },
-  "categories_recent": ["grocery"],
-  "total_candidates": 26,
-  "total_discoveries": 1
+  "categories_recent": ["grocery", "personal-care"],
+  "total_candidates": 50,
+  "total_discoveries": 3
 }
