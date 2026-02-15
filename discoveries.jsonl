@@ -1,3 +1,126 @@
 {"id": "discovery_001", "date": "2026-02-14", "product_name": "Minimal Wash Muro Portable Washing Machine", "brand_example": "CB Japan", "country": "japan", "category": "laundry-clothing", "description": "Ultra-compact motorized washing device that attaches to any bucket, sink, or basin to wash clothes. Has 4 settings including delicate mode. USB-powered, weighs only 170g (6 oz), includes carrying bag. Designed for washing delicates separately or washing clothes while traveling without access to laundromats.", "problem_solved": "Hand-washing clothes is tedious and tiring; traditional portable washers are bulky and manual. Travelers, RV owners, and apartment dwellers need a compact, effective solution for small loads and delicates.", "us_gap": "US portable washers are either manual (WonderWash, bucket washers requiring physical effort) or bulky folding units. No compact, motorized, truly portable solution exists. Americans use manual agitation or large portable machines that defeat the purpose of portability.", "demand_signals": ["RV and camping communities actively searching for portable washing solutions", "Reddit threads show frustration with laundromat costs and inconvenience", "Travel forums mention hand-washing as major pain point", "Niche for delicates washing (bras, baby clothes) separate from main wash"], "source_urls": ["https://www.japantrendshop.com/minimal-wash-muro-portable-washing-machine-p-5440.html", "https://www.pcmag.com/picks/japanese-products-you-didnt-know-you-needed", "https://www.reddit.com/r/RVLiving/comments/1cl6udf/best_portable_washing_machine_for_full_time/"], "estimated_local_price_usd": 49.00, "potential_us_retail_price_usd": 99.00, "google_trends": {"avg": 0, "recent": 0, "trend": "no_data"}, "scores": {"demand_signal": 7, "us_gap": 8, "importability": 9, "margin_potential": 7, "defensibility": 6, "wow_factor": 8}, "score_avg": 7.5, "rejection_risks": ["May need UL/electrical certification for US market", "Low power (10W) might seem less capable than competitors", "Requires bucket/container (not standalone)", "Niche market (not mass consumer)"], "sourcing_notes": "CB Japan manufacturer. Product appears to be Japan-only distribution. Compact size (100x100x55mm) means low shipping costs. USB adapter might need US voltage version. Check Alibaba for similar motorized agitators or OEM sourcing.", "next_steps": "Import small batch (10-20 units) to test US market. Target RV forums, van life communities, travel influencers. Bundle with collapsible bucket. Price at $99-$129. Measure demand before bulk order. Could potentially find OEM manufacturer for US-branded version."}
 {"id": "discovery_002", "date": "2026-02-14", "product_name": "Korean Sunscreens with Advanced UV Filters (FDA-Unapproved)", "brand_example": "MEDIHEAL Madecassoside Moisture Sun Serum, Beauty of Joseon Relief Sun Rice+Probiotics SPF50+", "country": "south_korea", "category": "personal-care", "description": "Korean sunscreens using next-generation UV filters like Tinosorb S, Uvinul A Plus, and Bemotrizinol that provide superior UVA/UVB protection. These filters have been proven safe and effective globally for decades but remain unapproved by the FDA (no new filters approved since 1999). Korean formulations offer lightweight textures, no white cast, and superior photoprotection compared to US alternatives.", "problem_solved": "Americans are stuck with outdated sunscreen technology. US sunscreens use old chemical filters (avobenzone, oxybenzone) that are heavier, greasier, leave white cast, and only need to block 30% of UVA rays to be labeled 'broad spectrum.' Korean sunscreens solve this with modern filters that are cosmetically elegant and offer true broad-spectrum protection.", "us_gap": "US sunscreens rely on filters approved in the 1990s. Korean/Japanese/European sunscreens use filters from the 2000s-2010s that are photostable, less irritating, and more effective. Products on Amazon US are either grey market imports at inflated prices or reformulated FDA-compliant versions with inferior filters.", "demand_signals": ["Reddit threads with thousands of upvotes asking why Asian sunscreens are better", "Beauty influencers import Korean sunscreen in bulk", "Multiple articles explaining FDA regulatory lag", "'Can't live without' sentiment in travel forums - people stock up when visiting Korea", "YesStyle, Stylevana, K-beauty retailers built around importing these products"], "source_urls": ["https://www.reddit.com/r/AsianBeauty/comments/1df6vu9/can_someone_explain_to_me_like_im_5_why_japanese/", "https://www.provisionfda.com/post/k-beauty-sunscreens-and-the-fda-how-regulatory-differences-affect-u-s-consumers", "https://coveteur.com/best-korean-beauty-products"], "estimated_local_price_usd": 15.00, "potential_us_retail_price_usd": 35.00, "google_trends": {"avg": 0, "recent": 0, "trend": "no_data"}, "scores": {"demand_signal": 10, "us_gap": 10, "importability": 9, "margin_potential": 8, "defensibility": 7, "wow_factor": 8}, "score_avg": 8.7, "rejection_risks": ["FDA could crack down on grey market sales", "Brands might reformulate for US and lose advantage", "Requires ongoing regulatory arbitrage"], "sourcing_notes": "Source from Korean distributors, Olive Young bulk purchases, or direct from brands like MEDIHEAL, Beauty of Joseon, Isntree. Products are shelf-stable, lightweight, easy to ship. Olive Young often has 1+1 deals.", "next_steps": "Create curated subscription box of 'FDA-unapproved but globally trusted' Korean sunscreens. Educational marketing explaining the FDA lag and why these are superior. Partner with dermatologists to validate. Build email list of skincare enthusiasts frustrated with US sunscreen options."}
 {"id": "discovery_003", "date": "2026-02-14", "product_name": "Tamburins Perfumes", "brand_example": "Tamburins (fragrances: Chamo, Angelica, Cloud Armor)", "country": "south_korea", "category": "personal-care", "description": "Tamburins is a trendy Korean fragrance and lifestyle brand known for minimalist aesthetics and unique scent profiles. Available in Korea (Olive Young, standalone boutiques), Japan, China, and Thailand, but no official US presence. Only available via grey market eBay sellers and import sites like DODOSKIN.", "problem_solved": "Fills the niche between mass-market fragrances and luxury perfumes with artistic, gender-neutral scents at mid-tier pricing ($50-80). Appeals to millennials/Gen Z seeking unique fragrances that aren't widely available in US department stores.", "us_gap": "No official Tamburins stockists in the US. Grey market sellers on eBay charge $60-100 with slow shipping from Korea. Tamburins has physical stores in Seoul, Tokyo, Shanghai but zero US retail presence despite growing K-beauty interest.", "demand_signals": ["eBay sellers with positive feedback for Tamburins imports", "Mentioned in Lonely Planet as trendy Korean brand to buy", "DODOSKIN carries it but small selection", "Instagram aesthetic appeal - minimalist packaging popular with influencers"], "source_urls": ["https://www.lonelyplanet.com/articles/skin-care-beauty-products-to-buy-korea", "https://www.tamburins.com/en/", "https://www.ebay.com/itm/256329259971"], "estimated_local_price_usd": 55.00, "potential_us_retail_price_usd": 95.00, "google_trends": {"avg": 0, "recent": 0, "trend": "no_data"}, "scores": {"demand_signal": 6, "us_gap": 8, "importability": 10, "margin_potential": 7, "defensibility": 6, "wow_factor": 7}, "score_avg": 7.3, "rejection_risks": ["Niche appeal - not mass market", "Tamburins could open US distribution anytime", "Fragrance preferences are subjective and regional"], "sourcing_notes": "Source from Olive Young Seoul, Tamburins flagship stores, or Korean distributors. Perfumes are small (11ml/50ml), lightweight, high-margin. Shelf-stable. Could also source hand creams and candles from same brand.", "next_steps": "Import curated selection of 3-4 Tamburins scents. Create DTC site with editorial content about Korean fragrance culture. Partner with niche fragrance bloggers. Offer discovery sets (2ml samples of 5 scents for $25). Build on Instagram aesthetic appeal."}
+{
+  "id": "discovery_004",
+  "date": "2026-02-14",
+  "product_name": "German Square Down Pillow (Kopfkissen 80x80cm)",
+  "brand_example": "Various (Billerbeck, Schlafgut, Paradies)",
+  "country": "germany",
+  "category": "home-tools",
+  "description": "Huge quadratic down pillows (31\"x31\") that are the standard sleeping pillow across Germany and most of Europe. Unlike American rectangular pillows, these allow you to fold, bunch, and shape them for perfect neck support. Filled with down/feather mix, breathable cotton cambric cover, 3-chamber construction for firmness.",
+  "problem_solved": "American pillows are too thin and rectangular to provide proper neck support when side-sleeping. You need 2-3 stacked pillows. German squares solve this with one thick, shapeable pillow.",
+  "us_gap": "US market only has decorative 26\" Euro shams (for show, not sleep) or standard 20\"x26\" rectangles. True 80x80cm German sleeping pillows almost impossible to find. Specialty importers charge $80-150 vs €20-40 in Germany.",
+  "demand_signals": [
+    "Reddit post: 'MOST comfortable pillows I've ever used... obsessed... need to sleep on these at home'",
+    "TripAdvisor forum: 'Looking for these for over 20 years, replaced mine last time in Germany'",
+    "Cultural difference — every German hotel uses them, Americans notice immediately",
+    "IKEA carries them in Europe but not US stores"
+  ],
+  "source_urls": [
+    "https://www.reddit.com/r/germany/comments/1cx26cl/where_to_find_german_pillows/",
+    "https://www.tripadvisor.com/ShowTopic-g187275-i116-k7753780-80cm_x_80cm_German_Pillows_Where_to_Find_them_in_the_US-Germany.html",
+    "https://www.reddit.com/r/germany/comments/wv1xy7/what_home_goods_can_you_buy_in_germany_but_not_in/"
+  ],
+  "estimated_local_price_usd": 35.00,
+  "potential_us_retail_price_usd": 79.00,
+  "google_trends": {"avg": 0, "recent": 0, "trend": "no_data"},
+  "scores": {
+    "demand_signal": 8,
+    "us_gap": 9,
+    "importability": 7,
+    "margin_potential": 7,
+    "defensibility": 6,
+    "wow_factor": 7
+  },
+  "score_avg": 7.3,
+  "rejection_risks": [
+    "Bulky shipping (lightweight but volume-heavy)",
+    "Cultural habit — Americans may not understand why square is better",
+    "Needs education/marketing about proper use"
+  ],
+  "sourcing_notes": "Major German bedding manufacturers (Billerbeck, Paradies, Schlafgut) make these. Minimum order likely 50-100 units. Available at every German department store (Galeria, Kaufhof) and IKEA Germany. Cotton cambric cover, 30% down / 70% feather fill standard.",
+  "next_steps": "Contact German bedding wholesalers (Billerbeck, Paradies). Test market with Shopify store targeting expats and travel subreddits. Content marketing: 'Why Germans sleep better' angle. Partner with European furniture stores already importing."
+}
+{
+  "id": "discovery_005",
+  "date": "2026-02-14",
+  "product_name": "Knoppers Hazelnut Wafer Sandwich",
+  "brand_example": "Storck",
+  "country": "germany",
+  "category": "grocery",
+  "description": "Individually-wrapped wafer sandwich with five layers: crispy wafer, hazelnut cream, milk cream, whole-wheat wafer, milk chocolate coating. Marketed as 'the 9:30am snack' in Germany. Light, crispy texture unlike heavy American granola bars. Single-serve 25g packs, also available in 8-packs.",
+  "problem_solved": "Americans have no good mid-morning snack that's light, satisfying, and not loaded with sugar like granola bars. Knoppers hits the sweet spot: tastes indulgent but only 115 calories, portable, shelf-stable.",
+  "us_gap": "US snack bars are either health-focused (dense, dry protein bars) or candy (pure sugar). Nothing occupies the 'light European treat' category that Knoppers owns. Available on Amazon US but at 3x German retail price ($20-27 for 8-pack vs. €2-3 in Germany).",
+  "demand_signals": [
+    "Amazon US listings at 300% markup — people paying premium for imports",
+    "Reddit threads about German gifts always mention Knoppers",
+    "Europeans living in US consistently bring back suitcases full",
+    "TikTok European snack haul videos feature Knoppers prominently"
+  ],
+  "source_urls": [
+    "https://www.amazon.com/Knoppers-Wafers-Hazelnut-Crispy-Chocolate/dp/B08BLJ2HSL",
+    "https://www.reddit.com/r/germany/comments/1irv91b/stuff_to_buy_from_germany/",
+    "https://www.reddit.com/r/germany/comments/1cj5ck1/what_gifts_from_germany_would_you_bring_if_you/"
+  ],
+  "estimated_local_price_usd": 3.50,
+  "potential_us_retail_price_usd": 8.99,
+  "google_trends": {"avg": 0, "recent": 0, "trend": "no_data"},
+  "scores": {
+    "demand_signal": 7,
+    "us_gap": 7,
+    "importability": 9,
+    "margin_potential": 8,
+    "defensibility": 5,
+    "wow_factor": 6
+  },
+  "score_avg": 7.0,
+  "rejection_risks": [
+    "Storck might already have US distribution plans",
+    "Shelf life (~6 months) limits bulk ordering",
+    "Competitive — could be copied easily by US brands"
+  ],
+  "sourcing_notes": "Made by Storck (major German confectioner, also makes Werther's Original and Toffifee). Likely available via European food distributors. Check if Storck has exclusive US import rights. Alibaba shows third-party European snack importers. MOQ probably 500-1000 units.",
+  "next_steps": "Test with European specialty food stores (World Market, Cost Plus). Launch DTC subscription box: 'European Breakfast Club' featuring Knoppers + other hard-to-find Euro snacks. Target expat communities and Europhiles on Reddit/Instagram."
+}
+{
+  "id": "discovery_006",
+  "date": "2026-02-14",
+  "product_name": "Hazet Professional Hand Tool Set",
+  "brand_example": "Hazet",
+  "country": "germany",
+  "category": "home-tools",
+  "description": "Professional-grade automotive and mechanical hand tools with 150+ years of German precision engineering. Socket sets, wrenches, ratchets with lifetime warranty. Known for exact tolerances, chrome vanadium steel, and tools that never round bolt heads. Used by Mercedes/BMW/Porsche factory technicians.",
+  "problem_solved": "American tool brands (Craftsman, Husky) have declined in quality with offshore manufacturing. Professional mechanics want tools that won't fail mid-job. Hazet offers German precision at price point between budget (Harbor Freight) and premium (Snap-on truck).",
+  "us_gap": "Available on Amazon US but not well-known outside professional mechanics. Marketing and awareness gap — most DIYers don't know Hazet exists. Priced 30-50% higher than Craftsman but 40% less than Snap-on, perfect middle ground underserved.",
+  "demand_signals": [
+    "Garage Journal forum: enthusiasts hunt for Hazet deals on German Amazon",
+    "YouTube mechanic channels praise Hazet quality",
+    "Professional mechanics buy Hazet when traveling to Germany",
+    "Tool collectors seek vintage Hazet on eBay at premium prices"
+  ],
+  "source_urls": [
+    "https://www.garagejournal.com/forum/threads/buying-german-tools-from-well-germany-to-save-cash.469811/",
+    "https://handtools-from-germany.com/",
+    "https://www.slashgear.com/1912517/best-german-tool-brands-ranked/"
+  ],
+  "estimated_local_price_usd": 180.00,
+  "potential_us_retail_price_usd": 299.00,
+  "google_trends": {"avg": 0, "recent": 0, "trend": "no_data"},
+  "scores": {
+    "demand_signal": 6,
+    "us_gap": 6,
+    "importability": 8,
+    "margin_potential": 6,
+    "defensibility": 7,
+    "wow_factor": 5
+  },
+  "score_avg": 6.3,
+  "rejection_risks": [
+    "Already available on Amazon (awareness problem, not availability)",
+    "Established US distributors may have exclusive territories",
+    "Competes with well-known brands (Wera, Knipex also German and more popular)"
+  ],
+  "sourcing_notes": "Hazet-Werk Hermann Zerver GmbH & Co. KG. Distributed in US via select tool retailers. Could approach as 'curated German tool kits' targeting home mechanics. Partner with YouTube mechanics for sponsorships.",
+  "next_steps": "This is borderline — awareness gap vs. availability gap. Better opportunity: bundle Hazet + Wera + Knipex into 'German Mechanic Starter Kit' and sell the story/brand rather than compete on individual tools. Or pivot to other Hazet specialty tools not yet imported (torque tools, VDE insulated)."
+}
