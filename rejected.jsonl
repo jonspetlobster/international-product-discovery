@@ -403,3 +403,8 @@
 {"product_name": "Kmart NZ Steam Mop", "country": "new_zealand", "reason": "too_generic", "date": "2026-02-15", "notes": "Generic steam mop, nothing unique to inspire a brand concept"}
 {"product_name": "Ecostore Refill Stations", "country": "new_zealand", "reason": "high_capital", "date": "2026-02-15", "notes": "Requires retail partnerships and physical infrastructure, not solo-entrepreneur friendly"}
 {"product_name": "Best Clean NZ Cleaning Tools", "country": "new_zealand", "reason": "too_generic", "date": "2026-02-15", "notes": "Generic cleaning tools, no specific innovation to build a brand around"}
+{"product_name":"Altruist Sunscreen SPF 50","country":"uk","reason":"strong_import_presence","date":"2026-02-15","notes":"Already available on Amazon US with multiple listings, import window closing"}
+{"product_name":"Sudocrem Antiseptic Healing Cream","country":"uk","reason":"strong_import_presence","date":"2026-02-15","notes":"Well-established Amazon US presence with 400g jars readily available"}
+{"product_name":"MUA Peptide Lip Balm","country":"uk","reason":"us_brand_exists","date":"2026-02-15","notes":"Crowded US market - Peach & Lily, Well People, Revolution, TULA, EVER, La Mior all have peptide lip products"}
+{"product_name":"Ancient And Brave True Hydration","country":"uk","reason":"us_brand_exists","date":"2026-02-15","notes":"Not imported but electrolyte market extremely crowded - Liquid IV, LMNT, Nuun, Drip Drop, Ultima, etc. Too competitive"}
+{"product_name":"Eucerin Sun Gel-Cream SPF 50+","country":"uk","reason":"regulated","date":"2026-02-15","notes":"European UV filters not FDA approved, cannot manufacture legally in US without reformulation that would remove key advantage"}

@@ -56,9 +56,9 @@
       "ideas": 3
     },
     "uk": {
-      "candidates": 21,
-      "discoveries": 0,
-      "ideas": 0
+      "candidates": 44,
+      "discoveries": 3,
+      "ideas": 3
     },
     "france": {
       "candidates": 43,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "grocery-pantry",
     "kitchen",
     "personal-care",
     "snacks-candy",
-    "cleaning"
+    "cleaning",
+    "health-wellness"
   ],
-  "total_candidates": 949,
-  "total_discoveries": 66,
-  "total_ideas": 43
+  "total_candidates": 972,
+  "total_discoveries": 69,
+  "total_ideas": 46
 }
