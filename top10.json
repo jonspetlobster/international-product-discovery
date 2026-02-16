@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-16 09:54",
-  "total_ideas": 52,
-  "total_candidates_evaluated": 1032,
-  "total_rejected": 426,
+  "generated": "2026-02-16 10:04",
+  "total_ideas": 55,
+  "total_candidates_evaluated": 1052,
+  "total_rejected": 428,
   "top10": [
     {
       "id": "idea_001",
@@ -290,6 +290,63 @@
       ]
     },
     {
+      "id": "idea_163",
+      "date": "2026-02-16",
+      "inspiration_product": "Guava Leaf Antiseptic Wash",
+      "inspiration_brand": "Traditional Filipino remedy",
+      "inspiration_country": "philippines",
+      "category": "health-wellness",
+      "us_brand_concept": "Guava Glow - Acne-Fighting Facial Mist with guava leaf extract for clear, bright skin",
+      "the_twist": "Turn traditional wound wash into Instagram-worthy facial mist with proven antimicrobial + brightening benefits",
+      "twist_type": "format-change",
+      "target_customer": "Gen Z/millennial women with acne-prone skin who want natural alternatives to harsh actives, TikTok beauty community",
+      "description": "In the Philippines, boiled guava leaves are used as an antiseptic wash for wounds, skin infections, and acne due to natural antimicrobial properties. Transform this into a modern facial mist spray with guava leaf extract as the hero ingredient - positioned as a tropical, natural alternative to chemical acne treatments. The format change from wash to mist makes it Instagram-friendly and easy to use throughout the day.",
+      "problem_solved": "Acne-prone skin wants effective natural treatments that don't irritate. Guava leaf has proven antibacterial + antioxidant properties but zero brand presence in US skincare.",
+      "us_competitive_landscape": "Face mist category is booming (Tatcha, Caudalie, Bubble, Tower 28 SOS spray) but focused on hydration or calming. NO dedicated guava leaf products - only ONE brand (Fortify) lists it as a minor ingredient buried in a long list. Clear space for guava as HERO ingredient positioned for acne.",
+      "demand_signals": [
+        "Face mist category exploding on TikTok",
+        "Natural/clean acne products trending",
+        "Tropical ingredients (papaya, pineapple, coconut) having moment in skincare",
+        "Guava leaf proven antimicrobial in studies"
+      ],
+      "source_urls": [
+        "https://www.beholdphilippines.com/traditional-filipino-remedies-for-common-ailments/",
+        "https://www.lesielle.com/us/psidium-guajava-fruit-extract-psidium-guajava-leaf-extract-in-skincare-what-is-inci-771"
+      ],
+      "manufacturing_path": "Contract cosmetics manufacturer for facial mists. Guava leaf extract readily available from ingredient suppliers. Simple formulation: guava extract + witch hazel + glycerin + preservative. Spray bottles from packaging suppliers. MOQ likely 500-1000 units.",
+      "estimated_cogs_per_unit": 3.5,
+      "target_retail_price": 24.0,
+      "estimated_margin_multiplier": 6.9,
+      "startup_cost_estimate": "$3,000 - $6,000 (500 unit first run, basic branding, Amazon FBA prep)",
+      "go_to_market": "TikTok Shop launch with creator partnerships (acne/skincare micro-influencers). Amazon FBA. DTC Shopify. Positioning: 'Tropical Clear Skin Secret' or 'The Philippines' Best-Kept Acne Secret.' Content: before/afters, ingredient education, spray demos.",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 7,
+        "us_gap": 9,
+        "manufacturing_ease": 9,
+        "twist_strength": 8,
+        "margin_potential": 9,
+        "brandability": 9,
+        "low_capital_start": 9
+      },
+      "score_avg": 8.6,
+      "risks": [
+        "Need FDA compliance for cosmetic claims",
+        "Guava leaf supply chain (seasonal availability?)",
+        "Educating market on unfamiliar ingredient",
+        "Shelf life of water-based mist"
+      ],
+      "first_3_steps": [
+        "Source guava leaf extract samples from 3 suppliers, test stability in water-based formulation",
+        "Find cosmetics contract manufacturer who can do 500 unit MOQ for facial mist, get quote",
+        "Create TikTok account, post 10 educational videos about guava leaf benefits to test interest before launch"
+      ]
+    },
+    {
       "id": "idea_022",
       "date": "2026-02-15",
       "inspiration_product": "Nuoc Mau (Vietnamese Caramel Sauce)",
@@ -511,61 +568,6 @@
         "Contact 3 local urban forestry departments about wood sourcing partnerships",
         "Source 10-15 board blanks from reclaimed wood, sand and finish prototypes",
         "Create Instagram account, post board-making process and tree stories, test interest"
-      ]
-    },
-    {
-      "id": "idea_010",
-      "date": "2026-02-15",
-      "inspiration_product": "Provenzal Dried Herb Mix",
-      "inspiration_brand": "Casa Argentina / Saborigal",
-      "inspiration_country": "argentina",
-      "category": "grocery-pantry",
-      "us_brand_concept": "BA Spice Co. - Premium Argentine Provenzal seasoning blend in sleek tins with recipe cards",
-      "the_twist": "Premium glass jars with magnetic measuring spoon, recipe booklet with 'Buenos Aires street food secrets', Instagram-worthy branding targeting home cooks and food enthusiasts",
-      "twist_type": "brand-upgrade",
-      "target_customer": "Home cooks age 28-45 who follow food blogs, watch cooking shows, want authentic international flavors without importing. Pizza makers, steak lovers, pasta enthusiasts.",
-      "description": "Provenzal is Argentina's secret weapon - a garlic-forward herb blend (parsley, oregano, garlic) used on everything from pizza to milanesas to grilled meats. Unlike Italian seasoning or herbes de Provence, it has a distinctly bold, garlicky profile that defines Buenos Aires cuisine. No mainstream US brand makes it. We'd create the first premium US version with better packaging, clear use cases, and strong brand storytelling.",
-      "problem_solved": "Home cooks want authentic international flavors but don't know what 'provenzal' is or where to buy it. Existing imports are poorly branded and only in specialty shops. We make it accessible, beautiful, and teach people how to use it.",
-      "us_competitive_landscape": "Zero mainstream brands. Only low-quality imports at Latin shops (Saborigal). Italian seasoning and herbes de Provence are different flavor profiles. Huge white space.",
-      "demand_signals": [
-        "Argentine expats constantly seek it out",
-        "Food blogs mention it as 'the secret to Argentine pizza'",
-        "No US brand has claimed this category"
-      ],
-      "source_urls": [
-        "https://casaargentina.com/products/casa-argentina-premium-provenzal-dried-x-100g",
-        "https://www.walmart.com/browse/food/seasoning-mixes-blends/provenzal/976759_976794_3029941_9677176/YnJhbmQ6UHJvdmVuemFs"
-      ],
-      "manufacturing_path": "Contract spice blender (US-based). Simple dried herbs + granulated garlic. MOQ likely 500-1000 units. Companies like Spice Dynamics or Frontier Co-op can do private label. Estimated $2-3 COGS per 4oz jar.",
-      "estimated_cogs_per_unit": 2.5,
-      "target_retail_price": 12.99,
-      "estimated_margin_multiplier": 5.2,
-      "startup_cost_estimate": "$3K-$5K (first 500 units + jars + labels + Shopify site)",
-      "go_to_market": "Shopify DTC with Instagram ads targeting food enthusiasts, recipe bloggers. Send samples to food influencers. Amazon FBA after initial traction. Farmers markets for local buzz.",
-      "google_trends": {
-        "avg": 0,
-        "recent": 0,
-        "trend": "no_data"
-      },
-      "scores": {
-        "demand_proof": 6,
-        "us_gap": 10,
-        "manufacturing_ease": 10,
-        "twist_strength": 7,
-        "margin_potential": 9,
-        "brandability": 8,
-        "low_capital_start": 9
-      },
-      "score_avg": 8.4,
-      "risks": [
-        "Educating market on what provenzal is",
-        "Competing with homemade (recipe is simple)",
-        "Limited search volume for the term"
-      ],
-      "first_3_steps": [
-        "Source 3 spice co-packers, get quotes for 500-unit run with custom blend",
-        "Design premium jar packaging and recipe booklet with 10 signature uses",
-        "Pre-launch Instagram account with Argentine food content, build 500 followers before launch"
       ]
     }
   ]
