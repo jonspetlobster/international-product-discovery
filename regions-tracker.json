@@ -21,9 +21,9 @@
       "ideas": 3
     },
     "thailand": {
-      "candidates": 42,
+      "candidates": 59,
       "discoveries": 2,
-      "ideas": 3
+      "ideas": 6
     },
     "vietnam": {
       "candidates": 58,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "cleaning",
     "pet",
     "health-wellness",
     "kitchen",
-    "condiments-sauces"
+    "condiments-sauces",
+    "personal-care"
   ],
-  "total_candidates": 1629,
+  "total_candidates": 1646,
   "total_discoveries": 69,
-  "total_ideas": 149
+  "total_ideas": 152
 }
