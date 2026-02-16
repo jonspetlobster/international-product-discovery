@@ -56,9 +56,9 @@
       "ideas": 7
     },
     "uk": {
-      "candidates": 44,
+      "candidates": 65,
       "discoveries": 3,
-      "ideas": 3
+      "ideas": 6
     },
     "france": {
       "candidates": 63,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "health-wellness",
     "kitchen",
     "condiments-sauces",
     "personal-care",
-    "snacks-candy"
+    "snacks-candy",
+    "cleaning"
   ],
-  "total_candidates": 1706,
+  "total_candidates": 1727,
   "total_discoveries": 69,
-  "total_ideas": 152
+  "total_ideas": 155
 }

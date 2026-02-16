@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-16 15:40",
-  "total_ideas": 152,
+  "generated": "2026-02-16 15:54",
+  "total_ideas": 162,
   "total_candidates_evaluated": 1706,
   "total_rejected": 548,
   "top10": [
@@ -30,7 +30,7 @@
       ],
       "manufacturing_path": "Confectionery co-packer specializing in hard candy + soft centers (similar to chocolate-covered caramels). OR start with commercial kitchen + hand production for first 500 units, then scale to co-packer. Simple equipment: industrial mixer, enrober for sugar coating.",
       "estimated_cogs_per_unit": 0.35,
-      "target_retail_price": 2.50,
+      "target_retail_price": 2.5,
       "estimated_margin_multiplier": 7.1,
       "startup_cost_estimate": "$3K - $8K for first run (500-1000 units), basic branding, Shopify site, influencer samples",
       "go_to_market": "1) Influencer seeding on TikTok (send free samples to food influencers who already posted the recipe), 2) Shopify DTC with TikTok Shop integration, 3) Instagram-worthy packaging for gifting angle, 4) Farmers markets / local pop-ups to test, 5) Eventually Amazon FBA once proven",
@@ -64,7 +64,7 @@
     {
       "id": "idea_156",
       "date": "2026-02-16",
-      "inspiration_product": "Terre de Sommières Stain Absorbent Powder",
+      "inspiration_product": "Terre de Sommi\u00e8res Stain Absorbent Powder",
       "inspiration_brand": "Marius Fabre, Starwax",
       "inspiration_country": "france",
       "category": "laundry-clothing",
@@ -72,7 +72,7 @@
       "the_twist": "Modern minimal glass jar packaging with shaker top, TikTok-ready demos, influencer marketing targeting luxury eco segment instead of industrial/utilitarian positioning",
       "twist_type": "brand-upgrade",
       "target_customer": "Eco-conscious millennials and Gen Z with nice furniture/clothing who want natural cleaning solutions. People who follow zero-waste influencers.",
-      "description": "Terre de Sommières is a natural magnesium silicate clay powder used in France for centuries to absorb grease, oil, and liquid stains from fabric, carpet, and leather without water. You sprinkle it on the stain, let it sit, brush it off. It's beloved in France but unknown in the US. Our version rebrands this miracle powder with modern packaging, clear use-case marketing (wine spills, makeup stains, grease spots), and social-first content strategy.",
+      "description": "Terre de Sommi\u00e8res is a natural magnesium silicate clay powder used in France for centuries to absorb grease, oil, and liquid stains from fabric, carpet, and leather without water. You sprinkle it on the stain, let it sit, brush it off. It's beloved in France but unknown in the US. Our version rebrands this miracle powder with modern packaging, clear use-case marketing (wine spills, makeup stains, grease spots), and social-first content strategy.",
       "problem_solved": "Immediate stain treatment without harsh chemicals, water, or scrubbing. Perfect for dry-clean-only items, leather, or quick fixes when you can't wash immediately.",
       "us_competitive_landscape": "No branded consumer product exists. Fuller's Earth is available in bulk/industrial quantities but not marketed to consumers. Spray stain removers (Shout, OxiClean) require water and chemicals. Zero-waste brands (Blueland, Branch Basics) don't have a dry stain solution.",
       "demand_signals": [
@@ -84,8 +84,8 @@
         "knowledge-based"
       ],
       "manufacturing_path": "Source magnesium silicate clay from specialized suppliers (available in US and France). Partner with small-batch co-packer to fill glass jars with shaker tops. Add custom labels. Very simple product, no formulation needed.",
-      "estimated_cogs_per_unit": 1.50,
-      "target_retail_price": 22.00,
+      "estimated_cogs_per_unit": 1.5,
+      "target_retail_price": 22.0,
       "estimated_margin_multiplier": 14.7,
       "startup_cost_estimate": "$3,000 - $5,000 for first 500-unit run plus branding/photography",
       "go_to_market": "Shopify DTC with strong Instagram/TikTok content showing before-after demos. Seed with eco-influencers. Subscription option for refills. Expand to boutique home stores.",
@@ -113,6 +113,60 @@
         "1. Source 50lb bulk magnesium silicate clay sample and test on various stains (wine, oil, makeup)",
         "2. Create TikTok account and post 10 stain-removal demos to validate content resonance",
         "3. Order 500 glass jars with shaker tops and custom labels from packaging supplier"
+      ]
+    },
+    {
+      "id": "idea_158",
+      "date": "2026-02-16",
+      "inspiration_product": "French Linen Water (Eau de Linge)",
+      "inspiration_brand": "Various French artisanal brands",
+      "inspiration_country": "france",
+      "category": "laundry-clothing",
+      "us_brand_concept": "Maison Mist - Luxury scented linen spray collection that combines wrinkle release with closet freshening and aromatherapy",
+      "the_twist": "Position as luxury closet/drawer fragrance that happens to help with wrinkles, not just ironing water. Create seasonal fragrance collections (not just lavender). Subscription model with quarterly new scents. Modern apothecary branding.",
+      "twist_type": "brand-upgrade",
+      "target_customer": "Women 25-45 who care about home aesthetics and follow home organization influencers. People who buy Diptyque candles and Le Labo fragrances. Not targeting people who iron regularly - targeting people who want their closet to smell amazing.",
+      "description": "French linen water is a lightly scented spray used while ironing to make clothes smell fresh and release wrinkles. In France it's an everyday luxury. Our version reframes it as a luxury closet fragrance that also fights wrinkles. Spray on hanging clothes, bedding, towels. Beautiful bottle design, premium fragrances developed with perfumers, seasonal collections. It's the fragrance category meets laundry care.",
+      "problem_solved": "Closet/drawer freshening without heavy fabric sprays or chemical air fresheners. Light wrinkle release for clothes that sat in drawers. Aromatherapy benefit while getting dressed.",
+      "us_competitive_landscape": "Febreze dominates fabric refresher but cheap and chemical. Luxury home fragrance (Diptyque, Byredo) doesn't have fabric spray lines. Wrinkle release sprays (Downy Wrinkle Releaser) have zero aesthetic appeal. Perfect white space for luxury positioned product.",
+      "demand_signals": [
+        "Home fragrance market booming",
+        "Organization TikTok huge (closet aesthetics)",
+        "Luxury home care trending (Laundress went premium before bankruptcy)"
+      ],
+      "source_urls": [
+        "knowledge-based"
+      ],
+      "manufacturing_path": "Partner with cosmetic/fragrance co-packer. Simple formulation - distilled water, fragrance oils, light starch, preservative. Standard spray bottle filling. Could start with 500-unit run easily.",
+      "estimated_cogs_per_unit": 1.8,
+      "target_retail_price": 26.0,
+      "estimated_margin_multiplier": 14.4,
+      "startup_cost_estimate": "$4,000 - $7,000 for fragrance development, first production run, and packaging design",
+      "go_to_market": "DTC with strong Instagram aesthetic. Partner with home organization influencers. Subscription model with seasonal scent releases. Wholesale to boutique home stores. Limited edition collaborations with designers.",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 7,
+        "us_gap": 9,
+        "manufacturing_ease": 10,
+        "twist_strength": 9,
+        "margin_potential": 10,
+        "brandability": 10,
+        "low_capital_start": 9
+      },
+      "score_avg": 9.1,
+      "risks": [
+        "Fragrance is subjective - some scents will flop",
+        "Competitors (luxury brands) could copy easily",
+        "Customer perception as 'just fancy water'"
+      ],
+      "first_3_steps": [
+        "1. Develop 3 initial fragrances with cosmetic formulator (classic lavender, modern citrus, warm amber)",
+        "2. Create beautiful packaging design and product photography for DTC site",
+        "3. Manufacture 300-unit first run and launch with 2-3 home organization influencer partnerships"
       ]
     },
     {
@@ -176,7 +230,7 @@
       "id": "idea_013",
       "date": "2026-02-15",
       "inspiration_product": "Kolonya (Turkish Lemon Cologne)",
-      "inspiration_brand": "Rebul, Eyüp Sabri Tuncer, Pereja, Duru",
+      "inspiration_brand": "Rebul, Ey\u00fcp Sabri Tuncer, Pereja, Duru",
       "inspiration_country": "turkey",
       "category": "cleaning",
       "us_brand_concept": "Luxury hospitality hand sanitizer brand - premium lemon cologne-based sanitizer positioned as 'the entertaining essential' for hosts",
@@ -353,7 +407,7 @@
       "us_brand_concept": "NutDust - Savory roasted peanut seasoning blend (the peanut version of Everything Bagel)",
       "the_twist": "Take peanut podi's roasted peanut + spice concept, remove Indian branding, position as 'savory peanut seasoning' competing with Everything Bagel Seasoning but with protein + nutty richness",
       "twist_type": "brand-upgrade",
-      "target_customer": "Same customer who buys Everything Bagel Seasoning, Maldon salt, Tajín. People who put seasoning on everything. Bonus: peanut allergy-avoiders can skip, but peanut lovers get a unique option.",
+      "target_customer": "Same customer who buys Everything Bagel Seasoning, Maldon salt, Taj\u00edn. People who put seasoning on everything. Bonus: peanut allergy-avoiders can skip, but peanut lovers get a unique option.",
       "description": "Peanut podi is a South Indian condiment powder made from roasted peanuts, lentils, red chili, garlic, curry leaves, and spices. Mix with oil for instant peanut chutney or sprinkle dry on food. It's intensely savory with nutty depth. No US brand has done 'savory peanut seasoning' - all peanut products are sweet (PB) or whole roasted nuts. This fills the gap between Everything Bagel and actual peanut butter.",
       "problem_solved": "Everything Bagel Seasoning is ubiquitous but lacks protein and nutty richness. Peanut powder products exist but are all SWEET (PB2, etc). This is the first SAVORY peanut-based seasoning for the US market.",
       "us_competitive_landscape": "Everything Bagel Seasoning owns the savory-sprinkle space. Trader Joe's sells it, so do 50+ copycat brands. But zero brands have done savory peanut seasoning. Peanut powder (PB2) exists but it's reconstituted peanut butter, not a seasoning. Huge white space.",
@@ -424,7 +478,7 @@
         "https://www.reddit.com/r/askSingapore/comments/1976sc5/"
       ],
       "manufacturing_path": "US-based essential oil contract manufacturers (Bulk Apothecary, AromaEasy, Dynamic Blending, Dermagen Labs). Simple blend: menthol crystal dissolved in carrier oil (fractionated coconut or jojoba) + eucalyptus/peppermint essential oils. Fill into 10ml roller bottles. FDA cosmetic regulation (not OTC drug if no claims).",
-      "estimated_cogs_per_unit": 1.80,
+      "estimated_cogs_per_unit": 1.8,
       "target_retail_price": 12.99,
       "estimated_margin_multiplier": 7.2,
       "startup_cost_estimate": "$2K - $4K for first 500 units (10ml rollers), formulation, branding, Shopify setup. Many US manufacturers have low/no MOQs.",
@@ -481,7 +535,7 @@
         "https://www.roots.gov.sg/ich-landing/ich/making-of-chinese-medicated-oils"
       ],
       "manufacturing_path": "US essential oil contract manufacturer (same as Axe Oil idea - Bulk Apothecary, AromaEasy). Blend: peppermint + eucalyptus + fennel + lavender essential oils in fractionated coconut oil carrier. 1oz dropper bottles. Must ensure gentle dilution safe for infant skin (2-3% essential oil concentration). Can use organic/certified ingredients for premium positioning.",
-      "estimated_cogs_per_unit": 2.20,
+      "estimated_cogs_per_unit": 2.2,
       "target_retail_price": 16.99,
       "estimated_margin_multiplier": 7.7,
       "startup_cost_estimate": "$2.5K - $4K for first 300 units, branding, educational content creation, Shopify site. Could start with $1.5K if bootstrapping hard.",
@@ -511,63 +565,6 @@
         "1. Research baby-safe essential oil concentrations, consult with aromatherapist or pediatric herbalist, order test formulations from US manufacturer",
         "2. Create brand identity specifically for millennial parents - soft colors, educational tone, Instagram-friendly design",
         "3. Place MOQ order (300 units), build DTC site with strong content (how-to videos, FAQs), seed to 15 mom influencers and parenting groups"
-      ]
-    },
-    {
-      "id": "idea_037",
-      "date": "2026-02-15",
-      "inspiration_product": "Ghriba (Moroccan Almond Cookies)",
-      "inspiration_brand": "Traditional Moroccan patisseries",
-      "inspiration_country": "morocco",
-      "category": "snacks-candy",
-      "us_brand_concept": "GhribaCo - Premium Moroccan teatime cookies delivered monthly",
-      "the_twist": "DTC subscription with rotating flavors (sesame, almond, chocolate, coconut), naturally gluten-free positioning, paired with Moroccan tea",
-      "twist_type": "subscription|brand-upgrade|niche-targeting",
-      "target_customer": "Gluten-free snackers, tea enthusiasts, subscription box buyers aged 25-45, Mediterranean food lovers",
-      "description": "Ghriba are crumbly, buttery Moroccan cookies with a unique hockey-puck shape and sandy texture. Made with ground almonds or sesame, they're naturally gluten-free and beloved in Morocco for dunking in mint tea. Zero US brands currently sell ghriba commercially - only recipes exist online. The product would feature premium ingredients (California almonds, orange blossom water), nostalgic packaging with Moroccan tile patterns, and educational insert about Moroccan tea culture.",
-      "problem_solved": "No commercial source for authentic Moroccan cookies in US. Gluten-free cookie options are limited to bland health bars. Tea drinkers lack elevated pairing snacks beyond basic biscuits.",
-      "us_competitive_landscape": "Zero direct competitors. Adjacent: Simple Mills (gluten-free cookies), Tate's (premium cookies), Trade Coffee (tea subscription). Nothing combines Moroccan authenticity + gluten-free + subscription model.",
-      "demand_signals": [
-        "Gluten-free market $7.5B and growing 9% annually",
-        "Cookie subscription boxes (Milk Bar, Crumbl) wildly popular",
-        "Moroccan cuisine trending on TikTok (#MoroccanFood 2B views)",
-        "Almond flour cookies Pinterest searches up 40% YoY"
-      ],
-      "source_urls": [
-        "https://www.journeybeyondtravel.com/blog/moroccan-sweets-crumbles-of-culture.html",
-        "https://sugaryums.com/moroccan-cookies/",
-        "https://marocmama.com/moroccan-ghriba-cookie-recipe/"
-      ],
-      "manufacturing_path": "US cookie co-packer (Specialty Food Copackers or ChipMonk Baking). Almond flour cookies are standard production. MOQ 500 lbs = ~4,000 cookies. Recipe development with Moroccan consultant. Packaging via Noissue or Packlane.",
-      "estimated_cogs_per_unit": 0.75,
-      "target_retail_price": 18.0,
-      "estimated_margin_multiplier": 6.0,
-      "startup_cost_estimate": "$8K - $12K (500 lb production run, branding, first Shopify setup, small Instagram ads test)",
-      "go_to_market": "Shopify DTC with subscription (monthly 'flavor of the month'). Instagram/TikTok content showing tea pairings. Partner with specialty tea brands for co-marketing. Farmers markets for sampling. Later: Whole Foods regional.",
-      "google_trends": {
-        "avg": 0,
-        "recent": 0,
-        "trend": "no_data"
-      },
-      "scores": {
-        "demand_proof": 7,
-        "us_gap": 10,
-        "manufacturing_ease": 9,
-        "twist_strength": 8,
-        "margin_potential": 9,
-        "brandability": 9,
-        "low_capital_start": 9
-      },
-      "score_avg": 8.71,
-      "risks": [
-        "Niche product - may be too foreign for mainstream US palate",
-        "Subscription fatigue - need to nail retention with variety",
-        "Shelf life constraints - almond flour can go rancid faster than wheat"
-      ],
-      "first_3_steps": [
-        "1. Recipe R&D: Test 3 ghriba recipes (sesame, almond, chocolate) with 10 tasters for US palate optimization",
-        "2. Co-packer outreach: Get quotes from 3 gluten-free bakeries, negotiate 500 lb trial run, finalize recipe",
-        "3. Brand MVP: Design packaging mockups, build Shopify store, shoot tea-pairing content, launch with 100-unit pre-sale to validate demand"
       ]
     }
   ]
