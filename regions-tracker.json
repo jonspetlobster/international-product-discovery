@@ -86,9 +86,9 @@
       "ideas": 5
     },
     "mexico": {
-      "candidates": 41,
+      "candidates": 61,
       "discoveries": 0,
-      "ideas": 3
+      "ideas": 6
     },
     "brazil": {
       "candidates": 63,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
+    "kitchen",
     "cleaning",
     "snacks-candy",
     "personal-care",
-    "pet",
-    "health-wellness"
+    "pet"
   ],
-  "total_candidates": 1526,
+  "total_candidates": 1546,
   "total_discoveries": 69,
-  "total_ideas": 131
+  "total_ideas": 134
 }
