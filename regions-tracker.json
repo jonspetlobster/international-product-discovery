@@ -146,19 +146,19 @@
       "ideas": 3
     },
     "singapore": {
-      "candidates": 41,
+      "candidates": 59,
       "discoveries": 3,
-      "ideas": 3
+      "ideas": 6
     }
   },
   "categories_recent": [
-    "kitchen",
     "cleaning",
     "snacks-candy",
     "personal-care",
-    "pet"
+    "pet",
+    "health-wellness"
   ],
-  "total_candidates": 1546,
+  "total_candidates": 1564,
   "total_discoveries": 69,
-  "total_ideas": 134
+  "total_ideas": 137
 }
