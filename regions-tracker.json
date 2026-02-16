@@ -27,12 +27,12 @@
     "australia": {"candidates": 66, "discoveries": 1, "ideas": 6},
     "new_zealand": {"candidates": 57, "discoveries": 2, "ideas": 9},
     "israel": {"candidates": 58, "discoveries": 0, "ideas": 6},
-    "egypt": {"candidates": 42, "discoveries": 3, "ideas": 2},
+    "egypt": {"candidates": 56, "discoveries": 3, "ideas": 5},
     "malaysia": {"candidates": 46, "discoveries": 3, "ideas": 3},
     "singapore": {"candidates": 59, "discoveries": 3, "ideas": 6}
   },
-  "categories_recent": ["personal-care", "pet", "health-wellness", "kitchen", "condiments-sauces"],
-  "total_candidates": 1597,
+  "categories_recent": ["pet", "health-wellness", "kitchen", "condiments-sauces", "grocery-pantry"],
+  "total_candidates": 1611,
   "total_discoveries": 69,
-  "total_ideas": 143
+  "total_ideas": 146
 }
