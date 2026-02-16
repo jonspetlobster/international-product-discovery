@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-16 13:30",
-  "total_ideas": 299,
-  "total_candidates_evaluated": 1479,
-  "total_rejected": 503,
+  "generated": "2026-02-16 13:40",
+  "total_ideas": 127,
+  "total_candidates_evaluated": 1504,
+  "total_rejected": 0,
   "top10": [
     {
       "id": "idea_112",
@@ -62,60 +62,115 @@
       ]
     },
     {
-      "id": "idea_001",
-      "date": "2026-02-15",
-      "inspiration_product": "Idli Podi (South Indian chutney powder)",
-      "inspiration_brand": "MTR, Ramadevi Foods, various South Indian brands",
-      "inspiration_country": "india",
-      "category": "condiments-sauces",
-      "us_brand_concept": "PulseFire Seasoning - Protein-packed umami spice blend made from roasted lentils, sesame, and chilies",
-      "the_twist": "Rebrand from 'Indian chutney powder' to 'Protein Umami Seasoning' - remove foreign-sounding name, premium shaker bottle, emphasize 6g protein per serving + umami flavor bomb positioning",
-      "twist_type": "brand-upgrade",
-      "target_customer": "Millennial/Gen-Z foodies who buy Trader Joe's Everything Bagel Seasoning, Maldon salt, and chili crisp. Health-conscious home cooks looking for clean-label flavor enhancers.",
-      "description": "Idli podi is a South Indian staple made from dry-roasted lentils (urad dal, chana dal), sesame seeds, red chilies, curry leaves, and spices. Mix with oil and it becomes an instant savory condiment for rice, eggs, vegetables. In India it's beloved but marketed only to Indians. No US brand has taken this concept mainstream. Our version strips the cultural baggage, emphasizes the protein content from lentils (competitors use mushrooms/kelp with zero protein), and positions it as the dry version of trending chili crisp.",
-      "problem_solved": "Umami seasoning trend is exploding but all brands use mushrooms/kelp/nutritional yeast. This offers a completely different umami source (roasted legumes) with actual protein content. Solves for: flavor hackers wanting new umami options, plant-based protein seekers, people who want MSG-free savory boost.",
-      "us_competitive_landscape": "Umami seasonings exist (Trader Joe's Umami, Spiceology blends, artisan mushroom powders) but ALL are mushroom/kelp-based. Zero brands using roasted lentils/legumes as umami base. Everything Bagel Seasoning owns the savory-sprinkle space but has no protein. Nutritional yeast is the only 'protein seasoning' but tastes nothing like this.",
+      "id": "idea_236",
+      "date": "2026-02-16",
+      "inspiration_product": "Poy-Sian Ya Dom Nasal Inhaler",
+      "inspiration_brand": "Poy-Sian",
+      "inspiration_country": "thailand",
+      "category": "personal-care",
+      "us_brand_concept": "ClearHead: Menthol-eucalyptus nasal inhaler positioned as a caffeine-free focus and alertness tool for desk workers, gamers, and students",
+      "the_twist": "Rebrand from 'medicinal' to 'productivity tech' - sleek aluminum design like a vape pen, marketed as energy drink alternative without the crash, focus on blocking distractions and mental clarity",
+      "twist_type": "brand-upgrade|niche-targeting",
+      "target_customer": "Knowledge workers 22-40, gamers, students cramming, anyone who needs focus without caffeine jitters. Tech workers, coders, designers.",
+      "description": "Thais use ya dom nasal inhalers constantly - not just when sick, but to stay alert, clear the mind, and block pollution/bad smells. The menthol-camphor-eucalyptus blast is addictive and effective. US has aromatherapy inhalers but they're positioned as hippie wellness products. The opportunity: position it like a nootropic or energy drink - something you reach for when you need to lock in. Make it look like a tech gadget, not medicine.",
+      "problem_solved": "Mental fog, afternoon energy crashes, need for focus without caffeine or stimulants. Alternative to coffee addiction, energy drinks, or prescription focus meds.",
+      "us_competitive_landscape": "ReadyScent, SniffElixir, MOXE, Ascents all exist but positioned as 'aromatherapy wellness' with granola branding. No one has positioned nasal inhalers as everyday productivity tools for tech workers and gamers. Market gap: premium, modern branding for a functional focus tool.",
       "demand_signals": [
-        "Trader Joe's Umami Seasoning went viral on Reddit/TikTok in 2022",
-        "Everything Bagel Seasoning spawned dozens of copycat brands",
-        "Chili crisp sales exploded 2020-2025, proving appetite for bold savory condiments",
-        "Protein-forward positioning trending (Kodiak, Magic Spoon, etc.)"
+        "Thais use ya dom constantly (cultural proof)",
+        "US aromatherapy inhaler market exists but poorly branded",
+        "Gaming/esports culture values performance optimization",
+        "Nootropics and focus supplements are $3B+ market"
       ],
       "source_urls": [
-        "https://www.reddit.com/r/IndianFood/comments/11rzy2f/new_to_podi_share_some_details/",
-        "https://www.amazon.com/idli-podi/s?k=idli+podi",
-        "https://www.reddit.com/r/traderjoes/comments/w4p1ur/trader_joes_umami_seasoning_has_anyone_tried_it/"
+        "https://nymag.com/strategist/article/best-thai-drugstore-beauty-products-on-amazon.html",
+        "https://www.amazon.com/ReadyScent-Focus-Power-Nasal-Inhaler/dp/B082GCWN73"
       ],
-      "manufacturing_path": "US-based spice co-packer. Source roasted lentils in bulk (already available from US suppliers), blend with spices, fill into shaker bottles. Hongar Farms does private label with 24-unit minimums. Could also hand-blend first 100 units to validate.",
+      "manufacturing_path": "Contract manufacturer for aromatherapy inhalers (existing US suppliers). Simple formulation: menthol, eucalyptus oil, camphor, peppermint oil. Standard plastic inhaler tubes or upgrade to aluminum for premium feel. MOQ likely 500-1000 units.",
       "estimated_cogs_per_unit": 1.5,
-      "target_retail_price": 8.99,
-      "estimated_margin_multiplier": 6.0,
-      "startup_cost_estimate": "$500-$1500 for first 100 units (hand blend + bottles + labels). $2000-$3500 for first co-packer run of 240-500 units.",
-      "go_to_market": "Launch DTC via Shopify. Instagram/TikTok content showing versatility (eggs, popcorn, roasted veg, rice bowls). Send to food influencers. Pitch to Whole Foods/Sprouts as 'protein umami seasoning' after proving DTC traction. Could also do farmers markets for instant feedback.",
+      "target_retail_price": 12.99,
+      "estimated_margin_multiplier": 8.7,
+      "startup_cost_estimate": "$2,000-$4,000 for first 500 units + branding + Shopify site",
+      "go_to_market": "DTC Shopify, TikTok Shop. Target gaming subreddits, productivity YouTubers, tech Twitter. Send samples to productivity influencers. Amazon FBA after proving concept. Subscription: 3-pack every 2 months.",
       "google_trends": {
         "avg": 0,
         "recent": 0,
         "trend": "no_data"
       },
       "scores": {
-        "demand_proof": 8,
+        "demand_proof": 7,
         "us_gap": 9,
-        "manufacturing_ease": 10,
+        "manufacturing_ease": 9,
         "twist_strength": 9,
         "margin_potential": 9,
-        "brandability": 8,
+        "brandability": 10,
         "low_capital_start": 10
       },
       "score_avg": 9.0,
       "risks": [
-        "Americans might not like the flavor profile initially - need sampling strategy",
-        "Shelf stability - lentils can go rancid, need proper packaging/preservatives",
-        "Scaling beyond DTC requires educating retailers on what it is"
+        "Behavior change required (Americans don't use nasal inhalers daily)",
+        "Could be seen as drug paraphernalia if design too similar to vape pens",
+        "FDA regulation if making health claims"
       ],
       "first_3_steps": [
-        "Hand-blend 5 test batches with different spice ratios, get 20 people to taste and give feedback",
-        "Order 100 4oz shaker bottles + labels from Uline, create basic branding (logo, name, ingredient list)",
-        "Launch Shopify store, run $500 Instagram ad test targeting followers of Bon Appetit, Smitten Kitchen, Trader Joe's fan accounts"
+        "Source 3 US aromatherapy inhaler manufacturers, get MOQ and sample costs",
+        "Design packaging mockups (aluminum tube, tech-inspired graphics, include 'focus mode activated' tagline)",
+        "Test messaging on r/productivity and gaming Discord servers with before/after focus surveys"
+      ]
+    },
+    {
+      "id": "idea_033",
+      "date": "2026-02-15",
+      "inspiration_product": "Hagelslag / Vlokken",
+      "inspiration_brand": "De Ruijter",
+      "inspiration_country": "netherlands",
+      "category": "grocery-pantry",
+      "us_brand_concept": "Sprinkle Mornings - Gourmet Breakfast Sprinkles for Grown-Ups",
+      "the_twist": "Skip the authentic Dutch chocolate sprinkles (too unfamiliar). Instead, create AMERICAN-friendly breakfast sprinkle flavors: cinnamon sugar, maple pecan, espresso chocolate, brown butter. Market as a breakfast ritual - the cereal alternative for toast lovers.",
+      "twist_type": "format-change|ingredient-swap|niche-targeting|brand-upgrade",
+      "target_customer": "Toast-for-breakfast people (massive audience); parents wanting fun breakfast without sugar cereal; millennials seeking rituals and nostalgia; people who buy fancy butter and jam",
+      "description": "Hagelslag (chocolate sprinkles on buttered bread) is a Dutch breakfast ritual. Americans don't do this - sprinkles are for ice cream and cupcakes only. But the format is genius: easy, portion-controlled, fun, customizable. Sprinkle Mornings adapts the concept with flavors that make sense to Americans. Think cinnamon-sugar (like cinnamon toast) but elevated. Espresso-chocolate for coffee lovers. Maple-pecan for pancake vibes. Sold in shaker jars with premium branding.",
+      "problem_solved": "Boring toast; breakfast fatigue; desire for quick, fun, customizable breakfast without cooking; alternative to sugary cereal",
+      "us_competitive_landscape": "NOTHING exists in this space. Cinnamon sugar exists but as baking ingredient, not breakfast topping. Nutella/jam are spreads. Cereal requires milk and bowl. Granola is a topping but not sprinkle format. ZERO breakfast sprinkle brands in US.",
+      "demand_signals": [
+        "Toast culture is huge (sourdough boom, avocado toast, fancy butter)",
+        "Ritual-seeking behavior (matcha, pour-over coffee, overnight oats)",
+        "Customization trend (build-your-own-everything)",
+        "Hagelslag gets curiosity from Americans who try it in Netherlands"
+      ],
+      "source_urls": [
+        "https://dutchreview.com/culture/food/6-weird-dutch-bread-toppings/",
+        "https://www.reddit.com/r/Netherlands/comments/16oo3ew/your_favourite_dutch_products/"
+      ],
+      "manufacturing_path": "Dry-mix co-packer or spice blending company. Simple ingredients (sugar, cinnamon, cocoa, flavor oils). Very low MOQ possible (250-500 units). Glass or plastic shaker jars.",
+      "estimated_cogs_per_unit": 1.5,
+      "target_retail_price": 8.99,
+      "estimated_margin_multiplier": 6.0,
+      "startup_cost_estimate": "$2K-4K for first run (500 units x 3 flavors), label design, food-safe jars. Could start even smaller with local contract packer.",
+      "go_to_market": "DTC Shopify. Instagram/TikTok content: 'The European breakfast trend you didn't know you needed.' Target food bloggers and breakfast enthusiasts. Subscription box (monthly flavor). Partner with fancy bakeries. Eventually: Whole Foods breakfast aisle.",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 5,
+        "us_gap": 10,
+        "manufacturing_ease": 10,
+        "twist_strength": 9,
+        "margin_potential": 9,
+        "brandability": 10,
+        "low_capital_start": 10
+      },
+      "score_avg": 9.0,
+      "risks": [
+        "Totally new category requires heavy consumer education",
+        "Sprinkles = kids/dessert association in US might be hard to overcome",
+        "Need viral moment or influencer to create demand"
+      ],
+      "first_3_steps": [
+        "Make 5 homemade flavor prototypes, test with 20 people for flavor + naming feedback",
+        "Design packaging mockup: glass jar, minimalist label, emphasize 'morning ritual' not 'kid food'",
+        "Find dry-goods co-packer, get quotes for 3 flavors x 500 units, or start with local spice shop for micro-batch"
       ]
     },
     {
@@ -178,115 +233,60 @@
       ]
     },
     {
-      "id": "idea_033",
+      "id": "idea_001",
       "date": "2026-02-15",
-      "inspiration_product": "Hagelslag / Vlokken",
-      "inspiration_brand": "De Ruijter",
-      "inspiration_country": "netherlands",
-      "category": "grocery-pantry",
-      "us_brand_concept": "Sprinkle Mornings - Gourmet Breakfast Sprinkles for Grown-Ups",
-      "the_twist": "Skip the authentic Dutch chocolate sprinkles (too unfamiliar). Instead, create AMERICAN-friendly breakfast sprinkle flavors: cinnamon sugar, maple pecan, espresso chocolate, brown butter. Market as a breakfast ritual - the cereal alternative for toast lovers.",
-      "twist_type": "format-change|ingredient-swap|niche-targeting|brand-upgrade",
-      "target_customer": "Toast-for-breakfast people (massive audience); parents wanting fun breakfast without sugar cereal; millennials seeking rituals and nostalgia; people who buy fancy butter and jam",
-      "description": "Hagelslag (chocolate sprinkles on buttered bread) is a Dutch breakfast ritual. Americans don't do this - sprinkles are for ice cream and cupcakes only. But the format is genius: easy, portion-controlled, fun, customizable. Sprinkle Mornings adapts the concept with flavors that make sense to Americans. Think cinnamon-sugar (like cinnamon toast) but elevated. Espresso-chocolate for coffee lovers. Maple-pecan for pancake vibes. Sold in shaker jars with premium branding.",
-      "problem_solved": "Boring toast; breakfast fatigue; desire for quick, fun, customizable breakfast without cooking; alternative to sugary cereal",
-      "us_competitive_landscape": "NOTHING exists in this space. Cinnamon sugar exists but as baking ingredient, not breakfast topping. Nutella/jam are spreads. Cereal requires milk and bowl. Granola is a topping but not sprinkle format. ZERO breakfast sprinkle brands in US.",
+      "inspiration_product": "Idli Podi (South Indian chutney powder)",
+      "inspiration_brand": "MTR, Ramadevi Foods, various South Indian brands",
+      "inspiration_country": "india",
+      "category": "condiments-sauces",
+      "us_brand_concept": "PulseFire Seasoning - Protein-packed umami spice blend made from roasted lentils, sesame, and chilies",
+      "the_twist": "Rebrand from 'Indian chutney powder' to 'Protein Umami Seasoning' - remove foreign-sounding name, premium shaker bottle, emphasize 6g protein per serving + umami flavor bomb positioning",
+      "twist_type": "brand-upgrade",
+      "target_customer": "Millennial/Gen-Z foodies who buy Trader Joe's Everything Bagel Seasoning, Maldon salt, and chili crisp. Health-conscious home cooks looking for clean-label flavor enhancers.",
+      "description": "Idli podi is a South Indian staple made from dry-roasted lentils (urad dal, chana dal), sesame seeds, red chilies, curry leaves, and spices. Mix with oil and it becomes an instant savory condiment for rice, eggs, vegetables. In India it's beloved but marketed only to Indians. No US brand has taken this concept mainstream. Our version strips the cultural baggage, emphasizes the protein content from lentils (competitors use mushrooms/kelp with zero protein), and positions it as the dry version of trending chili crisp.",
+      "problem_solved": "Umami seasoning trend is exploding but all brands use mushrooms/kelp/nutritional yeast. This offers a completely different umami source (roasted legumes) with actual protein content. Solves for: flavor hackers wanting new umami options, plant-based protein seekers, people who want MSG-free savory boost.",
+      "us_competitive_landscape": "Umami seasonings exist (Trader Joe's Umami, Spiceology blends, artisan mushroom powders) but ALL are mushroom/kelp-based. Zero brands using roasted lentils/legumes as umami base. Everything Bagel Seasoning owns the savory-sprinkle space but has no protein. Nutritional yeast is the only 'protein seasoning' but tastes nothing like this.",
       "demand_signals": [
-        "Toast culture is huge (sourdough boom, avocado toast, fancy butter)",
-        "Ritual-seeking behavior (matcha, pour-over coffee, overnight oats)",
-        "Customization trend (build-your-own-everything)",
-        "Hagelslag gets curiosity from Americans who try it in Netherlands"
+        "Trader Joe's Umami Seasoning went viral on Reddit/TikTok in 2022",
+        "Everything Bagel Seasoning spawned dozens of copycat brands",
+        "Chili crisp sales exploded 2020-2025, proving appetite for bold savory condiments",
+        "Protein-forward positioning trending (Kodiak, Magic Spoon, etc.)"
       ],
       "source_urls": [
-        "https://dutchreview.com/culture/food/6-weird-dutch-bread-toppings/",
-        "https://www.reddit.com/r/Netherlands/comments/16oo3ew/your_favourite_dutch_products/"
+        "https://www.reddit.com/r/IndianFood/comments/11rzy2f/new_to_podi_share_some_details/",
+        "https://www.amazon.com/idli-podi/s?k=idli+podi",
+        "https://www.reddit.com/r/traderjoes/comments/w4p1ur/trader_joes_umami_seasoning_has_anyone_tried_it/"
       ],
-      "manufacturing_path": "Dry-mix co-packer or spice blending company. Simple ingredients (sugar, cinnamon, cocoa, flavor oils). Very low MOQ possible (250-500 units). Glass or plastic shaker jars.",
+      "manufacturing_path": "US-based spice co-packer. Source roasted lentils in bulk (already available from US suppliers), blend with spices, fill into shaker bottles. Hongar Farms does private label with 24-unit minimums. Could also hand-blend first 100 units to validate.",
       "estimated_cogs_per_unit": 1.5,
       "target_retail_price": 8.99,
       "estimated_margin_multiplier": 6.0,
-      "startup_cost_estimate": "$2K-4K for first run (500 units x 3 flavors), label design, food-safe jars. Could start even smaller with local contract packer.",
-      "go_to_market": "DTC Shopify. Instagram/TikTok content: 'The European breakfast trend you didn't know you needed.' Target food bloggers and breakfast enthusiasts. Subscription box (monthly flavor). Partner with fancy bakeries. Eventually: Whole Foods breakfast aisle.",
+      "startup_cost_estimate": "$500-$1500 for first 100 units (hand blend + bottles + labels). $2000-$3500 for first co-packer run of 240-500 units.",
+      "go_to_market": "Launch DTC via Shopify. Instagram/TikTok content showing versatility (eggs, popcorn, roasted veg, rice bowls). Send to food influencers. Pitch to Whole Foods/Sprouts as 'protein umami seasoning' after proving DTC traction. Could also do farmers markets for instant feedback.",
       "google_trends": {
         "avg": 0,
         "recent": 0,
         "trend": "no_data"
       },
       "scores": {
-        "demand_proof": 5,
-        "us_gap": 10,
+        "demand_proof": 8,
+        "us_gap": 9,
         "manufacturing_ease": 10,
         "twist_strength": 9,
         "margin_potential": 9,
-        "brandability": 10,
+        "brandability": 8,
         "low_capital_start": 10
       },
       "score_avg": 9.0,
       "risks": [
-        "Totally new category requires heavy consumer education",
-        "Sprinkles = kids/dessert association in US might be hard to overcome",
-        "Need viral moment or influencer to create demand"
+        "Americans might not like the flavor profile initially - need sampling strategy",
+        "Shelf stability - lentils can go rancid, need proper packaging/preservatives",
+        "Scaling beyond DTC requires educating retailers on what it is"
       ],
       "first_3_steps": [
-        "Make 5 homemade flavor prototypes, test with 20 people for flavor + naming feedback",
-        "Design packaging mockup: glass jar, minimalist label, emphasize 'morning ritual' not 'kid food'",
-        "Find dry-goods co-packer, get quotes for 3 flavors x 500 units, or start with local spice shop for micro-batch"
-      ]
-    },
-    {
-      "id": "idea_236",
-      "date": "2026-02-16",
-      "inspiration_product": "Poy-Sian Ya Dom Nasal Inhaler",
-      "inspiration_brand": "Poy-Sian",
-      "inspiration_country": "thailand",
-      "category": "personal-care",
-      "us_brand_concept": "ClearHead: Menthol-eucalyptus nasal inhaler positioned as a caffeine-free focus and alertness tool for desk workers, gamers, and students",
-      "the_twist": "Rebrand from 'medicinal' to 'productivity tech' - sleek aluminum design like a vape pen, marketed as energy drink alternative without the crash, focus on blocking distractions and mental clarity",
-      "twist_type": "brand-upgrade|niche-targeting",
-      "target_customer": "Knowledge workers 22-40, gamers, students cramming, anyone who needs focus without caffeine jitters. Tech workers, coders, designers.",
-      "description": "Thais use ya dom nasal inhalers constantly - not just when sick, but to stay alert, clear the mind, and block pollution/bad smells. The menthol-camphor-eucalyptus blast is addictive and effective. US has aromatherapy inhalers but they're positioned as hippie wellness products. The opportunity: position it like a nootropic or energy drink - something you reach for when you need to lock in. Make it look like a tech gadget, not medicine.",
-      "problem_solved": "Mental fog, afternoon energy crashes, need for focus without caffeine or stimulants. Alternative to coffee addiction, energy drinks, or prescription focus meds.",
-      "us_competitive_landscape": "ReadyScent, SniffElixir, MOXE, Ascents all exist but positioned as 'aromatherapy wellness' with granola branding. No one has positioned nasal inhalers as everyday productivity tools for tech workers and gamers. Market gap: premium, modern branding for a functional focus tool.",
-      "demand_signals": [
-        "Thais use ya dom constantly (cultural proof)",
-        "US aromatherapy inhaler market exists but poorly branded",
-        "Gaming/esports culture values performance optimization",
-        "Nootropics and focus supplements are $3B+ market"
-      ],
-      "source_urls": [
-        "https://nymag.com/strategist/article/best-thai-drugstore-beauty-products-on-amazon.html",
-        "https://www.amazon.com/ReadyScent-Focus-Power-Nasal-Inhaler/dp/B082GCWN73"
-      ],
-      "manufacturing_path": "Contract manufacturer for aromatherapy inhalers (existing US suppliers). Simple formulation: menthol, eucalyptus oil, camphor, peppermint oil. Standard plastic inhaler tubes or upgrade to aluminum for premium feel. MOQ likely 500-1000 units.",
-      "estimated_cogs_per_unit": 1.5,
-      "target_retail_price": 12.99,
-      "estimated_margin_multiplier": 8.7,
-      "startup_cost_estimate": "$2,000-$4,000 for first 500 units + branding + Shopify site",
-      "go_to_market": "DTC Shopify, TikTok Shop. Target gaming subreddits, productivity YouTubers, tech Twitter. Send samples to productivity influencers. Amazon FBA after proving concept. Subscription: 3-pack every 2 months.",
-      "google_trends": {
-        "avg": 0,
-        "recent": 0,
-        "trend": "no_data"
-      },
-      "scores": {
-        "demand_proof": 7,
-        "us_gap": 9,
-        "manufacturing_ease": 9,
-        "twist_strength": 9,
-        "margin_potential": 9,
-        "brandability": 10,
-        "low_capital_start": 10
-      },
-      "score_avg": 9.0,
-      "risks": [
-        "Behavior change required (Americans don't use nasal inhalers daily)",
-        "Could be seen as drug paraphernalia if design too similar to vape pens",
-        "FDA regulation if making health claims"
-      ],
-      "first_3_steps": [
-        "Source 3 US aromatherapy inhaler manufacturers, get MOQ and sample costs",
-        "Design packaging mockups (aluminum tube, tech-inspired graphics, include 'focus mode activated' tagline)",
-        "Test messaging on r/productivity and gaming Discord servers with before/after focus surveys"
+        "Hand-blend 5 test batches with different spice ratios, get 20 people to taste and give feedback",
+        "Order 100 4oz shaker bottles + labels from Uline, create basic branding (logo, name, ingredient list)",
+        "Launch Shopify store, run $500 Instagram ad test targeting followers of Bon Appetit, Smitten Kitchen, Trader Joe's fan accounts"
       ]
     },
     {
@@ -403,62 +403,6 @@
       ]
     },
     {
-      "id": "idea_178",
-      "date": "2026-02-16",
-      "inspiration_product": "Nagatanien Ochazuke Nori instant tea-over-rice packets",
-      "inspiration_brand": "Nagatanien",
-      "inspiration_country": "japan",
-      "category": "grocery-pantry",
-      "us_brand_concept": "RiseUp Savory - Instant savory breakfast rice bowls that are healthier and more filling than oatmeal",
-      "the_twist": "Position as breakfast/meal replacement rather than just leftover rice hack. Cleaner packaging, add protein options (fried egg mix-in, tofu bits), market as oatmeal alternative for people who want savory breakfasts",
-      "twist_type": "niche-targeting|format-change",
-      "target_customer": "Health-conscious breakfast skippers, busy professionals who hate sweet breakfast, keto/low-sugar dieters, van lifers needing shelf-stable meals",
-      "description": "Ochazuke is a Japanese comfort food: hot tea or dashi poured over rice with savory toppings like nori, sesame, rice crackers. The instant version (50 cents per serving) turns leftover rice into a meal in 2 minutes. Americans don't have a savory instant breakfast category - it's all sweet oatmeal or protein shakes. This fills that gap.",
-      "problem_solved": "Breakfast haters who are sick of sweet options, need something quick/savory/warm, and want more substance than a protein shake",
-      "us_competitive_landscape": "Instant oatmeal is dominated by Quaker (sweet). Instant ramen exists but seen as junk food. No instant savory rice bowl category. Frozen breakfast bowls exist but require freezer/microwave. This is shelf-stable, just needs hot water.",
-      "demand_signals": [
-        "Ochazuke packets are cult favorites among expats",
-        "Kitchn featured it as '$2 magic grocery'",
-        "Keto/carnivore diet people constantly ask for savory breakfast ideas",
-        "Van life community obsessed with shelf-stable meals"
-      ],
-      "source_urls": [
-        "https://www.thekitchn.com/nagatanien-ochazuke-nori-review-23656581",
-        "https://www.reddit.com/r/japanlife/comments/kvmj81/what_are_your_japanese_pantry_staples_and_goto/"
-      ],
-      "manufacturing_path": "Co-pack with freeze-dried ingredient supplier. Mix dried dashi/tea powder, dried vegetables, sesame, nori, rice crackers. No refrigeration needed. Similar to instant soup packets. Start with 3-5 flavors. MOQ likely 1000-2000 units per flavor.",
-      "estimated_cogs_per_unit": 0.75,
-      "target_retail_price": 3.99,
-      "estimated_margin_multiplier": 5.3,
-      "startup_cost_estimate": "$3K-$8K for first production run (2000 units across 3 flavors) + branding/design",
-      "go_to_market": "DTC Shopify with subscription model. TikTok/Instagram content: 'I hate sweet breakfast' angle. Amazon FBA. Target wellness stores like Whole Foods, Sprouts. Partner with meal prep/keto influencers.",
-      "google_trends": {
-        "avg": 12,
-        "recent": 15,
-        "trend": "rising"
-      },
-      "scores": {
-        "demand_proof": 7,
-        "us_gap": 10,
-        "manufacturing_ease": 9,
-        "twist_strength": 9,
-        "margin_potential": 9,
-        "brandability": 8,
-        "low_capital_start": 9
-      },
-      "score_avg": 8.7,
-      "risks": [
-        "Americans unfamiliar with tea-over-rice concept - need education",
-        "Requires cooked rice (not fully instant)",
-        "Small addressable market if savory breakfast doesn't resonate"
-      ],
-      "first_3_steps": [
-        "Source freeze-dried ingredient co-packer (search 'instant soup mix private label')",
-        "Develop 3 starter flavors: Classic Nori, Spicy Miso, Sesame Ginger",
-        "Create TikTok content: '3 people who hate sweet breakfast try this Japanese hack'"
-      ]
-    },
-    {
       "id": "idea_014",
       "date": "2026-02-16",
       "inspiration_product": "Salsa Golf (Argentine Pink Sauce)",
@@ -518,35 +462,90 @@
       ]
     },
     {
-      "id": "idea_047",
-      "date": "2026-02-15",
-      "inspiration_product": "Premium Glass Pantry Jars with Bamboo Lids",
-      "inspiration_brand": "Howards Storage World",
-      "inspiration_country": "australia",
-      "category": "organizing-storage",
-      "us_brand_concept": "PantryGlow: Premium glass jar sets with bamboo lids, sold as curated bundles with labels, scoops, and organization guides",
-      "the_twist": "DTC premium brand with Method-level aesthetics and storytelling, sold as complete 'Pantry Transformation Kits' not individual jars. Instagram-first visual identity.",
-      "twist_type": "brand-upgrade",
-      "target_customer": "Millennial/Gen-Z homeowners (25-40) who follow home organization influencers, watch The Home Edit, active on Instagram/TikTok, willing to pay premium for aesthetics",
-      "description": "Howards Storage World in Australia sells beautiful glass pantry jars with bamboo lids in matching sets. US market has dozens of cheap Amazon imports (HomArtist, LIBWYS, etc.) but no premium DTC brand with compelling story and aesthetic. The opportunity is to do for pantry storage what Method did for cleaning supplies: take a commodity product, give it gorgeous design and brand story, charge 3x more.",
-      "problem_solved": "Pantry clutter and mismatched containers make kitchens feel chaotic. Generic Amazon jars are cheap but ugly and unmemorable. People want their pantry to look Instagram-worthy.",
-      "us_competitive_landscape": "Flooded with generic $20-30 Amazon sets from Chinese brands (EcoEvo, LIBWYS, HomArtist). The Container Store sells empty jars but no curated systems. No DTC brand owns the premium aesthetic pantry storage space.",
+      "id": "idea_178",
+      "date": "2026-02-16",
+      "inspiration_product": "Nagatanien Ochazuke Nori instant tea-over-rice packets",
+      "inspiration_brand": "Nagatanien",
+      "inspiration_country": "japan",
+      "category": "grocery-pantry",
+      "us_brand_concept": "RiseUp Savory - Instant savory breakfast rice bowls that are healthier and more filling than oatmeal",
+      "the_twist": "Position as breakfast/meal replacement rather than just leftover rice hack. Cleaner packaging, add protein options (fried egg mix-in, tofu bits), market as oatmeal alternative for people who want savory breakfasts",
+      "twist_type": "niche-targeting|format-change",
+      "target_customer": "Health-conscious breakfast skippers, busy professionals who hate sweet breakfast, keto/low-sugar dieters, van lifers needing shelf-stable meals",
+      "description": "Ochazuke is a Japanese comfort food: hot tea or dashi poured over rice with savory toppings like nori, sesame, rice crackers. The instant version (50 cents per serving) turns leftover rice into a meal in 2 minutes. Americans don't have a savory instant breakfast category - it's all sweet oatmeal or protein shakes. This fills that gap.",
+      "problem_solved": "Breakfast haters who are sick of sweet options, need something quick/savory/warm, and want more substance than a protein shake",
+      "us_competitive_landscape": "Instant oatmeal is dominated by Quaker (sweet). Instant ramen exists but seen as junk food. No instant savory rice bowl category. Frozen breakfast bowls exist but require freezer/microwave. This is shelf-stable, just needs hot water.",
       "demand_signals": [
-        "Pantry organization videos get millions of views on TikTok",
-        "The Home Edit Netflix show drove massive demand",
-        "Hashtag #pantryorganization has 2.5M+ posts on Instagram",
-        "Australians mention Howards as their go-to for premium organizing"
+        "Ochazuke packets are cult favorites among expats",
+        "Kitchn featured it as '$2 magic grocery'",
+        "Keto/carnivore diet people constantly ask for savory breakfast ideas",
+        "Van life community obsessed with shelf-stable meals"
       ],
       "source_urls": [
-        "https://www.hsw.com.au/",
-        "https://www.amazon.com/s?k=glass+jars+bamboo+lids"
+        "https://www.thekitchn.com/nagatanien-ochazuke-nori-review-23656581",
+        "https://www.reddit.com/r/japanlife/comments/kvmj81/what_are_your_japanese_pantry_staples_and_goto/"
       ],
-      "manufacturing_path": "Private label from Alibaba glass jar suppliers. Bamboo lids readily available. Add custom etched logo on glass, branded labels, custom packaging. Could also partner with US co-packer for kitting/assembly.",
-      "estimated_cogs_per_unit": 4.5,
-      "target_retail_price": 89.0,
-      "estimated_margin_multiplier": 4.4,
-      "startup_cost_estimate": "$3K-$5K for first 500-unit run (8-jar sets) including packaging, labels, scoops, guide printing",
-      "go_to_market": "Shopify DTC with heavy Instagram/TikTok influencer marketing. Partner with home organization creators for unboxing videos. Target 'pantry transformation' before/after content. Consider Amazon FBA after brand established.",
+      "manufacturing_path": "Co-pack with freeze-dried ingredient supplier. Mix dried dashi/tea powder, dried vegetables, sesame, nori, rice crackers. No refrigeration needed. Similar to instant soup packets. Start with 3-5 flavors. MOQ likely 1000-2000 units per flavor.",
+      "estimated_cogs_per_unit": 0.75,
+      "target_retail_price": 3.99,
+      "estimated_margin_multiplier": 5.3,
+      "startup_cost_estimate": "$3K-$8K for first production run (2000 units across 3 flavors) + branding/design",
+      "go_to_market": "DTC Shopify with subscription model. TikTok/Instagram content: 'I hate sweet breakfast' angle. Amazon FBA. Target wellness stores like Whole Foods, Sprouts. Partner with meal prep/keto influencers.",
+      "google_trends": {
+        "avg": 12,
+        "recent": 15,
+        "trend": "rising"
+      },
+      "scores": {
+        "demand_proof": 7,
+        "us_gap": 10,
+        "manufacturing_ease": 9,
+        "twist_strength": 9,
+        "margin_potential": 9,
+        "brandability": 8,
+        "low_capital_start": 9
+      },
+      "score_avg": 8.7,
+      "risks": [
+        "Americans unfamiliar with tea-over-rice concept - need education",
+        "Requires cooked rice (not fully instant)",
+        "Small addressable market if savory breakfast doesn't resonate"
+      ],
+      "first_3_steps": [
+        "Source freeze-dried ingredient co-packer (search 'instant soup mix private label')",
+        "Develop 3 starter flavors: Classic Nori, Spicy Miso, Sesame Ginger",
+        "Create TikTok content: '3 people who hate sweet breakfast try this Japanese hack'"
+      ]
+    },
+    {
+      "id": "idea_284",
+      "date": "2026-02-16",
+      "inspiration_product": "Cocoon Winter Melon Sunscreen SPF50 PA++++",
+      "inspiration_brand": "Cocoon",
+      "inspiration_country": "vietnam",
+      "category": "personal-care",
+      "us_brand_concept": "LabGuard SPF - First US sunscreen brand marketing third-party PPD verification from Euro/Japan labs, targeting skincare nerds who want proof not promises",
+      "the_twist": "US sunscreens don't label PPD (UVA protection) because FDA doesn't require it. We do independent testing at Eurofins Spain / DRC Japan and publish PPD scores on every bottle. Market transparency as the differentiator.",
+      "twist_type": "brand-upgrade",
+      "target_customer": "Skincare enthusiasts 25-40 who read ingredient labels, follow derms on TikTok/Reddit, want clinical proof. Heavy sunscreen users (reapply daily). Willing to pay -35 for verified protection.",
+      "description": "Inspired by Vietnamese brand Cocoon, which lab-tests their sunscreens at Eurofins Spain and DRC Japan (PPD 37-62.6). US market has ZERO transparency on UVA protection because FDA doesn't mandate PPD labeling. European/Asian brands dominate the 'high PPD' conversation on Reddit/skincare forums. Our version: DTC sunscreen brand that does third-party PPD testing and makes the scores the hero of the branding. Clean modern packaging with the PPD score on the front. Position as 'finally, proof.'",
+      "problem_solved": "US sunscreen buyers have no way to verify UVA protection claims. 'Broad spectrum' is vague. Skincare-savvy consumers import European/Asian sunscreens or guess. We solve the trust gap.",
+      "us_competitive_landscape": "La Roche-Posay, Bioderma (European imports, not marketed on PPD in US). Supergoop, Ilia, Tower 28 (premium DTC, don't publish PPD). EltaMD, CeraVe (derms recommend, no PPD labeling). HUGE GAP for US-based brand marketing verified PPD as its main selling point.",
+      "demand_signals": [
+        "Reddit r/SkincareAddiction has weekly threads asking for high-PPD sunscreens",
+        "Skincare TikTok constantly discusses 'why US sunscreens are behind Europe/Asia'",
+        "Asian Beauty subreddit dedicated to importing sunscreens because US options are inadequate"
+      ],
+      "source_urls": [
+        "https://www.reddit.com/r/SkincareAddiction/comments/1b9eutt/",
+        "https://www.reddit.com/r/SkincareAddiction/comments/advc9q/sun_care_list_of_ppd_16_sunscreens_links_to/"
+      ],
+      "manufacturing_path": "US private label sunscreen manufacturers (KBL Cosmetics, Pure Source, NF Skin) offer low-MOQ options. Partner with one for base formulation using modern filters (Tinosorb S, Uvinul A+, etc). Send samples to Eurofins Spain or DRC Japan for PPD testing (-1000 per test). Use results in marketing.",
+      "estimated_cogs_per_unit": 4.50,
+      "target_retail_price": 32.00,
+      "estimated_margin_multiplier": 7.1,
+      "startup_cost_estimate": "K-15K for first run: 500 units @ .50 COGS = ,250 product cost + K packaging/design + K PPD lab testing + K Shopify/branding + K initial ads",
+      "go_to_market": "Shopify DTC. Launch with Reddit/TikTok content marketing: 'We tested our sunscreen. Here are the results.' Target r/SkincareAddiction, skincare TikTok. Influencer seeding to dermatology residents and skincare content creators. Subscription model (sunscreen runs out monthly).",
       "google_trends": {
         "avg": 0,
         "recent": 0,
@@ -554,24 +553,24 @@
       },
       "scores": {
         "demand_proof": 9,
-        "us_gap": 7,
-        "manufacturing_ease": 10,
-        "twist_strength": 8,
-        "margin_potential": 8,
-        "brandability": 9,
-        "low_capital_start": 9
+        "us_gap": 10,
+        "manufacturing_ease": 7,
+        "twist_strength": 9,
+        "margin_potential": 9,
+        "brandability": 8,
+        "low_capital_start": 8
       },
       "score_avg": 8.6,
       "risks": [
-        "Commoditization - Amazon sellers could copy design",
-        "Shipping cost/breakage for glass",
-        "Trend-driven category - pantry org hype could fade",
-        "Need strong content marketing to justify premium"
+        "FDA sunscreen regulations are strict (OTC drug) - need compliance",
+        "PPD testing adds cost and timeline (2-4 weeks per batch)",
+        "Sunscreen is competitive - need strong positioning to break through",
+        "Seasonal sales peaks (summer) require inventory planning"
       ],
       "first_3_steps": [
-        "Source 3-5 Alibaba suppliers for glass jars + bamboo lids, order samples",
-        "Design brand identity, packaging, labels, and scoops (hire designer on Upwork ~$500)",
-        "Create launch bundle (8 jars, 8 labels, 2 scoops, bamboo tray, guide PDF) and build Shopify store"
+        "Contact 3 US private label sunscreen manufacturers for quotes + MOQ + formulation options with modern filters",
+        "Order sample formulations, send to Eurofins Spain for PPD testing (~), get results in 3-4 weeks",
+        "Design brand identity around transparency: packaging shows PPD score, website publishes full test reports"
       ]
     }
   ]
