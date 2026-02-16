@@ -81,9 +81,9 @@
       "ideas": 3
     },
     "turkey": {
-      "candidates": 28,
+      "candidates": 48,
       "discoveries": 0,
-      "ideas": 3
+      "ideas": 5
     },
     "mexico": {
       "candidates": 41,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "health-wellness",
     "personal-care",
     "stationery",
     "grocery-pantry",
-    "kitchen"
+    "kitchen",
+    "cleaning"
   ],
-  "total_candidates": 1170,
+  "total_candidates": 1190,
   "total_discoveries": 69,
-  "total_ideas": 78
+  "total_ideas": 80
 }
