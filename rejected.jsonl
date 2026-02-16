@@ -438,3 +438,5 @@
 {"product_name": "Fabulosa All-Purpose Bathroom Cleaner", "country": "malaysia", "reason": "us_brand_exists", "date": "2026-02-16", "notes": "UK brand already has US presence, plus dozens of similar scented cleaners exist"}
 {"product_name": "Bathroom Deodorizer Gel (Long-Lasting)", "country": "malaysia", "reason": "low_demand", "date": "2026-02-16", "notes": "Gel air fresheners are commodity products with low margins and weak brand differentiation"}
 {"product_name": "Toilet Seat Sanitizer Spray (Portable)", "country": "malaysia", "reason": "niche_market", "date": "2026-02-16", "notes": "Pocket sanitizers exist but market is too niche, COVID sanitizer fatigue"}
+{"product_name": "Solone Long-Wear Eyeliner", "country": "taiwan", "reason": "redundant", "date": "2026-02-16", "notes": "Similar to 1028 eyeliner concept - already developing multi-shade liner brand, don't need two eyeliner ideas"}
+{"product_name": "Kiss Me Heroine Make Mascara", "country": "taiwan", "reason": "strong_import_presence", "date": "2026-02-16", "notes": "Japanese brand already has strong US presence on Amazon and in drugstores, went viral so window is closing, harder to differentiate"}

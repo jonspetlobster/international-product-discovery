@@ -11,9 +11,9 @@
       "ideas": 0
     },
     "taiwan": {
-      "candidates": 23,
+      "candidates": 38,
       "discoveries": 0,
-      "ideas": 0
+      "ideas": 3
     },
     "china": {
       "candidates": 32,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "bathroom",
     "grocery-pantry",
     "kitchen",
     "cleaning",
-    "health-wellness"
+    "health-wellness",
+    "personal-care"
   ],
-  "total_candidates": 1096,
+  "total_candidates": 1111,
   "total_discoveries": 69,
-  "total_ideas": 171
+  "total_ideas": 174
 }
