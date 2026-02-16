@@ -29,10 +29,10 @@
     "israel": {"candidates": 38, "discoveries": 0, "ideas": 3},
     "egypt": {"candidates": 22, "discoveries": 3, "ideas": 0},
     "malaysia": {"candidates": 22, "discoveries": 3, "ideas": 0},
-    "singapore": {"candidates": 21, "discoveries": 3, "ideas": 0}
+    "singapore": {"candidates": 41, "discoveries": 3, "ideas": 3}
   },
-  "categories_recent": ["health-wellness", "organizing-storage", "personal-care", "snacks-candy", "grocery-pantry"],
-  "total_candidates": 992,
+  "categories_recent": ["organizing-storage", "personal-care", "snacks-candy", "grocery-pantry", "kitchen"],
+  "total_candidates": 1012,
   "total_discoveries": 69,
-  "total_ideas": 157
+  "total_ideas": 160
 }
