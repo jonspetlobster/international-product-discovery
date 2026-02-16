@@ -131,9 +131,9 @@
       "ideas": 9
     },
     "israel": {
-      "candidates": 38,
+      "candidates": 58,
       "discoveries": 0,
-      "ideas": 3
+      "ideas": 6
     },
     "egypt": {
       "candidates": 42,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "personal-care",
     "condiments-sauces",
     "health-wellness",
     "kitchen",
-    "cleaning"
+    "cleaning",
+    "snacks-candy"
   ],
-  "total_candidates": 1355,
+  "total_candidates": 1375,
   "total_discoveries": 69,
-  "total_ideas": 105
+  "total_ideas": 108
 }
