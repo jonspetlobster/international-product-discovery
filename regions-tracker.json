@@ -27,12 +27,12 @@
     "australia": {"candidates": 41, "discoveries": 1, "ideas": 3},
     "new_zealand": {"candidates": 38, "discoveries": 2, "ideas": 4},
     "israel": {"candidates": 38, "discoveries": 0, "ideas": 3},
-    "egypt": {"candidates": 22, "discoveries": 3, "ideas": 0},
+    "egypt": {"candidates": 42, "discoveries": 3, "ideas": 2},
     "malaysia": {"candidates": 22, "discoveries": 3, "ideas": 0},
     "singapore": {"candidates": 41, "discoveries": 3, "ideas": 3}
   },
-  "categories_recent": ["organizing-storage", "personal-care", "snacks-candy", "grocery-pantry", "kitchen"],
-  "total_candidates": 1012,
+  "categories_recent": ["personal-care", "snacks-candy", "grocery-pantry", "kitchen", "cleaning"],
+  "total_candidates": 1032,
   "total_discoveries": 69,
-  "total_ideas": 160
+  "total_ideas": 162
 }

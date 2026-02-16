@@ -1,574 +1,572 @@
 {
-  "generated": "2026-02-16 09:40",
-  "total_ideas": 160,
-  "total_candidates_evaluated": 1012,
-  "total_rejected":      423,
+  "generated": "2026-02-16 09:54",
+  "total_ideas": 52,
+  "total_candidates_evaluated": 1032,
+  "total_rejected": 426,
   "top10": [
-  {
-    "id": "idea_001",
-    "date": "2026-02-15",
-    "inspiration_product": "Idli Podi (South Indian chutney powder)",
-    "inspiration_brand": "MTR, Ramadevi Foods, various South Indian brands",
-    "inspiration_country": "india",
-    "category": "condiments-sauces",
-    "us_brand_concept": "PulseFire Seasoning - Protein-packed umami spice blend made from roasted lentils, sesame, and chilies",
-    "the_twist": "Rebrand from 'Indian chutney powder' to 'Protein Umami Seasoning' - remove foreign-sounding name, premium shaker bottle, emphasize 6g protein per serving + umami flavor bomb positioning",
-    "twist_type": "brand-upgrade",
-    "target_customer": "Millennial/Gen-Z foodies who buy Trader Joe's Everything Bagel Seasoning, Maldon salt, and chili crisp. Health-conscious home cooks looking for clean-label flavor enhancers.",
-    "description": "Idli podi is a South Indian staple made from dry-roasted lentils (urad dal, chana dal), sesame seeds, red chilies, curry leaves, and spices. Mix with oil and it becomes an instant savory condiment for rice, eggs, vegetables. In India it's beloved but marketed only to Indians. No US brand has taken this concept mainstream. Our version strips the cultural baggage, emphasizes the protein content from lentils (competitors use mushrooms/kelp with zero protein), and positions it as the dry version of trending chili crisp.",
-    "problem_solved": "Umami seasoning trend is exploding but all brands use mushrooms/kelp/nutritional yeast. This offers a completely different umami source (roasted legumes) with actual protein content. Solves for: flavor hackers wanting new umami options, plant-based protein seekers, people who want MSG-free savory boost.",
-    "us_competitive_landscape": "Umami seasonings exist (Trader Joe's Umami, Spiceology blends, artisan mushroom powders) but ALL are mushroom/kelp-based. Zero brands using roasted lentils/legumes as umami base. Everything Bagel Seasoning owns the savory-sprinkle space but has no protein. Nutritional yeast is the only 'protein seasoning' but tastes nothing like this.",
-    "demand_signals": [
-      "Trader Joe's Umami Seasoning went viral on Reddit/TikTok in 2022",
-      "Everything Bagel Seasoning spawned dozens of copycat brands",
-      "Chili crisp sales exploded 2020-2025, proving appetite for bold savory condiments",
-      "Protein-forward positioning trending (Kodiak, Magic Spoon, etc.)"
-    ],
-    "source_urls": [
-      "https://www.reddit.com/r/IndianFood/comments/11rzy2f/new_to_podi_share_some_details/",
-      "https://www.amazon.com/idli-podi/s?k=idli+podi",
-      "https://www.reddit.com/r/traderjoes/comments/w4p1ur/trader_joes_umami_seasoning_has_anyone_tried_it/"
-    ],
-    "manufacturing_path": "US-based spice co-packer. Source roasted lentils in bulk (already available from US suppliers), blend with spices, fill into shaker bottles. Hongar Farms does private label with 24-unit minimums. Could also hand-blend first 100 units to validate.",
-    "estimated_cogs_per_unit": 1.50,
-    "target_retail_price": 8.99,
-    "estimated_margin_multiplier": 6.0,
-    "startup_cost_estimate": "$500-$1500 for first 100 units (hand blend + bottles + labels). $2000-$3500 for first co-packer run of 240-500 units.",
-    "go_to_market": "Launch DTC via Shopify. Instagram/TikTok content showing versatility (eggs, popcorn, roasted veg, rice bowls). Send to food influencers. Pitch to Whole Foods/Sprouts as 'protein umami seasoning' after proving DTC traction. Could also do farmers markets for instant feedback.",
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
+    {
+      "id": "idea_001",
+      "date": "2026-02-15",
+      "inspiration_product": "Idli Podi (South Indian chutney powder)",
+      "inspiration_brand": "MTR, Ramadevi Foods, various South Indian brands",
+      "inspiration_country": "india",
+      "category": "condiments-sauces",
+      "us_brand_concept": "PulseFire Seasoning - Protein-packed umami spice blend made from roasted lentils, sesame, and chilies",
+      "the_twist": "Rebrand from 'Indian chutney powder' to 'Protein Umami Seasoning' - remove foreign-sounding name, premium shaker bottle, emphasize 6g protein per serving + umami flavor bomb positioning",
+      "twist_type": "brand-upgrade",
+      "target_customer": "Millennial/Gen-Z foodies who buy Trader Joe's Everything Bagel Seasoning, Maldon salt, and chili crisp. Health-conscious home cooks looking for clean-label flavor enhancers.",
+      "description": "Idli podi is a South Indian staple made from dry-roasted lentils (urad dal, chana dal), sesame seeds, red chilies, curry leaves, and spices. Mix with oil and it becomes an instant savory condiment for rice, eggs, vegetables. In India it's beloved but marketed only to Indians. No US brand has taken this concept mainstream. Our version strips the cultural baggage, emphasizes the protein content from lentils (competitors use mushrooms/kelp with zero protein), and positions it as the dry version of trending chili crisp.",
+      "problem_solved": "Umami seasoning trend is exploding but all brands use mushrooms/kelp/nutritional yeast. This offers a completely different umami source (roasted legumes) with actual protein content. Solves for: flavor hackers wanting new umami options, plant-based protein seekers, people who want MSG-free savory boost.",
+      "us_competitive_landscape": "Umami seasonings exist (Trader Joe's Umami, Spiceology blends, artisan mushroom powders) but ALL are mushroom/kelp-based. Zero brands using roasted lentils/legumes as umami base. Everything Bagel Seasoning owns the savory-sprinkle space but has no protein. Nutritional yeast is the only 'protein seasoning' but tastes nothing like this.",
+      "demand_signals": [
+        "Trader Joe's Umami Seasoning went viral on Reddit/TikTok in 2022",
+        "Everything Bagel Seasoning spawned dozens of copycat brands",
+        "Chili crisp sales exploded 2020-2025, proving appetite for bold savory condiments",
+        "Protein-forward positioning trending (Kodiak, Magic Spoon, etc.)"
+      ],
+      "source_urls": [
+        "https://www.reddit.com/r/IndianFood/comments/11rzy2f/new_to_podi_share_some_details/",
+        "https://www.amazon.com/idli-podi/s?k=idli+podi",
+        "https://www.reddit.com/r/traderjoes/comments/w4p1ur/trader_joes_umami_seasoning_has_anyone_tried_it/"
+      ],
+      "manufacturing_path": "US-based spice co-packer. Source roasted lentils in bulk (already available from US suppliers), blend with spices, fill into shaker bottles. Hongar Farms does private label with 24-unit minimums. Could also hand-blend first 100 units to validate.",
+      "estimated_cogs_per_unit": 1.5,
+      "target_retail_price": 8.99,
+      "estimated_margin_multiplier": 6.0,
+      "startup_cost_estimate": "$500-$1500 for first 100 units (hand blend + bottles + labels). $2000-$3500 for first co-packer run of 240-500 units.",
+      "go_to_market": "Launch DTC via Shopify. Instagram/TikTok content showing versatility (eggs, popcorn, roasted veg, rice bowls). Send to food influencers. Pitch to Whole Foods/Sprouts as 'protein umami seasoning' after proving DTC traction. Could also do farmers markets for instant feedback.",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 8,
+        "us_gap": 9,
+        "manufacturing_ease": 10,
+        "twist_strength": 9,
+        "margin_potential": 9,
+        "brandability": 8,
+        "low_capital_start": 10
+      },
+      "score_avg": 9.0,
+      "risks": [
+        "Americans might not like the flavor profile initially - need sampling strategy",
+        "Shelf stability - lentils can go rancid, need proper packaging/preservatives",
+        "Scaling beyond DTC requires educating retailers on what it is"
+      ],
+      "first_3_steps": [
+        "Hand-blend 5 test batches with different spice ratios, get 20 people to taste and give feedback",
+        "Order 100 4oz shaker bottles + labels from Uline, create basic branding (logo, name, ingredient list)",
+        "Launch Shopify store, run $500 Instagram ad test targeting followers of Bon Appetit, Smitten Kitchen, Trader Joe's fan accounts"
+      ]
     },
-    "scores": {
-      "demand_proof": 8,
-      "us_gap": 9,
-      "manufacturing_ease": 10,
-      "twist_strength": 9,
-      "margin_potential": 9,
-      "brandability": 8,
-      "low_capital_start": 10
+    {
+      "id": "idea_013",
+      "date": "2026-02-15",
+      "inspiration_product": "Kolonya (Turkish Lemon Cologne)",
+      "inspiration_brand": "Rebul, Ey\u00fcp Sabri Tuncer, Pereja, Duru",
+      "inspiration_country": "turkey",
+      "category": "cleaning",
+      "us_brand_concept": "Luxury hospitality hand sanitizer brand - premium lemon cologne-based sanitizer positioned as 'the entertaining essential' for hosts",
+      "the_twist": "Transform functional Turkish kolonya into aspirational US hospitality product with luxury DTC branding, beautiful glass bottles, gift sets, multiple premium scents (lemon, magnolia, rosemary), position as must-have for dinner parties and home entertaining",
+      "twist_type": "brand-upgrade",
+      "target_customer": "Home entertainers age 28-45, design-conscious hosts who care about details, people who want beautiful products on their counter/bar cart, gift-givers looking for unique hostess gifts",
+      "description": "In Turkey, kolonya (80% alcohol lemon cologne) is a hospitality ritual - offered to guests at homes, restaurants, and shops as a refreshing hand cleanser. It's functional (kills germs) and experiential (cooling, fragrant, welcoming). No US brand has positioned cologne-style sanitizer as a luxury entertaining essential. Post-COVID, hand sanitizer is normalized in homes but still mostly utilitarian. This creates the category: beautiful, fragrant, hospitality-focused sanitizer that's a conversation piece.",
+      "problem_solved": "Solves three problems: (1) Hand sanitizer at home is ugly/clinical, (2) Hosts want thoughtful ways to care for guests, (3) People seek unique entertaining products that show care and attention to detail",
+      "us_competitive_landscape": "Hand sanitizer market is huge but commoditized. Bath & Body Works sells scented sanitizers but they're mass-market/mall brand, not luxury. Premium home/entertaining brands (like Aesop, Le Labo) don't do sanitizer. No one owns 'hospitality sanitizer' as a category. Turkish kolonya brands on Amazon (Duru, Pereja) are imported with zero branding - just functional ethnic products.",
+      "demand_signals": [
+        "Post-COVID normalization of hand sanitizer in homes",
+        "Growth of entertaining/hosting content on TikTok and Instagram",
+        "Success of luxury home care brands (Aesop, Diptyque candles, The Laundress)",
+        "Kolonya has 100+ years of proven demand in Turkey",
+        "BBC and multiple travel blogs feature it as beloved Turkish tradition"
+      ],
+      "source_urls": [
+        "https://www.bbc.com/travel/article/20200407-turkeys-unique-hand-sanitiser",
+        "https://en.wikipedia.org/wiki/Kolonya",
+        "https://www.amazon.com/Duru-Cologne-Lemon-400-ml/dp/B00375SRGY"
+      ],
+      "manufacturing_path": "Private label via Alibaba - hundreds of manufacturers offer 75-80% alcohol hand sanitizer with custom fragrances. Can start with stock formulation + custom labels, then graduate to proprietary scent blends. Domestic co-packer also possible (many hand sanitizer manufacturers emerged during COVID). Glass bottles from container suppliers.",
+      "estimated_cogs_per_unit": 3.5,
+      "target_retail_price": 24.0,
+      "estimated_margin_multiplier": 6.9,
+      "startup_cost_estimate": "$3K - $5K for first 500 units (product + beautiful packaging + basic Shopify site)",
+      "go_to_market": "Shopify DTC with Instagram/TikTok ads targeting home entertainers. Influencer gifting to lifestyle/entertaining creators. Amazon FBA as secondary channel. Wholesale to boutique gift shops and design stores. Farmers markets and pop-ups for validation. Subscription model for refills.",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 8,
+        "us_gap": 9,
+        "manufacturing_ease": 9,
+        "twist_strength": 9,
+        "margin_potential": 9,
+        "brandability": 10,
+        "low_capital_start": 9
+      },
+      "score_avg": 9.0,
+      "risks": [
+        "FDA regulations for hand sanitizer (OTC drug) - need to comply with labeling/testing",
+        "Scent preference is subjective - need to test which fragrances resonate with US market",
+        "Market may see it as 'just expensive hand sanitizer' without proper branding story",
+        "Post-COVID sanitizer fatigue - though positioning as hospitality/entertaining vs health should differentiate"
+      ],
+      "first_3_steps": [
+        "Order samples from 3-5 Turkish kolonya brands + test with 20 potential customers to identify winning scent profile",
+        "Source private label manufacturer, get 3 scent samples made (lemon, magnolia, rosemary), design luxury packaging/labels",
+        "Pre-sell 100 units via Instagram ads to entertaining/hosting audience - validate $24 price point and messaging before full production run"
+      ]
     },
-    "score_avg": 9.0,
-    "risks": [
-      "Americans might not like the flavor profile initially - need sampling strategy",
-      "Shelf stability - lentils can go rancid, need proper packaging/preservatives",
-      "Scaling beyond DTC requires educating retailers on what it is"
-    ],
-    "first_3_steps": [
-      "Hand-blend 5 test batches with different spice ratios, get 20 people to taste and give feedback",
-      "Order 100 4oz shaker bottles + labels from Uline, create basic branding (logo, name, ingredient list)",
-      "Launch Shopify store, run $500 Instagram ad test targeting followers of Bon Appetit, Smitten Kitchen, Trader Joe's fan accounts"
-    ]
-  },
-  {
-    "id": "idea_013",
-    "date": "2026-02-15",
-    "inspiration_product": "Kolonya (Turkish Lemon Cologne)",
-    "inspiration_brand": "Rebul, Eyüp Sabri Tuncer, Pereja, Duru",
-    "inspiration_country": "turkey",
-    "category": "cleaning",
-    "us_brand_concept": "Luxury hospitality hand sanitizer brand - premium lemon cologne-based sanitizer positioned as 'the entertaining essential' for hosts",
-    "the_twist": "Transform functional Turkish kolonya into aspirational US hospitality product with luxury DTC branding, beautiful glass bottles, gift sets, multiple premium scents (lemon, magnolia, rosemary), position as must-have for dinner parties and home entertaining",
-    "twist_type": "brand-upgrade",
-    "target_customer": "Home entertainers age 28-45, design-conscious hosts who care about details, people who want beautiful products on their counter/bar cart, gift-givers looking for unique hostess gifts",
-    "description": "In Turkey, kolonya (80% alcohol lemon cologne) is a hospitality ritual - offered to guests at homes, restaurants, and shops as a refreshing hand cleanser. It's functional (kills germs) and experiential (cooling, fragrant, welcoming). No US brand has positioned cologne-style sanitizer as a luxury entertaining essential. Post-COVID, hand sanitizer is normalized in homes but still mostly utilitarian. This creates the category: beautiful, fragrant, hospitality-focused sanitizer that's a conversation piece.",
-    "problem_solved": "Solves three problems: (1) Hand sanitizer at home is ugly/clinical, (2) Hosts want thoughtful ways to care for guests, (3) People seek unique entertaining products that show care and attention to detail",
-    "us_competitive_landscape": "Hand sanitizer market is huge but commoditized. Bath & Body Works sells scented sanitizers but they're mass-market/mall brand, not luxury. Premium home/entertaining brands (like Aesop, Le Labo) don't do sanitizer. No one owns 'hospitality sanitizer' as a category. Turkish kolonya brands on Amazon (Duru, Pereja) are imported with zero branding - just functional ethnic products.",
-    "demand_signals": [
-      "Post-COVID normalization of hand sanitizer in homes",
-      "Growth of entertaining/hosting content on TikTok and Instagram",
-      "Success of luxury home care brands (Aesop, Diptyque candles, The Laundress)",
-      "Kolonya has 100+ years of proven demand in Turkey",
-      "BBC and multiple travel blogs feature it as beloved Turkish tradition"
-    ],
-    "source_urls": [
-      "https://www.bbc.com/travel/article/20200407-turkeys-unique-hand-sanitiser",
-      "https://en.wikipedia.org/wiki/Kolonya",
-      "https://www.amazon.com/Duru-Cologne-Lemon-400-ml/dp/B00375SRGY"
-    ],
-    "manufacturing_path": "Private label via Alibaba - hundreds of manufacturers offer 75-80% alcohol hand sanitizer with custom fragrances. Can start with stock formulation + custom labels, then graduate to proprietary scent blends. Domestic co-packer also possible (many hand sanitizer manufacturers emerged during COVID). Glass bottles from container suppliers.",
-    "estimated_cogs_per_unit": 3.50,
-    "target_retail_price": 24.00,
-    "estimated_margin_multiplier": 6.9,
-    "startup_cost_estimate": "$3K - $5K for first 500 units (product + beautiful packaging + basic Shopify site)",
-    "go_to_market": "Shopify DTC with Instagram/TikTok ads targeting home entertainers. Influencer gifting to lifestyle/entertaining creators. Amazon FBA as secondary channel. Wholesale to boutique gift shops and design stores. Farmers markets and pop-ups for validation. Subscription model for refills.",
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
+    {
+      "id": "idea_033",
+      "date": "2026-02-15",
+      "inspiration_product": "Hagelslag / Vlokken",
+      "inspiration_brand": "De Ruijter",
+      "inspiration_country": "netherlands",
+      "category": "grocery-pantry",
+      "us_brand_concept": "Sprinkle Mornings - Gourmet Breakfast Sprinkles for Grown-Ups",
+      "the_twist": "Skip the authentic Dutch chocolate sprinkles (too unfamiliar). Instead, create AMERICAN-friendly breakfast sprinkle flavors: cinnamon sugar, maple pecan, espresso chocolate, brown butter. Market as a breakfast ritual - the cereal alternative for toast lovers.",
+      "twist_type": "format-change|ingredient-swap|niche-targeting|brand-upgrade",
+      "target_customer": "Toast-for-breakfast people (massive audience); parents wanting fun breakfast without sugar cereal; millennials seeking rituals and nostalgia; people who buy fancy butter and jam",
+      "description": "Hagelslag (chocolate sprinkles on buttered bread) is a Dutch breakfast ritual. Americans don't do this - sprinkles are for ice cream and cupcakes only. But the format is genius: easy, portion-controlled, fun, customizable. Sprinkle Mornings adapts the concept with flavors that make sense to Americans. Think cinnamon-sugar (like cinnamon toast) but elevated. Espresso-chocolate for coffee lovers. Maple-pecan for pancake vibes. Sold in shaker jars with premium branding.",
+      "problem_solved": "Boring toast; breakfast fatigue; desire for quick, fun, customizable breakfast without cooking; alternative to sugary cereal",
+      "us_competitive_landscape": "NOTHING exists in this space. Cinnamon sugar exists but as baking ingredient, not breakfast topping. Nutella/jam are spreads. Cereal requires milk and bowl. Granola is a topping but not sprinkle format. ZERO breakfast sprinkle brands in US.",
+      "demand_signals": [
+        "Toast culture is huge (sourdough boom, avocado toast, fancy butter)",
+        "Ritual-seeking behavior (matcha, pour-over coffee, overnight oats)",
+        "Customization trend (build-your-own-everything)",
+        "Hagelslag gets curiosity from Americans who try it in Netherlands"
+      ],
+      "source_urls": [
+        "https://dutchreview.com/culture/food/6-weird-dutch-bread-toppings/",
+        "https://www.reddit.com/r/Netherlands/comments/16oo3ew/your_favourite_dutch_products/"
+      ],
+      "manufacturing_path": "Dry-mix co-packer or spice blending company. Simple ingredients (sugar, cinnamon, cocoa, flavor oils). Very low MOQ possible (250-500 units). Glass or plastic shaker jars.",
+      "estimated_cogs_per_unit": 1.5,
+      "target_retail_price": 8.99,
+      "estimated_margin_multiplier": 6.0,
+      "startup_cost_estimate": "$2K-4K for first run (500 units x 3 flavors), label design, food-safe jars. Could start even smaller with local contract packer.",
+      "go_to_market": "DTC Shopify. Instagram/TikTok content: 'The European breakfast trend you didn't know you needed.' Target food bloggers and breakfast enthusiasts. Subscription box (monthly flavor). Partner with fancy bakeries. Eventually: Whole Foods breakfast aisle.",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 5,
+        "us_gap": 10,
+        "manufacturing_ease": 10,
+        "twist_strength": 9,
+        "margin_potential": 9,
+        "brandability": 10,
+        "low_capital_start": 10
+      },
+      "score_avg": 9.0,
+      "risks": [
+        "Totally new category requires heavy consumer education",
+        "Sprinkles = kids/dessert association in US might be hard to overcome",
+        "Need viral moment or influencer to create demand"
+      ],
+      "first_3_steps": [
+        "Make 5 homemade flavor prototypes, test with 20 people for flavor + naming feedback",
+        "Design packaging mockup: glass jar, minimalist label, emphasize 'morning ritual' not 'kid food'",
+        "Find dry-goods co-packer, get quotes for 3 flavors x 500 units, or start with local spice shop for micro-batch"
+      ]
     },
-    "scores": {
-      "demand_proof": 8,
-      "us_gap": 9,
-      "manufacturing_ease": 9,
-      "twist_strength": 9,
-      "margin_potential": 9,
-      "brandability": 10,
-      "low_capital_start": 9
+    {
+      "id": "idea_002",
+      "date": "2026-02-15",
+      "inspiration_product": "Peanut Podi (South Indian peanut chutney powder)",
+      "inspiration_brand": "Ramadevi Foods, homemade",
+      "inspiration_country": "india",
+      "category": "condiments-sauces",
+      "us_brand_concept": "NutDust - Savory roasted peanut seasoning blend (the peanut version of Everything Bagel)",
+      "the_twist": "Take peanut podi's roasted peanut + spice concept, remove Indian branding, position as 'savory peanut seasoning' competing with Everything Bagel Seasoning but with protein + nutty richness",
+      "twist_type": "brand-upgrade",
+      "target_customer": "Same customer who buys Everything Bagel Seasoning, Maldon salt, Taj\u00edn. People who put seasoning on everything. Bonus: peanut allergy-avoiders can skip, but peanut lovers get a unique option.",
+      "description": "Peanut podi is a South Indian condiment powder made from roasted peanuts, lentils, red chili, garlic, curry leaves, and spices. Mix with oil for instant peanut chutney or sprinkle dry on food. It's intensely savory with nutty depth. No US brand has done 'savory peanut seasoning' - all peanut products are sweet (PB) or whole roasted nuts. This fills the gap between Everything Bagel and actual peanut butter.",
+      "problem_solved": "Everything Bagel Seasoning is ubiquitous but lacks protein and nutty richness. Peanut powder products exist but are all SWEET (PB2, etc). This is the first SAVORY peanut-based seasoning for the US market.",
+      "us_competitive_landscape": "Everything Bagel Seasoning owns the savory-sprinkle space. Trader Joe's sells it, so do 50+ copycat brands. But zero brands have done savory peanut seasoning. Peanut powder (PB2) exists but it's reconstituted peanut butter, not a seasoning. Huge white space.",
+      "demand_signals": [
+        "Everything Bagel Seasoning trend proves appetite for savory sprinkles",
+        "Peanut-forward flavors trending (Thai peanut sauce, peanut noodles)",
+        "Reddit threads asking 'what seasoning should I try after EBT?'",
+        "Umami/savory seasoning blends selling well"
+      ],
+      "source_urls": [
+        "https://www.reddit.com/r/IndianFood/comments/11rzy2f/new_to_podi_share_some_details/",
+        "https://ramadevifoods.com/collections/spicy-powders"
+      ],
+      "manufacturing_path": "Same as PulseFire - US spice co-packer. Source roasted peanut flour/powder (readily available), blend with spices, bottle. Super simple. Could hand-blend first 100 units.",
+      "estimated_cogs_per_unit": 1.75,
+      "target_retail_price": 9.99,
+      "estimated_margin_multiplier": 5.7,
+      "startup_cost_estimate": "$600-$1800 for first 100 units (peanuts slightly more expensive than lentils). $2500-$4000 for first co-packer run.",
+      "go_to_market": "DTC Shopify + Instagram. Positioning: 'The peanut version of Everything Bagel Seasoning.' Show use cases: popcorn, ramen, roasted veg, rice bowls, even peanut butter toast for double peanut hit. Farmer's markets + food festivals.",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 7,
+        "us_gap": 10,
+        "manufacturing_ease": 10,
+        "twist_strength": 8,
+        "margin_potential": 8,
+        "brandability": 9,
+        "low_capital_start": 10
+      },
+      "score_avg": 8.9,
+      "risks": [
+        "Peanut allergies limit addressable market (but also differentiate from Everything Bagel)",
+        "Flavor might be polarizing - need strong sampling/trial strategy",
+        "Shelf life of ground peanuts (oil content) - need nitrogen flush packaging"
+      ],
+      "first_3_steps": [
+        "Make 3 test batches: mild, medium, spicy. Blind taste test with 15 people who love Everything Bagel Seasoning",
+        "Create basic branding mockups in Canva, order 50 sample bottles + labels",
+        "Set up Shopify store, film 10 TikToks showing use cases, post 1/day for 10 days to test engagement"
+      ]
     },
-    "score_avg": 9.0,
-    "risks": [
-      "FDA regulations for hand sanitizer (OTC drug) - need to comply with labeling/testing",
-      "Scent preference is subjective - need to test which fragrances resonate with US market",
-      "Market may see it as 'just expensive hand sanitizer' without proper branding story",
-      "Post-COVID sanitizer fatigue - though positioning as hospitality/entertaining vs health should differentiate"
-    ],
-    "first_3_steps": [
-      "Order samples from 3-5 Turkish kolonya brands + test with 20 potential customers to identify winning scent profile",
-      "Source private label manufacturer, get 3 scent samples made (lemon, magnolia, rosemary), design luxury packaging/labels",
-      "Pre-sell 100 units via Instagram ads to entertaining/hosting audience - validate $24 price point and messaging before full production run"
-    ]
-  },
-  {
-    "id": "idea_033",
-    "date": "2026-02-15",
-    "inspiration_product": "Hagelslag / Vlokken",
-    "inspiration_brand": "De Ruijter",
-    "inspiration_country": "netherlands",
-    "category": "grocery-pantry",
-    "us_brand_concept": "Sprinkle Mornings - Gourmet Breakfast Sprinkles for Grown-Ups",
-    "the_twist": "Skip the authentic Dutch chocolate sprinkles (too unfamiliar). Instead, create AMERICAN-friendly breakfast sprinkle flavors: cinnamon sugar, maple pecan, espresso chocolate, brown butter. Market as a breakfast ritual - the cereal alternative for toast lovers.",
-    "twist_type": "format-change|ingredient-swap|niche-targeting|brand-upgrade",
-    "target_customer": "Toast-for-breakfast people (massive audience); parents wanting fun breakfast without sugar cereal; millennials seeking rituals and nostalgia; people who buy fancy butter and jam",
-    "description": "Hagelslag (chocolate sprinkles on buttered bread) is a Dutch breakfast ritual. Americans don't do this - sprinkles are for ice cream and cupcakes only. But the format is genius: easy, portion-controlled, fun, customizable. Sprinkle Mornings adapts the concept with flavors that make sense to Americans. Think cinnamon-sugar (like cinnamon toast) but elevated. Espresso-chocolate for coffee lovers. Maple-pecan for pancake vibes. Sold in shaker jars with premium branding.",
-    "problem_solved": "Boring toast; breakfast fatigue; desire for quick, fun, customizable breakfast without cooking; alternative to sugary cereal",
-    "us_competitive_landscape": "NOTHING exists in this space. Cinnamon sugar exists but as baking ingredient, not breakfast topping. Nutella/jam are spreads. Cereal requires milk and bowl. Granola is a topping but not sprinkle format. ZERO breakfast sprinkle brands in US.",
-    "demand_signals": [
-      "Toast culture is huge (sourdough boom, avocado toast, fancy butter)",
-      "Ritual-seeking behavior (matcha, pour-over coffee, overnight oats)",
-      "Customization trend (build-your-own-everything)",
-      "Hagelslag gets curiosity from Americans who try it in Netherlands"
-    ],
-    "source_urls": [
-      "https://dutchreview.com/culture/food/6-weird-dutch-bread-toppings/",
-      "https://www.reddit.com/r/Netherlands/comments/16oo3ew/your_favourite_dutch_products/"
-    ],
-    "manufacturing_path": "Dry-mix co-packer or spice blending company. Simple ingredients (sugar, cinnamon, cocoa, flavor oils). Very low MOQ possible (250-500 units). Glass or plastic shaker jars.",
-    "estimated_cogs_per_unit": 1.50,
-    "target_retail_price": 8.99,
-    "estimated_margin_multiplier": 6.0,
-    "startup_cost_estimate": "$2K-4K for first run (500 units x 3 flavors), label design, food-safe jars. Could start even smaller with local contract packer.",
-    "go_to_market": "DTC Shopify. Instagram/TikTok content: 'The European breakfast trend you didn't know you needed.' Target food bloggers and breakfast enthusiasts. Subscription box (monthly flavor). Partner with fancy bakeries. Eventually: Whole Foods breakfast aisle.",
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
+    {
+      "id": "idea_037",
+      "date": "2026-02-15",
+      "inspiration_product": "Ghriba (Moroccan Almond Cookies)",
+      "inspiration_brand": "Traditional Moroccan patisseries",
+      "inspiration_country": "morocco",
+      "category": "snacks-candy",
+      "us_brand_concept": "GhribaCo - Premium Moroccan teatime cookies delivered monthly",
+      "the_twist": "DTC subscription with rotating flavors (sesame, almond, chocolate, coconut), naturally gluten-free positioning, paired with Moroccan tea",
+      "twist_type": "subscription|brand-upgrade|niche-targeting",
+      "target_customer": "Gluten-free snackers, tea enthusiasts, subscription box buyers aged 25-45, Mediterranean food lovers",
+      "description": "Ghriba are crumbly, buttery Moroccan cookies with a unique hockey-puck shape and sandy texture. Made with ground almonds or sesame, they're naturally gluten-free and beloved in Morocco for dunking in mint tea. Zero US brands currently sell ghriba commercially - only recipes exist online. The product would feature premium ingredients (California almonds, orange blossom water), nostalgic packaging with Moroccan tile patterns, and educational insert about Moroccan tea culture.",
+      "problem_solved": "No commercial source for authentic Moroccan cookies in US. Gluten-free cookie options are limited to bland health bars. Tea drinkers lack elevated pairing snacks beyond basic biscuits.",
+      "us_competitive_landscape": "Zero direct competitors. Adjacent: Simple Mills (gluten-free cookies), Tate's (premium cookies), Trade Coffee (tea subscription). Nothing combines Moroccan authenticity + gluten-free + subscription model.",
+      "demand_signals": [
+        "Gluten-free market $7.5B and growing 9% annually",
+        "Cookie subscription boxes (Milk Bar, Crumbl) wildly popular",
+        "Moroccan cuisine trending on TikTok (#MoroccanFood 2B views)",
+        "Almond flour cookies Pinterest searches up 40% YoY"
+      ],
+      "source_urls": [
+        "https://www.journeybeyondtravel.com/blog/moroccan-sweets-crumbles-of-culture.html",
+        "https://sugaryums.com/moroccan-cookies/",
+        "https://marocmama.com/moroccan-ghriba-cookie-recipe/"
+      ],
+      "manufacturing_path": "US cookie co-packer (Specialty Food Copackers or ChipMonk Baking). Almond flour cookies are standard production. MOQ 500 lbs = ~4,000 cookies. Recipe development with Moroccan consultant. Packaging via Noissue or Packlane.",
+      "estimated_cogs_per_unit": 0.75,
+      "target_retail_price": 18.0,
+      "estimated_margin_multiplier": 6.0,
+      "startup_cost_estimate": "$8K - $12K (500 lb production run, branding, first Shopify setup, small Instagram ads test)",
+      "go_to_market": "Shopify DTC with subscription (monthly 'flavor of the month'). Instagram/TikTok content showing tea pairings. Partner with specialty tea brands for co-marketing. Farmers markets for sampling. Later: Whole Foods regional.",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 7,
+        "us_gap": 10,
+        "manufacturing_ease": 9,
+        "twist_strength": 8,
+        "margin_potential": 9,
+        "brandability": 9,
+        "low_capital_start": 9
+      },
+      "score_avg": 8.71,
+      "risks": [
+        "Niche product - may be too foreign for mainstream US palate",
+        "Subscription fatigue - need to nail retention with variety",
+        "Shelf life constraints - almond flour can go rancid faster than wheat"
+      ],
+      "first_3_steps": [
+        "1. Recipe R&D: Test 3 ghriba recipes (sesame, almond, chocolate) with 10 tasters for US palate optimization",
+        "2. Co-packer outreach: Get quotes from 3 gluten-free bakeries, negotiate 500 lb trial run, finalize recipe",
+        "3. Brand MVP: Design packaging mockups, build Shopify store, shoot tea-pairing content, launch with 100-unit pre-sale to validate demand"
+      ]
     },
-    "scores": {
-      "demand_proof": 5,
-      "us_gap": 10,
-      "manufacturing_ease": 10,
-      "twist_strength": 9,
-      "margin_potential": 9,
-      "brandability": 10,
-      "low_capital_start": 10
+    {
+      "id": "idea_022",
+      "date": "2026-02-15",
+      "inspiration_product": "Nuoc Mau (Vietnamese Caramel Sauce)",
+      "inspiration_brand": "Homemade (no commercial brand)",
+      "inspiration_country": "vietnam",
+      "category": "condiments-sauces",
+      "us_brand_concept": "'Liquid Gold' - Premium artisanal Vietnamese caramel sauce for braising in squeeze bottle",
+      "the_twist": "Pre-made high-quality version in user-friendly squeeze bottle vs DIY-only or 'heinous' cheap imports. Target time-starved Vietnamese-Americans and fusion home cooks.",
+      "twist_type": "brand-upgrade|format-change",
+      "target_customer": "Vietnamese diaspora home cooks (25-45, cooking traditional recipes but want shortcuts), Asian fusion enthusiasts, meal kit companies needing authentic ingredients",
+      "description": "Nuoc Mau is a bitter-sweet caramelized sugar sauce essential to Vietnamese braised dishes (thit kho, ca kho). Every Vietnamese cook makes it from scratch because store-bought versions taste terrible. It's tricky - burn the sugar and it's ruined. Our version is small-batch, properly caramelized, in a squeeze bottle for easy portioning.",
+      "problem_solved": "Eliminates the tricky, time-consuming step of caramelizing sugar for Vietnamese braising. Prevents burnt batches and gives consistent color/flavor.",
+      "us_competitive_landscape": "Generic 'coconut thin sauce' at Asian markets (reviews say it tastes bad, Viet World Kitchen specifically warns against it). No premium US-branded version exists. Everyone DIYs because commercial options suck.",
+      "demand_signals": [
+        "Vietnamese food blogs all have DIY recipes warning about difficulty",
+        "Viet World Kitchen explicitly says 'resist buying the heinous tasting pre-fab'",
+        "Used in dozens of popular Vietnamese dishes (thit kho tau, ca kho, ga kho)"
+      ],
+      "source_urls": [
+        "https://www.vietworldkitchen.com/blog/2007/10/caramel-sauce.html",
+        "https://vickypham.com/blog/vietnamese-caramel-cooking-sauce-nuoc-mau/"
+      ],
+      "manufacturing_path": "Contract sauce co-packer (California or Texas near Vietnamese communities). Simple formulation: sugar + water. Cook in batches, bottle hot, shelf-stable for 12+ months. MOQ likely 500-1000 units (~$2-3K first run).",
+      "estimated_cogs_per_unit": 1.5,
+      "target_retail_price": 8.99,
+      "estimated_margin_multiplier": 6.0,
+      "startup_cost_estimate": "$3K - $5K (first production run 500-1000 bottles, basic label design, food safety compliance)",
+      "go_to_market": "Shopify DTC + Amazon FBA. Target Vietnamese Facebook groups, Vietnamese grocery stores (consignment), partner with meal kit companies (Omsom, Nguyen Coffee Supply for co-marketing).",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 8,
+        "us_gap": 10,
+        "manufacturing_ease": 9,
+        "twist_strength": 7,
+        "margin_potential": 9,
+        "brandability": 8,
+        "low_capital_start": 9
+      },
+      "score_avg": 8.57,
+      "risks": [
+        "Shelf life testing needed (sugar can crystallize)",
+        "Vietnamese home cooks may be purists and stick to DIY",
+        "Name/branding must not feel gimmicky - needs authenticity"
+      ],
+      "first_3_steps": [
+        "Find 2-3 sauce co-packers in CA/TX, get quotes for 500-1000 unit run with 8oz squeeze bottles",
+        "Test recipe batches - nail the bitter-sweet balance, ensure no crystallization over 6 months",
+        "Design label with Vietnamese typography, test messaging with Vietnamese-American focus group (Reddit/Facebook)"
+      ]
     },
-    "score_avg": 9.0,
-    "risks": [
-      "Totally new category requires heavy consumer education",
-      "Sprinkles = kids/dessert association in US might be hard to overcome",
-      "Need viral moment or influencer to create demand"
-    ],
-    "first_3_steps": [
-      "Make 5 homemade flavor prototypes, test with 20 people for flavor + naming feedback",
-      "Design packaging mockup: glass jar, minimalist label, emphasize 'morning ritual' not 'kid food'",
-      "Find dry-goods co-packer, get quotes for 3 flavors x 500 units, or start with local spice shop for micro-batch"
-    ]
-  },
-  {
-    "id": "idea_002",
-    "date": "2026-02-15",
-    "inspiration_product": "Peanut Podi (South Indian peanut chutney powder)",
-    "inspiration_brand": "Ramadevi Foods, homemade",
-    "inspiration_country": "india",
-    "category": "condiments-sauces",
-    "us_brand_concept": "NutDust - Savory roasted peanut seasoning blend (the peanut version of Everything Bagel)",
-    "the_twist": "Take peanut podi's roasted peanut + spice concept, remove Indian branding, position as 'savory peanut seasoning' competing with Everything Bagel Seasoning but with protein + nutty richness",
-    "twist_type": "brand-upgrade",
-    "target_customer": "Same customer who buys Everything Bagel Seasoning, Maldon salt, Tajín. People who put seasoning on everything. Bonus: peanut allergy-avoiders can skip, but peanut lovers get a unique option.",
-    "description": "Peanut podi is a South Indian condiment powder made from roasted peanuts, lentils, red chili, garlic, curry leaves, and spices. Mix with oil for instant peanut chutney or sprinkle dry on food. It's intensely savory with nutty depth. No US brand has done 'savory peanut seasoning' - all peanut products are sweet (PB) or whole roasted nuts. This fills the gap between Everything Bagel and actual peanut butter.",
-    "problem_solved": "Everything Bagel Seasoning is ubiquitous but lacks protein and nutty richness. Peanut powder products exist but are all SWEET (PB2, etc). This is the first SAVORY peanut-based seasoning for the US market.",
-    "us_competitive_landscape": "Everything Bagel Seasoning owns the savory-sprinkle space. Trader Joe's sells it, so do 50+ copycat brands. But zero brands have done savory peanut seasoning. Peanut powder (PB2) exists but it's reconstituted peanut butter, not a seasoning. Huge white space.",
-    "demand_signals": [
-      "Everything Bagel Seasoning trend proves appetite for savory sprinkles",
-      "Peanut-forward flavors trending (Thai peanut sauce, peanut noodles)",
-      "Reddit threads asking 'what seasoning should I try after EBT?'",
-      "Umami/savory seasoning blends selling well"
-    ],
-    "source_urls": [
-      "https://www.reddit.com/r/IndianFood/comments/11rzy2f/new_to_podi_share_some_details/",
-      "https://ramadevifoods.com/collections/spicy-powders"
-    ],
-    "manufacturing_path": "Same as PulseFire - US spice co-packer. Source roasted peanut flour/powder (readily available), blend with spices, bottle. Super simple. Could hand-blend first 100 units.",
-    "estimated_cogs_per_unit": 1.75,
-    "target_retail_price": 9.99,
-    "estimated_margin_multiplier": 5.7,
-    "startup_cost_estimate": "$600-$1800 for first 100 units (peanuts slightly more expensive than lentils). $2500-$4000 for first co-packer run.",
-    "go_to_market": "DTC Shopify + Instagram. Positioning: 'The peanut version of Everything Bagel Seasoning.' Show use cases: popcorn, ramen, roasted veg, rice bowls, even peanut butter toast for double peanut hit. Farmer's markets + food festivals.",
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
+    {
+      "id": "idea_007",
+      "date": "2026-02-15",
+      "inspiration_product": "Paneangeli Pannafix Cream Stabilizer",
+      "inspiration_brand": "Paneangeli (Cameo)",
+      "inspiration_country": "Italy",
+      "category": "grocery-pantry",
+      "us_brand_concept": "Premium single-serve cream stabilizer for American home bakers at accessible price point",
+      "the_twist": "Break the import monopoly by domestic manufacturing - offer Dr. Oetker quality at $3-4 vs $15, with Instagram-worthy packaging targeting Gen Z/Millennial bakers",
+      "twist_type": "brand-upgrade|us-sizing",
+      "target_customer": "Home bakers (25-45, female-skewing) who make cakes, whipped cream desserts - Pinterest/Instagram users, amateur but passionate",
+      "description": "Paneangeli cream stabilizer costs \u20ac1 in Italy but $15 for 3 sachets on Amazon US. Dr. Oetker (German) dominates US market with ugly functional packaging. US version with better branding, competitive pricing ($3-4), and marketing to social media bakers creates massive opportunity. The product is simple (modified starch + gelatin) - easy to manufacture domestically via co-packer.",
+      "problem_solved": "Home bakers need whipped cream to stay stiff for layered cakes and desserts, but current options are either expensive imports or industrial bulk sizes. No US brand owns the home baker segment with approachable pricing and beautiful branding.",
+      "us_competitive_landscape": "Dr. Oetker dominates with functional packaging. Cuisine Tech and Pastry 1 serve industrial/bulk. Imports (Yamkay, Neotea) have poor branding. NO premium US home baker brand exists. Market gap is clear.",
+      "demand_signals": [
+        "Americans import Paneangeli at 10x markup",
+        "Dr. Oetker has consistent sales on Amazon",
+        "TikTok baking content explosion",
+        "Home baking surged post-pandemic and stayed elevated"
+      ],
+      "source_urls": [
+        "https://appetitomagazine.com/features/what-products-to-bring-home-from-your-next-trip-to-italy",
+        "https://www.amazon.com/Dr-Oetker-Whipped-Cream-Stabilizer/dp/B008EMGCK8"
+      ],
+      "manufacturing_path": "Domestic food co-packer can produce this easily - it's modified starch, gelatin, and sugar. Find FDA-compliant facility that does dry blending. MOQ likely 1000-5000 units. Sachets are standard packaging.",
+      "estimated_cogs_per_unit": 0.75,
+      "target_retail_price": 3.99,
+      "estimated_margin_multiplier": 5.3,
+      "startup_cost_estimate": "$3K - $8K (5K unit MOQ, sachets, FDA compliance, basic branding)",
+      "go_to_market": "DTC Shopify + Amazon FBA. Partner with baking influencers for UGC. Pinterest ads targeting 'cake decorating' keywords. Subscription option (monthly baker's box). Sell multi-packs.",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 8,
+        "us_gap": 9,
+        "manufacturing_ease": 9,
+        "twist_strength": 7,
+        "margin_potential": 9,
+        "brandability": 8,
+        "low_capital_start": 9
+      },
+      "score_avg": 8.43,
+      "risks": [
+        "Incumbent Dr. Oetker could respond with better branding",
+        "Home baking trend could fade (though seems sticky)",
+        "FDA food facility compliance adds complexity"
+      ],
+      "first_3_steps": [
+        "Source 3-5 domestic co-packers specializing in dry blend sachets, get quotes for 1K/5K/10K MOQs",
+        "Develop brand identity and packaging - hire designer for Instagram-worthy sachet packets",
+        "Test messaging with baking influencers - send free samples, gauge response before production"
+      ]
     },
-    "scores": {
-      "demand_proof": 7,
-      "us_gap": 10,
-      "manufacturing_ease": 10,
-      "twist_strength": 8,
-      "margin_potential": 8,
-      "brandability": 9,
-      "low_capital_start": 10
+    {
+      "id": "idea_016",
+      "date": "2026-02-15",
+      "inspiration_product": "German Medicinal Sage Tea (Salbei)",
+      "inspiration_brand": "Various German Apotheke brands",
+      "inspiration_country": "germany",
+      "category": "health-wellness",
+      "us_brand_concept": "Remedy Tea Co. \u2014 Single-herb functional tea sachets for specific ailments with pharma-grade sourcing",
+      "the_twist": "Replace multi-herb 'wellness' blends with single-ingredient teas backed by clinical research, each targeting one specific condition (sore throat, digestion, sleep, inflammation). German apotheken approach: precise dosing, medical-grade herbs, clear function.",
+      "twist_type": "ingredient-swap",
+      "target_customer": "Health-conscious millennials who want natural remedies but distrust 'woo-woo' wellness products. People with recurring minor ailments (seasonal allergies, stress insomnia, digestive issues).",
+      "description": "German pediatricians prescribe pharmaceutical-grade sage tea instead of antibiotics for sore throats. The US has endless multi-herb blends (10+ ingredients, vague 'wellness' claims), but nothing that says 'this herb, this condition, this dose.' Remedy Tea takes the German Commission E approach: evidence-based, single-ingredient, functional. Each box targets one ailment with one herb known to address it.",
+      "problem_solved": "Americans want natural remedies but most herbal teas are either generic (chamomile) or kitchen-sink blends with unclear efficacy. Remedy Tea offers credibility through simplicity and research citations.",
+      "us_competitive_landscape": "Traditional Medicinals dominates functional tea but uses complex blends. Pukka, Yogi Tea same approach. No one is doing single-ingredient, pharma-grade, condition-specific sachets at drugstore prices.",
+      "demand_signals": [
+        "German herbal medicine is a $3B+ market with government regulation",
+        "Commission E research shows efficacy for specific herbs",
+        "Growing distrust of supplements drives interest in whole-plant remedies",
+        "Reddit threads on 'what actually works' cite European herbal traditions"
+      ],
+      "source_urls": [
+        "https://kulturshift.substack.com/p/just-give-him-some-tee-my-first-baffling",
+        "https://www.healthyhildegard.com/traditional-german-herbal-medicine/"
+      ],
+      "manufacturing_path": "US co-packer specializing in tea sachets (existing infrastructure for Celestial Seasonings-style products). Source pharmaceutical-grade herbs from certified organic US farms or import from German suppliers. Sachets, boxes, fulfillment can all be outsourced.",
+      "estimated_cogs_per_unit": 0.35,
+      "target_retail_price": 12.99,
+      "estimated_margin_multiplier": 4.5,
+      "startup_cost_estimate": "$3K - $8K for first run (500-1000 units per SKU, 4 SKUs to start), branding, Shopify site",
+      "go_to_market": "DTC Shopify with targeted ads (search: 'natural sore throat remedy', 'what tea helps with...'). Amazon FBA for scale. Pitch to Whole Foods/Sprouts as 'European functional tea' with education cards. Subscription for chronic users (allergy season, stress management).",
+      "google_trends": {
+        "avg": 45,
+        "recent": 52,
+        "trend": "stable"
+      },
+      "scores": {
+        "demand_proof": 7,
+        "us_gap": 9,
+        "manufacturing_ease": 9,
+        "twist_strength": 8,
+        "margin_potential": 8,
+        "brandability": 9,
+        "low_capital_start": 9
+      },
+      "score_avg": 8.43,
+      "risks": [
+        "FDA rules on health claims (can cite traditional use but not 'treats X')",
+        "Educating consumers on single-herb concept vs familiar blends",
+        "Pharmaceutical-grade sourcing may increase COGS",
+        "Seasonal demand for some functions (cold/flu)"
+      ],
+      "first_3_steps": [
+        "Source 4 starter herbs with strongest evidence: sage (throat), chamomile (digestion), valerian (sleep), ginger (nausea). Get samples from 3 pharma-grade suppliers.",
+        "Design brand identity: clinical but warm. Think Glossier meets pharmacy. Name each SKU by function, not herb (Throat Relief, Sleep Deep, Calm Stomach, Clear Head).",
+        "Create Shopify site with education pages citing Commission E research for each herb. Run $500 test on Meta ads targeting 'natural cold remedy' and 'herbal sleep aid'."
+      ]
     },
-    "score_avg": 8.9,
-    "risks": [
-      "Peanut allergies limit addressable market (but also differentiate from Everything Bagel)",
-      "Flavor might be polarizing - need strong sampling/trial strategy",
-      "Shelf life of ground peanuts (oil content) - need nitrogen flush packaging"
-    ],
-    "first_3_steps": [
-      "Make 3 test batches: mild, medium, spicy. Blind taste test with 15 people who love Everything Bagel Seasoning",
-      "Create basic branding mockups in Canva, order 50 sample bottles + labels",
-      "Set up Shopify store, film 10 TikToks showing use cases, post 1/day for 10 days to test engagement"
-    ]
-  },
-  {
-    "id": "idea_037",
-    "date": "2026-02-15",
-    "inspiration_product": "Ghriba (Moroccan Almond Cookies)",
-    "inspiration_brand": "Traditional Moroccan patisseries",
-    "inspiration_country": "morocco",
-    "category": "snacks-candy",
-    "us_brand_concept": "GhribaCo - Premium Moroccan teatime cookies delivered monthly",
-    "the_twist": "DTC subscription with rotating flavors (sesame, almond, chocolate, coconut), naturally gluten-free positioning, paired with Moroccan tea",
-    "twist_type": "subscription|brand-upgrade|niche-targeting",
-    "target_customer": "Gluten-free snackers, tea enthusiasts, subscription box buyers aged 25-45, Mediterranean food lovers",
-    "description": "Ghriba are crumbly, buttery Moroccan cookies with a unique hockey-puck shape and sandy texture. Made with ground almonds or sesame, they're naturally gluten-free and beloved in Morocco for dunking in mint tea. Zero US brands currently sell ghriba commercially - only recipes exist online. The product would feature premium ingredients (California almonds, orange blossom water), nostalgic packaging with Moroccan tile patterns, and educational insert about Moroccan tea culture.",
-    "problem_solved": "No commercial source for authentic Moroccan cookies in US. Gluten-free cookie options are limited to bland health bars. Tea drinkers lack elevated pairing snacks beyond basic biscuits.",
-    "us_competitive_landscape": "Zero direct competitors. Adjacent: Simple Mills (gluten-free cookies), Tate's (premium cookies), Trade Coffee (tea subscription). Nothing combines Moroccan authenticity + gluten-free + subscription model.",
-    "demand_signals": [
-      "Gluten-free market $7.5B and growing 9% annually",
-      "Cookie subscription boxes (Milk Bar, Crumbl) wildly popular",
-      "Moroccan cuisine trending on TikTok (#MoroccanFood 2B views)",
-      "Almond flour cookies Pinterest searches up 40% YoY"
-    ],
-    "source_urls": [
-      "https://www.journeybeyondtravel.com/blog/moroccan-sweets-crumbles-of-culture.html",
-      "https://sugaryums.com/moroccan-cookies/",
-      "https://marocmama.com/moroccan-ghriba-cookie-recipe/"
-    ],
-    "manufacturing_path": "US cookie co-packer (Specialty Food Copackers or ChipMonk Baking). Almond flour cookies are standard production. MOQ 500 lbs = ~4,000 cookies. Recipe development with Moroccan consultant. Packaging via Noissue or Packlane.",
-    "estimated_cogs_per_unit": 0.75,
-    "target_retail_price": 18.00,
-    "estimated_margin_multiplier": 6.0,
-    "startup_cost_estimate": "$8K - $12K (500 lb production run, branding, first Shopify setup, small Instagram ads test)",
-    "go_to_market": "Shopify DTC with subscription (monthly 'flavor of the month'). Instagram/TikTok content showing tea pairings. Partner with specialty tea brands for co-marketing. Farmers markets for sampling. Later: Whole Foods regional.",
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
+    {
+      "id": "idea_158",
+      "date": "2026-02-16",
+      "inspiration_product": "Recycled Hardwood Chopping Boards from Singapore Roadside Trees",
+      "inspiration_brand": "Various Singapore artisans",
+      "inspiration_country": "singapore",
+      "category": "kitchen",
+      "us_brand_concept": "Urban Timber \u2014 Cutting boards made from reclaimed American city trees, each stamped with the tree's location and story",
+      "the_twist": "Source from US urban forestry programs (storm damage, street tree removals), laser-engrave the tree's location/species on each board, tell the sustainability story",
+      "twist_type": "sustainability|us-sizing|brand-upgrade",
+      "target_customer": "Eco-conscious home cooks, urban millennials, gift-givers who want meaningful kitchen items with a story",
+      "description": "In Singapore, artisans make chopping boards from reclaimed roadside trees (rain tree, angsana) that are removed during urban development. Each board has unique tropical hardwood grain patterns and a connection to place. A US version would partner with municipal urban forestry programs to source American hardwoods (maple, oak, walnut) from street tree removals and storm damage, then craft them into premium boards with each piece stamped with its origin story.",
+      "problem_solved": "Generic cutting boards have no soul. People want kitchen items with meaning and sustainability credentials. Urban tree waste is typically chipped or burned.",
+      "us_competitive_landscape": "Thousands of generic bamboo and acacia boards on Amazon. A few Etsy artisans do reclaimed wood but no scaled brand with consistent sourcing and storytelling. Brooklyn Butcher Blocks and John Boos are established but don't emphasize urban reclaimed angle.",
+      "demand_signals": [
+        "Rising interest in urban forestry and reclaimed materials",
+        "Gift market for meaningful kitchen items",
+        "Singapore Reddit users specifically recommend these boards for their quality and story"
+      ],
+      "source_urls": [
+        "https://www.reddit.com/r/askSingapore/comments/1g24qeq/moving_into_my_bto_what_cooking_ware_household/",
+        "https://www.etsy.com/market/reclaimed_wood_chopping_board"
+      ],
+      "manufacturing_path": "Partner with 3-5 US cities' urban forestry programs for wood sourcing. Contract with small batch woodworking shop or start with hand-crafted. Laser engraving for location stamps. Each board unique, premium pricing justified by story.",
+      "estimated_cogs_per_unit": 25.0,
+      "target_retail_price": 89.0,
+      "estimated_margin_multiplier": 3.56,
+      "startup_cost_estimate": "$3K - $8K: Wood sourcing relationships, initial inventory (20-30 boards), laser engraver rental/service, basic Shopify site, professional product photos",
+      "go_to_market": "Shopify DTC with Instagram/TikTok storytelling. Each board's tree story in description. Partner with urban forestry nonprofits for credibility. Sell at farmers markets and craft fairs. Pitch to West Elm/CB2 as local artisan line.",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 7,
+        "us_gap": 9,
+        "manufacturing_ease": 8,
+        "twist_strength": 9,
+        "margin_potential": 8,
+        "brandability": 10,
+        "low_capital_start": 8
+      },
+      "score_avg": 8.43,
+      "risks": [
+        "Wood sourcing consistency (seasonal, dependent on storm/removal schedules)",
+        "Each board unique makes scaling harder",
+        "Premium price point ($89) limits market size",
+        "Need relationships with multiple cities for reliable supply"
+      ],
+      "first_3_steps": [
+        "Contact 3 local urban forestry departments about wood sourcing partnerships",
+        "Source 10-15 board blanks from reclaimed wood, sand and finish prototypes",
+        "Create Instagram account, post board-making process and tree stories, test interest"
+      ]
     },
-    "scores": {
-      "demand_proof": 7,
-      "us_gap": 10,
-      "manufacturing_ease": 9,
-      "twist_strength": 8,
-      "margin_potential": 9,
-      "brandability": 9,
-      "low_capital_start": 9
-    },
-    "score_avg": 8.71,
-    "risks": [
-      "Niche product - may be too foreign for mainstream US palate",
-      "Subscription fatigue - need to nail retention with variety",
-      "Shelf life constraints - almond flour can go rancid faster than wheat"
-    ],
-    "first_3_steps": [
-      "1. Recipe R&D: Test 3 ghriba recipes (sesame, almond, chocolate) with 10 tasters for US palate optimization",
-      "2. Co-packer outreach: Get quotes from 3 gluten-free bakeries, negotiate 500 lb trial run, finalize recipe",
-      "3. Brand MVP: Design packaging mockups, build Shopify store, shoot tea-pairing content, launch with 100-unit pre-sale to validate demand"
-    ]
-  },
-  {
-    "id": "idea_047",
-    "date": "2026-02-15",
-    "inspiration_product": "Premium Glass Pantry Jars with Bamboo Lids",
-    "inspiration_brand": "Howards Storage World",
-    "inspiration_country": "australia",
-    "category": "organizing-storage",
-    "us_brand_concept": "PantryGlow: Premium glass jar sets with bamboo lids, sold as curated bundles with labels, scoops, and organization guides",
-    "the_twist": "DTC premium brand with Method-level aesthetics and storytelling, sold as complete 'Pantry Transformation Kits' not individual jars. Instagram-first visual identity.",
-    "twist_type": "brand-upgrade",
-    "target_customer": "Millennial/Gen-Z homeowners (25-40) who follow home organization influencers, watch The Home Edit, active on Instagram/TikTok, willing to pay premium for aesthetics",
-    "description": "Howards Storage World in Australia sells beautiful glass pantry jars with bamboo lids in matching sets. US market has dozens of cheap Amazon imports (HomArtist, LIBWYS, etc.) but no premium DTC brand with compelling story and aesthetic. The opportunity is to do for pantry storage what Method did for cleaning supplies: take a commodity product, give it gorgeous design and brand story, charge 3x more.",
-    "problem_solved": "Pantry clutter and mismatched containers make kitchens feel chaotic. Generic Amazon jars are cheap but ugly and unmemorable. People want their pantry to look Instagram-worthy.",
-    "us_competitive_landscape": "Flooded with generic $20-30 Amazon sets from Chinese brands (EcoEvo, LIBWYS, HomArtist). The Container Store sells empty jars but no curated systems. No DTC brand owns the premium aesthetic pantry storage space.",
-    "demand_signals": [
-      "Pantry organization videos get millions of views on TikTok",
-      "The Home Edit Netflix show drove massive demand",
-      "Hashtag #pantryorganization has 2.5M+ posts on Instagram",
-      "Australians mention Howards as their go-to for premium organizing"
-    ],
-    "source_urls": [
-      "https://www.hsw.com.au/",
-      "https://www.amazon.com/s?k=glass+jars+bamboo+lids"
-    ],
-    "manufacturing_path": "Private label from Alibaba glass jar suppliers. Bamboo lids readily available. Add custom etched logo on glass, branded labels, custom packaging. Could also partner with US co-packer for kitting/assembly.",
-    "estimated_cogs_per_unit": 4.50,
-    "target_retail_price": 89.00,
-    "estimated_margin_multiplier": 4.4,
-    "startup_cost_estimate": "$3K-$5K for first 500-unit run (8-jar sets) including packaging, labels, scoops, guide printing",
-    "go_to_market": "Shopify DTC with heavy Instagram/TikTok influencer marketing. Partner with home organization creators for unboxing videos. Target 'pantry transformation' before/after content. Consider Amazon FBA after brand established.",
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
-    },
-    "scores": {
-      "demand_proof": 9,
-      "us_gap": 7,
-      "manufacturing_ease": 10,
-      "twist_strength": 8,
-      "margin_potential": 8,
-      "brandability": 9,
-      "low_capital_start": 9
-    },
-    "score_avg": 8.6,
-    "risks": [
-      "Commoditization - Amazon sellers could copy design",
-      "Shipping cost/breakage for glass",
-      "Trend-driven category - pantry org hype could fade",
-      "Need strong content marketing to justify premium"
-    ],
-    "first_3_steps": [
-      "Source 3-5 Alibaba suppliers for glass jars + bamboo lids, order samples",
-      "Design brand identity, packaging, labels, and scoops (hire designer on Upwork ~$500)",
-      "Create launch bundle (8 jars, 8 labels, 2 scoops, bamboo tray, guide PDF) and build Shopify store"
-    ]
-  },
-  {
-    "id": "idea_022",
-    "date": "2026-02-15",
-    "inspiration_product": "Nuoc Mau (Vietnamese Caramel Sauce)",
-    "inspiration_brand": "Homemade (no commercial brand)",
-    "inspiration_country": "vietnam",
-    "category": "condiments-sauces",
-    "us_brand_concept": "'Liquid Gold' - Premium artisanal Vietnamese caramel sauce for braising in squeeze bottle",
-    "the_twist": "Pre-made high-quality version in user-friendly squeeze bottle vs DIY-only or 'heinous' cheap imports. Target time-starved Vietnamese-Americans and fusion home cooks.",
-    "twist_type": "brand-upgrade|format-change",
-    "target_customer": "Vietnamese diaspora home cooks (25-45, cooking traditional recipes but want shortcuts), Asian fusion enthusiasts, meal kit companies needing authentic ingredients",
-    "description": "Nuoc Mau is a bitter-sweet caramelized sugar sauce essential to Vietnamese braised dishes (thit kho, ca kho). Every Vietnamese cook makes it from scratch because store-bought versions taste terrible. It's tricky - burn the sugar and it's ruined. Our version is small-batch, properly caramelized, in a squeeze bottle for easy portioning.",
-    "problem_solved": "Eliminates the tricky, time-consuming step of caramelizing sugar for Vietnamese braising. Prevents burnt batches and gives consistent color/flavor.",
-    "us_competitive_landscape": "Generic 'coconut thin sauce' at Asian markets (reviews say it tastes bad, Viet World Kitchen specifically warns against it). No premium US-branded version exists. Everyone DIYs because commercial options suck.",
-    "demand_signals": [
-      "Vietnamese food blogs all have DIY recipes warning about difficulty",
-      "Viet World Kitchen explicitly says 'resist buying the heinous tasting pre-fab'",
-      "Used in dozens of popular Vietnamese dishes (thit kho tau, ca kho, ga kho)"
-    ],
-    "source_urls": [
-      "https://www.vietworldkitchen.com/blog/2007/10/caramel-sauce.html",
-      "https://vickypham.com/blog/vietnamese-caramel-cooking-sauce-nuoc-mau/"
-    ],
-    "manufacturing_path": "Contract sauce co-packer (California or Texas near Vietnamese communities). Simple formulation: sugar + water. Cook in batches, bottle hot, shelf-stable for 12+ months. MOQ likely 500-1000 units (~$2-3K first run).",
-    "estimated_cogs_per_unit": 1.50,
-    "target_retail_price": 8.99,
-    "estimated_margin_multiplier": 6.0,
-    "startup_cost_estimate": "$3K - $5K (first production run 500-1000 bottles, basic label design, food safety compliance)",
-    "go_to_market": "Shopify DTC + Amazon FBA. Target Vietnamese Facebook groups, Vietnamese grocery stores (consignment), partner with meal kit companies (Omsom, Nguyen Coffee Supply for co-marketing).",
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
-    },
-    "scores": {
-      "demand_proof": 8,
-      "us_gap": 10,
-      "manufacturing_ease": 9,
-      "twist_strength": 7,
-      "margin_potential": 9,
-      "brandability": 8,
-      "low_capital_start": 9
-    },
-    "score_avg": 8.57,
-    "risks": [
-      "Shelf life testing needed (sugar can crystallize)",
-      "Vietnamese home cooks may be purists and stick to DIY",
-      "Name/branding must not feel gimmicky - needs authenticity"
-    ],
-    "first_3_steps": [
-      "Find 2-3 sauce co-packers in CA/TX, get quotes for 500-1000 unit run with 8oz squeeze bottles",
-      "Test recipe batches - nail the bitter-sweet balance, ensure no crystallization over 6 months",
-      "Design label with Vietnamese typography, test messaging with Vietnamese-American focus group (Reddit/Facebook)"
-    ]
-  },
-  {
-    "id": "idea_007",
-    "date": "2026-02-15",
-    "inspiration_product": "Paneangeli Pannafix Cream Stabilizer",
-    "inspiration_brand": "Paneangeli (Cameo)",
-    "inspiration_country": "Italy",
-    "category": "grocery-pantry",
-    "us_brand_concept": "Premium single-serve cream stabilizer for American home bakers at accessible price point",
-    "the_twist": "Break the import monopoly by domestic manufacturing - offer Dr. Oetker quality at $3-4 vs $15, with Instagram-worthy packaging targeting Gen Z/Millennial bakers",
-    "twist_type": "brand-upgrade|us-sizing",
-    "target_customer": "Home bakers (25-45, female-skewing) who make cakes, whipped cream desserts - Pinterest/Instagram users, amateur but passionate",
-    "description": "Paneangeli cream stabilizer costs €1 in Italy but $15 for 3 sachets on Amazon US. Dr. Oetker (German) dominates US market with ugly functional packaging. US version with better branding, competitive pricing ($3-4), and marketing to social media bakers creates massive opportunity. The product is simple (modified starch + gelatin) - easy to manufacture domestically via co-packer.",
-    "problem_solved": "Home bakers need whipped cream to stay stiff for layered cakes and desserts, but current options are either expensive imports or industrial bulk sizes. No US brand owns the home baker segment with approachable pricing and beautiful branding.",
-    "us_competitive_landscape": "Dr. Oetker dominates with functional packaging. Cuisine Tech and Pastry 1 serve industrial/bulk. Imports (Yamkay, Neotea) have poor branding. NO premium US home baker brand exists. Market gap is clear.",
-    "demand_signals": [
-      "Americans import Paneangeli at 10x markup",
-      "Dr. Oetker has consistent sales on Amazon",
-      "TikTok baking content explosion",
-      "Home baking surged post-pandemic and stayed elevated"
-    ],
-    "source_urls": [
-      "https://appetitomagazine.com/features/what-products-to-bring-home-from-your-next-trip-to-italy",
-      "https://www.amazon.com/Dr-Oetker-Whipped-Cream-Stabilizer/dp/B008EMGCK8"
-    ],
-    "manufacturing_path": "Domestic food co-packer can produce this easily - it's modified starch, gelatin, and sugar. Find FDA-compliant facility that does dry blending. MOQ likely 1000-5000 units. Sachets are standard packaging.",
-    "estimated_cogs_per_unit": 0.75,
-    "target_retail_price": 3.99,
-    "estimated_margin_multiplier": 5.3,
-    "startup_cost_estimate": "$3K - $8K (5K unit MOQ, sachets, FDA compliance, basic branding)",
-    "go_to_market": "DTC Shopify + Amazon FBA. Partner with baking influencers for UGC. Pinterest ads targeting 'cake decorating' keywords. Subscription option (monthly baker's box). Sell multi-packs.",
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
-    },
-    "scores": {
-      "demand_proof": 8,
-      "us_gap": 9,
-      "manufacturing_ease": 9,
-      "twist_strength": 7,
-      "margin_potential": 9,
-      "brandability": 8,
-      "low_capital_start": 9
-    },
-    "score_avg": 8.43,
-    "risks": [
-      "Incumbent Dr. Oetker could respond with better branding",
-      "Home baking trend could fade (though seems sticky)",
-      "FDA food facility compliance adds complexity"
-    ],
-    "first_3_steps": [
-      "Source 3-5 domestic co-packers specializing in dry blend sachets, get quotes for 1K/5K/10K MOQs",
-      "Develop brand identity and packaging - hire designer for Instagram-worthy sachet packets",
-      "Test messaging with baking influencers - send free samples, gauge response before production"
-    ]
-  },
-  {
-    "id": "idea_016",
-    "date": "2026-02-15",
-    "inspiration_product": "German Medicinal Sage Tea (Salbei)",
-    "inspiration_brand": "Various German Apotheke brands",
-    "inspiration_country": "germany",
-    "category": "health-wellness",
-    "us_brand_concept": "Remedy Tea Co. — Single-herb functional tea sachets for specific ailments with pharma-grade sourcing",
-    "the_twist": "Replace multi-herb 'wellness' blends with single-ingredient teas backed by clinical research, each targeting one specific condition (sore throat, digestion, sleep, inflammation). German apotheken approach: precise dosing, medical-grade herbs, clear function.",
-    "twist_type": "ingredient-swap",
-    "target_customer": "Health-conscious millennials who want natural remedies but distrust 'woo-woo' wellness products. People with recurring minor ailments (seasonal allergies, stress insomnia, digestive issues).",
-    "description": "German pediatricians prescribe pharmaceutical-grade sage tea instead of antibiotics for sore throats. The US has endless multi-herb blends (10+ ingredients, vague 'wellness' claims), but nothing that says 'this herb, this condition, this dose.' Remedy Tea takes the German Commission E approach: evidence-based, single-ingredient, functional. Each box targets one ailment with one herb known to address it.",
-    "problem_solved": "Americans want natural remedies but most herbal teas are either generic (chamomile) or kitchen-sink blends with unclear efficacy. Remedy Tea offers credibility through simplicity and research citations.",
-    "us_competitive_landscape": "Traditional Medicinals dominates functional tea but uses complex blends. Pukka, Yogi Tea same approach. No one is doing single-ingredient, pharma-grade, condition-specific sachets at drugstore prices.",
-    "demand_signals": [
-      "German herbal medicine is a $3B+ market with government regulation",
-      "Commission E research shows efficacy for specific herbs",
-      "Growing distrust of supplements drives interest in whole-plant remedies",
-      "Reddit threads on 'what actually works' cite European herbal traditions"
-    ],
-    "source_urls": [
-      "https://kulturshift.substack.com/p/just-give-him-some-tee-my-first-baffling",
-      "https://www.healthyhildegard.com/traditional-german-herbal-medicine/"
-    ],
-    "manufacturing_path": "US co-packer specializing in tea sachets (existing infrastructure for Celestial Seasonings-style products). Source pharmaceutical-grade herbs from certified organic US farms or import from German suppliers. Sachets, boxes, fulfillment can all be outsourced.",
-    "estimated_cogs_per_unit": 0.35,
-    "target_retail_price": 12.99,
-    "estimated_margin_multiplier": 4.5,
-    "startup_cost_estimate": "$3K - $8K for first run (500-1000 units per SKU, 4 SKUs to start), branding, Shopify site",
-    "go_to_market": "DTC Shopify with targeted ads (search: 'natural sore throat remedy', 'what tea helps with...'). Amazon FBA for scale. Pitch to Whole Foods/Sprouts as 'European functional tea' with education cards. Subscription for chronic users (allergy season, stress management).",
-    "google_trends": {
-      "avg": 45,
-      "recent": 52,
-      "trend": "stable"
-    },
-    "scores": {
-      "demand_proof": 7,
-      "us_gap": 9,
-      "manufacturing_ease": 9,
-      "twist_strength": 8,
-      "margin_potential": 8,
-      "brandability": 9,
-      "low_capital_start": 9
-    },
-    "score_avg": 8.43,
-    "risks": [
-      "FDA rules on health claims (can cite traditional use but not 'treats X')",
-      "Educating consumers on single-herb concept vs familiar blends",
-      "Pharmaceutical-grade sourcing may increase COGS",
-      "Seasonal demand for some functions (cold/flu)"
-    ],
-    "first_3_steps": [
-      "Source 4 starter herbs with strongest evidence: sage (throat), chamomile (digestion), valerian (sleep), ginger (nausea). Get samples from 3 pharma-grade suppliers.",
-      "Design brand identity: clinical but warm. Think Glossier meets pharmacy. Name each SKU by function, not herb (Throat Relief, Sleep Deep, Calm Stomach, Clear Head).",
-      "Create Shopify site with education pages citing Commission E research for each herb. Run $500 test on Meta ads targeting 'natural cold remedy' and 'herbal sleep aid'."
-    ]
-  },
-  {
-    "id": "idea_158",
-    "date": "2026-02-16",
-    "inspiration_product": "Recycled Hardwood Chopping Boards from Singapore Roadside Trees",
-    "inspiration_brand": "Various Singapore artisans",
-    "inspiration_country": "singapore",
-    "category": "kitchen",
-    "us_brand_concept": "Urban Timber — Cutting boards made from reclaimed American city trees, each stamped with the tree's location and story",
-    "the_twist": "Source from US urban forestry programs (storm damage, street tree removals), laser-engrave the tree's location/species on each board, tell the sustainability story",
-    "twist_type": "sustainability|us-sizing|brand-upgrade",
-    "target_customer": "Eco-conscious home cooks, urban millennials, gift-givers who want meaningful kitchen items with a story",
-    "description": "In Singapore, artisans make chopping boards from reclaimed roadside trees (rain tree, angsana) that are removed during urban development. Each board has unique tropical hardwood grain patterns and a connection to place. A US version would partner with municipal urban forestry programs to source American hardwoods (maple, oak, walnut) from street tree removals and storm damage, then craft them into premium boards with each piece stamped with its origin story.",
-    "problem_solved": "Generic cutting boards have no soul. People want kitchen items with meaning and sustainability credentials. Urban tree waste is typically chipped or burned.",
-    "us_competitive_landscape": "Thousands of generic bamboo and acacia boards on Amazon. A few Etsy artisans do reclaimed wood but no scaled brand with consistent sourcing and storytelling. Brooklyn Butcher Blocks and John Boos are established but don't emphasize urban reclaimed angle.",
-    "demand_signals": [
-      "Rising interest in urban forestry and reclaimed materials",
-      "Gift market for meaningful kitchen items",
-      "Singapore Reddit users specifically recommend these boards for their quality and story"
-    ],
-    "source_urls": [
-      "https://www.reddit.com/r/askSingapore/comments/1g24qeq/moving_into_my_bto_what_cooking_ware_household/",
-      "https://www.etsy.com/market/reclaimed_wood_chopping_board"
-    ],
-    "manufacturing_path": "Partner with 3-5 US cities' urban forestry programs for wood sourcing. Contract with small batch woodworking shop or start with hand-crafted. Laser engraving for location stamps. Each board unique, premium pricing justified by story.",
-    "estimated_cogs_per_unit": 25.00,
-    "target_retail_price": 89.00,
-    "estimated_margin_multiplier": 3.56,
-    "startup_cost_estimate": "$3K - $8K: Wood sourcing relationships, initial inventory (20-30 boards), laser engraver rental/service, basic Shopify site, professional product photos",
-    "go_to_market": "Shopify DTC with Instagram/TikTok storytelling. Each board's tree story in description. Partner with urban forestry nonprofits for credibility. Sell at farmers markets and craft fairs. Pitch to West Elm/CB2 as local artisan line.",
-    "google_trends": {
-      "avg": 0,
-      "recent": 0,
-      "trend": "no_data"
-    },
-    "scores": {
-      "demand_proof": 7,
-      "us_gap": 9,
-      "manufacturing_ease": 8,
-      "twist_strength": 9,
-      "margin_potential": 8,
-      "brandability": 10,
-      "low_capital_start": 8
-    },
-    "score_avg": 8.43,
-    "risks": [
-      "Wood sourcing consistency (seasonal, dependent on storm/removal schedules)",
-      "Each board unique makes scaling harder",
-      "Premium price point ($89) limits market size",
-      "Need relationships with multiple cities for reliable supply"
-    ],
-    "first_3_steps": [
-      "Contact 3 local urban forestry departments about wood sourcing partnerships",
-      "Source 10-15 board blanks from reclaimed wood, sand and finish prototypes",
-      "Create Instagram account, post board-making process and tree stories, test interest"
-    ]
-  }
-]
+    {
+      "id": "idea_010",
+      "date": "2026-02-15",
+      "inspiration_product": "Provenzal Dried Herb Mix",
+      "inspiration_brand": "Casa Argentina / Saborigal",
+      "inspiration_country": "argentina",
+      "category": "grocery-pantry",
+      "us_brand_concept": "BA Spice Co. - Premium Argentine Provenzal seasoning blend in sleek tins with recipe cards",
+      "the_twist": "Premium glass jars with magnetic measuring spoon, recipe booklet with 'Buenos Aires street food secrets', Instagram-worthy branding targeting home cooks and food enthusiasts",
+      "twist_type": "brand-upgrade",
+      "target_customer": "Home cooks age 28-45 who follow food blogs, watch cooking shows, want authentic international flavors without importing. Pizza makers, steak lovers, pasta enthusiasts.",
+      "description": "Provenzal is Argentina's secret weapon - a garlic-forward herb blend (parsley, oregano, garlic) used on everything from pizza to milanesas to grilled meats. Unlike Italian seasoning or herbes de Provence, it has a distinctly bold, garlicky profile that defines Buenos Aires cuisine. No mainstream US brand makes it. We'd create the first premium US version with better packaging, clear use cases, and strong brand storytelling.",
+      "problem_solved": "Home cooks want authentic international flavors but don't know what 'provenzal' is or where to buy it. Existing imports are poorly branded and only in specialty shops. We make it accessible, beautiful, and teach people how to use it.",
+      "us_competitive_landscape": "Zero mainstream brands. Only low-quality imports at Latin shops (Saborigal). Italian seasoning and herbes de Provence are different flavor profiles. Huge white space.",
+      "demand_signals": [
+        "Argentine expats constantly seek it out",
+        "Food blogs mention it as 'the secret to Argentine pizza'",
+        "No US brand has claimed this category"
+      ],
+      "source_urls": [
+        "https://casaargentina.com/products/casa-argentina-premium-provenzal-dried-x-100g",
+        "https://www.walmart.com/browse/food/seasoning-mixes-blends/provenzal/976759_976794_3029941_9677176/YnJhbmQ6UHJvdmVuemFs"
+      ],
+      "manufacturing_path": "Contract spice blender (US-based). Simple dried herbs + granulated garlic. MOQ likely 500-1000 units. Companies like Spice Dynamics or Frontier Co-op can do private label. Estimated $2-3 COGS per 4oz jar.",
+      "estimated_cogs_per_unit": 2.5,
+      "target_retail_price": 12.99,
+      "estimated_margin_multiplier": 5.2,
+      "startup_cost_estimate": "$3K-$5K (first 500 units + jars + labels + Shopify site)",
+      "go_to_market": "Shopify DTC with Instagram ads targeting food enthusiasts, recipe bloggers. Send samples to food influencers. Amazon FBA after initial traction. Farmers markets for local buzz.",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 6,
+        "us_gap": 10,
+        "manufacturing_ease": 10,
+        "twist_strength": 7,
+        "margin_potential": 9,
+        "brandability": 8,
+        "low_capital_start": 9
+      },
+      "score_avg": 8.4,
+      "risks": [
+        "Educating market on what provenzal is",
+        "Competing with homemade (recipe is simple)",
+        "Limited search volume for the term"
+      ],
+      "first_3_steps": [
+        "Source 3 spice co-packers, get quotes for 500-unit run with custom blend",
+        "Design premium jar packaging and recipe booklet with 10 signature uses",
+        "Pre-launch Instagram account with Argentine food content, build 500 followers before launch"
+      ]
+    }
+  ]
 }
