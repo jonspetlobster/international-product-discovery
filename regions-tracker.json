@@ -13,7 +13,7 @@
     "sweden": {"candidates": 41, "discoveries": 3, "ideas": 3},
     "uk": {"candidates": 44, "discoveries": 3, "ideas": 3},
     "france": {"candidates": 43, "discoveries": 3, "ideas": 3},
-    "italy": {"candidates": 38, "discoveries": 0, "ideas": 3},
+    "italy": {"candidates": 60, "discoveries": 0, "ideas": 6},
     "netherlands": {"candidates": 38, "discoveries": 3, "ideas": 3},
     "poland": {"candidates": 41, "discoveries": 3, "ideas": 3},
     "turkey": {"candidates": 48, "discoveries": 0, "ideas": 5},
@@ -32,13 +32,13 @@
     "singapore": {"candidates": 41, "discoveries": 3, "ideas": 3}
   },
   "categories_recent": [
-    "snacks-candy",
     "personal-care",
     "condiments-sauces",
     "health-wellness",
-    "kitchen"
+    "kitchen",
+    "cleaning"
   ],
-  "total_candidates": 1289,
+  "total_candidates": 1311,
   "total_discoveries": 69,
-  "total_ideas": 94
+  "total_ideas": 97
 }
