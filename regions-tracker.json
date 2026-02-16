@@ -12,7 +12,7 @@
     "germany": {"candidates": 63, "discoveries": 3, "ideas": 6},
     "sweden": {"candidates": 64, "discoveries": 3, "ideas": 7},
     "uk": {"candidates": 44, "discoveries": 3, "ideas": 3},
-    "france": {"candidates": 43, "discoveries": 3, "ideas": 3},
+    "france": {"candidates": 63, "discoveries": 3, "ideas": 7},
     "italy": {"candidates": 60, "discoveries": 0, "ideas": 6},
     "netherlands": {"candidates": 63, "discoveries": 3, "ideas": 6},
     "poland": {"candidates": 63, "discoveries": 3, "ideas": 7},
@@ -31,8 +31,8 @@
     "malaysia": {"candidates": 46, "discoveries": 3, "ideas": 3},
     "singapore": {"candidates": 59, "discoveries": 3, "ideas": 6}
   },
-  "categories_recent": ["health-wellness", "kitchen", "condiments-sauces", "personal-care", "bathroom"],
-  "total_candidates": 1666,
+  "categories_recent": ["laundry-clothing", "health-wellness", "kitchen", "condiments-sauces", "personal-care"],
+  "total_candidates": 1686,
   "total_discoveries": 69,
-  "total_ideas": 155
+  "total_ideas": 159
 }
