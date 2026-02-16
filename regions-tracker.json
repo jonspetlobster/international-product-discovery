@@ -6,7 +6,7 @@
     "china": {"candidates": 47, "discoveries": 3, "ideas": 3},
     "thailand": {"candidates": 42, "discoveries": 2, "ideas": 3},
     "vietnam": {"candidates": 58, "discoveries": 4, "ideas": 6},
-    "philippines": {"candidates": 42, "discoveries": 4, "ideas": 3},
+    "philippines": {"candidates": 65, "discoveries": 4, "ideas": 6},
     "indonesia": {"candidates": 60, "discoveries": 6, "ideas": 3},
     "india": {"candidates": 61, "discoveries": 3, "ideas": 6},
     "germany": {"candidates": 43, "discoveries": 3, "ideas": 3},
@@ -31,8 +31,8 @@
     "malaysia": {"candidates": 46, "discoveries": 3, "ideas": 3},
     "singapore": {"candidates": 59, "discoveries": 3, "ideas": 6}
   },
-  "categories_recent": ["snacks-candy", "personal-care", "pet", "health-wellness", "kitchen"],
-  "total_candidates": 1574,
+  "categories_recent": ["personal-care", "pet", "health-wellness", "kitchen", "condiments-sauces"],
+  "total_candidates": 1597,
   "total_discoveries": 69,
-  "total_ideas": 140
+  "total_ideas": 143
 }
