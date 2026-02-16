@@ -1,9 +1,4 @@
-{
-  "generated": "2026-02-16 20:25",
-  "total_ideas": 277,
-  "total_candidates_evaluated": 1330,
-  "total_rejected": 483,
-  "top10": [
+[
   {
     "id": "idea_001",
     "date": "2026-02-15",
@@ -575,4 +570,3 @@
     ]
   }
 ]
-}
