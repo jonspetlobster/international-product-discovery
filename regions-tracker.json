@@ -21,9 +21,9 @@
       "ideas": 0
     },
     "thailand": {
-      "candidates": 22,
+      "candidates": 42,
       "discoveries": 2,
-      "ideas": 0
+      "ideas": 3
     },
     "vietnam": {
       "candidates": 38,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "snacks-candy",
     "grocery-pantry",
     "kitchen",
     "cleaning",
-    "health-wellness"
+    "health-wellness",
+    "personal-care"
   ],
-  "total_candidates": 1052,
+  "total_candidates": 1072,
   "total_discoveries": 69,
-  "total_ideas": 165
+  "total_ideas": 168
 }

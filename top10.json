@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-16 10:04",
-  "total_ideas": 55,
-  "total_candidates_evaluated": 1052,
-  "total_rejected": 428,
+  "generated": "2026-02-16 10:14",
+  "total_ideas": 58,
+  "total_candidates_evaluated": 1072,
+  "total_rejected": 430,
   "top10": [
     {
       "id": "idea_001",
@@ -174,6 +174,62 @@
         "Make 5 homemade flavor prototypes, test with 20 people for flavor + naming feedback",
         "Design packaging mockup: glass jar, minimalist label, emphasize 'morning ritual' not 'kid food'",
         "Find dry-goods co-packer, get quotes for 3 flavors x 500 units, or start with local spice shop for micro-batch"
+      ]
+    },
+    {
+      "id": "idea_236",
+      "date": "2026-02-16",
+      "inspiration_product": "Poy-Sian Ya Dom Nasal Inhaler",
+      "inspiration_brand": "Poy-Sian",
+      "inspiration_country": "thailand",
+      "category": "personal-care",
+      "us_brand_concept": "ClearHead: Menthol-eucalyptus nasal inhaler positioned as a caffeine-free focus and alertness tool for desk workers, gamers, and students",
+      "the_twist": "Rebrand from 'medicinal' to 'productivity tech' - sleek aluminum design like a vape pen, marketed as energy drink alternative without the crash, focus on blocking distractions and mental clarity",
+      "twist_type": "brand-upgrade|niche-targeting",
+      "target_customer": "Knowledge workers 22-40, gamers, students cramming, anyone who needs focus without caffeine jitters. Tech workers, coders, designers.",
+      "description": "Thais use ya dom nasal inhalers constantly - not just when sick, but to stay alert, clear the mind, and block pollution/bad smells. The menthol-camphor-eucalyptus blast is addictive and effective. US has aromatherapy inhalers but they're positioned as hippie wellness products. The opportunity: position it like a nootropic or energy drink - something you reach for when you need to lock in. Make it look like a tech gadget, not medicine.",
+      "problem_solved": "Mental fog, afternoon energy crashes, need for focus without caffeine or stimulants. Alternative to coffee addiction, energy drinks, or prescription focus meds.",
+      "us_competitive_landscape": "ReadyScent, SniffElixir, MOXE, Ascents all exist but positioned as 'aromatherapy wellness' with granola branding. No one has positioned nasal inhalers as everyday productivity tools for tech workers and gamers. Market gap: premium, modern branding for a functional focus tool.",
+      "demand_signals": [
+        "Thais use ya dom constantly (cultural proof)",
+        "US aromatherapy inhaler market exists but poorly branded",
+        "Gaming/esports culture values performance optimization",
+        "Nootropics and focus supplements are $3B+ market"
+      ],
+      "source_urls": [
+        "https://nymag.com/strategist/article/best-thai-drugstore-beauty-products-on-amazon.html",
+        "https://www.amazon.com/ReadyScent-Focus-Power-Nasal-Inhaler/dp/B082GCWN73"
+      ],
+      "manufacturing_path": "Contract manufacturer for aromatherapy inhalers (existing US suppliers). Simple formulation: menthol, eucalyptus oil, camphor, peppermint oil. Standard plastic inhaler tubes or upgrade to aluminum for premium feel. MOQ likely 500-1000 units.",
+      "estimated_cogs_per_unit": 1.5,
+      "target_retail_price": 12.99,
+      "estimated_margin_multiplier": 8.7,
+      "startup_cost_estimate": "$2,000-$4,000 for first 500 units + branding + Shopify site",
+      "go_to_market": "DTC Shopify, TikTok Shop. Target gaming subreddits, productivity YouTubers, tech Twitter. Send samples to productivity influencers. Amazon FBA after proving concept. Subscription: 3-pack every 2 months.",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 7,
+        "us_gap": 9,
+        "manufacturing_ease": 9,
+        "twist_strength": 9,
+        "margin_potential": 9,
+        "brandability": 10,
+        "low_capital_start": 10
+      },
+      "score_avg": 9.0,
+      "risks": [
+        "Behavior change required (Americans don't use nasal inhalers daily)",
+        "Could be seen as drug paraphernalia if design too similar to vape pens",
+        "FDA regulation if making health claims"
+      ],
+      "first_3_steps": [
+        "Source 3 US aromatherapy inhaler manufacturers, get MOQ and sample costs",
+        "Design packaging mockups (aluminum tube, tech-inspired graphics, include 'focus mode activated' tagline)",
+        "Test messaging on r/productivity and gaming Discord servers with before/after focus surveys"
       ]
     },
     {
@@ -512,62 +568,6 @@
         "Source 4 starter herbs with strongest evidence: sage (throat), chamomile (digestion), valerian (sleep), ginger (nausea). Get samples from 3 pharma-grade suppliers.",
         "Design brand identity: clinical but warm. Think Glossier meets pharmacy. Name each SKU by function, not herb (Throat Relief, Sleep Deep, Calm Stomach, Clear Head).",
         "Create Shopify site with education pages citing Commission E research for each herb. Run $500 test on Meta ads targeting 'natural cold remedy' and 'herbal sleep aid'."
-      ]
-    },
-    {
-      "id": "idea_158",
-      "date": "2026-02-16",
-      "inspiration_product": "Recycled Hardwood Chopping Boards from Singapore Roadside Trees",
-      "inspiration_brand": "Various Singapore artisans",
-      "inspiration_country": "singapore",
-      "category": "kitchen",
-      "us_brand_concept": "Urban Timber \u2014 Cutting boards made from reclaimed American city trees, each stamped with the tree's location and story",
-      "the_twist": "Source from US urban forestry programs (storm damage, street tree removals), laser-engrave the tree's location/species on each board, tell the sustainability story",
-      "twist_type": "sustainability|us-sizing|brand-upgrade",
-      "target_customer": "Eco-conscious home cooks, urban millennials, gift-givers who want meaningful kitchen items with a story",
-      "description": "In Singapore, artisans make chopping boards from reclaimed roadside trees (rain tree, angsana) that are removed during urban development. Each board has unique tropical hardwood grain patterns and a connection to place. A US version would partner with municipal urban forestry programs to source American hardwoods (maple, oak, walnut) from street tree removals and storm damage, then craft them into premium boards with each piece stamped with its origin story.",
-      "problem_solved": "Generic cutting boards have no soul. People want kitchen items with meaning and sustainability credentials. Urban tree waste is typically chipped or burned.",
-      "us_competitive_landscape": "Thousands of generic bamboo and acacia boards on Amazon. A few Etsy artisans do reclaimed wood but no scaled brand with consistent sourcing and storytelling. Brooklyn Butcher Blocks and John Boos are established but don't emphasize urban reclaimed angle.",
-      "demand_signals": [
-        "Rising interest in urban forestry and reclaimed materials",
-        "Gift market for meaningful kitchen items",
-        "Singapore Reddit users specifically recommend these boards for their quality and story"
-      ],
-      "source_urls": [
-        "https://www.reddit.com/r/askSingapore/comments/1g24qeq/moving_into_my_bto_what_cooking_ware_household/",
-        "https://www.etsy.com/market/reclaimed_wood_chopping_board"
-      ],
-      "manufacturing_path": "Partner with 3-5 US cities' urban forestry programs for wood sourcing. Contract with small batch woodworking shop or start with hand-crafted. Laser engraving for location stamps. Each board unique, premium pricing justified by story.",
-      "estimated_cogs_per_unit": 25.0,
-      "target_retail_price": 89.0,
-      "estimated_margin_multiplier": 3.56,
-      "startup_cost_estimate": "$3K - $8K: Wood sourcing relationships, initial inventory (20-30 boards), laser engraver rental/service, basic Shopify site, professional product photos",
-      "go_to_market": "Shopify DTC with Instagram/TikTok storytelling. Each board's tree story in description. Partner with urban forestry nonprofits for credibility. Sell at farmers markets and craft fairs. Pitch to West Elm/CB2 as local artisan line.",
-      "google_trends": {
-        "avg": 0,
-        "recent": 0,
-        "trend": "no_data"
-      },
-      "scores": {
-        "demand_proof": 7,
-        "us_gap": 9,
-        "manufacturing_ease": 8,
-        "twist_strength": 9,
-        "margin_potential": 8,
-        "brandability": 10,
-        "low_capital_start": 8
-      },
-      "score_avg": 8.43,
-      "risks": [
-        "Wood sourcing consistency (seasonal, dependent on storm/removal schedules)",
-        "Each board unique makes scaling harder",
-        "Premium price point ($89) limits market size",
-        "Need relationships with multiple cities for reliable supply"
-      ],
-      "first_3_steps": [
-        "Contact 3 local urban forestry departments about wood sourcing partnerships",
-        "Source 10-15 board blanks from reclaimed wood, sand and finish prototypes",
-        "Create Instagram account, post board-making process and tree stories, test interest"
       ]
     }
   ]
