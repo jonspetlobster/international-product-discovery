@@ -51,9 +51,9 @@
       "ideas": 3
     },
     "sweden": {
-      "candidates": 41,
+      "candidates": 64,
       "discoveries": 3,
-      "ideas": 3
+      "ideas": 7
     },
     "uk": {
       "candidates": 44,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
+    "health-wellness",
     "kitchen",
     "cleaning",
     "snacks-candy",
-    "personal-care",
-    "bathroom"
+    "personal-care"
   ],
-  "total_candidates": 1456,
+  "total_candidates": 1479,
   "total_discoveries": 69,
-  "total_ideas": 120
+  "total_ideas": 124
 }
