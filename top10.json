@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-16 10:44",
-  "total_ideas": 67,
-  "total_candidates_evaluated": 1131,
-  "total_rejected": 444,
+  "generated": "2026-02-16 10:57",
+  "total_ideas": 70,
+  "total_candidates_evaluated": 1155,
+  "total_rejected": 446,
   "top10": [
     {
       "id": "idea_001",
@@ -346,6 +346,62 @@
       ]
     },
     {
+      "id": "idea_178",
+      "date": "2026-02-16",
+      "inspiration_product": "Nagatanien Ochazuke Nori instant tea-over-rice packets",
+      "inspiration_brand": "Nagatanien",
+      "inspiration_country": "japan",
+      "category": "grocery-pantry",
+      "us_brand_concept": "RiseUp Savory - Instant savory breakfast rice bowls that are healthier and more filling than oatmeal",
+      "the_twist": "Position as breakfast/meal replacement rather than just leftover rice hack. Cleaner packaging, add protein options (fried egg mix-in, tofu bits), market as oatmeal alternative for people who want savory breakfasts",
+      "twist_type": "niche-targeting|format-change",
+      "target_customer": "Health-conscious breakfast skippers, busy professionals who hate sweet breakfast, keto/low-sugar dieters, van lifers needing shelf-stable meals",
+      "description": "Ochazuke is a Japanese comfort food: hot tea or dashi poured over rice with savory toppings like nori, sesame, rice crackers. The instant version (50 cents per serving) turns leftover rice into a meal in 2 minutes. Americans don't have a savory instant breakfast category - it's all sweet oatmeal or protein shakes. This fills that gap.",
+      "problem_solved": "Breakfast haters who are sick of sweet options, need something quick/savory/warm, and want more substance than a protein shake",
+      "us_competitive_landscape": "Instant oatmeal is dominated by Quaker (sweet). Instant ramen exists but seen as junk food. No instant savory rice bowl category. Frozen breakfast bowls exist but require freezer/microwave. This is shelf-stable, just needs hot water.",
+      "demand_signals": [
+        "Ochazuke packets are cult favorites among expats",
+        "Kitchn featured it as '$2 magic grocery'",
+        "Keto/carnivore diet people constantly ask for savory breakfast ideas",
+        "Van life community obsessed with shelf-stable meals"
+      ],
+      "source_urls": [
+        "https://www.thekitchn.com/nagatanien-ochazuke-nori-review-23656581",
+        "https://www.reddit.com/r/japanlife/comments/kvmj81/what_are_your_japanese_pantry_staples_and_goto/"
+      ],
+      "manufacturing_path": "Co-pack with freeze-dried ingredient supplier. Mix dried dashi/tea powder, dried vegetables, sesame, nori, rice crackers. No refrigeration needed. Similar to instant soup packets. Start with 3-5 flavors. MOQ likely 1000-2000 units per flavor.",
+      "estimated_cogs_per_unit": 0.75,
+      "target_retail_price": 3.99,
+      "estimated_margin_multiplier": 5.3,
+      "startup_cost_estimate": "$3K-$8K for first production run (2000 units across 3 flavors) + branding/design",
+      "go_to_market": "DTC Shopify with subscription model. TikTok/Instagram content: 'I hate sweet breakfast' angle. Amazon FBA. Target wellness stores like Whole Foods, Sprouts. Partner with meal prep/keto influencers.",
+      "google_trends": {
+        "avg": 12,
+        "recent": 15,
+        "trend": "rising"
+      },
+      "scores": {
+        "demand_proof": 7,
+        "us_gap": 10,
+        "manufacturing_ease": 9,
+        "twist_strength": 9,
+        "margin_potential": 9,
+        "brandability": 8,
+        "low_capital_start": 9
+      },
+      "score_avg": 8.7,
+      "risks": [
+        "Americans unfamiliar with tea-over-rice concept - need education",
+        "Requires cooked rice (not fully instant)",
+        "Small addressable market if savory breakfast doesn't resonate"
+      ],
+      "first_3_steps": [
+        "Source freeze-dried ingredient co-packer (search 'instant soup mix private label')",
+        "Develop 3 starter flavors: Classic Nori, Spicy Miso, Sesame Ginger",
+        "Create TikTok content: '3 people who hate sweet breakfast try this Japanese hack'"
+      ]
+    },
+    {
       "id": "idea_163",
       "date": "2026-02-16",
       "inspiration_product": "Guava Leaf Antiseptic Wash",
@@ -511,63 +567,6 @@
         "Source 3-5 domestic co-packers specializing in dry blend sachets, get quotes for 1K/5K/10K MOQs",
         "Develop brand identity and packaging - hire designer for Instagram-worthy sachet packets",
         "Test messaging with baking influencers - send free samples, gauge response before production"
-      ]
-    },
-    {
-      "id": "idea_016",
-      "date": "2026-02-15",
-      "inspiration_product": "German Medicinal Sage Tea (Salbei)",
-      "inspiration_brand": "Various German Apotheke brands",
-      "inspiration_country": "germany",
-      "category": "health-wellness",
-      "us_brand_concept": "Remedy Tea Co. \u2014 Single-herb functional tea sachets for specific ailments with pharma-grade sourcing",
-      "the_twist": "Replace multi-herb 'wellness' blends with single-ingredient teas backed by clinical research, each targeting one specific condition (sore throat, digestion, sleep, inflammation). German apotheken approach: precise dosing, medical-grade herbs, clear function.",
-      "twist_type": "ingredient-swap",
-      "target_customer": "Health-conscious millennials who want natural remedies but distrust 'woo-woo' wellness products. People with recurring minor ailments (seasonal allergies, stress insomnia, digestive issues).",
-      "description": "German pediatricians prescribe pharmaceutical-grade sage tea instead of antibiotics for sore throats. The US has endless multi-herb blends (10+ ingredients, vague 'wellness' claims), but nothing that says 'this herb, this condition, this dose.' Remedy Tea takes the German Commission E approach: evidence-based, single-ingredient, functional. Each box targets one ailment with one herb known to address it.",
-      "problem_solved": "Americans want natural remedies but most herbal teas are either generic (chamomile) or kitchen-sink blends with unclear efficacy. Remedy Tea offers credibility through simplicity and research citations.",
-      "us_competitive_landscape": "Traditional Medicinals dominates functional tea but uses complex blends. Pukka, Yogi Tea same approach. No one is doing single-ingredient, pharma-grade, condition-specific sachets at drugstore prices.",
-      "demand_signals": [
-        "German herbal medicine is a $3B+ market with government regulation",
-        "Commission E research shows efficacy for specific herbs",
-        "Growing distrust of supplements drives interest in whole-plant remedies",
-        "Reddit threads on 'what actually works' cite European herbal traditions"
-      ],
-      "source_urls": [
-        "https://kulturshift.substack.com/p/just-give-him-some-tee-my-first-baffling",
-        "https://www.healthyhildegard.com/traditional-german-herbal-medicine/"
-      ],
-      "manufacturing_path": "US co-packer specializing in tea sachets (existing infrastructure for Celestial Seasonings-style products). Source pharmaceutical-grade herbs from certified organic US farms or import from German suppliers. Sachets, boxes, fulfillment can all be outsourced.",
-      "estimated_cogs_per_unit": 0.35,
-      "target_retail_price": 12.99,
-      "estimated_margin_multiplier": 4.5,
-      "startup_cost_estimate": "$3K - $8K for first run (500-1000 units per SKU, 4 SKUs to start), branding, Shopify site",
-      "go_to_market": "DTC Shopify with targeted ads (search: 'natural sore throat remedy', 'what tea helps with...'). Amazon FBA for scale. Pitch to Whole Foods/Sprouts as 'European functional tea' with education cards. Subscription for chronic users (allergy season, stress management).",
-      "google_trends": {
-        "avg": 45,
-        "recent": 52,
-        "trend": "stable"
-      },
-      "scores": {
-        "demand_proof": 7,
-        "us_gap": 9,
-        "manufacturing_ease": 9,
-        "twist_strength": 8,
-        "margin_potential": 8,
-        "brandability": 9,
-        "low_capital_start": 9
-      },
-      "score_avg": 8.43,
-      "risks": [
-        "FDA rules on health claims (can cite traditional use but not 'treats X')",
-        "Educating consumers on single-herb concept vs familiar blends",
-        "Pharmaceutical-grade sourcing may increase COGS",
-        "Seasonal demand for some functions (cold/flu)"
-      ],
-      "first_3_steps": [
-        "Source 4 starter herbs with strongest evidence: sage (throat), chamomile (digestion), valerian (sleep), ginger (nausea). Get samples from 3 pharma-grade suppliers.",
-        "Design brand identity: clinical but warm. Think Glossier meets pharmacy. Name each SKU by function, not herb (Throat Relief, Sleep Deep, Calm Stomach, Clear Head).",
-        "Create Shopify site with education pages citing Commission E research for each herb. Run $500 test on Meta ads targeting 'natural cold remedy' and 'herbal sleep aid'."
       ]
     }
   ]

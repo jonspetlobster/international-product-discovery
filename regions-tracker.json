@@ -1,9 +1,9 @@
 {
   "regions": {
     "japan": {
-      "candidates": 26,
+      "candidates": 50,
       "discoveries": 1,
-      "ideas": 0
+      "ideas": 3
     },
     "south_korea": {
       "candidates": 44,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "kitchen",
     "cleaning",
     "health-wellness",
     "personal-care",
-    "stationery"
+    "stationery",
+    "grocery-pantry"
   ],
-  "total_candidates": 1131,
+  "total_candidates": 1155,
   "total_discoveries": 69,
-  "total_ideas": 177
+  "total_ideas": 180
 }
