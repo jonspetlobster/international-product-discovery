@@ -3,7 +3,7 @@
     "japan": {"candidates": 50, "discoveries": 1, "ideas": 3},
     "south_korea": {"candidates": 44, "discoveries": 2, "ideas": 3},
     "taiwan": {"candidates": 38, "discoveries": 0, "ideas": 3},
-    "china": {"candidates": 32, "discoveries": 3, "ideas": 0},
+    "china": {"candidates": 47, "discoveries": 3, "ideas": 3},
     "thailand": {"candidates": 42, "discoveries": 2, "ideas": 3},
     "vietnam": {"candidates": 38, "discoveries": 4, "ideas": 3},
     "philippines": {"candidates": 42, "discoveries": 4, "ideas": 3},
@@ -32,13 +32,13 @@
     "singapore": {"candidates": 41, "discoveries": 3, "ideas": 3}
   },
   "categories_recent": [
-    "stationery",
     "grocery-pantry",
     "kitchen",
     "cleaning",
-    "snacks-candy"
+    "snacks-candy",
+    "personal-care"
   ],
-  "total_candidates": 1214,
+  "total_candidates": 1229,
   "total_discoveries": 69,
-  "total_ideas": 83
+  "total_ideas": 86
 }
