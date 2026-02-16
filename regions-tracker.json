@@ -6,9 +6,9 @@
       "ideas": 0
     },
     "south_korea": {
-      "candidates": 24,
+      "candidates": 44,
       "discoveries": 2,
-      "ideas": 0
+      "ideas": 3
     },
     "taiwan": {
       "candidates": 38,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "grocery-pantry",
     "kitchen",
     "cleaning",
     "health-wellness",
-    "personal-care"
+    "personal-care",
+    "stationery"
   ],
-  "total_candidates": 1111,
+  "total_candidates": 1131,
   "total_discoveries": 69,
-  "total_ideas": 174
+  "total_ideas": 177
 }
