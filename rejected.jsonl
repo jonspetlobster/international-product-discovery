@@ -526,3 +526,7 @@
 {"product_name":"Metal Jerry Can Floor Scrubbers","country":"kenya","reason":"cultural_only","date":"2026-02-16","notes":"Product only makes sense in context of repurposing/scarcity - US consumers won't understand why you'd use cut metal for scrubbing, industrial/janitor market is B2B"}
 {"product_name":"Moringa Seed Water Purification Powder","country":"kenya","reason":"bad_margins","date":"2026-02-16","notes":"Aquarium hobbyist niche too small for viable consumer brand, requires heavy education, competing with established aquarium chemical brands"}
 {"product_name":"Mistine 3D Eyebrow Tattoo","country":"thailand","reason":"us_brand_exists","date":"2026-02-16","notes":"Eyebrow tattoo/pen category is heavily saturated on Amazon - hundreds of competing brands"}
+{"product_name": "German Shower Squeegee", "country": "germany", "reason": "us_brand_exists", "date": "2026-02-16", "notes": "Amazon has 20K+/month sales, crowded market with established brands"}
+{"product_name": "Silicone Toilet Brush", "country": "germany", "reason": "us_brand_exists", "date": "2026-02-16", "notes": "Best Seller on Amazon, 20K+/month, market saturated"}
+{"product_name": "Natural Limescale Remover", "country": "germany", "reason": "us_brand_exists", "date": "2026-02-16", "notes": "Best Seller status, 20K+/month, established category"}
+{"product_name": "Kneipp Herbal Bath Salts", "country": "germany", "reason": "strong_import_presence", "date": "2026-02-16", "notes": "Original German brand Kneipp already sells 800+/month on Amazon US"}
