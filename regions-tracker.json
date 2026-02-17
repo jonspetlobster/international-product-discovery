@@ -116,9 +116,9 @@
       "ideas": 6
     },
     "south_africa": {
-      "candidates": 52,
+      "candidates": 72,
       "discoveries": 2,
-      "ideas": 3
+      "ideas": 6
     },
     "australia": {
       "candidates": 66,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "cleaning",
     "health-wellness",
     "kitchen",
     "condiments-sauces",
-    "personal-care"
+    "personal-care",
+    "snacks-candy"
   ],
-  "total_candidates": 1853,
+  "total_candidates": 1873,
   "total_discoveries": 69,
-  "total_ideas": 177
+  "total_ideas": 180
 }
