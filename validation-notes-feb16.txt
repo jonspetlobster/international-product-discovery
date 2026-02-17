@@ -1,0 +1,117 @@
+VALIDATION RUN - Feb 16, 2026 5:10 PM
+Region: Colombia | Category: Personal Care
+Search APIs: EXHAUSTED (Brave 402 error)
+Method: Market knowledge + manufacturing feasibility analysis
+
+=== CANDIDATE 1: Colombian Coffee Body Scrub ===
+US Market Check:
+- Frank Body (Australian brand) dominates coffee scrub space on Amazon
+- Most competitors: generic/cheap imports or expensive spa brands ($30-40)
+- Gap: Mid-tier ($18-25) subscription coffee scrub with traceability
+- NO well-branded Colombian coffee scrub despite coffee origin story advantage
+
+Manufacturing:
+- Contract manufacturers: Abundant (private label body care is easy)
+- MOQ: 500-1000 units typical for scrubs
+- Process: Simple mixing (coffee grounds + oil + sugar + preservatives)
+- Cost: $2-3 COGS for 8oz jar
+
+Twist: Subscription model + single-origin coffee traceability + eco-packaging
+
+Margin Check:
+- COGS: $2.50
+- Retail: $22
+- Markup: 8.8x ✓✓✓
+
+APPROVED FOR SCORING
+
+=== CANDIDATE 2: Panela Sugar Face Polish ===
+US Market Check:
+- Sugar scrubs exist but mostly white/brown sugar
+- Panela (unrefined cane sugar) = unique ingredient angle
+- Regenerative agriculture story not exploited in face care
+- Gap: Clean beauty face polish with sustainability story
+
+Manufacturing:
+- Same as body scrub - very simple
+- Panela can be sourced from Colombia or fair trade suppliers
+- MOQ: 500 units
+- Cost: $3-4 COGS for 2oz jar (smaller, premium)
+
+Twist: Regenerative agriculture + plastic-free packaging + clean label
+
+Margin Check:
+- COGS: $3.50
+- Retail: $24
+- Markup: 6.9x ✓✓
+
+APPROVED FOR SCORING
+
+=== CANDIDATE 3: Moringa Leaf Powder Cleanser ===
+US Market Check:
+- Tatcha rice powder cleanser exists ($68!) but uses rice
+- Moringa powder cleansers rare in US market
+- Waterless/travel beauty is trending (TSA-friendly)
+- Gap: Affordable moringa powder cleanser ($20-30 range)
+
+Manufacturing:
+- Powder formulation slightly more complex (need right foam activators)
+- Contract manufacturers exist (powder cosmetics common)
+- MOQ: 1000 units for powder fill
+- Cost: $4-5 COGS for 2oz powder jar
+
+Twist: Zero-waste + waterless beauty + travel-sized options + moringa superfood angle
+
+Margin Check:
+- COGS: $4.50
+- Retail: $26
+- Markup: 5.8x ✓✓
+
+APPROVED FOR SCORING
+
+=== CANDIDATE 4: Natural Deodorant for High Humidity ===
+US Market Check:
+- Natural deodorant market is CROWDED (Native, Schmidt's, etc.)
+- BUT: Most fail in high humidity (common complaint)
+- Specific positioning: "for humid climates" is underexploited
+- Gap: Natural deo specifically formulated and marketed for humidity resistance
+
+Manufacturing:
+- Natural deodorant formulation is well-established
+- Many contract manufacturers (cream or stick)
+- MOQ: 500-1000 units
+- Cost: $2-3 COGS
+
+Twist: Humidity-specific formula + tropical scent profile + cream texture (better for humidity than stick)
+
+Margin Check:
+- COGS: $2.50
+- Retail: $14
+- Markup: 5.6x ✓
+
+CONCERN: Crowded market, needs VERY strong differentiation
+APPROVED WITH CAUTION
+
+=== CANDIDATE 5: Guayaba Vitamin C Serum ===
+US Market Check:
+- Vitamin C serums everywhere (The Ordinary, SkinCeuticals, etc.)
+- Most use synthetic ascorbic acid or its derivatives
+- Fruit-based vitamin C (kakadu plum, camu camu) exists but rare
+- Guava vitamin C is basically unexploited in US
+- Gap: Natural fruit-based vitamin C with guava (novel ingredient)
+
+Manufacturing:
+- Vitamin C serums are TRICKY (stability issues)
+- Need good formulator/contract manufacturer with vitamin C experience
+- MOQ: 1000-2000 units (serums more complex)
+- Cost: $5-8 COGS for 1oz bottle (formulation + stability testing)
+
+Twist: Fruit-based vitamin C alternative + guava superfruit story + Instagram-worthy pink color
+
+Margin Check:
+- COGS: $6.50
+- Retail: $38
+- Markup: 5.8x ✓
+
+CONCERN: Stability challenges, higher startup cost for formulation
+APPROVED WITH CAUTION
