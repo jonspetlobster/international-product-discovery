@@ -16,9 +16,9 @@
       "ideas": 6
     },
     "china": {
-      "candidates": 47,
+      "candidates": 67,
       "discoveries": 3,
-      "ideas": 3
+      "ideas": 6
     },
     "thailand": {
       "candidates": 59,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "condiments-sauces",
     "personal-care",
     "snacks-candy",
     "cleaning",
-    "health-wellness"
+    "health-wellness",
+    "kitchen"
   ],
-  "total_candidates": 1747,
+  "total_candidates": 1767,
   "total_discoveries": 69,
-  "total_ideas": 158
+  "total_ideas": 161
 }
