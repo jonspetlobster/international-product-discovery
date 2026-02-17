@@ -1,9 +1,9 @@
 {
   "regions": {
     "japan": {
-      "candidates": 50,
+      "candidates": 75,
       "discoveries": 1,
-      "ideas": 3
+      "ideas": 6
     },
     "south_korea": {
       "candidates": 64,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "condiments-sauces",
     "personal-care",
     "snacks-candy",
     "cleaning",
-    "health-wellness"
+    "health-wellness",
+    "kitchen"
   ],
-  "total_candidates": 1787,
+  "total_candidates": 1812,
   "total_discoveries": 69,
-  "total_ideas": 164
+  "total_ideas": 167
 }
