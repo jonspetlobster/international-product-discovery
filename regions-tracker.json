@@ -81,9 +81,9 @@
       "ideas": 7
     },
     "turkey": {
-      "candidates": 48,
+      "candidates": 68,
       "discoveries": 0,
-      "ideas": 5
+      "ideas": 8
     },
     "mexico": {
       "candidates": 61,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
+    "condiments-sauces",
     "personal-care",
     "snacks-candy",
     "cleaning",
-    "health-wellness",
-    "kitchen"
+    "health-wellness"
   ],
-  "total_candidates": 1767,
+  "total_candidates": 1787,
   "total_discoveries": 69,
-  "total_ideas": 161
+  "total_ideas": 164
 }
