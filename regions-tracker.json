@@ -141,9 +141,9 @@
       "ideas": 5
     },
     "malaysia": {
-      "candidates": 46,
+      "candidates": 66,
       "discoveries": 3,
-      "ideas": 3
+      "ideas": 6
     },
     "singapore": {
       "candidates": 59,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "kitchen",
     "condiments-sauces",
     "personal-care",
     "snacks-candy",
-    "cleaning"
+    "cleaning",
+    "health-wellness"
   ],
-  "total_candidates": 1727,
+  "total_candidates": 1747,
   "total_discoveries": 69,
-  "total_ideas": 155
+  "total_ideas": 158
 }
