@@ -66,9 +66,9 @@
       "ideas": 7
     },
     "italy": {
-      "candidates": 60,
+      "candidates": 80,
       "discoveries": 0,
-      "ideas": 6
+      "ideas": 9
     },
     "netherlands": {
       "candidates": 63,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "laundry-clothing",
     "health-wellness",
     "grocery-pantry",
     "personal-care",
-    "snacks-candy"
+    "snacks-candy",
+    "kitchen"
   ],
-  "total_candidates": 2082,
+  "total_candidates": 2102,
   "total_discoveries": 69,
-  "total_ideas": 214
+  "total_ideas": 217
 }
