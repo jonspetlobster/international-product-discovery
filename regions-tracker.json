@@ -71,9 +71,9 @@
       "ideas": 9
     },
     "netherlands": {
-      "candidates": 63,
+      "candidates": 83,
       "discoveries": 3,
-      "ideas": 6
+      "ideas": 10
     },
     "poland": {
       "candidates": 63,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "laundry-clothing",
     "snacks-candy",
     "kitchen",
     "cleaning",
-    "health-wellness"
+    "health-wellness",
+    "stationery"
   ],
-  "total_candidates": 2223,
+  "total_candidates": 2243,
   "total_discoveries": 69,
-  "total_ideas": 239
+  "total_ideas": 243
 }
