@@ -576,3 +576,23 @@
 {"product_name": "Limon y Miel Lip Balm", "country": "colombia", "reason": "crowded_market", "date": "2026-02-16", "notes": "Natural lip balm ultra-saturated, honey-lemon combination common"}
 {"product_name": "Dead Sea Magnesium Bath Flakes", "country": "israel", "reason": "us_brand_exists", "date": "2026-02-20", "notes": "Market saturated with multiple brands selling 10K-20K+ units/month on Amazon. No differentiation opportunity."}
 {"product_name": "Dead Sea Salt Inhaler", "country": "israel", "reason": "us_brand_exists", "date": "2026-02-20", "notes": "Generic brands exist, modest demand (100+/month). Would need strong brand differentiation and subscription model to compete."}
+{"product_name":"Harissa Paste (Traditional)","country":"morocco","reason":"strong_import_presence","date":"2026-02-20","notes":"Multiple brands on Amazon (Mina, DEA, Les Moulins Mahjoub) with good reviews and traction"}
+{"product_name":"Preserved Lemons","country":"morocco","reason":"marginal","date":"2026-02-20","notes":"Several artisanal brands exist (Casablanca Market, Mina) — would need very strong differentiation"}
+{"product_name":"Culinary Argan Oil","country":"morocco","reason":"strong_import_presence","date":"2026-02-20","notes":"Multiple Moroccan brands on Amazon, price competition is tough"}
+{"product_name":"Medjool Date Paste","country":"morocco","reason":"us_brand_exists","date":"2026-02-20","notes":"Joolies, Date Lady, and other US brands already dominate this category"}
+{"product_name":"Moroccan Orange Blossom Water","country":"morocco","reason":"strong_import_presence","date":"2026-02-20","notes":"Cortas, MyMoune, Nielsen-Massey all sell well on Amazon"}
+{"product_name":"Moroccan Rose Water","country":"morocco","reason":"strong_import_presence","date":"2026-02-20","notes":"Same as orange blossom — saturated with Middle Eastern imports"}
+{"product_name":"Beldi Olives","country":"morocco","reason":"marginal","date":"2026-02-20","notes":"Gourmet olive market is crowded, would need exceptional branding"}
+{"product_name":"Moroccan Spiced Honey","country":"morocco","reason":"marginal","date":"2026-02-20","notes":"Specialty honey market exists but very competitive, high shipping costs"}
+{"product_name":"Msemen Flatbread Mix","country":"morocco","reason":"cultural_only","date":"2026-02-20","notes":"Too niche — US consumers unfamiliar with the bread, hard to create demand from zero"}
+{"product_name":"B'ssara Soup Mix","country":"morocco","reason":"cultural_only","date":"2026-02-20","notes":"Fava bean breakfast soup is too culturally specific for mass US market"}
+{"product_name":"Moroccan Mint Tea Blend","country":"morocco","reason":"marginal","date":"2026-02-20","notes":"Numi, Stash, and many brands already sell Moroccan mint tea"}
+{"product_name":"Khlea Seasoning Blend","country":"morocco","reason":"too_complex","date":"2026-02-20","notes":"Preserved meat seasoning is very niche, regulatory complexity for meat products"}
+{"product_name":"Moroccan Fleur de Sel with Spices","country":"morocco","reason":"marginal","date":"2026-02-20","notes":"Flavored salt market is crowded (Maldon, Jacobsen, etc.)"}
+{"product_name":"Mechoui Spice Rub","country":"morocco","reason":"marginal","date":"2026-02-20","notes":"BBQ rub market is saturated, Moroccan angle not strong enough differentiator"}
+{"product_name":"Tangia Seasoning Blend","country":"morocco","reason":"cultural_only","date":"2026-02-20","notes":"Tangia is unknown in US, hard to create category demand"}
+{"product_name":"Sfenj Donut Mix","country":"morocco","reason":"cultural_only","date":"2026-02-20","notes":"Requires frying skill, US consumers unfamiliar with Moroccan donuts"}
+{"product_name":"Moroccan Black Soap","country":"morocco","reason":"wrong_category","date":"2026-02-20","notes":"This is actually a bath/spa product, not grocery-pantry"}
+{"product_name":"Hand-Rolled Couscous","country":"morocco","reason":"marginal","date":"2026-02-20","notes":"Bob's Red Mill, Roland, and imports exist — hard to differentiate on 'hand-rolled'"}
+{"product_name":"Moroccan Spiced Coffee","country":"morocco","reason":"marginal","date":"2026-02-20","notes":"Specialty coffee market very competitive, spiced coffee is niche within niche"}
+{"product_name":"Taliouine Saffron","country":"morocco","reason":"high_capital","date":"2026-02-20","notes":"Saffron is extremely expensive to source, huge capital requirement, hard to compete with established importers"}
