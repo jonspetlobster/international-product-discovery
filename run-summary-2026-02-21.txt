@@ -1,0 +1,48 @@
+INTERNATIONAL BRAND IDEAS RUN - 2026-02-21 00:22 PST
+
+REGION: Vietnam (58 prior candidates - lowest count)
+CATEGORY: baby-kids (not in recent 5: snacks-candy, cleaning, laundry-clothing, health-wellness, grocery-pantry)
+
+PHASE 1 - CANDIDATE GENERATION:
+- Brave Search API: EXHAUSTED (402 errors on all 5 attempts)
+- Fallback: Knowledge-based generation + web_fetch validation
+- Generated: 20 Vietnamese baby/kids product candidates
+
+PHASE 2 - VALIDATION RESULTS:
+All 20 candidates REJECTED due to US market saturation:
+
+1. Baby hammock/cradle (võng) - Multiple US brands already selling
+2. Herbal bath sachets - California Baby, Aveeno, etc. dominate
+3. Cao Sao Vang (Star Balm) - Already imported to Amazon US
+4. Baby cooling powder (phấn rôm) - Johnson's, Burt's Bees saturate market
+5. Eucalyptus massage oil - Multiple brands available
+6. Mosquito nets - Commodity product, widely available
+7. Rice crackers for teething - Baby Mum-Mum and others dominate
+8. Coconut baby oil - Dozens of brands
+9. Traditional baby hats - Generic import market
+10. Rice cereals - Gerber, Happy Baby, etc.
+11. Bamboo tableware - Saturated eco-baby market
+12. Traditional cradles - Modern alternatives dominate
+13. Baby oil with herbs - Many herbal baby oil brands exist
+14. Vietnamese picture books - Too cultural/niche for mass market
+15. Safety scissors - Commodity
+16. Nursing herbal tea - Mother's Milk Tea, etc. established
+17. Wet wipes (Bobby, Mamamy brands) - Huggies/Pampers dominate, no gap for rebranding
+18. Play mats (chiếu) - Foam/fabric play mats saturate market
+19. Teething products - Highly regulated + saturated
+20. Vietnamese baby clothing (áo dài) - Cultural, not mass market
+
+KEY INSIGHT: Vietnamese baby/kids products face the same challenge as many other categories - either:
+a) Already imported to US via Amazon sellers
+b) Commoditized products with strong US/global brand dominance
+c) Too cultural/specific to translate to mass US market
+
+SEARCH BUDGET STATUS: 224/950 used (Brave API actually exhausted despite tracker showing availability)
+
+FINAL RESULTS:
+- Candidates added: 20
+- Ideas validated: 0
+- Rejected: 20
+- Reason: 100% market saturation - no viable brand opportunities found
+
+RECOMMENDATION: Vietnam baby-kids category is not promising for brand opportunities. Consider different category or different region.

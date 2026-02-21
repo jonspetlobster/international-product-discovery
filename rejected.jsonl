@@ -596,3 +596,23 @@
 {"product_name":"Hand-Rolled Couscous","country":"morocco","reason":"marginal","date":"2026-02-20","notes":"Bob's Red Mill, Roland, and imports exist — hard to differentiate on 'hand-rolled'"}
 {"product_name":"Moroccan Spiced Coffee","country":"morocco","reason":"marginal","date":"2026-02-20","notes":"Specialty coffee market very competitive, spiced coffee is niche within niche"}
 {"product_name":"Taliouine Saffron","country":"morocco","reason":"high_capital","date":"2026-02-20","notes":"Saffron is extremely expensive to source, huge capital requirement, hard to compete with established importers"}
+{"product_name": "Baby Hammock Cradle (Võng)", "country": "vietnam", "reason": "us_brand_exists", "date": "2026-02-21", "notes": "Multiple US brands already selling baby hammocks - Snuggle Me, La Siesta, etc. No brand gap."}
+{"product_name": "Herbal Baby Bath Sachets", "country": "vietnam", "reason": "us_brand_exists", "date": "2026-02-21", "notes": "California Baby, Aveeno Baby, Earth Mama dominate herbal bath market"}
+{"product_name": "Cao Sao Vàng (Vietnamese Star Balm)", "country": "vietnam", "reason": "strong_import_presence", "date": "2026-02-21", "notes": "Already on Amazon US from multiple sellers"}
+{"product_name": "Baby Cooling Powder (Phấn Rôm)", "country": "vietnam", "reason": "us_brand_exists", "date": "2026-02-21", "notes": "Johnson's, Burt's Bees, Caldesene dominate. No gap for talc-free tropical formula."}
+{"product_name": "Eucalyptus Baby Massage Oil (Dầu Tràm)", "country": "vietnam", "reason": "us_brand_exists", "date": "2026-02-21", "notes": "Multiple eucalyptus baby oil brands on Amazon"}
+{"product_name": "Baby Mosquito Nets", "country": "vietnam", "reason": "us_brand_exists", "date": "2026-02-21", "notes": "Commodity product with dozens of sellers"}
+{"product_name": "Rice Teething Crackers (Bánh Gạo)", "country": "vietnam", "reason": "us_brand_exists", "date": "2026-02-21", "notes": "Baby Mum-Mum, Happy Baby Puffs dominate"}
+{"product_name": "Virgin Coconut Baby Oil", "country": "vietnam", "reason": "us_brand_exists", "date": "2026-02-21", "notes": "Dozens of coconut baby oil brands available"}
+{"product_name": "Traditional Baby Hats (Nón)", "country": "vietnam", "reason": "us_brand_exists", "date": "2026-02-21", "notes": "Generic import market, no brand opportunity"}
+{"product_name": "Baby Rice Cereal (Bột Ăn Dặm)", "country": "vietnam", "reason": "us_brand_exists", "date": "2026-02-21", "notes": "Gerber, Happy Baby, Earth's Best dominate"}
+{"product_name": "Bamboo Baby Tableware", "country": "vietnam", "reason": "us_brand_exists", "date": "2026-02-21", "notes": "Saturated eco-baby market with many brands"}
+{"product_name": "Traditional Baby Cradle (Nôi)", "country": "vietnam", "reason": "us_brand_exists", "date": "2026-02-21", "notes": "Modern bassinets/cradles dominate, traditional not differentiated"}
+{"product_name": "Herbal Baby Massage Oil", "country": "vietnam", "reason": "us_brand_exists", "date": "2026-02-21", "notes": "Many herbal baby oil brands exist"}
+{"product_name": "Vietnamese Baby Picture Books", "country": "vietnam", "reason": "cultural_only", "date": "2026-02-21", "notes": "Too cultural/language-specific for mass US market"}
+{"product_name": "Baby Safety Scissors", "country": "vietnam", "reason": "us_brand_exists", "date": "2026-02-21", "notes": "Commodity product"}
+{"product_name": "Nursing Herbal Tea", "country": "vietnam", "reason": "us_brand_exists", "date": "2026-02-21", "notes": "Traditional Medicinals Mother's Milk, Earth Mama established"}
+{"product_name": "Baby Wet Wipes (Bobby/Mamamy)", "country": "vietnam", "reason": "us_brand_exists", "date": "2026-02-21", "notes": "Huggies, Pampers, WaterWipes dominate - no gap"}
+{"product_name": "Woven Rush Play Mat (Chiếu)", "country": "vietnam", "reason": "us_brand_exists", "date": "2026-02-21", "notes": "Foam/fabric play mats dominate market"}
+{"product_name": "Herbal Teething Gel/Biscuits", "country": "vietnam", "reason": "regulated", "date": "2026-02-21", "notes": "Highly regulated category, FDA barriers"}
+{"product_name": "Baby Áo Dài (Traditional Clothing)", "country": "vietnam", "reason": "cultural_only", "date": "2026-02-21", "notes": "Cultural niche, not mass market opportunity"}
