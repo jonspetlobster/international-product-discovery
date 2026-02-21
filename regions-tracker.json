@@ -126,14 +126,14 @@
       "ideas": 6
     },
     "new_zealand": {
-      "candidates": 57,
+      "candidates": 81,
       "discoveries": 2,
-      "ideas": 9
+      "ideas": 14
     },
     "israel": {
-      "candidates": 58,
+      "candidates": 78,
       "discoveries": 0,
-      "ideas": 6
+      "ideas": 9
     },
     "egypt": {
       "candidates": 74,
@@ -156,9 +156,9 @@
     "snacks-candy",
     "cleaning",
     "laundry-clothing",
-    "laundry-clothing"
+    "health-wellness"
   ],
-  "total_candidates": 1935,
+  "total_candidates": 1979,
   "total_discoveries": 69,
-  "total_ideas": 189
+  "total_ideas": 197
 }

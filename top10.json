@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-20 22:24",
-  "total_ideas": 193,
-  "total_candidates_evaluated": 1935,
-  "total_rejected": 576,
+  "generated": "2026-02-21 07:28",
+  "total_ideas": 197,
+  "total_candidates_evaluated": 1979,
+  "total_rejected": 2,
   "top10": [
     {
       "id": "idea_112",
@@ -30,7 +30,7 @@
       ],
       "manufacturing_path": "Confectionery co-packer specializing in hard candy + soft centers (similar to chocolate-covered caramels). OR start with commercial kitchen + hand production for first 500 units, then scale to co-packer. Simple equipment: industrial mixer, enrober for sugar coating.",
       "estimated_cogs_per_unit": 0.35,
-      "target_retail_price": 2.5,
+      "target_retail_price": 2.50,
       "estimated_margin_multiplier": 7.1,
       "startup_cost_estimate": "$3K - $8K for first run (500-1000 units), basic branding, Shopify site, influencer samples",
       "go_to_market": "1) Influencer seeding on TikTok (send free samples to food influencers who already posted the recipe), 2) Shopify DTC with TikTok Shop integration, 3) Instagram-worthy packaging for gifting angle, 4) Farmers markets / local pop-ups to test, 5) Eventually Amazon FBA once proven",
@@ -64,7 +64,7 @@
     {
       "id": "idea_156",
       "date": "2026-02-16",
-      "inspiration_product": "Terre de Sommi\u00e8res Stain Absorbent Powder",
+      "inspiration_product": "Terre de Sommières Stain Absorbent Powder",
       "inspiration_brand": "Marius Fabre, Starwax",
       "inspiration_country": "france",
       "category": "laundry-clothing",
@@ -72,7 +72,7 @@
       "the_twist": "Modern minimal glass jar packaging with shaker top, TikTok-ready demos, influencer marketing targeting luxury eco segment instead of industrial/utilitarian positioning",
       "twist_type": "brand-upgrade",
       "target_customer": "Eco-conscious millennials and Gen Z with nice furniture/clothing who want natural cleaning solutions. People who follow zero-waste influencers.",
-      "description": "Terre de Sommi\u00e8res is a natural magnesium silicate clay powder used in France for centuries to absorb grease, oil, and liquid stains from fabric, carpet, and leather without water. You sprinkle it on the stain, let it sit, brush it off. It's beloved in France but unknown in the US. Our version rebrands this miracle powder with modern packaging, clear use-case marketing (wine spills, makeup stains, grease spots), and social-first content strategy.",
+      "description": "Terre de Sommières is a natural magnesium silicate clay powder used in France for centuries to absorb grease, oil, and liquid stains from fabric, carpet, and leather without water. You sprinkle it on the stain, let it sit, brush it off. It's beloved in France but unknown in the US. Our version rebrands this miracle powder with modern packaging, clear use-case marketing (wine spills, makeup stains, grease spots), and social-first content strategy.",
       "problem_solved": "Immediate stain treatment without harsh chemicals, water, or scrubbing. Perfect for dry-clean-only items, leather, or quick fixes when you can't wash immediately.",
       "us_competitive_landscape": "No branded consumer product exists. Fuller's Earth is available in bulk/industrial quantities but not marketed to consumers. Spray stain removers (Shout, OxiClean) require water and chemicals. Zero-waste brands (Blueland, Branch Basics) don't have a dry stain solution.",
       "demand_signals": [
@@ -84,8 +84,8 @@
         "knowledge-based"
       ],
       "manufacturing_path": "Source magnesium silicate clay from specialized suppliers (available in US and France). Partner with small-batch co-packer to fill glass jars with shaker tops. Add custom labels. Very simple product, no formulation needed.",
-      "estimated_cogs_per_unit": 1.5,
-      "target_retail_price": 22.0,
+      "estimated_cogs_per_unit": 1.50,
+      "target_retail_price": 22.00,
       "estimated_margin_multiplier": 14.7,
       "startup_cost_estimate": "$3,000 - $5,000 for first 500-unit run plus branding/photography",
       "go_to_market": "Shopify DTC with strong Instagram/TikTok content showing before-after demos. Seed with eco-influencers. Subscription option for refills. Expand to boutique home stores.",
@@ -138,8 +138,8 @@
         "knowledge-based"
       ],
       "manufacturing_path": "Partner with cosmetic/fragrance co-packer. Simple formulation - distilled water, fragrance oils, light starch, preservative. Standard spray bottle filling. Could start with 500-unit run easily.",
-      "estimated_cogs_per_unit": 1.8,
-      "target_retail_price": 26.0,
+      "estimated_cogs_per_unit": 1.80,
+      "target_retail_price": 26.00,
       "estimated_margin_multiplier": 14.4,
       "startup_cost_estimate": "$4,000 - $7,000 for fragrance development, first production run, and packaging design",
       "go_to_market": "DTC with strong Instagram aesthetic. Partner with home organization influencers. Subscription model with seasonal scent releases. Wholesale to boutique home stores. Limited edition collaborations with designers.",
@@ -230,7 +230,7 @@
       "id": "idea_013",
       "date": "2026-02-15",
       "inspiration_product": "Kolonya (Turkish Lemon Cologne)",
-      "inspiration_brand": "Rebul, Ey\u00fcp Sabri Tuncer, Pereja, Duru",
+      "inspiration_brand": "Rebul, Eyüp Sabri Tuncer, Pereja, Duru",
       "inspiration_country": "turkey",
       "category": "cleaning",
       "us_brand_concept": "Luxury hospitality hand sanitizer brand - premium lemon cologne-based sanitizer positioned as 'the entertaining essential' for hosts",
@@ -407,7 +407,7 @@
       "us_brand_concept": "NutDust - Savory roasted peanut seasoning blend (the peanut version of Everything Bagel)",
       "the_twist": "Take peanut podi's roasted peanut + spice concept, remove Indian branding, position as 'savory peanut seasoning' competing with Everything Bagel Seasoning but with protein + nutty richness",
       "twist_type": "brand-upgrade",
-      "target_customer": "Same customer who buys Everything Bagel Seasoning, Maldon salt, Taj\u00edn. People who put seasoning on everything. Bonus: peanut allergy-avoiders can skip, but peanut lovers get a unique option.",
+      "target_customer": "Same customer who buys Everything Bagel Seasoning, Maldon salt, Tajín. People who put seasoning on everything. Bonus: peanut allergy-avoiders can skip, but peanut lovers get a unique option.",
       "description": "Peanut podi is a South Indian condiment powder made from roasted peanuts, lentils, red chili, garlic, curry leaves, and spices. Mix with oil for instant peanut chutney or sprinkle dry on food. It's intensely savory with nutty depth. No US brand has done 'savory peanut seasoning' - all peanut products are sweet (PB) or whole roasted nuts. This fills the gap between Everything Bagel and actual peanut butter.",
       "problem_solved": "Everything Bagel Seasoning is ubiquitous but lacks protein and nutty richness. Peanut powder products exist but are all SWEET (PB2, etc). This is the first SAVORY peanut-based seasoning for the US market.",
       "us_competitive_landscape": "Everything Bagel Seasoning owns the savory-sprinkle space. Trader Joe's sells it, so do 50+ copycat brands. But zero brands have done savory peanut seasoning. Peanut powder (PB2) exists but it's reconstituted peanut butter, not a seasoning. Huge white space.",
@@ -478,7 +478,7 @@
         "https://www.reddit.com/r/askSingapore/comments/1976sc5/"
       ],
       "manufacturing_path": "US-based essential oil contract manufacturers (Bulk Apothecary, AromaEasy, Dynamic Blending, Dermagen Labs). Simple blend: menthol crystal dissolved in carrier oil (fractionated coconut or jojoba) + eucalyptus/peppermint essential oils. Fill into 10ml roller bottles. FDA cosmetic regulation (not OTC drug if no claims).",
-      "estimated_cogs_per_unit": 1.8,
+      "estimated_cogs_per_unit": 1.80,
       "target_retail_price": 12.99,
       "estimated_margin_multiplier": 7.2,
       "startup_cost_estimate": "$2K - $4K for first 500 units (10ml rollers), formulation, branding, Shopify setup. Many US manufacturers have low/no MOQs.",
@@ -535,7 +535,7 @@
         "https://www.roots.gov.sg/ich-landing/ich/making-of-chinese-medicated-oils"
       ],
       "manufacturing_path": "US essential oil contract manufacturer (same as Axe Oil idea - Bulk Apothecary, AromaEasy). Blend: peppermint + eucalyptus + fennel + lavender essential oils in fractionated coconut oil carrier. 1oz dropper bottles. Must ensure gentle dilution safe for infant skin (2-3% essential oil concentration). Can use organic/certified ingredients for premium positioning.",
-      "estimated_cogs_per_unit": 2.2,
+      "estimated_cogs_per_unit": 2.20,
       "target_retail_price": 16.99,
       "estimated_margin_multiplier": 7.7,
       "startup_cost_estimate": "$2.5K - $4K for first 300 units, branding, educational content creation, Shopify site. Could start with $1.5K if bootstrapping hard.",
