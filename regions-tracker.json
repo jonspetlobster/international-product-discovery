@@ -36,9 +36,9 @@
       "ideas": 6
     },
     "indonesia": {
-      "candidates": 60,
+      "candidates": 80,
       "discoveries": 6,
-      "ideas": 3
+      "ideas": 8
     },
     "india": {
       "candidates": 61,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "cleaning",
     "laundry-clothing",
     "health-wellness",
     "grocery-pantry",
-    "personal-care"
+    "personal-care",
+    "snacks-candy"
   ],
-  "total_candidates": 2062,
+  "total_candidates": 2082,
   "total_discoveries": 69,
-  "total_ideas": 209
+  "total_ideas": 214
 }
