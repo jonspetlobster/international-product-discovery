@@ -1,0 +1,48 @@
+VALIDATION NOTES (Feb 21, 2026)
+
+Product 1: Liniment Oléo-Calcaire
+- US search would show: very limited presence, mostly French expat blogs
+- Manufacturing: Simple emulsion, any cosmetic co-packer can make (oil + lime water)
+- MOQ likely under 500 units
+- US gap: HUGE - American parents don't know this exists
+- Twist: Position as "French method" no-wipe diaper care, sensitive skin angle
+- Target: Crunchy moms, cloth diaper users, babies with eczema
+- Estimated COGS: $3-4 per 8oz bottle, retail $18-24
+- Go-to-market: Amazon FBA + mom Facebook groups + TikTok demos
+
+Product 2: Savon Noir (Black Soap Body Polish)
+- US search would show: Some hammam imports on Amazon, poorly branded
+- Strong import presence exists but no premium US brand owns the category  
+- Manufacturing: Olive oil + potassium hydroxide, can source from Morocco or make domestic
+- US gap: Moderate - Turkish/Moroccan shops sell it, but no DTC brand
+- Twist: Instagram spa-at-home ritual kit with kessa glove, beautiful packaging
+- Target: Skincare enthusiasts, spa lovers, people who buy Herbivore/Drunk Elephant
+- Estimated COGS: $5-7 per jar, retail $28-35
+- Go-to-market: Shopify DTC, TikTok "spa day" content, Sephora wholesale later
+
+Product 3: Huile de Douche (Shower Oil)  
+- US search would show: L'Occitane and Weleda exist but positioned as luxury/niche
+- Market gap: NO mass-market option, everyone still buys drying body wash
+- Manufacturing: Oil blend (sweet almond/sunflower + emulsifier), easy to formulate
+- US gap: Large - Americans don't understand shower oil category
+- Twist: "The body wash for people who hate dry skin" - education-heavy marketing
+- Target: People with eczema, dry climate dwellers, winter skincare  
+- Estimated COGS: $4-6 per 8oz, retail $16-22
+- Go-to-market: Amazon + "Why your body wash is drying you out" content marketing
+
+Product 4: Medical-Grade Lip Balm Stick
+- US search would show: Aquaphor, Cerave, but mostly tubs/tubes not sticks
+- Limited stick format for serious repair (most are just waxy gloss)
+- Manufacturing: Standard lip balm production, need good formula (lanolin/bisabolol/centella)
+- US gap: Moderate - people buy Aquaphor tubs but want stick convenience  
+- Twist: "For Accutane users and mountain athletes" - medical positioning
+- Target: Accutane patients, climbers, skiers, chronic chapped lip sufferers
+- Estimated COGS: $1.50-2 per stick, retail $8-12
+- Go-to-market: Amazon FBA, partner with dermatologists, Reddit skincare communities
+
+Product 5: Fast-Dry Microfiber Gym Towel  
+- US search would show: Tons of cheap microfiber towels on Amazon
+- VERY crowded market, hard to differentiate
+- Manufacturing: Commodity item, thousands of Alibaba suppliers
+- US gap: None - saturated category
+- REJECT: Too competitive, no defensible twist

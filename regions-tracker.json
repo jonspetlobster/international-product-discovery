@@ -61,9 +61,9 @@
       "ideas": 6
     },
     "france": {
-      "candidates": 63,
+      "candidates": 83,
       "discoveries": 3,
-      "ideas": 7
+      "ideas": 11
     },
     "italy": {
       "candidates": 80,
@@ -86,14 +86,14 @@
       "ideas": 8
     },
     "mexico": {
-      "candidates": 61,
+      "candidates": 81,
       "discoveries": 0,
-      "ideas": 6
+      "ideas": 10
     },
     "brazil": {
-      "candidates": 63,
+      "candidates": 83,
       "discoveries": 3,
-      "ideas": 3
+      "ideas": 6
     },
     "colombia": {
       "candidates": 71,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "personal-care",
     "snacks-candy",
     "kitchen",
     "cleaning",
-    "health-wellness"
+    "health-wellness",
+    "personal-care"
   ],
-  "total_candidates": 2143,
+  "total_candidates": 2203,
   "total_discoveries": 69,
-  "total_ideas": 224
+  "total_ideas": 235
 }
