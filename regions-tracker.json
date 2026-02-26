@@ -91,9 +91,9 @@
       "ideas": 10
     },
     {
-      "candidates": 83,
+      "candidates": 103,
       "discoveries": 3,
-      "ideas": 6
+      "ideas": 9
     },
     {
       "candidates": 71,
@@ -157,13 +157,13 @@
     }
   ],
   "categories_recent": [
-    "health-wellness",
     "snacks-candy",
     "personal-care",
     "pet",
-    "drinkware-barware"
+    "drinkware-barware",
+    "kitchen"
   ],
-  "total_candidates": 2612,
+  "total_candidates": 2632,
   "total_discoveries": 69,
-  "total_ideas": 301
+  "total_ideas": 304
 }
