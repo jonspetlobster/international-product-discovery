@@ -86,9 +86,9 @@
       "ideas": 15
     },
     {
-      "candidates": 81,
+      "candidates": 99,
       "discoveries": 0,
-      "ideas": 10
+      "ideas": 13
     },
     {
       "candidates": 103,
@@ -157,13 +157,13 @@
     }
   ],
   "categories_recent": [
+    "fitness",
     "kitchen",
     "outdoor-garden",
     "personal-care",
-    "cleaning",
-    "grocery-pantry"
+    "cleaning"
   ],
-  "total_candidates": 2907,
+  "total_candidates": 2925,
   "total_discoveries": 69,
-  "total_ideas": 344
+  "total_ideas": 347
 }
