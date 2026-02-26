@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-26 03:55",
-  "total_ideas": 293,
-  "total_candidates_evaluated": 2590,
-  "total_rejected": 867,
+  "generated": "2026-02-26 04:25",
+  "total_ideas": 297,
+  "total_candidates_evaluated": 2610,
+  "total_rejected": 882,
   "top10": [
     {
       "id": "idea_284",
@@ -116,6 +116,61 @@
         "Source 3 wax stick manufacturers (US co-packer + 2 Alibaba suppliers), get samples and MOQ quotes",
         "Create TikTok account, film 10 tutorial videos showing different use cases (baby hairs, bangs, bun, ponytail)",
         "Design packaging with Gen Z aesthetic (gradient colors, clean sans-serif font, recyclable materials), order first 500 units"
+      ]
+    },
+    {
+      "id": "idea_294",
+      "date": "2026-02-26",
+      "inspiration_product": "Sticky Rice Starch Grooming Powder",
+      "inspiration_brand": "Vietnamese Grooming Tradition",
+      "inspiration_country": "vietnam",
+      "category": "pet",
+      "us_brand_concept": "DryPaws \u2014 Waterless rice starch dry shampoo powder for anxious dogs who hate baths",
+      "the_twist": "Rice starch as hero ingredient riding K-beauty rice water trend + waterless convenience for anxious dogs",
+      "twist_type": "ingredient-swap",
+      "target_customer": "Urban dog owners with bath-anxious dogs, apartment dwellers without tubs, van lifers, travelers",
+      "description": "Vietnamese groomers use sticky rice starch powder as a dry shampoo between baths \u2014 it absorbs oils, deodorizes, and adds shine. DryPaws brings this to the US with premium packaging and rice water beauty branding. Perfect for dogs who hate water, post-hike cleanups, or quick freshening between grooming appointments.",
+      "problem_solved": "Many dogs are terrified of baths. Waterless shampoo exists but mostly uses cornstarch or baking soda. Rice starch is gentler, aligns with K-beauty rice water trend (huge in human haircare), and feels premium.",
+      "us_competitive_landscape": "Dry shampoo brands exist (Sebesta Apothecary, Jatisse) but none position rice as the hero ingredient. No one is riding the K-beauty rice water wave in pet care. Brands focus on 'no bath needed' not 'your anxious dog deserves calm grooming rituals.'",
+      "demand_signals": [
+        "Waterless pet care growing due to drought concerns + convenience",
+        "K-beauty rice water haircare products viral on TikTok (human market proves ingredient appeal)",
+        "Anxious dog care products booming (ThunderShirt, calming treats, etc.)"
+      ],
+      "source_urls": [
+        "knowledge-based",
+        "https://www.amazon.com/dog-dry-shampoo-powder/s?k=dog+dry+shampoo+powder"
+      ],
+      "manufacturing_path": "Contract manufacturer for powder cosmetics (same suppliers making human dry shampoo). Source rice starch from US suppliers (Bob's Red Mill, etc.). Simple powder fill into shaker bottles. Low MOQ ~500 units.",
+      "estimated_cogs_per_unit": 2.5,
+      "target_retail_price": 18.99,
+      "estimated_margin_multiplier": 7.6,
+      "startup_cost_estimate": "$3K-$5K (first production run 500 units, packaging, branding, photography)",
+      "go_to_market": "Shopify DTC targeting anxious dog communities on Reddit/Facebook. TikTok content showing calming grooming rituals. Amazon FBA for scale. Partner with mobile groomers and van life influencers.",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 8,
+        "us_gap": 9,
+        "manufacturing_ease": 10,
+        "twist_strength": 9,
+        "margin_potential": 9,
+        "brandability": 9,
+        "low_capital_start": 10
+      },
+      "score_avg": 9.14,
+      "risks": [
+        "Rice starch might cake if exposed to moisture (needs moisture-barrier packaging)",
+        "Education needed: why rice > cornstarch",
+        "Competitive response from existing dry shampoo brands"
+      ],
+      "first_3_steps": [
+        "Source rice starch powder + custom scent blend from cosmetic supplier",
+        "Design calming brand identity (think spa for dogs, not clinical pet product)",
+        "Create TikTok content series: 'Bath Time Meltdowns No More' showing anxious dog transformations"
       ]
     },
     {
@@ -509,63 +564,6 @@
         "Source 3 US aromatherapy inhaler manufacturers, get MOQ and sample costs",
         "Design packaging mockups (aluminum tube, tech-inspired graphics, include 'focus mode activated' tagline)",
         "Test messaging on r/productivity and gaming Discord servers with before/after focus surveys"
-      ]
-    },
-    {
-      "id": "idea_525",
-      "date": "2026-02-21",
-      "inspiration_product": "Chamoy (Sweet-Spicy-Sour Fruit Seasoning)",
-      "inspiration_brand": "Taj\u00edn, Miguelito, various regional",
-      "inspiration_country": "mexico",
-      "category": "grocery-pantry",
-      "us_brand_concept": "PICANTE - Premium chamoy seasoning shaker for fruit, popcorn, candy, and cocktails",
-      "the_twist": "Premium grind-top shaker (like fancy pepper mill) instead of ugly plastic bottle. Market to Gen Z via TikTok as 'Mexican fruit seasoning'. Multiple flavors (classic, mango, watermelon).",
-      "twist_type": "format-change",
-      "target_customer": "Gen Z snackers, TikTok food trend followers, cocktail enthusiasts, people who love Taj\u00edn but want more adventurous flavors. Hispanic millennials seeking elevated version of childhood favorite.",
-      "description": "Chamoy is Mexico's ultimate flavor bomb - sweet, spicy, sour, salty all at once. Traditionally used on fresh fruit (mangos, watermelon, pineapple) but TikTok has made it viral on pickles, candy, popcorn, even cocktail rims. Current options are ugly plastic bottles with inconsistent quality. We'd create premium chamoy powder in a beautiful grind-top shaker with recipe suggestions. Think Taj\u00edn meets specialty salt brand.",
-      "problem_solved": "Taj\u00edn dominates but is mild and one-note. Chamoy sauce is messy and inconsistent. Gen Z wants bold flavors for snacks. Cocktail culture needs unique rimming salts. No premium chamoy brand exists.",
-      "us_competitive_landscape": "Taj\u00edn is everywhere ($3-5), chamoy sauce exists in Mexican grocers (messy bottles, $3-6). Lucas chamoy candy popular with kids. ZERO premium chamoy powder brands with good packaging and marketing. Total market gap.",
-      "demand_signals": [
-        "Chamoy pickle TikTok trend (millions of views)",
-        "Taj\u00edn mainstream success",
-        "Gen Z loves bold/complex flavors",
-        "Fruit seasoning category growing",
-        "Cocktail culture wants unique garnishes"
-      ],
-      "source_urls": [
-        "knowledge"
-      ],
-      "manufacturing_path": "Super simple - blend dried chiles, lime powder, sugar, salt, chamoy fruit extract. Many co-packers do dry seasoning blends. Source ingredients from Mexican importers or domestic spice suppliers. Grind-top shakers from packaging supplier. MOQ 500-1000 units easy.",
-      "estimated_cogs_per_unit": 2.5,
-      "target_retail_price": 11.0,
-      "estimated_margin_multiplier": 4.4,
-      "startup_cost_estimate": "$2000-$4000 for first run (1000 shakers), labels, TikTok content creation",
-      "go_to_market": "TikTok-first strategy - viral recipe videos (chamoy popcorn, pickle cups, watermelon). Instagram reels. Influencer seeding. DTC Shopify. Amazon FBA after viral moment. Target TikTok Shop.",
-      "google_trends": {
-        "avg": 0,
-        "recent": 0,
-        "trend": "no_data"
-      },
-      "scores": {
-        "demand_proof": 9,
-        "us_gap": 10,
-        "manufacturing_ease": 10,
-        "twist_strength": 7,
-        "margin_potential": 9,
-        "brandability": 9,
-        "low_capital_start": 9
-      },
-      "score_avg": 9.0,
-      "risks": [
-        "Flavor might be too intense for some Americans",
-        "TikTok trends fade fast - need to build brand beyond viral moment",
-        "Taj\u00edn could launch chamoy version easily",
-        "Quality control crucial - flavor needs to be consistent"
-      ],
-      "first_3_steps": [
-        "Create test batches, film TikTok recipe videos, test engagement",
-        "Source co-packer for dry seasoning blends, order shaker samples, finalize formula",
-        "Launch with 1000 units, heavy TikTok content, influencer seeding, measure viral potential"
       ]
     }
   ]

@@ -151,19 +151,19 @@
       "ideas": 11
     },
     {
-      "candidates": 60,
+      "candidates": 80,
       "discoveries": 0,
-      "ideas": 7
+      "ideas": 11
     }
   ],
   "categories_recent": [
-    "fitness",
     "kitchen",
     "health-wellness",
     "snacks-candy",
-    "personal-care"
+    "personal-care",
+    "pet"
   ],
-  "total_candidates": 2571,
+  "total_candidates": 2591,
   "total_discoveries": 69,
-  "total_ideas": 293
+  "total_ideas": 297
 }
