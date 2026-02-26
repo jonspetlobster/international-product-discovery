@@ -51,9 +51,9 @@
       "ideas": 10
     },
     {
-      "candidates": 64,
+      "candidates": 84,
       "discoveries": 3,
-      "ideas": 7
+      "ideas": 10
     },
     {
       "candidates": 65,
@@ -157,13 +157,13 @@
     }
   ],
   "categories_recent": [
-    "drinkware-barware",
     "kitchen",
     "health-wellness",
     "organizing-storage",
-    "personal-care"
+    "personal-care",
+    "snacks-candy"
   ],
-  "total_candidates": 2700,
+  "total_candidates": 2720,
   "total_discoveries": 69,
-  "total_ideas": 313
+  "total_ideas": 316
 }
