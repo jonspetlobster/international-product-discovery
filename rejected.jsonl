@@ -1030,3 +1030,20 @@
 {"product_name":"Dezenfektan Spreyi (Strong Disinfectant)","country":"Turkey","reason":"regulated","date":"2026-02-26","notes":"Higher chemical concentrations than allowed in US market. EPA registration required for any disinfectant claims, complex regulatory path."}
 {"product_name":"Yer Bezi (Microfiber Floor Cloths)","country":"Turkey","reason":"us_brand_exists","date":"2026-02-26","notes":"Saturated category with established brands (Zwipes, E-Cloth, MagicFiber, etc.). Nothing unique about Turkish version."}
 {"product_name":"Soda + Sirke Reaktif (Baking Soda Volcano Drain Cleaner)","country":"Turkey","reason":"us_brand_exists","date":"2026-02-26","notes":"Baking soda + vinegar drain cleaning is already ubiquitous in US (every lifestyle blog, already sold as combo packs). Zero differentiation opportunity."}
+{"product_name":"Egyptian Magic Cream","country":"egypt","reason":"us_brand_exists","date":"2026-02-26","notes":"Already a well-known US brand"}
+{"product_name":"Black Seed Oil","country":"egypt","reason":"us_brand_exists","date":"2026-02-26","notes":"Multiple US brands already exist (Amazing Herbs, Shea Terra Organics, etc.)"}
+{"product_name":"Helba Fenugreek Lactation Tea","country":"egypt","reason":"us_brand_exists","date":"2026-02-26","notes":"Saturated market - Traditional Medicinals Mother's Milk, Pink Stork, Oat Mama all use fenugreek"}
+{"product_name":"Helba-Honey-Black Seed Winter Tonic","country":"egypt","reason":"us_brand_exists","date":"2026-02-26","notes":"Golden milk/turmeric tonic market is saturated (Turmaquik, Further Food, OSH Wellness)"}
+{"product_name":"Karkade Hibiscus Tea","country":"egypt","reason":"us_brand_exists","date":"2026-02-26","notes":"Hibiscus tea widely available in US, not differentiated enough"}
+{"product_name":"Guava Leaf Tea","country":"egypt","reason":"marginal","date":"2026-02-26","notes":"Some US brands exist, respiratory tea market is crowded"}
+{"product_name":"Samgha Acacia Gum","country":"egypt","reason":"us_brand_exists","date":"2026-02-26","notes":"Gum arabic/acacia fiber already available as prebiotic supplement"}
+{"product_name":"Lemongrass Tea","country":"egypt","reason":"us_brand_exists","date":"2026-02-26","notes":"Widely available, not unique to Egypt"}
+{"product_name":"Cumin Tea","country":"egypt","reason":"marginal","date":"2026-02-26","notes":"DIY remedy, hard to brand as standalone product"}
+{"product_name":"Anise Seed Tea","country":"egypt","reason":"us_brand_exists","date":"2026-02-26","notes":"Common ingredient in existing herbal teas"}
+{"product_name":"Fennel Tea","country":"egypt","reason":"us_brand_exists","date":"2026-02-26","notes":"Already in lactation teas, digestive teas widely available"}
+{"product_name":"Mint Tea","country":"egypt","reason":"us_brand_exists","date":"2026-02-26","notes":"Ubiquitous, not differentiable"}
+{"product_name":"Licorice Root Tea","country":"egypt","reason":"us_brand_exists","date":"2026-02-26","notes":"Throat Coat and other brands already established"}
+{"product_name":"Olive Leaf Tea","country":"egypt","reason":"us_brand_exists","date":"2026-02-26","notes":"Available from Mediterranean brands"}
+{"product_name":"Loomi Dried Black Lime","country":"egypt","reason":"marginal","date":"2026-02-26","notes":"Niche culinary ingredient, hard to position as standalone health product"}
+{"product_name":"Salameki Senna Cleanse Tea","country":"egypt","reason":"us_brand_exists","date":"2026-02-26","notes":"Smooth Move and other senna laxative teas already exist"}
+{"product_name":"Kozbara Coriander Seed Tea","country":"egypt","reason":"marginal","date":"2026-02-26","notes":"Too niche, coriander available but not popular as tea"}
