@@ -31,9 +31,9 @@
       "ideas": 6
     },
     {
-      "candidates": 65,
+      "candidates": 87,
       "discoveries": 4,
-      "ideas": 6
+      "ideas": 9
     },
     {
       "candidates": 80,
@@ -157,13 +157,13 @@
     }
   ],
   "categories_recent": [
-    "kitchen",
     "health-wellness",
     "organizing-storage",
     "personal-care",
-    "snacks-candy"
+    "snacks-candy",
+    "bathroom"
   ],
-  "total_candidates": 2720,
+  "total_candidates": 2742,
   "total_discoveries": 69,
-  "total_ideas": 316
+  "total_ideas": 319
 }
