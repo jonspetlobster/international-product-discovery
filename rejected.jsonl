@@ -665,3 +665,22 @@
 {"product_name": "Zwitsal Baby Powder Cream", "country": "netherlands", "reason": "cultural_only", "date": "2026-02-21", "notes": "Baby product used by adults is cultural quirk, hard to market in US without weird positioning"}
 {"product_name": "Kruidvat Tea Tree Face Wash", "country": "netherlands", "reason": "us_brand_exists", "date": "2026-02-21", "notes": "Tea tree cleansers everywhere (Body Shop, Desert Essence, etc.), drugstore product hard to premium-ize"}
 {"product_name": "Green Clay Face Mask Powder", "country": "netherlands", "reason": "us_brand_exists", "date": "2026-02-21", "notes": "Aztec Secret Clay dominates DIY mask powder category, strong cult following"}
+{"product_name":"Salux Beauty Skin Cloth (Japanese exfoliating cloth)","country":"japan","reason":"us_brand_exists","date":"2026-02-25","notes":"ARCH&M brand dominates Amazon with 13k+ reviews, market saturated with Japanese/Korean exfoliating cloths"}
+{"product_name":"Rice Bran Scrub Powder","country":"japan","reason":"us_brand_exists","date":"2026-02-25","notes":"Very crowded market - MIDHA, SRB, TonyMoly, The Face Shop, House of Dohwa, SKINFOOD all sell rice bran products on Amazon"}
+{"product_name":"Biore Nose Pore Strips","country":"japan","reason":"strong_import_presence","date":"2026-02-25","notes":"Biore is already a major US brand, pore strips are mainstream"}
+{"product_name":"Hatomugi Skin Conditioning Gel","country":"japan","reason":"us_brand_exists","date":"2026-02-25","notes":"Similar gel moisturizers abundant in US K-beauty market"}
+{"product_name":"Melano CC Vitamin C Spot Treatment","country":"japan","reason":"strong_import_presence","date":"2026-02-25","notes":"Already popular import on US Amazon, Melano CC well-known"}
+{"product_name":"Bifesta Cleansing Sheets","country":"japan","reason":"us_brand_exists","date":"2026-02-25","notes":"Makeup wipes market extremely saturated"}
+{"product_name":"Shiseido Senka Perfect Whip","country":"japan","reason":"strong_import_presence","date":"2026-02-25","notes":"Shiseido is major US brand"}
+{"product_name":"Kose Softymo Deep Cleansing Oil","country":"japan","reason":"strong_import_presence","date":"2026-02-25","notes":"Oil cleansers abundant in US market"}
+{"product_name":"Kikumasamune High Moist Lotion","country":"japan","reason":"strong_import_presence","date":"2026-02-25","notes":"Already popular on US Amazon"}
+{"product_name":"Charcoal Konjac Sponge","country":"japan","reason":"us_brand_exists","date":"2026-02-25","notes":"Konjac sponges everywhere on Amazon"}
+{"product_name":"Binchotan Charcoal Bath Mat (diatomaceous earth)","country":"japan","reason":"us_brand_exists","date":"2026-02-25","notes":"Already popular in US, many brands selling"}
+{"product_name":"Foot Peeling Mask (Baby Foot)","country":"japan","reason":"strong_import_presence","date":"2026-02-25","notes":"Baby Foot brand well-known in US"}
+{"product_name":"Silicone Body Scrubber Brush","country":"japan","reason":"us_brand_exists","date":"2026-02-25","notes":"Common product, many sellers"}
+{"product_name":"Enzyme Powder Face Wash (Fancl)","country":"japan","reason":"us_brand_exists","date":"2026-02-25","notes":"Multiple brands already sell enzyme powder washes"}
+{"product_name":"Hot Towel Warming Cabinet","country":"japan","reason":"too_complex","date":"2026-02-25","notes":"Electronics, expensive, high MOQ"}
+{"product_name":"Sake Bath Bombs","country":"japan","reason":"us_brand_exists","date":"2026-02-25","notes":"Bath bomb market saturated"}
+{"product_name":"Suisai Beauty Clear Powder","country":"japan","reason":"strong_import_presence","date":"2026-02-25","notes":"Kanebo brand available, being copied"}
+{"product_name":"Yuzu Bath Salt","country":"japan","reason":"us_brand_exists","date":"2026-02-25","notes":"Bath salts abundant, yuzu available"}
+{"product_name":"Pearl Brightening Powder","country":"japan","reason":"us_brand_exists","date":"2026-02-25","notes":"Brightening products common"}

@@ -1,9 +1,9 @@
 {
   "regions": [
     {
-      "candidates": 75,
+      "candidates": 97,
       "discoveries": 1,
-      "ideas": 6
+      "ideas": 9
     },
     {
       "candidates": 64,
@@ -152,13 +152,13 @@
     }
   ],
   "categories_recent": [
-    "baby-kids",
     "kitchen",
     "cleaning",
     "health-wellness",
-    "stationery"
+    "stationery",
+    "bathroom"
   ],
-  "total_candidates": 2283,
+  "total_candidates": 2305,
   "total_discoveries": 69,
-  "total_ideas": 249
+  "total_ideas": 252
 }
