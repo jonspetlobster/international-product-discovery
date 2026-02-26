@@ -6,7 +6,7 @@
       "ideas": 9
     },
     {
-      "candidates": 64,
+      "candidates": 84,
       "discoveries": 2,
       "ideas": 8
     },
@@ -152,13 +152,13 @@
     }
   ],
   "categories_recent": [
-    "kitchen",
     "cleaning",
     "health-wellness",
     "stationery",
-    "bathroom"
+    "bathroom",
+    "personal-care"
   ],
-  "total_candidates": 2305,
+  "total_candidates": 2325,
   "total_discoveries": 69,
   "total_ideas": 252
 }
