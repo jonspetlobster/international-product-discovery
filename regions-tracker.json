@@ -76,9 +76,9 @@
       "ideas": 10
     },
     "poland": {
-      "candidates": 63,
+      "candidates": 78,
       "discoveries": 3,
-      "ideas": 7
+      "ideas": 10
     },
     "turkey": {
       "candidates": 68,
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "snacks-candy",
     "kitchen",
     "cleaning",
     "health-wellness",
-    "stationery"
+    "stationery",
+    "personal-care"
   ],
-  "total_candidates": 2243,
+  "total_candidates": 2258,
   "total_discoveries": 69,
-  "total_ideas": 243
+  "total_ideas": 246
 }
