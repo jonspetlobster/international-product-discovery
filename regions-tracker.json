@@ -76,9 +76,9 @@
       "ideas": 10
     },
     {
-      "candidates": 78,
+      "candidates": 100,
       "discoveries": 3,
-      "ideas": 10
+      "ideas": 13
     },
     {
       "candidates": 88,
@@ -157,13 +157,13 @@
     }
   ],
   "categories_recent": [
-    "personal-care",
     "condiments-sauces",
     "grocery-pantry",
     "fitness",
-    "kitchen"
+    "kitchen",
+    "health-wellness"
   ],
-  "total_candidates": 2505,
+  "total_candidates": 2527,
   "total_discoveries": 69,
-  "total_ideas": 282
+  "total_ideas": 285
 }

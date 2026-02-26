@@ -1,9 +1,66 @@
 {
-  "generated": "2026-02-26T09:55:29Z",
-  "total_ideas": 282,
-  "total_candidates_evaluated": 2505,
-  "total_rejected": 829,
+  "generated": "2026-02-26 02:27",
+  "total_ideas": 285,
+  "total_candidates_evaluated": 2527,
+  "total_rejected": 848,
   "top10": [
+    {
+      "id": "idea_284",
+      "date": "2026-02-26",
+      "inspiration_product": "Colfarm Horsetail (Skrzyp) Silica Extract",
+      "inspiration_brand": "Colfarm",
+      "inspiration_country": "poland",
+      "category": "health-wellness",
+      "us_brand_concept": "SilicaGlow \u2014 Hair, skin, and nail beauty supplement positioned as the missing nutrient for structural beauty (collagen's smarter cousin)",
+      "the_twist": "Position silica from horsetail as THE beauty-from-within supplement (not generic herb), target Gen Z beauty audience with TikTok-friendly branding instead of pharmacy packaging",
+      "twist_type": "brand-upgrade",
+      "target_customer": "Gen Z and millennial women (18-35) who take collagen supplements, follow skincare influencers, buy Moon Juice/Olipop/trendy wellness brands",
+      "description": "Horsetail extract is rich in bioavailable silica \u2014 a trace mineral essential for collagen synthesis, hair strength, skin elasticity, and nail growth. In Poland it's sold as a basic supplement in pharmacies (old-school packaging, health-store vibe). The US brand concept: rebrand horsetail silica as a beauty supplement for Gen Z with clean, minimal packaging, TikTok-friendly branding, and positioning as 'what you're missing if collagen isn't working.' Capsules or dissolvable powder.",
+      "problem_solved": "Everyone takes collagen supplements, but silica (which helps your body actually USE collagen) is unknown in the US. This is the 'you've been doing it wrong' insight that drives viral beauty products. Plus horsetail is way cheaper than marine collagen \u2014 better margins, lower price point, vegan-friendly.",
+      "us_competitive_landscape": "Collagen supplements are MASSIVE (Vital Proteins, Moon Juice, Hum Nutrition). Silica supplements exist but are generic/boring (NOW Foods, Solgar \u2014 old pharmacy brands). NO modern DTC silica beauty brand targeting younger consumers. Huge brand gap for someone to own 'silica for beauty.'",
+      "demand_signals": [
+        "Collagen supplement market is $4B+ and growing \u2014 proof of demand for beauty-from-within",
+        "TikTok #hairgrowth has 50B+ views, #nailgrowth 5B+ views \u2014 massive audience seeking solutions",
+        "European beauty brands often lead with silica in hair/nail formulas (Priorin, Pantogar)",
+        "Vegan beauty trend (silica is plant-based vs. animal collagen)",
+        "Reddit r/HaircareScience and r/SkincareAddiction mention horsetail as 'underrated' supplement"
+      ],
+      "source_urls": [
+        "knowledge"
+      ],
+      "manufacturing_path": "Source organic horsetail extract powder from US or EU herb suppliers (Mountain Rose Herbs, Starwest Botanicals carry it). Formulate into capsules or dissolvable powder sachets. Co-pack with supplement manufacturer (same ones doing collagen brands). Simple formulation = low MOQ.",
+      "estimated_cogs_per_unit": 0.45,
+      "target_retail_price": 28.0,
+      "estimated_margin_multiplier": 62.2,
+      "startup_cost_estimate": "$5K - $12K for first 1000-unit run, branding, Shopify site, influencer seeding",
+      "go_to_market": "Pure DTC play. TikTok + Instagram influencer seeding ('the silica secret European women know'). UGC content showing before/after hair growth, nail strength. Subscription model (30-day supply). Affiliate program for beauty influencers. THEN retail (Urban Outfitters, Free People, Erewhon).",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 9,
+        "us_gap": 10,
+        "manufacturing_ease": 9,
+        "twist_strength": 9,
+        "margin_potential": 10,
+        "brandability": 10,
+        "low_capital_start": 9
+      },
+      "score_avg": 9.43,
+      "risks": [
+        "Silica is unknown to US consumers \u2014 requires education (but that's also the viral opportunity)",
+        "Supplement claims are FDA-regulated \u2014 can't make medical claims, only structure/function",
+        "Beauty supplement space is getting crowded \u2014 need strong differentiation and brand voice",
+        "Results take 2-3 months \u2014 longer than people want to wait for beauty products"
+      ],
+      "first_3_steps": [
+        "1. Order horsetail silica samples, test formulation (capsule vs. powder), nail down COGs with co-packer",
+        "2. Build killer TikTok-ready brand (name, packaging, story: 'the European beauty secret US brands don't want you to know')",
+        "3. Pre-launch with 50-100 influencer gifting (micro beauty influencers), collect UGC testimonials, launch DTC with waitlist strategy"
+      ]
+    },
     {
       "id": "idea_112",
       "date": "2026-02-16",
@@ -30,7 +87,7 @@
       ],
       "manufacturing_path": "Confectionery co-packer specializing in hard candy + soft centers (similar to chocolate-covered caramels). OR start with commercial kitchen + hand production for first 500 units, then scale to co-packer. Simple equipment: industrial mixer, enrober for sugar coating.",
       "estimated_cogs_per_unit": 0.35,
-      "target_retail_price": 2.50,
+      "target_retail_price": 2.5,
       "estimated_margin_multiplier": 7.1,
       "startup_cost_estimate": "$3K - $8K for first run (500-1000 units), basic branding, Shopify site, influencer samples",
       "go_to_market": "1) Influencer seeding on TikTok (send free samples to food influencers who already posted the recipe), 2) Shopify DTC with TikTok Shop integration, 3) Instagram-worthy packaging for gifting angle, 4) Farmers markets / local pop-ups to test, 5) Eventually Amazon FBA once proven",
@@ -64,7 +121,7 @@
     {
       "id": "idea_156",
       "date": "2026-02-16",
-      "inspiration_product": "Terre de Sommières Stain Absorbent Powder",
+      "inspiration_product": "Terre de Sommi\u00e8res Stain Absorbent Powder",
       "inspiration_brand": "Marius Fabre, Starwax",
       "inspiration_country": "france",
       "category": "laundry-clothing",
@@ -72,7 +129,7 @@
       "the_twist": "Modern minimal glass jar packaging with shaker top, TikTok-ready demos, influencer marketing targeting luxury eco segment instead of industrial/utilitarian positioning",
       "twist_type": "brand-upgrade",
       "target_customer": "Eco-conscious millennials and Gen Z with nice furniture/clothing who want natural cleaning solutions. People who follow zero-waste influencers.",
-      "description": "Terre de Sommières is a natural magnesium silicate clay powder used in France for centuries to absorb grease, oil, and liquid stains from fabric, carpet, and leather without water. You sprinkle it on the stain, let it sit, brush it off. It's beloved in France but unknown in the US. Our version rebrands this miracle powder with modern packaging, clear use-case marketing (wine spills, makeup stains, grease spots), and social-first content strategy.",
+      "description": "Terre de Sommi\u00e8res is a natural magnesium silicate clay powder used in France for centuries to absorb grease, oil, and liquid stains from fabric, carpet, and leather without water. You sprinkle it on the stain, let it sit, brush it off. It's beloved in France but unknown in the US. Our version rebrands this miracle powder with modern packaging, clear use-case marketing (wine spills, makeup stains, grease spots), and social-first content strategy.",
       "problem_solved": "Immediate stain treatment without harsh chemicals, water, or scrubbing. Perfect for dry-clean-only items, leather, or quick fixes when you can't wash immediately.",
       "us_competitive_landscape": "No branded consumer product exists. Fuller's Earth is available in bulk/industrial quantities but not marketed to consumers. Spray stain removers (Shout, OxiClean) require water and chemicals. Zero-waste brands (Blueland, Branch Basics) don't have a dry stain solution.",
       "demand_signals": [
@@ -84,8 +141,8 @@
         "knowledge-based"
       ],
       "manufacturing_path": "Source magnesium silicate clay from specialized suppliers (available in US and France). Partner with small-batch co-packer to fill glass jars with shaker tops. Add custom labels. Very simple product, no formulation needed.",
-      "estimated_cogs_per_unit": 1.50,
-      "target_retail_price": 22.00,
+      "estimated_cogs_per_unit": 1.5,
+      "target_retail_price": 22.0,
       "estimated_margin_multiplier": 14.7,
       "startup_cost_estimate": "$3,000 - $5,000 for first 500-unit run plus branding/photography",
       "go_to_market": "Shopify DTC with strong Instagram/TikTok content showing before-after demos. Seed with eco-influencers. Subscription option for refills. Expand to boutique home stores.",
@@ -138,8 +195,8 @@
         "knowledge-based"
       ],
       "manufacturing_path": "Partner with cosmetic/fragrance co-packer. Simple formulation - distilled water, fragrance oils, light starch, preservative. Standard spray bottle filling. Could start with 500-unit run easily.",
-      "estimated_cogs_per_unit": 1.80,
-      "target_retail_price": 26.00,
+      "estimated_cogs_per_unit": 1.8,
+      "target_retail_price": 26.0,
       "estimated_margin_multiplier": 14.4,
       "startup_cost_estimate": "$4,000 - $7,000 for fragrance development, first production run, and packaging design",
       "go_to_market": "DTC with strong Instagram aesthetic. Partner with home organization influencers. Subscription model with seasonal scent releases. Wholesale to boutique home stores. Limited edition collaborations with designers.",
@@ -230,7 +287,7 @@
       "id": "idea_013",
       "date": "2026-02-15",
       "inspiration_product": "Kolonya (Turkish Lemon Cologne)",
-      "inspiration_brand": "Rebul, Eyüp Sabri Tuncer, Pereja, Duru",
+      "inspiration_brand": "Rebul, Ey\u00fcp Sabri Tuncer, Pereja, Duru",
       "inspiration_country": "turkey",
       "category": "cleaning",
       "us_brand_concept": "Luxury hospitality hand sanitizer brand - premium lemon cologne-based sanitizer positioned as 'the entertaining essential' for hosts",
@@ -401,19 +458,19 @@
       "id": "idea_525",
       "date": "2026-02-21",
       "inspiration_product": "Chamoy (Sweet-Spicy-Sour Fruit Seasoning)",
-      "inspiration_brand": "Tajín, Miguelito, various regional",
+      "inspiration_brand": "Taj\u00edn, Miguelito, various regional",
       "inspiration_country": "mexico",
       "category": "grocery-pantry",
       "us_brand_concept": "PICANTE - Premium chamoy seasoning shaker for fruit, popcorn, candy, and cocktails",
       "the_twist": "Premium grind-top shaker (like fancy pepper mill) instead of ugly plastic bottle. Market to Gen Z via TikTok as 'Mexican fruit seasoning'. Multiple flavors (classic, mango, watermelon).",
       "twist_type": "format-change",
-      "target_customer": "Gen Z snackers, TikTok food trend followers, cocktail enthusiasts, people who love Tajín but want more adventurous flavors. Hispanic millennials seeking elevated version of childhood favorite.",
-      "description": "Chamoy is Mexico's ultimate flavor bomb - sweet, spicy, sour, salty all at once. Traditionally used on fresh fruit (mangos, watermelon, pineapple) but TikTok has made it viral on pickles, candy, popcorn, even cocktail rims. Current options are ugly plastic bottles with inconsistent quality. We'd create premium chamoy powder in a beautiful grind-top shaker with recipe suggestions. Think Tajín meets specialty salt brand.",
-      "problem_solved": "Tajín dominates but is mild and one-note. Chamoy sauce is messy and inconsistent. Gen Z wants bold flavors for snacks. Cocktail culture needs unique rimming salts. No premium chamoy brand exists.",
-      "us_competitive_landscape": "Tajín is everywhere ($3-5), chamoy sauce exists in Mexican grocers (messy bottles, $3-6). Lucas chamoy candy popular with kids. ZERO premium chamoy powder brands with good packaging and marketing. Total market gap.",
+      "target_customer": "Gen Z snackers, TikTok food trend followers, cocktail enthusiasts, people who love Taj\u00edn but want more adventurous flavors. Hispanic millennials seeking elevated version of childhood favorite.",
+      "description": "Chamoy is Mexico's ultimate flavor bomb - sweet, spicy, sour, salty all at once. Traditionally used on fresh fruit (mangos, watermelon, pineapple) but TikTok has made it viral on pickles, candy, popcorn, even cocktail rims. Current options are ugly plastic bottles with inconsistent quality. We'd create premium chamoy powder in a beautiful grind-top shaker with recipe suggestions. Think Taj\u00edn meets specialty salt brand.",
+      "problem_solved": "Taj\u00edn dominates but is mild and one-note. Chamoy sauce is messy and inconsistent. Gen Z wants bold flavors for snacks. Cocktail culture needs unique rimming salts. No premium chamoy brand exists.",
+      "us_competitive_landscape": "Taj\u00edn is everywhere ($3-5), chamoy sauce exists in Mexican grocers (messy bottles, $3-6). Lucas chamoy candy popular with kids. ZERO premium chamoy powder brands with good packaging and marketing. Total market gap.",
       "demand_signals": [
         "Chamoy pickle TikTok trend (millions of views)",
-        "Tajín mainstream success",
+        "Taj\u00edn mainstream success",
         "Gen Z loves bold/complex flavors",
         "Fruit seasoning category growing",
         "Cocktail culture wants unique garnishes"
@@ -445,7 +502,7 @@
       "risks": [
         "Flavor might be too intense for some Americans",
         "TikTok trends fade fast - need to build brand beyond viral moment",
-        "Tajín could launch chamoy version easily",
+        "Taj\u00edn could launch chamoy version easily",
         "Quality control crucial - flavor needs to be consistent"
       ],
       "first_3_steps": [
@@ -457,20 +514,20 @@
     {
       "id": "idea_526",
       "date": "2026-02-21",
-      "inspiration_product": "Pickled Jalapeño Brine (Escabeche Liquid)",
-      "inspiration_brand": "La Costeña, Mexican grocers (byproduct)",
+      "inspiration_product": "Pickled Jalape\u00f1o Brine (Escabeche Liquid)",
+      "inspiration_brand": "La Coste\u00f1a, Mexican grocers (byproduct)",
       "inspiration_country": "mexico",
       "category": "grocery-pantry",
-      "us_brand_concept": "FUEGO JUICE - Pickled jalapeño brine for cocktails, marinades, and drinking",
+      "us_brand_concept": "FUEGO JUICE - Pickled jalape\u00f1o brine for cocktails, marinades, and drinking",
       "the_twist": "Bottle the leftover brine (which Mexican grocers give away) as a standalone product. Market as cocktail mixer/marinade/spicy pickle juice alternative. Premium glass bottles.",
       "twist_type": "format-change",
       "target_customer": "Cocktail enthusiasts looking for unique mixers, pickle juice lovers wanting heat, home cooks needing marinades, athletes/hangover cure seekers wanting spicy electrolyte drink.",
-      "description": "In Mexican taquerías, the liquid from pickled jalapeños (escabeche) is prized - people drink it straight or use it in micheladas and marinades. In the US, it's literally thrown away or given free. We'd bottle this vinegary, spicy, slightly sweet brine as a standalone product. Think pickle juice brands (Best Maid, Pickle Juice Sport) but with jalapeño heat. Multiple uses: dirty martini mixer, ceviche marinade, hangover drink, chicken brine.",
+      "description": "In Mexican taquer\u00edas, the liquid from pickled jalape\u00f1os (escabeche) is prized - people drink it straight or use it in micheladas and marinades. In the US, it's literally thrown away or given free. We'd bottle this vinegary, spicy, slightly sweet brine as a standalone product. Think pickle juice brands (Best Maid, Pickle Juice Sport) but with jalape\u00f1o heat. Multiple uses: dirty martini mixer, ceviche marinade, hangover drink, chicken brine.",
       "problem_solved": "Pickle juice brands exist but lack heat. Cocktail mixers are boring. Home cooks need easy marinades. Athletes want electrolytes with flavor. Mexican restaurants throw this gold away.",
-      "us_competitive_landscape": "Pickle juice brands exist (Pickle Juice Sport $4-6, Best Maid brine). ZERO jalapeño brine brands. Closest: pickle brine or jalapeño hot sauce (different product). Total white space.",
+      "us_competitive_landscape": "Pickle juice brands exist (Pickle Juice Sport $4-6, Best Maid brine). ZERO jalape\u00f1o brine brands. Closest: pickle brine or jalape\u00f1o hot sauce (different product). Total white space.",
       "demand_signals": [
         "Pickle juice brands prove market exists",
-        "Spicy drinks trending (spicy margaritas, jalapeño cocktails)",
+        "Spicy drinks trending (spicy margaritas, jalape\u00f1o cocktails)",
         "Home cooking boom needs easy hacks",
         "Dirty martini culture (brine-based cocktails)",
         "Zero competition = first mover advantage"
@@ -478,7 +535,7 @@
       "source_urls": [
         "knowledge"
       ],
-      "manufacturing_path": "EASIEST of all products - it's literally a byproduct of pickled jalapeños. Partner with jalapeño pickle producer (many exist in Texas, California) and bottle their brine. OR make simple brine recipe: vinegar, water, salt, sugar, jalapeño essence. Co-packer or even small-batch bottling. Glass bottles, tamper seals. MOQ 500 bottles trivial.",
+      "manufacturing_path": "EASIEST of all products - it's literally a byproduct of pickled jalape\u00f1os. Partner with jalape\u00f1o pickle producer (many exist in Texas, California) and bottle their brine. OR make simple brine recipe: vinegar, water, salt, sugar, jalape\u00f1o essence. Co-packer or even small-batch bottling. Glass bottles, tamper seals. MOQ 500 bottles trivial.",
       "estimated_cogs_per_unit": 1.5,
       "target_retail_price": 9.0,
       "estimated_margin_multiplier": 6.0,
@@ -500,71 +557,15 @@
       },
       "score_avg": 9.0,
       "risks": [
-        "Might be too niche - not everyone likes jalapeño heat",
+        "Might be too niche - not everyone likes jalape\u00f1o heat",
         "Education needed (people don't know you can drink brine)",
         "Novelty could wear off quickly",
         "Shelf life considerations with vinegar-based product"
       ],
       "first_3_steps": [
         "Make brine at home, test with 20 people (cocktails, marinades, straight), validate use cases",
-        "Find jalapeño pickle producer or co-packer, source bottles, create label design",
+        "Find jalape\u00f1o pickle producer or co-packer, source bottles, create label design",
         "Launch 500-unit test run, heavy cocktail content, measure repeat purchase rate"
-      ]
-    },
-    {
-      "id": "idea_002",
-      "date": "2026-02-15",
-      "inspiration_product": "Peanut Podi (South Indian peanut chutney powder)",
-      "inspiration_brand": "Ramadevi Foods, homemade",
-      "inspiration_country": "india",
-      "category": "condiments-sauces",
-      "us_brand_concept": "NutDust - Savory roasted peanut seasoning blend (the peanut version of Everything Bagel)",
-      "the_twist": "Take peanut podi's roasted peanut + spice concept, remove Indian branding, position as 'savory peanut seasoning' competing with Everything Bagel Seasoning but with protein + nutty richness",
-      "twist_type": "brand-upgrade",
-      "target_customer": "Same customer who buys Everything Bagel Seasoning, Maldon salt, Tajín. People who put seasoning on everything. Bonus: peanut allergy-avoiders can skip, but peanut lovers get a unique option.",
-      "description": "Peanut podi is a South Indian condiment powder made from roasted peanuts, lentils, red chili, garlic, curry leaves, and spices. Mix with oil for instant peanut chutney or sprinkle dry on food. It's intensely savory with nutty depth. No US brand has done 'savory peanut seasoning' - all peanut products are sweet (PB) or whole roasted nuts. This fills the gap between Everything Bagel and actual peanut butter.",
-      "problem_solved": "Everything Bagel Seasoning is ubiquitous but lacks protein and nutty richness. Peanut powder products exist but are all SWEET (PB2, etc). This is the first SAVORY peanut-based seasoning for the US market.",
-      "us_competitive_landscape": "Everything Bagel Seasoning owns the savory-sprinkle space. Trader Joe's sells it, so do 50+ copycat brands. But zero brands have done savory peanut seasoning. Peanut powder (PB2) exists but it's reconstituted peanut butter, not a seasoning. Huge white space.",
-      "demand_signals": [
-        "Everything Bagel Seasoning trend proves appetite for savory sprinkles",
-        "Peanut-forward flavors trending (Thai peanut sauce, peanut noodles)",
-        "Reddit threads asking 'what seasoning should I try after EBT?'",
-        "Umami/savory seasoning blends selling well"
-      ],
-      "source_urls": [
-        "https://www.reddit.com/r/IndianFood/comments/11rzy2f/new_to_podi_share_some_details/",
-        "https://ramadevifoods.com/collections/spicy-powders"
-      ],
-      "manufacturing_path": "Same as PulseFire - US spice co-packer. Source roasted peanut flour/powder (readily available), blend with spices, bottle. Super simple. Could hand-blend first 100 units.",
-      "estimated_cogs_per_unit": 1.75,
-      "target_retail_price": 9.99,
-      "estimated_margin_multiplier": 5.7,
-      "startup_cost_estimate": "$600-$1800 for first 100 units (peanuts slightly more expensive than lentils). $2500-$4000 for first co-packer run.",
-      "go_to_market": "DTC Shopify + Instagram. Positioning: 'The peanut version of Everything Bagel Seasoning.' Show use cases: popcorn, ramen, roasted veg, rice bowls, even peanut butter toast for double peanut hit. Farmer's markets + food festivals.",
-      "google_trends": {
-        "avg": 0,
-        "recent": 0,
-        "trend": "no_data"
-      },
-      "scores": {
-        "demand_proof": 7,
-        "us_gap": 10,
-        "manufacturing_ease": 10,
-        "twist_strength": 8,
-        "margin_potential": 8,
-        "brandability": 9,
-        "low_capital_start": 10
-      },
-      "score_avg": 8.9,
-      "risks": [
-        "Peanut allergies limit addressable market (but also differentiate from Everything Bagel)",
-        "Flavor might be polarizing - need strong sampling/trial strategy",
-        "Shelf life of ground peanuts (oil content) - need nitrogen flush packaging"
-      ],
-      "first_3_steps": [
-        "Make 3 test batches: mild, medium, spicy. Blind taste test with 15 people who love Everything Bagel Seasoning",
-        "Create basic branding mockups in Canva, order 50 sample bottles + labels",
-        "Set up Shopify store, film 10 TikToks showing use cases, post 1/day for 10 days to test engagement"
       ]
     }
   ]
