@@ -16,9 +16,9 @@
       "ideas": 15
     },
     {
-      "candidates": 67,
+      "candidates": 89,
       "discoveries": 3,
-      "ideas": 6
+      "ideas": 10
     },
     {
       "candidates": 79,
@@ -157,13 +157,13 @@
     }
   ],
   "categories_recent": [
-    "condiments-sauces",
     "grocery-pantry",
     "fitness",
     "kitchen",
-    "health-wellness"
+    "health-wellness",
+    "snacks-candy"
   ],
-  "total_candidates": 2527,
+  "total_candidates": 2549,
   "total_discoveries": 69,
-  "total_ideas": 285
+  "total_ideas": 289
 }
