@@ -704,3 +704,20 @@
 {"product_name": "pH-Balanced Cleanser", "country": "south_korea", "reason": "strong_import_presence", "date": "2026-02-25", "notes": "COSRX Low pH Good Morning, Klairs Rich Moist — K-beauty staples"}
 {"product_name": "Skin Barrier Cream", "country": "south_korea", "reason": "strong_import_presence", "date": "2026-02-25", "notes": "Etude House Soon Jung, Purito well-established"}
 {"product_name": "Milk/Water-Based Peeling Toner with AHA/BHA/PHA", "country": "south_korea", "reason": "strong_import_presence", "date": "2026-02-25", "notes": "Some By Mi AHA BHA PHA toner popular, plus US brand Paula's Choice dominates chemical exfoliation space"}
+{"product_name":"Replaceable-Head Dish Brush System","country":"sweden","reason":"us_brand_exists","date":"2026-02-25","notes":"Multiple US brands (CELOX, OXO, Scotch-Brite) already sell replaceable head systems. No brand gap."}
+{"product_name":"Swedish Dishcloths (Disktrasor)","country":"sweden","reason":"strong_import_presence","date":"2026-02-25","notes":"Already widely available on Amazon with established brands. Market saturated."}
+{"product_name":"Berry Picker Hand Scoop","country":"sweden","reason":"us_brand_exists","date":"2026-02-25","notes":"Multiple berry picker scoops available on Amazon, well-established product category."}
+{"product_name":"Osthyvel Cheese Slicer","country":"sweden","reason":"us_brand_exists","date":"2026-02-25","notes":"Wire cheese slicers common in US market (Bjorklund, others)."}
+{"product_name":"Plättlagg Swedish Pancake Pan","country":"sweden","reason":"us_brand_exists","date":"2026-02-25","notes":"Small pancake pans (aebleskiver) already available, niche product."}
+{"product_name":"Swedish Bench Scraper (Degskrapa)","country":"sweden","reason":"us_brand_exists","date":"2026-02-25","notes":"Bench scrapers widely available for baking/sourdough community."}
+{"product_name":"Lingonberry Whisk (Visp)","country":"sweden","reason":"too_niche","date":"2026-02-25","notes":"Too specialized, limited US market for jam-specific whisk."}
+{"product_name":"Smörgåstårta Cake Slicer","country":"sweden","reason":"us_brand_exists","date":"2026-02-25","notes":"Cake levelers already common in US baking market."}
+{"product_name":"Potato Ricer (Potatispress)","country":"sweden","reason":"us_brand_exists","date":"2026-02-25","notes":"OXO and other brands sell potato ricers widely in US."}
+{"product_name":"Herring Serving Dish Set","country":"sweden","reason":"cultural_only","date":"2026-02-25","notes":"Repositioning as charcuterie dish too generic, herring not popular in US."}
+{"product_name":"Knäckebröd Storage Tube","country":"sweden","reason":"too_niche","date":"2026-02-25","notes":"Too specific to one product type, limited addressable market."}
+{"product_name":"Meatball Former Tool","country":"sweden","reason":"us_brand_exists","date":"2026-02-25","notes":"IKEA and others sell meatball formers. Market covered."}
+{"product_name":"Swedish Dough Docker (Kakgaffel)","country":"sweden","reason":"us_brand_exists","date":"2026-02-25","notes":"Dough dockers widely available for baking community."}
+{"product_name":"Ättiksprit Cleaning Vinegar Spray","country":"sweden","reason":"not_kitchen","date":"2026-02-25","notes":"Cleaning product, not kitchen tool. Out of scope."}
+{"product_name":"Fish Skin Scraper","country":"sweden","reason":"us_brand_exists","date":"2026-02-25","notes":"Fish scale scrapers widely available on Amazon ($5-10), hundreds of reviews."}
+{"product_name":"Preserved Lemon Weight Kit","country":"sweden","reason":"covered_by_fermentation_kit","date":"2026-02-25","notes":"Integrated into CultureKit brand idea (idea_268) as fermentation weights."}
+{"product_name":"Butter Curler/Roller","country":"sweden","reason":"too_niche","date":"2026-02-25","notes":"Very niche presentation tool, limited market outside high-end restaurants."}
