@@ -1047,3 +1047,18 @@
 {"product_name":"Loomi Dried Black Lime","country":"egypt","reason":"marginal","date":"2026-02-26","notes":"Niche culinary ingredient, hard to position as standalone health product"}
 {"product_name":"Salameki Senna Cleanse Tea","country":"egypt","reason":"us_brand_exists","date":"2026-02-26","notes":"Smooth Move and other senna laxative teas already exist"}
 {"product_name":"Kozbara Coriander Seed Tea","country":"egypt","reason":"marginal","date":"2026-02-26","notes":"Too niche, coriander available but not popular as tea"}
+{"product_name": "Washing Machine Cleaner Powder Sachets", "country": "south_korea", "reason": "us_brand_exists", "date": "2026-02-26", "notes": "Tide and multiple Amazon brands already dominate this category with powder sachets/tablets"}
+{"product_name": "Purier Fruit & Vegetable Wash", "country": "south_korea", "reason": "us_brand_exists", "date": "2026-02-26", "notes": "Veggie Wash, FIT Organic, Whole Foods 365 brand already established - commoditized market"}
+{"product_name": "LG Tech Wool Dry Specialty Wash", "country": "south_korea", "reason": "us_brand_exists", "date": "2026-02-26", "notes": "Woolite and The Laundress already own specialty fabric care market"}
+{"product_name": "Homestar Bathroom Glass Cleaner Spray", "country": "south_korea", "reason": "us_brand_exists", "date": "2026-02-26", "notes": "Hundreds of bathroom cleaners exist - no clear differentiation opportunity"}
+{"product_name": "Korean Refrigerator Deodorizer Sachets", "country": "south_korea", "reason": "us_brand_exists", "date": "2026-02-26", "notes": "Arm & Hammer and multiple brands already make fridge deodorizers"}
+{"product_name": "Korean Drain Cleaner with Anti-Snake Tool", "country": "south_korea", "reason": "us_brand_exists", "date": "2026-02-26", "notes": "Drano, Liquid Plumber dominate; snake tools widely available"}
+{"product_name": "Muro Aqua Bathroom Cleaner", "country": "south_korea", "reason": "us_brand_exists", "date": "2026-02-26", "notes": "Method, Seventh Generation, Mrs. Meyer's already own natural bathroom cleaner space"}
+{"product_name": "Multi-Surface Disinfectant Wipes", "country": "south_korea", "reason": "us_brand_exists", "date": "2026-02-26", "notes": "Clorox, Lysol, seventh Generation saturate this market"}
+{"product_name": "Korean Electric Spin Scrubber", "country": "south_korea", "reason": "too_complex", "date": "2026-02-26", "notes": "Electronics require higher capital, QA complexity, customer support - out of scope for simple brand"}
+{"product_name": "Carpet Spot Stain Remover", "country": "south_korea", "reason": "us_brand_exists", "date": "2026-02-26", "notes": "Resolve, OxiClean, Nature's Miracle already dominate carpet stain category"}
+{"product_name": "Cutting Board Bleach Gel", "country": "south_korea", "reason": "us_brand_exists", "date": "2026-02-26", "notes": "Clorox makes specialized versions; small niche market"}
+{"product_name": "Fine Dust Sticky Roller Refills", "country": "south_korea", "reason": "us_brand_exists", "date": "2026-02-26", "notes": "Lint rollers widely available; no meaningful differentiation"}
+{"product_name": "Laundry Soap Powder with Baking Soda", "country": "south_korea", "reason": "us_brand_exists", "date": "2026-02-26", "notes": "Arm & Hammer and eco-friendly powder brands already exist"}
+{"product_name": "Herbal Toilet Deodorizer Spray", "country": "south_korea", "reason": "us_brand_exists", "date": "2026-02-26", "notes": "Poo-Pourri and many bathroom sprays exist"}
+{"product_name": "Silicone-Safe Mold Gel", "country": "south_korea", "reason": "us_brand_exists", "date": "2026-02-26", "notes": "Homestar mold gel already in ideas list; Clorox Mold & Mildew exists"}
