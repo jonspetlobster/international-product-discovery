@@ -1080,3 +1080,19 @@
 {"product_name": "Israeli Window Cleaning Spray", "country": "israel", "reason": "us_brand_exists", "date": "2026-02-26", "notes": "Window cleaners saturated category - Windex dominates"}
 {"product_name": "LESS-labs Concentrated Cleaning Capsules", "country": "israel", "reason": "strong_import_presence", "date": "2026-02-26", "notes": "LESS-labs already pursuing eco-market - Blueland and similar US brands already established"}
 {"product_name": "Israeli Hard Water Vinegar Descaler", "country": "israel", "reason": "low_differentiation", "date": "2026-02-26", "notes": "Vinegar cleaning products already widely available in US"}
+{"product_name":"BetterYou Spray Vitamins","country":"uk","reason":"strong_import_presence","date":"2026-02-26","notes":"BetterYou already has US website and Amazon presence. Not a gap."}
+{"product_name":"Altruist Sunscreen SPF","country":"uk","reason":"strong_import_presence","date":"2026-02-26","notes":"Available on Amazon US. Dermatologist sunscreen market has La Roche Posay, EltaMD, CeraVe."}
+{"product_name":"HABI Lion's Mane Gummies","country":"uk","reason":"us_brand_exists","date":"2026-02-26","notes":"Mushroom gummy market saturated in US: Fungies, OM Mushroom, DIRTEA, Fundamental Fungi, etc."}
+{"product_name":"Modern Chemistry Lion's Mane Capsules","country":"uk","reason":"us_brand_exists","date":"2026-02-26","notes":"See above — mushroom supplements flooded on Amazon."}
+{"product_name":"Cytoplan Wholefood Supplements","country":"uk","reason":"us_brand_exists","date":"2026-02-26","notes":"US already has MegaFood, Garden of Life, New Chapter doing whole-food supplements. Crowded."}
+{"product_name":"Solgar UK Supplements","country":"uk","reason":"us_brand_exists","date":"2026-02-26","notes":"Solgar is already available in US."}
+{"product_name":"HABI Ashwagandha Gummies","country":"uk","reason":"us_brand_exists","date":"2026-02-26","notes":"Ashwagandha gummies widely available in US — Goli, Olly, etc."}
+{"product_name":"Humantra Electrolyte Sachets","country":"uk","reason":"us_brand_exists","date":"2026-02-26","notes":"Liquid IV, LMNT, Nuun dominate US electrolyte market. Very crowded."}
+{"product_name":"Boots Marine Collagen Gummies","country":"uk","reason":"us_brand_exists","date":"2026-02-26","notes":"Collagen gummies saturated — Vital Proteins, Sports Research, NeoCell, etc."}
+{"product_name":"Gold Collagen Forte Ageless","country":"uk","reason":"high_capital","date":"2026-02-26","notes":"Liquid collagen shots require co-packer with aseptic fill, glass bottles expensive, high MOQ."}
+{"product_name":"Together Health Q10 Supplements","country":"uk","reason":"us_brand_exists","date":"2026-02-26","notes":"CoQ10 widely available in US — Qunol, Jarrow, Doctor's Best, etc."}
+{"product_name":"Igennus High Strength B12","country":"uk","reason":"us_brand_exists","date":"2026-02-26","notes":"High-strength B12 available from many US brands — Jarrow, Solgar, Nature Made, etc."}
+{"product_name":"Nutriadvanced Professional Supplements","country":"uk","reason":"us_brand_exists","date":"2026-02-26","notes":"Professional-grade supplements exist via Thorne, Pure Encapsulations, Designs for Health."}
+{"product_name":"Modern Chemistry Hydrating Serum with Ashwagandha","country":"uk","reason":"too_complex","date":"2026-02-26","notes":"Skincare formulation with adaptogens is interesting but requires cosmetic chemist, stability testing, FDA compliance. Not simple enough for solo founder."}
+{"product_name":"Boots Good Gut Bacteria Capsules","country":"uk","reason":"us_brand_exists","date":"2026-02-26","notes":"Probiotic capsules saturated — Culturelle, Align, Garden of Life, Seed, etc."}
+{"product_name":"Loadedwater Trend","country":"uk","reason":"too_complex","date":"2026-02-26","notes":"Functional water is dominated by big brands (BodyArmor, Gatorade, Vitamin Water). Beverage business requires massive capital and distribution."}

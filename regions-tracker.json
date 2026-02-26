@@ -56,8 +56,8 @@
       "discoveries": 0
     },
     "uk": {
-      "candidates": 65,
-      "ideas": 9,
+      "candidates": 85,
+      "ideas": 13,
       "discoveries": 0
     },
     "france": {
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "cleaning",
     "bathroom",
     "kitchen",
     "outdoor-garden",
-    "personal-care"
+    "personal-care",
+    "health-wellness"
   ],
-  "total_candidates": 2996,
-  "total_ideas": 361,
+  "total_candidates": 3016,
+  "total_ideas": 365,
   "total_discoveries": 0
 }
