@@ -111,8 +111,8 @@
       "discoveries": 0
     },
     "kenya": {
-      "candidates": 71,
-      "ideas": 10,
+      "candidates": 91,
+      "ideas": 15,
       "discoveries": 0
     },
     "south_africa": {
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "bathroom",
     "kitchen",
     "outdoor-garden",
     "personal-care",
-    "health-wellness"
+    "health-wellness",
+    "grocery-pantry"
   ],
-  "total_candidates": 3016,
-  "total_ideas": 365,
+  "total_candidates": 3036,
+  "total_ideas": 370,
   "total_discoveries": 0
 }
