@@ -141,9 +141,9 @@
       "ideas": 8
     },
     {
-      "candidates": 66,
+      "candidates": 88,
       "discoveries": 3,
-      "ideas": 6
+      "ideas": 9
     },
     {
       "candidates": 79,
@@ -157,13 +157,13 @@
     }
   ],
   "categories_recent": [
-    "pet",
     "drinkware-barware",
     "kitchen",
     "health-wellness",
-    "organizing-storage"
+    "organizing-storage",
+    "personal-care"
   ],
-  "total_candidates": 2678,
+  "total_candidates": 2700,
   "total_discoveries": 69,
-  "total_ideas": 310
+  "total_ideas": 313
 }
