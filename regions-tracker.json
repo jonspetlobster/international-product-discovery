@@ -101,9 +101,9 @@
       "ideas": 11
     },
     {
-      "candidates": 71,
+      "candidates": 93,
       "discoveries": 0,
-      "ideas": 10
+      "ideas": 14
     },
     {
       "candidates": 81,
@@ -157,13 +157,13 @@
     }
   ],
   "categories_recent": [
-    "personal-care",
     "snacks-candy",
     "bathroom",
     "fitness",
-    "kitchen"
+    "kitchen",
+    "outdoor-garden"
   ],
-  "total_candidates": 2826,
+  "total_candidates": 2848,
   "total_discoveries": 69,
-  "total_ideas": 331
+  "total_ideas": 335
 }
