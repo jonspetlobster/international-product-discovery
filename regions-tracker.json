@@ -1,9 +1,9 @@
 {
   "regions": [
     {
-      "candidates": 97,
+      "candidates": 119,
       "discoveries": 1,
-      "ideas": 9
+      "ideas": 13
     },
     {
       "candidates": 84,
@@ -157,13 +157,13 @@
     }
   ],
   "categories_recent": [
-    "grocery-pantry",
     "fitness",
     "kitchen",
     "health-wellness",
-    "snacks-candy"
+    "snacks-candy",
+    "personal-care"
   ],
-  "total_candidates": 2549,
+  "total_candidates": 2571,
   "total_discoveries": 69,
-  "total_ideas": 289
+  "total_ideas": 293
 }
