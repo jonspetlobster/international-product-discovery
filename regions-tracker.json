@@ -157,13 +157,13 @@
     }
   ],
   "categories_recent": [
-    "bathroom",
     "personal-care",
     "condiments-sauces",
     "grocery-pantry",
-    "fitness"
+    "fitness",
+    "kitchen"
   ],
-  "total_candidates": 2485,
+  "total_candidates": 2505,
   "total_discoveries": 69,
-  "total_ideas": 279
+  "total_ideas": 282
 }
