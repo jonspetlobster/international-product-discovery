@@ -11,9 +11,9 @@
       "ideas": 8
     },
     {
-      "candidates": 101,
+      "candidates": 121,
       "discoveries": 0,
-      "ideas": 12
+      "ideas": 15
     },
     {
       "candidates": 67,
@@ -157,13 +157,13 @@
     }
   ],
   "categories_recent": [
-    "snacks-candy",
     "health-wellness",
     "stationery",
     "bathroom",
-    "personal-care"
+    "personal-care",
+    "condiments-sauces"
   ],
-  "total_candidates": 2365,
+  "total_candidates": 2385,
   "total_discoveries": 69,
-  "total_ideas": 255
+  "total_ideas": 258
 }
