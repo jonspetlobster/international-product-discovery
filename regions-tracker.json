@@ -21,9 +21,9 @@
       "ideas": 10
     },
     {
-      "candidates": 79,
+      "candidates": 101,
       "discoveries": 2,
-      "ideas": 10
+      "ideas": 13
     },
     {
       "candidates": 78,
@@ -157,13 +157,13 @@
     }
   ],
   "categories_recent": [
-    "organizing-storage",
     "personal-care",
     "snacks-candy",
     "bathroom",
-    "fitness"
+    "fitness",
+    "grocery-pantry"
   ],
-  "total_candidates": 2762,
+  "total_candidates": 2784,
   "total_discoveries": 69,
-  "total_ideas": 322
+  "total_ideas": 325
 }
