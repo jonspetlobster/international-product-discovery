@@ -121,9 +121,9 @@
       "ideas": 6
     },
     {
-      "candidates": 66,
+      "candidates": 88,
       "discoveries": 1,
-      "ideas": 6
+      "ideas": 9
     },
     {
       "candidates": 81,
@@ -157,13 +157,13 @@
     }
   ],
   "categories_recent": [
-    "condiments-sauces",
     "personal-care",
     "snacks-candy",
     "bathroom",
-    "fitness"
+    "fitness",
+    "kitchen"
   ],
-  "total_candidates": 2804,
+  "total_candidates": 2826,
   "total_discoveries": 69,
-  "total_ideas": 328
+  "total_ideas": 331
 }
