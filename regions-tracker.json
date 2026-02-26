@@ -151,19 +151,19 @@
       "ideas": 11
     },
     {
-      "candidates": 40,
+      "candidates": 60,
       "discoveries": 0,
-      "ideas": 3
+      "ideas": 7
     }
   ],
   "categories_recent": [
-    "stationery",
     "bathroom",
     "personal-care",
     "condiments-sauces",
-    "grocery-pantry"
+    "grocery-pantry",
+    "fitness"
   ],
-  "total_candidates": 2465,
+  "total_candidates": 2485,
   "total_discoveries": 69,
-  "total_ideas": 275
+  "total_ideas": 279
 }
