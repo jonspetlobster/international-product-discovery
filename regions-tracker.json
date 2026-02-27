@@ -121,8 +121,8 @@
       "discoveries": 0
     },
     "australia": {
-      "candidates": 88,
-      "ideas": 9,
+      "candidates": 110,
+      "ideas": 12,
       "discoveries": 0
     },
     "new_zealand": {
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "snacks-candy",
     "baby-kids",
     "kitchen",
     "personal-care",
-    "health-wellness"
+    "health-wellness",
+    "cleaning"
   ],
-  "total_candidates": 3174,
-  "total_ideas": 390,
+  "total_candidates": 3196,
+  "total_ideas": 393,
   "total_discoveries": 0
 }
