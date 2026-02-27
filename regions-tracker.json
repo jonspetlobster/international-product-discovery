@@ -116,8 +116,8 @@
       "discoveries": 0
     },
     "south_africa": {
-      "candidates": 116,
-      "ideas": 12,
+      "candidates": 136,
+      "ideas": 15,
       "discoveries": 0
     },
     "australia": {
@@ -152,14 +152,14 @@
     }
   },
   "categories_recent": [
-    "condiments-sauces",
     "snacks-candy",
     "grocery-pantry",
     "organizing-storage",
-    "kitchen"
+    "kitchen",
+    "personal-care"
   ],
-  "total_candidates": 3981,
-  "total_ideas": 500,
+  "total_candidates": 4001,
+  "total_ideas": 503,
   "total_discoveries": 0,
-  "total_rejected": 1380
+  "total_rejected": 1397
 }
