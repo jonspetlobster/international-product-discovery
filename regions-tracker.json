@@ -131,8 +131,8 @@
       "discoveries": 0
     },
     "israel": {
-      "candidates": 114,
-      "ideas": 12,
+      "candidates": 134,
+      "ideas": 15,
       "discoveries": 0
     },
     "egypt": {
@@ -152,14 +152,14 @@
     }
   },
   "categories_recent": [
-    "personal-care",
     "condiments-sauces",
     "snacks-candy",
     "grocery-pantry",
-    "organizing-storage"
+    "organizing-storage",
+    "kitchen"
   ],
-  "total_candidates": 3961,
-  "total_ideas": 497,
+  "total_candidates": 3981,
+  "total_ideas": 500,
   "total_discoveries": 0,
-  "total_rejected": 1379
+  "total_rejected": 1380
 }
