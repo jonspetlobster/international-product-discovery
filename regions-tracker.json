@@ -146,19 +146,19 @@
       "discoveries": 0
     },
     "singapore": {
-      "candidates": 99,
-      "ideas": 11,
+      "candidates": 119,
+      "ideas": 16,
       "discoveries": 0
     }
   },
   "categories_recent": [
-    "personal-care",
     "cleaning",
     "health-wellness",
     "stationery",
-    "snacks-candy"
+    "snacks-candy",
+    "kitchen"
   ],
-  "total_candidates": 3375,
-  "total_ideas": 427,
+  "total_candidates": 3395,
+  "total_ideas": 432,
   "total_discoveries": 0
 }
