@@ -1134,3 +1134,18 @@
 {"product_name": "Peri-Peri Sauce (SA Version)", "country": "south_africa", "reason": "us_brand_exists", "date": "2026-02-26", "notes": "Nando's already dominates this space"}
 {"product_name": "Biltong Spice Mix", "country": "south_africa", "reason": "too_complex", "date": "2026-02-26", "notes": "Requires meat curing knowledge, legal issues with raw meat products"}
 {"product_name": "Monkey Gland Sauce (standalone)", "country": "south_africa", "reason": "validated_separately", "date": "2026-02-26", "notes": "Good but ranked #5, didn't make final cut"}
+{"product_name": "Alpargata Oven Mitts", "country": "argentina", "reason": "niche_material", "date": "2026-02-26", "notes": "Interesting textile concept but canvas oven mitts exist, hard to differentiate from existing brands"}
+{"product_name": "Parrilla Grease Catcher Tray", "country": "argentina", "reason": "crowded_space", "date": "2026-02-26", "notes": "Drip pans for grills are commodity items, too much competition at low price points"}
+{"product_name": "Achuras Preparation Board", "country": "argentina", "reason": "too_niche", "date": "2026-02-26", "notes": "Offal preparation is too small a market in US, specialty cutting boards exist"}
+{"product_name": "Facón Kitchen Knife", "country": "argentina", "reason": "crowded_space", "date": "2026-02-26", "notes": "Chef knife market is brutally competitive, hard to differentiate without major capital"}
+{"product_name": "Tablita Serving Boards", "country": "argentina", "reason": "crowded_space", "date": "2026-02-26", "notes": "Wooden serving boards are everywhere, no meaningful differentiation from existing options"}
+{"product_name": "Mate Cleaning Brush Set", "country": "argentina", "reason": "too_niche", "date": "2026-02-26", "notes": "Market limited to mate drinkers, twist to general drinkware cleaning is weak"}
+{"product_name": "Churrasco Knife Block", "country": "argentina", "reason": "crowded_space", "date": "2026-02-26", "notes": "Knife storage is commodity, magnetic strips and blocks exist in every price range"}
+{"product_name": "Salsa Criolla Prep Kit", "country": "argentina", "reason": "weak_demand", "date": "2026-02-26", "notes": "Salsa criolla is too unknown in US, hard to create demand for unknown condiment"}
+{"product_name": "Asado Serving Knife Rest", "country": "argentina", "reason": "too_simple", "date": "2026-02-26", "notes": "Knife rests exist, hard to build brand around such simple item"}
+{"product_name": "Fernet Measuring Cup", "country": "argentina", "reason": "too_niche", "date": "2026-02-26", "notes": "Fernet culture doesn't exist in US outside niche communities, general cocktail measure already covered"}
+{"product_name": "Facturas Serving Tray", "country": "argentina", "reason": "crowded_space", "date": "2026-02-26", "notes": "Bread baskets and pastry trays are commodity items, no gap"}
+{"product_name": "Carbonada Pumpkin Server", "country": "argentina", "reason": "too_niche", "date": "2026-02-26", "notes": "Carbonada is unknown in US, seasonal serving dishes exist"}
+{"product_name": "Pizza de Cancha Cutter", "country": "argentina", "reason": "marginal_improvement", "date": "2026-02-26", "notes": "Pizza rocker blades exist for thick pizzas, hard to differentiate"}
+{"product_name": "Milanesa Meat Tenderizer", "country": "argentina", "reason": "crowded_space", "date": "2026-02-26", "notes": "Meat mallets are commodity kitchen items, hard to build premium brand"}
+{"product_name": "Vino Patero Aerator Jug", "country": "argentina", "reason": "crowded_space", "date": "2026-02-26", "notes": "Wine aerators and decanters are everywhere, saturated market"}
