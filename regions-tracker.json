@@ -26,8 +26,8 @@
       "discoveries": 0
     },
     "vietnam": {
-      "candidates": 118,
-      "ideas": 18,
+      "candidates": 140,
+      "ideas": 21,
       "discoveries": 0
     },
     "philippines": {
@@ -152,14 +152,14 @@
     }
   },
   "categories_recent": [
-    "snacks-candy",
     "grocery-pantry",
     "organizing-storage",
     "kitchen",
-    "personal-care"
+    "personal-care",
+    "cleaning"
   ],
-  "total_candidates": 4001,
-  "total_ideas": 503,
+  "total_candidates": 4023,
+  "total_ideas": 506,
   "total_discoveries": 0,
-  "total_rejected": 1397
+  "total_rejected": 1401
 }
