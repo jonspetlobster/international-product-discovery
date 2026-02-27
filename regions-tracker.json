@@ -101,8 +101,8 @@
       "discoveries": 0
     },
     "argentina": {
-      "candidates": 113,
-      "ideas": 19,
+      "candidates": 137,
+      "ideas": 23,
       "discoveries": 0
     },
     "morocco": {
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "personal-care",
     "condiments-sauces",
     "snacks-candy",
     "grocery-pantry",
-    "organizing-storage"
+    "organizing-storage",
+    "cleaning"
   ],
-  "total_candidates": 3721,
-  "total_ideas": 490,
+  "total_candidates": 3745,
+  "total_ideas": 494,
   "total_discoveries": 0
 }
