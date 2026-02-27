@@ -1,8 +1,8 @@
 {
   "regions": {
     "japan": {
-      "candidates": 119,
-      "ideas": 13,
+      "candidates": 142,
+      "ideas": 14,
       "discoveries": 0
     },
     "south_korea": {
@@ -152,14 +152,14 @@
     }
   },
   "categories_recent": [
-    "grocery-pantry",
     "organizing-storage",
     "kitchen",
     "personal-care",
-    "cleaning"
+    "cleaning",
+    "fitness"
   ],
-  "total_candidates": 4023,
-  "total_ideas": 506,
+  "total_candidates": 4046,
+  "total_ideas": 507,
   "total_discoveries": 0,
-  "total_rejected": 1401
+  "total_rejected": 1404
 }

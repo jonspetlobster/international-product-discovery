@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-27 14:54",
-  "total_ideas": 483,
-  "total_candidates_evaluated": 4023,
-  "total_rejected": 1401,
+  "generated": "2026-02-27 15:22",
+  "total_ideas": 484,
+  "total_candidates_evaluated": 4046,
+  "total_rejected": 1404,
   "top10": [
     {
       "id": "idea_284",
@@ -59,171 +59,6 @@
         "1. Order horsetail silica samples, test formulation (capsule vs. powder), nail down COGs with co-packer",
         "2. Build killer TikTok-ready brand (name, packaging, story: 'the European beauty secret US brands don't want you to know')",
         "3. Pre-launch with 50-100 influencer gifting (micro beauty influencers), collect UGC testimonials, launch DTC with waitlist strategy"
-      ]
-    },
-    {
-      "id": "idea_112",
-      "date": "2026-02-16",
-      "inspiration_product": "Bala Baiana (Bala de Vidro)",
-      "inspiration_brand": "Various artisan makers",
-      "inspiration_country": "brazil",
-      "category": "snacks-candy",
-      "us_brand_concept": "TikTok-native coconut candy brand with viral marketing, premium packaging, and gift-ready presentation",
-      "the_twist": "Take the viral TikTok recipe and commercialize it as a premium DTC brand - like what Chamberlain Coffee did for coffee. Target TikTok/Instagram audience, position as 'the candy that broke the internet', use influencer seeding strategy",
-      "twist_type": "brand-upgrade",
-      "target_customer": "Gen Z/Millennial women, 18-35, active on TikTok/Instagram, buy trendy food products, gift-givers, sweet snackers",
-      "description": "Bala Baiana (glass candy) is a Brazilian coconut candy with a hard caramelized sugar shell and creamy coconut center. It went VIRAL on TikTok with millions of views of DIY recipe videos. Despite massive organic demand, there is NO branded US product - only homemade versions. The concept is simple: condensed milk + coconut filling, hard sugar coating. Manufacturing is straightforward (confectionery co-packer). This is a classic 'viral demand meets zero supply' opportunity.",
-      "problem_solved": "People want the viral candy but don't want to make it at home (hot caramel is dangerous, time-consuming). No one is selling a ready-made version. Also solves gifting - these look beautiful and unique.",
-      "us_competitive_landscape": "ZERO branded competitors. Coconut candy exists (Raffaello, Bounty) but nothing with the hard sugar shell. Closest is homemade TikTok recipes. No one has commercialized this yet.",
-      "demand_signals": [
-        "Multiple TikTok videos with 50K+ likes showing recipe",
-        "DIY recipe site traffic (easyanddelish, jenaroundtheworld)",
-        "Comments asking 'where can I buy these?'",
-        "Compared to Tanghulu (another viral candy) in virality potential"
-      ],
-      "source_urls": [
-        "https://www.tiktok.com/@meiralaryssa/video/7302508702433643818",
-        "https://www.easyanddelish.com/glass-bonbons/"
-      ],
-      "manufacturing_path": "Confectionery co-packer specializing in hard candy + soft centers (similar to chocolate-covered caramels). OR start with commercial kitchen + hand production for first 500 units, then scale to co-packer. Simple equipment: industrial mixer, enrober for sugar coating.",
-      "estimated_cogs_per_unit": 0.35,
-      "target_retail_price": 2.5,
-      "estimated_margin_multiplier": 7.1,
-      "startup_cost_estimate": "$3K - $8K for first run (500-1000 units), basic branding, Shopify site, influencer samples",
-      "go_to_market": "1) Influencer seeding on TikTok (send free samples to food influencers who already posted the recipe), 2) Shopify DTC with TikTok Shop integration, 3) Instagram-worthy packaging for gifting angle, 4) Farmers markets / local pop-ups to test, 5) Eventually Amazon FBA once proven",
-      "google_trends": {
-        "avg": 0,
-        "recent": 0,
-        "trend": "no_data"
-      },
-      "scores": {
-        "demand_proof": 9,
-        "us_gap": 10,
-        "manufacturing_ease": 8,
-        "twist_strength": 9,
-        "margin_potential": 9,
-        "brandability": 10,
-        "low_capital_start": 9
-      },
-      "score_avg": 9.14,
-      "risks": [
-        "Viral trends fade - need to move FAST (launch within 3 months)",
-        "Sugar coating can be tricky at scale (quality control)",
-        "Shelf life - fresh candy has shorter shelf life than packaged candy",
-        "Copycats could emerge quickly once you prove the concept"
-      ],
-      "first_3_steps": [
-        "1) Make 50 units at home to nail the recipe and packaging - test with friends, post on Instagram to gauge interest",
-        "2) Find confectionery co-packer via Maker's Row or local food incubators - get quote for 500-unit run with custom packaging",
-        "3) Create brand identity (name, logo, story), build Shopify site, reach out to 20 TikTok food influencers who posted the recipe and offer free samples in exchange for honest review"
-      ]
-    },
-    {
-      "id": "idea_156",
-      "date": "2026-02-16",
-      "inspiration_product": "Terre de Sommi\u00e8res Stain Absorbent Powder",
-      "inspiration_brand": "Marius Fabre, Starwax",
-      "inspiration_country": "france",
-      "category": "laundry-clothing",
-      "us_brand_concept": "EcoLift - Premium natural clay stain absorber for eco-conscious consumers who want chemical-free spot treatment",
-      "the_twist": "Modern minimal glass jar packaging with shaker top, TikTok-ready demos, influencer marketing targeting luxury eco segment instead of industrial/utilitarian positioning",
-      "twist_type": "brand-upgrade",
-      "target_customer": "Eco-conscious millennials and Gen Z with nice furniture/clothing who want natural cleaning solutions. People who follow zero-waste influencers.",
-      "description": "Terre de Sommi\u00e8res is a natural magnesium silicate clay powder used in France for centuries to absorb grease, oil, and liquid stains from fabric, carpet, and leather without water. You sprinkle it on the stain, let it sit, brush it off. It's beloved in France but unknown in the US. Our version rebrands this miracle powder with modern packaging, clear use-case marketing (wine spills, makeup stains, grease spots), and social-first content strategy.",
-      "problem_solved": "Immediate stain treatment without harsh chemicals, water, or scrubbing. Perfect for dry-clean-only items, leather, or quick fixes when you can't wash immediately.",
-      "us_competitive_landscape": "No branded consumer product exists. Fuller's Earth is available in bulk/industrial quantities but not marketed to consumers. Spray stain removers (Shout, OxiClean) require water and chemicals. Zero-waste brands (Blueland, Branch Basics) don't have a dry stain solution.",
-      "demand_signals": [
-        "French expats rave about it in zero-waste forums",
-        "Natural cleaning TikTok trend growing",
-        "Luxury eco-home segment expanding"
-      ],
-      "source_urls": [
-        "knowledge-based"
-      ],
-      "manufacturing_path": "Source magnesium silicate clay from specialized suppliers (available in US and France). Partner with small-batch co-packer to fill glass jars with shaker tops. Add custom labels. Very simple product, no formulation needed.",
-      "estimated_cogs_per_unit": 1.5,
-      "target_retail_price": 22.0,
-      "estimated_margin_multiplier": 14.7,
-      "startup_cost_estimate": "$3,000 - $5,000 for first 500-unit run plus branding/photography",
-      "go_to_market": "Shopify DTC with strong Instagram/TikTok content showing before-after demos. Seed with eco-influencers. Subscription option for refills. Expand to boutique home stores.",
-      "google_trends": {
-        "avg": 0,
-        "recent": 0,
-        "trend": "no_data"
-      },
-      "scores": {
-        "demand_proof": 7,
-        "us_gap": 10,
-        "manufacturing_ease": 10,
-        "twist_strength": 8,
-        "margin_potential": 10,
-        "brandability": 9,
-        "low_capital_start": 10
-      },
-      "score_avg": 9.14,
-      "risks": [
-        "Consumer education needed - product is unfamiliar",
-        "Clay sourcing quality consistency",
-        "Perceived as 'just dirt' if branding fails"
-      ],
-      "first_3_steps": [
-        "1. Source 50lb bulk magnesium silicate clay sample and test on various stains (wine, oil, makeup)",
-        "2. Create TikTok account and post 10 stain-removal demos to validate content resonance",
-        "3. Order 500 glass jars with shaker tops and custom labels from packaging supplier"
-      ]
-    },
-    {
-      "id": "idea_158",
-      "date": "2026-02-16",
-      "inspiration_product": "French Linen Water (Eau de Linge)",
-      "inspiration_brand": "Various French artisanal brands",
-      "inspiration_country": "france",
-      "category": "laundry-clothing",
-      "us_brand_concept": "Maison Mist - Luxury scented linen spray collection that combines wrinkle release with closet freshening and aromatherapy",
-      "the_twist": "Position as luxury closet/drawer fragrance that happens to help with wrinkles, not just ironing water. Create seasonal fragrance collections (not just lavender). Subscription model with quarterly new scents. Modern apothecary branding.",
-      "twist_type": "brand-upgrade",
-      "target_customer": "Women 25-45 who care about home aesthetics and follow home organization influencers. People who buy Diptyque candles and Le Labo fragrances. Not targeting people who iron regularly - targeting people who want their closet to smell amazing.",
-      "description": "French linen water is a lightly scented spray used while ironing to make clothes smell fresh and release wrinkles. In France it's an everyday luxury. Our version reframes it as a luxury closet fragrance that also fights wrinkles. Spray on hanging clothes, bedding, towels. Beautiful bottle design, premium fragrances developed with perfumers, seasonal collections. It's the fragrance category meets laundry care.",
-      "problem_solved": "Closet/drawer freshening without heavy fabric sprays or chemical air fresheners. Light wrinkle release for clothes that sat in drawers. Aromatherapy benefit while getting dressed.",
-      "us_competitive_landscape": "Febreze dominates fabric refresher but cheap and chemical. Luxury home fragrance (Diptyque, Byredo) doesn't have fabric spray lines. Wrinkle release sprays (Downy Wrinkle Releaser) have zero aesthetic appeal. Perfect white space for luxury positioned product.",
-      "demand_signals": [
-        "Home fragrance market booming",
-        "Organization TikTok huge (closet aesthetics)",
-        "Luxury home care trending (Laundress went premium before bankruptcy)"
-      ],
-      "source_urls": [
-        "knowledge-based"
-      ],
-      "manufacturing_path": "Partner with cosmetic/fragrance co-packer. Simple formulation - distilled water, fragrance oils, light starch, preservative. Standard spray bottle filling. Could start with 500-unit run easily.",
-      "estimated_cogs_per_unit": 1.8,
-      "target_retail_price": 26.0,
-      "estimated_margin_multiplier": 14.4,
-      "startup_cost_estimate": "$4,000 - $7,000 for fragrance development, first production run, and packaging design",
-      "go_to_market": "DTC with strong Instagram aesthetic. Partner with home organization influencers. Subscription model with seasonal scent releases. Wholesale to boutique home stores. Limited edition collaborations with designers.",
-      "google_trends": {
-        "avg": 0,
-        "recent": 0,
-        "trend": "no_data"
-      },
-      "scores": {
-        "demand_proof": 7,
-        "us_gap": 9,
-        "manufacturing_ease": 10,
-        "twist_strength": 9,
-        "margin_potential": 10,
-        "brandability": 10,
-        "low_capital_start": 9
-      },
-      "score_avg": 9.14,
-      "risks": [
-        "Fragrance is subjective - some scents will flop",
-        "Competitors (luxury brands) could copy easily",
-        "Customer perception as 'just fancy water'"
-      ],
-      "first_3_steps": [
-        "1. Develop 3 initial fragrances with cosmetic formulator (classic lavender, modern citrus, warm amber)",
-        "2. Create beautiful packaging design and product photography for DTC site",
-        "3. Manufacture 300-unit first run and launch with 2-3 home organization influencer partnerships"
       ]
     },
     {
@@ -339,6 +174,171 @@
       ]
     },
     {
+      "id": "idea_112",
+      "date": "2026-02-16",
+      "inspiration_product": "Bala Baiana (Bala de Vidro)",
+      "inspiration_brand": "Various artisan makers",
+      "inspiration_country": "brazil",
+      "category": "snacks-candy",
+      "us_brand_concept": "TikTok-native coconut candy brand with viral marketing, premium packaging, and gift-ready presentation",
+      "the_twist": "Take the viral TikTok recipe and commercialize it as a premium DTC brand - like what Chamberlain Coffee did for coffee. Target TikTok/Instagram audience, position as 'the candy that broke the internet', use influencer seeding strategy",
+      "twist_type": "brand-upgrade",
+      "target_customer": "Gen Z/Millennial women, 18-35, active on TikTok/Instagram, buy trendy food products, gift-givers, sweet snackers",
+      "description": "Bala Baiana (glass candy) is a Brazilian coconut candy with a hard caramelized sugar shell and creamy coconut center. It went VIRAL on TikTok with millions of views of DIY recipe videos. Despite massive organic demand, there is NO branded US product - only homemade versions. The concept is simple: condensed milk + coconut filling, hard sugar coating. Manufacturing is straightforward (confectionery co-packer). This is a classic 'viral demand meets zero supply' opportunity.",
+      "problem_solved": "People want the viral candy but don't want to make it at home (hot caramel is dangerous, time-consuming). No one is selling a ready-made version. Also solves gifting - these look beautiful and unique.",
+      "us_competitive_landscape": "ZERO branded competitors. Coconut candy exists (Raffaello, Bounty) but nothing with the hard sugar shell. Closest is homemade TikTok recipes. No one has commercialized this yet.",
+      "demand_signals": [
+        "Multiple TikTok videos with 50K+ likes showing recipe",
+        "DIY recipe site traffic (easyanddelish, jenaroundtheworld)",
+        "Comments asking 'where can I buy these?'",
+        "Compared to Tanghulu (another viral candy) in virality potential"
+      ],
+      "source_urls": [
+        "https://www.tiktok.com/@meiralaryssa/video/7302508702433643818",
+        "https://www.easyanddelish.com/glass-bonbons/"
+      ],
+      "manufacturing_path": "Confectionery co-packer specializing in hard candy + soft centers (similar to chocolate-covered caramels). OR start with commercial kitchen + hand production for first 500 units, then scale to co-packer. Simple equipment: industrial mixer, enrober for sugar coating.",
+      "estimated_cogs_per_unit": 0.35,
+      "target_retail_price": 2.5,
+      "estimated_margin_multiplier": 7.1,
+      "startup_cost_estimate": "$3K - $8K for first run (500-1000 units), basic branding, Shopify site, influencer samples",
+      "go_to_market": "1) Influencer seeding on TikTok (send free samples to food influencers who already posted the recipe), 2) Shopify DTC with TikTok Shop integration, 3) Instagram-worthy packaging for gifting angle, 4) Farmers markets / local pop-ups to test, 5) Eventually Amazon FBA once proven",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 9,
+        "us_gap": 10,
+        "manufacturing_ease": 8,
+        "twist_strength": 9,
+        "margin_potential": 9,
+        "brandability": 10,
+        "low_capital_start": 9
+      },
+      "score_avg": 9.1,
+      "risks": [
+        "Viral trends fade - need to move FAST (launch within 3 months)",
+        "Sugar coating can be tricky at scale (quality control)",
+        "Shelf life - fresh candy has shorter shelf life than packaged candy",
+        "Copycats could emerge quickly once you prove the concept"
+      ],
+      "first_3_steps": [
+        "1) Make 50 units at home to nail the recipe and packaging - test with friends, post on Instagram to gauge interest",
+        "2) Find confectionery co-packer via Maker's Row or local food incubators - get quote for 500-unit run with custom packaging",
+        "3) Create brand identity (name, logo, story), build Shopify site, reach out to 20 TikTok food influencers who posted the recipe and offer free samples in exchange for honest review"
+      ]
+    },
+    {
+      "id": "idea_156",
+      "date": "2026-02-16",
+      "inspiration_product": "Terre de Sommi\u00e8res Stain Absorbent Powder",
+      "inspiration_brand": "Marius Fabre, Starwax",
+      "inspiration_country": "france",
+      "category": "laundry-clothing",
+      "us_brand_concept": "EcoLift - Premium natural clay stain absorber for eco-conscious consumers who want chemical-free spot treatment",
+      "the_twist": "Modern minimal glass jar packaging with shaker top, TikTok-ready demos, influencer marketing targeting luxury eco segment instead of industrial/utilitarian positioning",
+      "twist_type": "brand-upgrade",
+      "target_customer": "Eco-conscious millennials and Gen Z with nice furniture/clothing who want natural cleaning solutions. People who follow zero-waste influencers.",
+      "description": "Terre de Sommi\u00e8res is a natural magnesium silicate clay powder used in France for centuries to absorb grease, oil, and liquid stains from fabric, carpet, and leather without water. You sprinkle it on the stain, let it sit, brush it off. It's beloved in France but unknown in the US. Our version rebrands this miracle powder with modern packaging, clear use-case marketing (wine spills, makeup stains, grease spots), and social-first content strategy.",
+      "problem_solved": "Immediate stain treatment without harsh chemicals, water, or scrubbing. Perfect for dry-clean-only items, leather, or quick fixes when you can't wash immediately.",
+      "us_competitive_landscape": "No branded consumer product exists. Fuller's Earth is available in bulk/industrial quantities but not marketed to consumers. Spray stain removers (Shout, OxiClean) require water and chemicals. Zero-waste brands (Blueland, Branch Basics) don't have a dry stain solution.",
+      "demand_signals": [
+        "French expats rave about it in zero-waste forums",
+        "Natural cleaning TikTok trend growing",
+        "Luxury eco-home segment expanding"
+      ],
+      "source_urls": [
+        "knowledge-based"
+      ],
+      "manufacturing_path": "Source magnesium silicate clay from specialized suppliers (available in US and France). Partner with small-batch co-packer to fill glass jars with shaker tops. Add custom labels. Very simple product, no formulation needed.",
+      "estimated_cogs_per_unit": 1.5,
+      "target_retail_price": 22.0,
+      "estimated_margin_multiplier": 14.7,
+      "startup_cost_estimate": "$3,000 - $5,000 for first 500-unit run plus branding/photography",
+      "go_to_market": "Shopify DTC with strong Instagram/TikTok content showing before-after demos. Seed with eco-influencers. Subscription option for refills. Expand to boutique home stores.",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 7,
+        "us_gap": 10,
+        "manufacturing_ease": 10,
+        "twist_strength": 8,
+        "margin_potential": 10,
+        "brandability": 9,
+        "low_capital_start": 10
+      },
+      "score_avg": 9.1,
+      "risks": [
+        "Consumer education needed - product is unfamiliar",
+        "Clay sourcing quality consistency",
+        "Perceived as 'just dirt' if branding fails"
+      ],
+      "first_3_steps": [
+        "1. Source 50lb bulk magnesium silicate clay sample and test on various stains (wine, oil, makeup)",
+        "2. Create TikTok account and post 10 stain-removal demos to validate content resonance",
+        "3. Order 500 glass jars with shaker tops and custom labels from packaging supplier"
+      ]
+    },
+    {
+      "id": "idea_158",
+      "date": "2026-02-16",
+      "inspiration_product": "French Linen Water (Eau de Linge)",
+      "inspiration_brand": "Various French artisanal brands",
+      "inspiration_country": "france",
+      "category": "laundry-clothing",
+      "us_brand_concept": "Maison Mist - Luxury scented linen spray collection that combines wrinkle release with closet freshening and aromatherapy",
+      "the_twist": "Position as luxury closet/drawer fragrance that happens to help with wrinkles, not just ironing water. Create seasonal fragrance collections (not just lavender). Subscription model with quarterly new scents. Modern apothecary branding.",
+      "twist_type": "brand-upgrade",
+      "target_customer": "Women 25-45 who care about home aesthetics and follow home organization influencers. People who buy Diptyque candles and Le Labo fragrances. Not targeting people who iron regularly - targeting people who want their closet to smell amazing.",
+      "description": "French linen water is a lightly scented spray used while ironing to make clothes smell fresh and release wrinkles. In France it's an everyday luxury. Our version reframes it as a luxury closet fragrance that also fights wrinkles. Spray on hanging clothes, bedding, towels. Beautiful bottle design, premium fragrances developed with perfumers, seasonal collections. It's the fragrance category meets laundry care.",
+      "problem_solved": "Closet/drawer freshening without heavy fabric sprays or chemical air fresheners. Light wrinkle release for clothes that sat in drawers. Aromatherapy benefit while getting dressed.",
+      "us_competitive_landscape": "Febreze dominates fabric refresher but cheap and chemical. Luxury home fragrance (Diptyque, Byredo) doesn't have fabric spray lines. Wrinkle release sprays (Downy Wrinkle Releaser) have zero aesthetic appeal. Perfect white space for luxury positioned product.",
+      "demand_signals": [
+        "Home fragrance market booming",
+        "Organization TikTok huge (closet aesthetics)",
+        "Luxury home care trending (Laundress went premium before bankruptcy)"
+      ],
+      "source_urls": [
+        "knowledge-based"
+      ],
+      "manufacturing_path": "Partner with cosmetic/fragrance co-packer. Simple formulation - distilled water, fragrance oils, light starch, preservative. Standard spray bottle filling. Could start with 500-unit run easily.",
+      "estimated_cogs_per_unit": 1.8,
+      "target_retail_price": 26.0,
+      "estimated_margin_multiplier": 14.4,
+      "startup_cost_estimate": "$4,000 - $7,000 for fragrance development, first production run, and packaging design",
+      "go_to_market": "DTC with strong Instagram aesthetic. Partner with home organization influencers. Subscription model with seasonal scent releases. Wholesale to boutique home stores. Limited edition collaborations with designers.",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 7,
+        "us_gap": 9,
+        "manufacturing_ease": 10,
+        "twist_strength": 9,
+        "margin_potential": 10,
+        "brandability": 10,
+        "low_capital_start": 9
+      },
+      "score_avg": 9.1,
+      "risks": [
+        "Fragrance is subjective - some scents will flop",
+        "Competitors (luxury brands) could copy easily",
+        "Customer perception as 'just fancy water'"
+      ],
+      "first_3_steps": [
+        "1. Develop 3 initial fragrances with cosmetic formulator (classic lavender, modern citrus, warm amber)",
+        "2. Create beautiful packaging design and product photography for DTC site",
+        "3. Manufacture 300-unit first run and launch with 2-3 home organization influencer partnerships"
+      ]
+    },
+    {
       "id": "idea_382",
       "date": "2026-02-26",
       "inspiration_product": "Coador de Caf\u00e9 de Pano (Cloth Coffee Filter)",
@@ -382,7 +382,7 @@
         "brandability": 10,
         "low_capital_start": 10
       },
-      "score_avg": 9.14,
+      "score_avg": 9.1,
       "risks": [
         "Need to educate on proper cleaning/care",
         "Perceived as 'extra work' vs. disposable filters",
