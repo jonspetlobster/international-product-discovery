@@ -1,0 +1,9 @@
+{"product_name": "Steamery Cirrus No.2 Handheld Steamer", "country": "sweden", "reason": "wrong_country", "date": "2026-02-27", "notes": "Swedish brand, not German - wrong country for this run"}
+{"product_name": "Coghlan's Clothesline Kit", "country": "canada", "reason": "wrong_country", "date": "2026-02-27", "notes": "Canadian brand, not German"}
+{"product_name": "Braun TexStyle 7 Steam Iron", "country": "germany", "reason": "too_complex", "date": "2026-02-27", "notes": "Electronics/appliances too complex for this skill - requires custom PCBs, motors, heating elements"}
+{"product_name": "Miele UltraPhase Detergent System", "country": "germany", "reason": "machine_locked", "date": "2026-02-27", "notes": "Proprietary system locked to Miele washing machines - not suitable for open-market brand"}
+{"product_name": "Ulrich Natürlich All-Purpose Cleaner", "country": "germany", "reason": "wrong_category", "date": "2026-02-27", "notes": "Cleaning product, not laundry - outside category scope for this run"}
+{"product_name": "Held Waschmittel Strips (Laundry Detergent Sheets)", "country": "germany", "reason": "us_brand_exists", "date": "2026-02-27", "notes": "Laundry sheets already have strong US brands - Earth Breeze, Tru Earth, Kind Laundry all well-established"}
+{"product_name": "Green Shield Eco-Friendly Stain Remover Stick", "country": "uk", "reason": "wrong_country", "date": "2026-02-27", "notes": "UK brand, not German"}
+{"product_name": "Kaps Sneaker Protect Waterproofing Spray", "country": "poland", "reason": "wrong_country", "date": "2026-02-27", "notes": "Polish brand, not German"}
+{"product_name": "Cleanatics Wool Dryer Balls", "country": "germany", "reason": "us_brand_exists", "date": "2026-02-27", "notes": "Wool dryer balls market saturated in US - Smart Sheep, Friendsheep, and 50+ other brands already established"}

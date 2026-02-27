@@ -46,8 +46,8 @@
       "discoveries": 0
     },
     "germany": {
-      "candidates": 106,
-      "ideas": 13,
+      "candidates": 119,
+      "ideas": 17,
       "discoveries": 0
     },
     "sweden": {
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
+    "laundry-clothing",
     "health-wellness",
     "cleaning",
     "snacks-candy",
-    "pet",
-    "kitchen"
+    "pet"
   ],
-  "total_candidates": 3541,
-  "total_ideas": 455,
+  "total_candidates": 3554,
+  "total_ideas": 459,
   "total_discoveries": 0
 }
