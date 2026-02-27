@@ -36,7 +36,7 @@
       "discoveries": 0
     },
     "indonesia": {
-      "candidates": 119,
+      "candidates": 143,
       "ideas": 18,
       "discoveries": 0
     },
@@ -152,14 +152,14 @@
     }
   },
   "categories_recent": [
-    "organizing-storage",
     "kitchen",
     "personal-care",
     "cleaning",
-    "fitness"
+    "fitness",
+    "health-wellness"
   ],
-  "total_candidates": 4046,
+  "total_candidates": 4070,
   "total_ideas": 507,
   "total_discoveries": 0,
-  "total_rejected": 1404
+  "total_rejected": 1428
 }
