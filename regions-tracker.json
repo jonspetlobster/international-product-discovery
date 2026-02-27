@@ -126,8 +126,8 @@
       "discoveries": 0
     },
     "new_zealand": {
-      "candidates": 105,
-      "ideas": 13,
+      "candidates": 129,
+      "ideas": 16,
       "discoveries": 0
     },
     "israel": {
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "personal-care",
     "outdoor-garden",
     "health-wellness",
     "cleaning",
-    "snacks-candy"
+    "snacks-candy",
+    "pet"
   ],
-  "total_candidates": 3499,
-  "total_ideas": 447,
+  "total_candidates": 3523,
+  "total_ideas": 450,
   "total_discoveries": 0
 }
