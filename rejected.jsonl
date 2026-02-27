@@ -1195,3 +1195,7 @@
 {"product_name": "Kacang Atom (Mini Coated Peanuts)", "country": "indonesia", "reason": "us_brand_exists", "date": "2026-02-27", "notes": "Multi-coated nut category exists (wasabi peas, etc.), not differentiated enough, low margins"}
 {"product_name": "Kerupuk Kulit (Pork Skin Crackers)", "country": "indonesia", "reason": "us_brand_exists", "date": "2026-02-27", "notes": "Pork rinds widely available (Epic, 4505, Utz), keto boom already saturated this space"}
 {"product_name": "Semprong (Rolled Wafer Cookies)", "country": "indonesia", "reason": "us_brand_exists", "date": "2026-02-27", "notes": "Same as Pirouettes/rolled cookies — saturated category, commodity product"}
+{"product_name": "Borotalco Talcum Powder", "country": "italy", "reason": "us_brand_exists", "date": "2026-02-27", "notes": "Body powder market saturated — Chassis, Anti Monkey Butt, Squirrel's Nut Butter dominate talc-free space"}
+{"product_name": "Marvis Toothpaste", "country": "italy", "reason": "strong_import_presence", "date": "2026-02-27", "notes": "Already well-established in US market at premium price point"}
+{"product_name": "Clinians Micellar Water", "country": "italy", "reason": "strong_import_presence", "date": "2026-02-27", "notes": "Available via imports, also micellar water market crowded (Garnier, Bioderma)"}
+{"product_name": "Prep Pre-Shave Talc", "country": "italy", "reason": "too_niche", "date": "2026-02-27", "notes": "Pre-shave powder market very small, wet shaving is niche hobby"}
