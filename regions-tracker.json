@@ -111,8 +111,8 @@
       "discoveries": 0
     },
     "kenya": {
-      "candidates": 91,
-      "ideas": 15,
+      "candidates": 111,
+      "ideas": 18,
       "discoveries": 0
     },
     "south_africa": {
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "kitchen",
     "personal-care",
     "health-wellness",
     "cleaning",
-    "fitness"
+    "fitness",
+    "snacks-candy"
   ],
-  "total_candidates": 3216,
-  "total_ideas": 398,
+  "total_candidates": 3236,
+  "total_ideas": 401,
   "total_discoveries": 0
 }

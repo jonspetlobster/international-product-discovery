@@ -1113,3 +1113,4 @@
 {"product_name":"Solgar Vitamins","country":"uk","reason":"us_brand_exists","date":"2026-02-26","notes":"Solgar is massive in US, not a UK opportunity."}
 {"product_name":"La Roche Posay European Sunscreen","country":"france","reason":"regulated","date":"2026-02-26","notes":"Cannot replicate EU UV filters due to FDA restrictions on Mexoryl/Tinosorb."}
 {"product_name":"Eucerin European Sunscreen","country":"germany","reason":"regulated","date":"2026-02-26","notes":"Cannot replicate EU UV filters due to FDA restrictions."}
+{"product_name": "Cassava Crisps (Muhogo Chips)", "country": "kenya", "reason": "strong_import_presence", "date": "2026-02-26", "notes": "257 Amazon results, market saturated with cassava chip brands already"}
