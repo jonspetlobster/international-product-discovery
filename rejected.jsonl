@@ -1108,3 +1108,8 @@
 {"product_name": "Microcurrent Face Devices", "country": "malaysia", "reason": "too_complex", "date": "2026-02-26", "notes": "Electronics manufacturing requires custom PCBs, FDA compliance, high capital. Outside simple product scope."}
 {"product_name": "LED Therapy Face Masks", "country": "malaysia", "reason": "too_complex", "date": "2026-02-26", "notes": "Electronics, custom tooling, safety certifications. Too complex for solo entrepreneur first product."}
 {"product_name": "Ultrasonic Skin Scrubber Tools", "country": "malaysia", "reason": "too_complex", "date": "2026-02-26", "notes": "Electronic device requiring custom engineering and FCC/safety compliance."}
+{"product_name":"Berocca Effervescent Energy Tablets","country":"uk","reason":"strong_import_presence","date":"2026-02-26","notes":"Berocca has official Amazon US store with multiple SKUs and reviews. Window closed."}
+{"product_name":"Loop Earplugs","country":"uk","reason":"us_brand_exists","date":"2026-02-26","notes":"Loop already launched and selling in US market."}
+{"product_name":"Solgar Vitamins","country":"uk","reason":"us_brand_exists","date":"2026-02-26","notes":"Solgar is massive in US, not a UK opportunity."}
+{"product_name":"La Roche Posay European Sunscreen","country":"france","reason":"regulated","date":"2026-02-26","notes":"Cannot replicate EU UV filters due to FDA restrictions on Mexoryl/Tinosorb."}
+{"product_name":"Eucerin European Sunscreen","country":"germany","reason":"regulated","date":"2026-02-26","notes":"Cannot replicate EU UV filters due to FDA restrictions."}
