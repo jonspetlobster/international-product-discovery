@@ -46,8 +46,8 @@
       "discoveries": 0
     },
     "germany": {
-      "candidates": 83,
-      "ideas": 10,
+      "candidates": 106,
+      "ideas": 13,
       "discoveries": 0
     },
     "sweden": {
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "personal-care",
     "health-wellness",
     "grocery-pantry",
     "cleaning",
-    "snacks-candy"
+    "snacks-candy",
+    "baby-kids"
   ],
-  "total_candidates": 3080,
-  "total_ideas": 377,
+  "total_candidates": 3103,
+  "total_ideas": 380,
   "total_discoveries": 0
 }
