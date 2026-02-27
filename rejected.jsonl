@@ -1114,3 +1114,23 @@
 {"product_name":"La Roche Posay European Sunscreen","country":"france","reason":"regulated","date":"2026-02-26","notes":"Cannot replicate EU UV filters due to FDA restrictions on Mexoryl/Tinosorb."}
 {"product_name":"Eucerin European Sunscreen","country":"germany","reason":"regulated","date":"2026-02-26","notes":"Cannot replicate EU UV filters due to FDA restrictions."}
 {"product_name": "Cassava Crisps (Muhogo Chips)", "country": "kenya", "reason": "strong_import_presence", "date": "2026-02-26", "notes": "257 Amazon results, market saturated with cassava chip brands already"}
+{"product_name": "Mrs Balls Tomato Chutney", "country": "south_africa", "reason": "similar_to_validated", "date": "2026-02-26", "notes": "Similar to peach chutney concept, lower differentiation"}
+{"product_name": "Wellington's Hot Chutney", "country": "south_africa", "reason": "similar_to_validated", "date": "2026-02-26", "notes": "Another chutney, peach version is stronger"}
+{"product_name": "All Gold Tomato Sauce", "country": "south_africa", "reason": "low_differentiation", "date": "2026-02-26", "notes": "Ketchup alternative, saturated market"}
+{"product_name": "Nola Mayonnaise", "country": "south_africa", "reason": "low_differentiation", "date": "2026-02-26", "notes": "Just tangier mayo, hard to justify premium"}
+{"product_name": "Aromat Seasoning", "country": "south_africa", "reason": "regulated", "date": "2026-02-26", "notes": "MSG-based, controversy in US market"}
+{"product_name": "Steers BBQ Sauce", "country": "south_africa", "reason": "too_crowded", "date": "2026-02-26", "notes": "BBQ sauce market saturated"}
+{"product_name": "Steers Monkey Gland Sauce", "country": "south_africa", "reason": "validated_separately", "date": "2026-02-26", "notes": "Validated but ranked below top 3"}
+{"product_name": "Slap Chips Seasoning", "country": "south_africa", "reason": "cultural_only", "date": "2026-02-26", "notes": "Specific to SA chips culture, doesn't translate"}
+{"product_name": "Ina Paarman's Vegetable Seasoning", "country": "south_africa", "reason": "low_differentiation", "date": "2026-02-26", "notes": "Similar to existing all-purpose blends"}
+{"product_name": "All Joy Tomato Relish", "country": "south_africa", "reason": "similar_to_validated", "date": "2026-02-26", "notes": "Chakalaka is stronger vegetable relish concept"}
+{"product_name": "Rajah Curry Powder", "country": "south_africa", "reason": "validated_separately", "date": "2026-02-26", "notes": "Cape Malay curry validated but ranked below top 3"}
+{"product_name": "Ina Paarman's BBQ Marinade", "country": "south_africa", "reason": "too_crowded", "date": "2026-02-26", "notes": "Marinade market crowded"}
+{"product_name": "Robertson's Spice Steak & Chops", "country": "south_africa", "reason": "low_differentiation", "date": "2026-02-26", "notes": "Generic steak spice, nothing unique"}
+{"product_name": "Cape Malay Bobotie Spice", "country": "south_africa", "reason": "cultural_only", "date": "2026-02-26", "notes": "Too specific to one dish, limited use cases"}
+{"product_name": "Simba Chutney Chips Seasoning", "country": "south_africa", "reason": "low_demand", "date": "2026-02-26", "notes": "Novelty flavor, no proven demand"}
+{"product_name": "Hellers Boerewors Pack", "country": "south_africa", "reason": "similar_to_validated", "date": "2026-02-26", "notes": "Boerewors kit already validated"}
+{"product_name": "Cape Herb & Spice Rooibos Rubs", "country": "south_africa", "reason": "low_differentiation", "date": "2026-02-26", "notes": "Rooibos in rubs is interesting but niche"}
+{"product_name": "Peri-Peri Sauce (SA Version)", "country": "south_africa", "reason": "us_brand_exists", "date": "2026-02-26", "notes": "Nando's already dominates this space"}
+{"product_name": "Biltong Spice Mix", "country": "south_africa", "reason": "too_complex", "date": "2026-02-26", "notes": "Requires meat curing knowledge, legal issues with raw meat products"}
+{"product_name": "Monkey Gland Sauce (standalone)", "country": "south_africa", "reason": "validated_separately", "date": "2026-02-26", "notes": "Good but ranked #5, didn't make final cut"}
