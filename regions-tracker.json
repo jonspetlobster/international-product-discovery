@@ -86,8 +86,8 @@
       "discoveries": 0
     },
     "mexico": {
-      "candidates": 101,
-      "ideas": 13,
+      "candidates": 122,
+      "ideas": 16,
       "discoveries": 0
     },
     "brazil": {
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "stationery",
     "snacks-candy",
     "kitchen",
     "personal-care",
-    "outdoor-garden"
+    "outdoor-garden",
+    "health-wellness"
   ],
-  "total_candidates": 3437,
-  "total_ideas": 438,
+  "total_candidates": 3458,
+  "total_ideas": 441,
   "total_discoveries": 0
 }
