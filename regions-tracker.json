@@ -16,8 +16,8 @@
       "discoveries": 0
     },
     "china": {
-      "candidates": 89,
-      "ideas": 10,
+      "candidates": 109,
+      "ideas": 15,
       "discoveries": 0
     },
     "thailand": {
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "baby-kids",
     "kitchen",
     "personal-care",
     "health-wellness",
-    "cleaning"
+    "cleaning",
+    "fitness"
   ],
-  "total_candidates": 3196,
-  "total_ideas": 393,
+  "total_candidates": 3216,
+  "total_ideas": 398,
   "total_discoveries": 0
 }
