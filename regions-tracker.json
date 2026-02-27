@@ -126,8 +126,8 @@
       "discoveries": 0
     },
     "new_zealand": {
-      "candidates": 81,
-      "ideas": 9,
+      "candidates": 105,
+      "ideas": 13,
       "discoveries": 0
     },
     "israel": {
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "outdoor-garden",
     "personal-care",
     "health-wellness",
     "grocery-pantry",
-    "cleaning"
+    "cleaning",
+    "snacks-candy"
   ],
-  "total_candidates": 3056,
-  "total_ideas": 373,
+  "total_candidates": 3080,
+  "total_ideas": 377,
   "total_discoveries": 0
 }
