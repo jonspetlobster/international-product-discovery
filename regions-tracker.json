@@ -66,8 +66,8 @@
       "discoveries": 0
     },
     "italy": {
-      "candidates": 79,
-      "ideas": 9,
+      "candidates": 99,
+      "ideas": 12,
       "discoveries": 0
     },
     "netherlands": {
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "kitchen",
     "outdoor-garden",
     "personal-care",
     "health-wellness",
-    "grocery-pantry"
+    "grocery-pantry",
+    "cleaning"
   ],
-  "total_candidates": 3036,
-  "total_ideas": 370,
+  "total_candidates": 3056,
+  "total_ideas": 373,
   "total_discoveries": 0
 }

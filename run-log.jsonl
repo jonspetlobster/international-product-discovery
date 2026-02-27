@@ -143,3 +143,24 @@
 {"timestamp": "2026-02-26T14:19:00-08:00", "region": "israel", "category": "bathroom|cleaning", "candidates_found": 20, "ideas_added": 3, "rejected": 17, "search_calls_used": 5, "notes": "Focused on bathroom/cleaning products from Israel. Top ideas: CleanStick (Sponga), Gentle First (baby oil), TradeHands (Dead Sea hand cream for tradespeople)"}
 {"run_date":"2026-02-26","run_time":"14:49","region":"uk","category":"health-wellness","candidates_found":20,"ideas_added":4,"rejected":16,"search_calls_used":10,"notes":"UK health-wellness run. Validated: liquid probiotic shots, AHA/BHA body scrub, playful vitamin branding, recovery tool kits. Rejected: BetterYou (US presence), mushroom gummies (saturated), Altruist (on Amazon), etc."}
 {"date":"2026-02-26","time":"15:19","region":"kenya","category":"grocery-pantry","candidates_found":20,"ideas_added":5,"rejected":0,"search_calls_used":10,"notes":"Kenya pantry staples: Pilau Masala, Uji porridge blends, chai masala, bean seasonings. Top scorer: CleanChai (8.71). All 5 ideas scored 7.29-8.71."}
+{
+  "timestamp": "2026-02-26T16:19:00-08:00",
+  "region": "italy",
+  "category": "cleaning",
+  "candidates_found": 20,
+  "ideas_added": 3,
+  "search_calls_used": 5,
+  "search_tools": [
+    "brave_search"
+  ],
+  "validated_products": [
+    "Felce Azzurra Fabric Softener",
+    "Italian Glass Cleaner",
+    "Mangia Polvere Anti-Static Spray"
+  ],
+  "top_scores": [
+    8.6,
+    7.6,
+    7.1
+  ]
+}
