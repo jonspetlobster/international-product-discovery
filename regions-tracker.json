@@ -56,8 +56,8 @@
       "discoveries": 0
     },
     "uk": {
-      "candidates": 110,
-      "ideas": 17,
+      "candidates": 114,
+      "ideas": 21,
       "discoveries": 0
     },
     "france": {
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "pet",
     "stationery",
     "kitchen",
     "personal-care",
-    "condiments-sauces"
+    "condiments-sauces",
+    "snacks-candy"
   ],
-  "total_candidates": 3633,
-  "total_ideas": 474,
+  "total_candidates": 3637,
+  "total_ideas": 478,
   "total_discoveries": 0
 }

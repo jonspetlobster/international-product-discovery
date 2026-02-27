@@ -1318,3 +1318,19 @@
 {"product_name":"Garlic Chili Sauce (Suan La Jiang)","country":"china","reason":"strong_import_presence","date":"2026-02-27","notes":"Huy Fong (maker of sriracha) already dominates garlic chili sauce category."}
 {"product_name":"Rice Wine Sauce (Mi Jiu)","country":"china","reason":"cultural_only","date":"2026-02-27","notes":"Shaoxing cooking wine available. Sauce version too specific to Chinese cooking applications."}
 {"product_name":"Spicy Radish Strips (La Luo Bo)","country":"china","reason":"too_similar","date":"2026-02-27","notes":"Too similar to zhacai concept (preserved vegetable topping). Don't want to split the category."}
+{"product_name":"Cadbury Flake bars","country":"uk","reason":"too_complex","date":"2026-02-27","notes":"Unique flaky chocolate texture requires proprietary manufacturing process, can't replicate easily"}
+{"product_name":"Walkers Sensations Thai Sweet Chilli crisps","country":"uk","reason":"us_brand_exists","date":"2026-02-27","notes":"Already exists as Lay's Sensations in US"}
+{"product_name":"Jaffa Cakes","country":"uk","reason":"strong_import_presence","date":"2026-02-27","notes":"McVitie's already on Amazon with 3K+ reviews, well-established. Multiple copycat brands also present (Benton's, Tondi)."}
+{"product_name":"Terry's Chocolate Orange","country":"uk","reason":"us_brand_exists","date":"2026-02-27","notes":"Already available in US, found in most major retailers"}
+{"product_name":"Maltesers","country":"uk","reason":"us_brand_exists","date":"2026-02-27","notes":"Mars brand already sells in US"}
+{"product_name":"Mint Aero bubbles","country":"uk","reason":"strong_import_presence","date":"2026-02-27","notes":"Available in US but could potentially rebrand - marginal opportunity"}
+{"product_name":"Milkybar buttons","country":"uk","reason":"us_brand_exists","date":"2026-02-27","notes":"Nestlé white chocolate widely available in US"}
+{"product_name":"Hula Hoops puffy potato rings","country":"uk","reason":"us_brand_exists","date":"2026-02-27","notes":"Similar to US potato puff snacks, no unique gap"}
+{"product_name":"Percy Pigs","country":"uk","reason":"strong_import_presence","date":"2026-02-27","notes":"M&S trying to crack US market, already some awareness. Generic gummy format."}
+{"product_name":"Marmite cashews","country":"uk","reason":"cultural_only","date":"2026-02-27","notes":"Marmite flavor too polarizing/unknown in US, nutritional yeast version is the better play (see Twiglets twist)"}
+{"product_name":"Branston Pickle flavor crisps","country":"uk","reason":"cultural_only","date":"2026-02-27","notes":"Branston Pickle unknown in US, flavor concept too British-specific"}
+{"product_name":"Fruit Pastilles","country":"uk","reason":"us_brand_exists","date":"2026-02-27","notes":"Similar to US fruit gums, no meaningful gap"}
+{"product_name":"Skips prawn cocktail crisps","country":"uk","reason":"manufacturing_ease","date":"2026-02-27","notes":"Tapioca puff tech available but seafood flavor likely too niche/polarizing for US market"}
+{"product_name":"Sherbet Fountains","country":"uk","reason":"bad_margins","date":"2026-02-27","notes":"Paper tube + powder format is low-value, hard to position as premium"}
+{"product_name":"Meanies crisps","country":"uk","reason":"us_brand_exists","date":"2026-02-27","notes":"Extra-thick kettle chips already exist from Kettle Brand, Cape Cod, etc"}
+{"product_name":"Refreshers chews","country":"uk","reason":"us_brand_exists","date":"2026-02-27","notes":"Sour fizzy candy market crowded (Warheads, Sour Patch Kids, etc)"}
