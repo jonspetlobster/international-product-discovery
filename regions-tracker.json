@@ -41,8 +41,8 @@
       "discoveries": 0
     },
     "india": {
-      "candidates": 105,
-      "ideas": 9,
+      "candidates": 123,
+      "ideas": 14,
       "discoveries": 0
     },
     "germany": {
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "outdoor-garden",
     "health-wellness",
     "cleaning",
     "snacks-candy",
-    "pet"
+    "pet",
+    "kitchen"
   ],
-  "total_candidates": 3523,
-  "total_ideas": 450,
+  "total_candidates": 3541,
+  "total_ideas": 455,
   "total_discoveries": 0
 }
