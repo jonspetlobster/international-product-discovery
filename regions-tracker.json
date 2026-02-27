@@ -22,7 +22,7 @@
     "colombia": {"candidates": 113, "ideas": 18, "discoveries": 0},
     "argentina": {"candidates": 113, "ideas": 19, "discoveries": 0},
     "morocco": {"candidates": 121, "ideas": 15, "discoveries": 0},
-    "kenya": {"candidates": 111, "ideas": 18, "discoveries": 0},
+    "kenya": {"candidates": 131, "ideas": 21, "discoveries": 0},
     "south_africa": {"candidates": 116, "ideas": 12, "discoveries": 0},
     "australia": {"candidates": 130, "ideas": 15, "discoveries": 0},
     "new_zealand": {"candidates": 129, "ideas": 16, "discoveries": 0},
@@ -32,13 +32,13 @@
     "singapore": {"candidates": 119, "ideas": 16, "discoveries": 0}
   },
   "categories_recent": [
-    "kitchen",
     "personal-care",
     "condiments-sauces",
     "snacks-candy",
-    "grocery-pantry"
+    "grocery-pantry",
+    "cleaning"
   ],
-  "total_candidates": 3657,
-  "total_ideas": 481,
+  "total_candidates": 3677,
+  "total_ideas": 484,
   "total_discoveries": 0
 }
