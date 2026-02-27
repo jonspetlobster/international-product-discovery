@@ -136,8 +136,8 @@
       "discoveries": 0
     },
     "egypt": {
-      "candidates": 94,
-      "ideas": 11,
+      "candidates": 112,
+      "ideas": 14,
       "discoveries": 0
     },
     "malaysia": {
@@ -152,13 +152,13 @@
     }
   },
   "categories_recent": [
-    "cleaning",
     "fitness",
     "snacks-candy",
     "condiments-sauces",
-    "kitchen"
+    "kitchen",
+    "personal-care"
   ],
-  "total_candidates": 3280,
-  "total_ideas": 409,
+  "total_candidates": 3298,
+  "total_ideas": 412,
   "total_discoveries": 0
 }
