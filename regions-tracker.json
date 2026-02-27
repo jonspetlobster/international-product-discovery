@@ -56,8 +56,8 @@
       "discoveries": 0
     },
     "uk": {
-      "candidates": 114,
-      "ideas": 21,
+      "candidates": 138,
+      "ideas": 24,
       "discoveries": 0
     },
     "france": {
@@ -152,13 +152,14 @@
     }
   },
   "categories_recent": [
+    "personal-care",
     "condiments-sauces",
     "snacks-candy",
     "grocery-pantry",
-    "organizing-storage",
-    "cleaning"
+    "organizing-storage"
   ],
-  "total_candidates": 3745,
-  "total_ideas": 494,
-  "total_discoveries": 0
+  "total_candidates": 3961,
+  "total_ideas": 497,
+  "total_discoveries": 0,
+  "total_rejected": 1379
 }
