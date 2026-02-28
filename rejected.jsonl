@@ -1506,3 +1506,22 @@
 {"product_name": "Hansells Custard Powder", "country": "new_zealand", "reason": "too_complex", "date": "2026-02-28", "notes": "Protein custard mix is niche within niche. Formulation would be complex to get right texture."}
 {"product_name": "Sqwiggle licorice twists", "country": "new_zealand", "reason": "cultural_only", "date": "2026-02-28", "notes": "Licorice is divisive in US market. Sugar-free/collagen licorice is too niche and Americans don't love licorice generally."}
 {"product_name":"Lucas' Papaw Ointment","country":"australia","reason":"strong_import_presence","date":"2026-02-28","notes":"1K+ bought/month on Amazon, 1700+ reviews, multiple sellers. Original brand has strong US foothold."}
+{"product_name":"Baobab Oil Hair Treatment","country":"kenya","reason":"commodity_product","date":"2026-02-28","notes":"Market already saturated with generic baobab oil brands on Amazon - need strong brand differentiation"}
+{"product_name":"Moringa Leaf Powder Face Mask","country":"kenya","reason":"manufacturing_complexity","date":"2026-02-28","notes":"Ready-to-use pods would require specialized packaging equipment"}
+{"product_name":"Shea Butter Hair Pomade","country":"kenya","reason":"us_brand_exists","date":"2026-02-28","notes":"SheaMoisture and other major brands dominate this category"}
+{"product_name":"African Black Soap Bar","country":"kenya","reason":"us_brand_exists","date":"2026-02-28","notes":"Many established brands (Nubian Heritage, SheaMoisture, etc.)"}
+{"product_name":"Coconut Oil Hair Grease","country":"kenya","reason":"commodity_product","date":"2026-02-28","notes":"Coconut oil is ubiquitous - hard to differentiate"}
+{"product_name":"Hibiscus Flower Hair Rinse","country":"kenya","reason":"niche_too_small","date":"2026-02-28","notes":"Hair rinses are a very small niche compared to leave-in products"}
+{"product_name":"Marula Oil Facial Serum","country":"kenya","reason":"us_brand_exists","date":"2026-02-28","notes":"Drunk Elephant and others already own the marula category"}
+{"product_name":"Kigelia Africana Breast Firming Cream","country":"kenya","reason":"regulatory_risk","date":"2026-02-28","notes":"'Firming' claims would trigger FDA scrutiny"}
+{"product_name":"Neem Leaf Toothpaste","country":"kenya","reason":"us_brand_exists","date":"2026-02-28","notes":"Himalaya and other ayurvedic brands already sell neem toothpaste"}
+{"product_name":"Aloe Vera Scalp Gel","country":"kenya","reason":"commodity_product","date":"2026-02-28","notes":"Pure aloe is a commodity - needs more differentiation"}
+{"product_name":"Mafura Butter Body Balm","country":"kenya","reason":"niche_ingredient","date":"2026-02-28","notes":"Mafura is too unknown in US - would need heavy education"}
+{"product_name":"Mongongo Oil Hair Oil","country":"kenya","reason":"niche_ingredient","date":"2026-02-28","notes":"Mongongo is too obscure - consumer education barrier"}
+{"product_name":"Ethiopian Honey Face Mask","country":"kenya","reason":"perishable_concerns","date":"2026-02-28","notes":"Honey-based formulations have shelf life challenges"}
+{"product_name":"Castor Oil Edge Control","country":"kenya","reason":"us_brand_exists","date":"2026-02-28","notes":"Numerous brands (Hicks, Eco Styler, etc.) dominate edge control"}
+{"product_name":"Tamanu Oil Scar Treatment","country":"kenya","reason":"us_brand_exists","date":"2026-02-28","notes":"The Ordinary and others already sell tamanu oil products"}
+{"product_name":"Charcoal Peel-Off Mask","country":"kenya","reason":"us_brand_exists","date":"2026-02-28","notes":"Hundreds of charcoal peel-off masks on Amazon"}
+{"product_name":"Rosemary Water Hair Spray","country":"kenya","reason":"trend_saturated","date":"2026-02-28","notes":"Rosemary hair products flooded the market post-TikTok"}
+{"product_name":"Turmeric Brightening Soap","country":"kenya","reason":"format_not_compelling","date":"2026-02-28","notes":"Stick format for soap is awkward - bars work fine"}
+{"product_name":"Papaya Enzyme Face Scrub","country":"kenya","reason":"us_brand_exists","date":"2026-02-28","notes":"Many enzyme cleansers already exist (Tatcha, Fresh, etc.)"}
