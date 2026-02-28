@@ -1426,3 +1426,6 @@
 {"product_name": "Akar Bajakah Extract", "country": "indonesia", "reason": "regulated", "date": "2026-02-27", "notes": "Cancer-fighting claims require FDA approval, extremely high regulatory barrier"}
 {"product_name": "Bidara Leaf Tea", "country": "indonesia", "reason": "cultural_only", "date": "2026-02-27", "notes": "Unknown ingredient in US, spiritual cleansing angle doesn't translate to US wellness market"}
 {"product_name": "Daun Sirsak Tea (Soursop Leaf)", "country": "indonesia", "reason": "regulated", "date": "2026-02-27", "notes": "Cancer prevention claims attract FDA scrutiny, regulatory risk too high"}
+{"product_name": "Taiwan Brown Sugar Ginger Tea Blocks", "country": "taiwan", "reason": "us_brand_exists", "date": "2026-02-27", "notes": "Multiple ginger tea block products already on Amazon from Asian brands"}
+{"product_name": "Taiwan Crispy Seaweed Snacks", "country": "taiwan", "reason": "us_brand_exists", "date": "2026-02-27", "notes": "Saturated market - gimMe, SeaSnax, Annie Chun's dominate, 1K+ monthly sales"}
+{"product_name": "Taiwan Fried Shallot Crisps", "country": "taiwan", "reason": "strong_import_presence", "date": "2026-02-27", "notes": "Mekong Merchant and others selling 600+/month, would need very strong differentiation"}
