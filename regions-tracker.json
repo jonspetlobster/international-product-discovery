@@ -1,44 +1,134 @@
 {
   "regions": {
-    "japan": {"candidates": 142, "ideas": 14},
-    "south_korea": {"candidates": 148, "ideas": 17},
-    "taiwan": {"candidates": 139, "ideas": 19},
-    "china": {"candidates": 152, "ideas": 24},
-    "thailand": {"candidates": 142, "ideas": 20},
-    "vietnam": {"candidates": 140, "ideas": 21},
-    "philippines": {"candidates": 150, "ideas": 16},
-    "indonesia": {"candidates": 143, "ideas": 18},
-    "india": {"candidates": 143, "ideas": 19},
-    "germany": {"candidates": 139, "ideas": 20},
-    "sweden": {"candidates": 148, "ideas": 16},
-    "uk": {"candidates": 138, "ideas": 24},
-    "france": {"candidates": 152, "ideas": 20},
-    "italy": {"candidates": 140, "ideas": 20},
-    "netherlands": {"candidates": 144, "ideas": 20},
-    "poland": {"candidates": 141, "ideas": 20},
-    "turkey": {"candidates": 137, "ideas": 23},
-    "mexico": {"candidates": 142, "ideas": 19},
-    "brazil": {"candidates": 148, "ideas": 19},
-    "colombia": {"candidates": 133, "ideas": 21},
-    "argentina": {"candidates": 137, "ideas": 23},
-    "morocco": {"candidates": 141, "ideas": 20},
-    "kenya": {"candidates": 153, "ideas": 24},
-    "south_africa": {"candidates": 136, "ideas": 15},
-    "australia": {"candidates": 148, "ideas": 18},
-    "new_zealand": {"candidates": 152, "ideas": 21},
-    "israel": {"candidates": 134, "ideas": 15},
-    "egypt": {"candidates": 136, "ideas": 17},
-    "malaysia": {"candidates": 147, "ideas": 19},
-    "singapore": {"candidates": 139, "ideas": 21}
+    "japan": {
+      "candidates": 142,
+      "ideas": 14
+    },
+    "south_korea": {
+      "candidates": 148,
+      "ideas": 17
+    },
+    "taiwan": {
+      "candidates": 139,
+      "ideas": 19
+    },
+    "china": {
+      "candidates": 152,
+      "ideas": 24
+    },
+    "thailand": {
+      "candidates": 142,
+      "ideas": 20
+    },
+    "vietnam": {
+      "candidates": 140,
+      "ideas": 21
+    },
+    "philippines": {
+      "candidates": 150,
+      "ideas": 16
+    },
+    "indonesia": {
+      "candidates": 143,
+      "ideas": 18
+    },
+    "india": {
+      "candidates": 143,
+      "ideas": 19
+    },
+    "germany": {
+      "candidates": 139,
+      "ideas": 20
+    },
+    "sweden": {
+      "candidates": 148,
+      "ideas": 16
+    },
+    "uk": {
+      "candidates": 138,
+      "ideas": 24
+    },
+    "france": {
+      "candidates": 152,
+      "ideas": 20
+    },
+    "italy": {
+      "candidates": 140,
+      "ideas": 20
+    },
+    "netherlands": {
+      "candidates": 144,
+      "ideas": 20
+    },
+    "poland": {
+      "candidates": 141,
+      "ideas": 20
+    },
+    "turkey": {
+      "candidates": 137,
+      "ideas": 23
+    },
+    "mexico": {
+      "candidates": 142,
+      "ideas": 19
+    },
+    "brazil": {
+      "candidates": 148,
+      "ideas": 19
+    },
+    "colombia": {
+      "candidates": 155,
+      "ideas": 24
+    },
+    "argentina": {
+      "candidates": 137,
+      "ideas": 23
+    },
+    "morocco": {
+      "candidates": 141,
+      "ideas": 20
+    },
+    "kenya": {
+      "candidates": 153,
+      "ideas": 24
+    },
+    "south_africa": {
+      "candidates": 136,
+      "ideas": 15
+    },
+    "australia": {
+      "candidates": 148,
+      "ideas": 18
+    },
+    "new_zealand": {
+      "candidates": 152,
+      "ideas": 21
+    },
+    "israel": {
+      "candidates": 134,
+      "ideas": 15
+    },
+    "egypt": {
+      "candidates": 136,
+      "ideas": 17
+    },
+    "malaysia": {
+      "candidates": 147,
+      "ideas": 19
+    },
+    "singapore": {
+      "candidates": 139,
+      "ideas": 21
+    }
   },
   "categories_recent": [
-    "cleaning",
     "snacks-candy",
     "grocery-pantry",
     "health-wellness",
-    "personal-care"
+    "personal-care",
+    "condiments-sauces"
   ],
-  "total_candidates": 4476,
-  "total_ideas": 583,
+  "total_candidates": 4498,
+  "total_ideas": 586,
   "total_rejected": 1508
 }
