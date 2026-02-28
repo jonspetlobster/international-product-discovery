@@ -1,8 +1,8 @@
 {
   "regions": {
     "japan": {
-      "candidates": 142,
-      "ideas": 14
+      "candidates": 160,
+      "ideas": 17
     },
     "south_korea": {
       "candidates": 148,
@@ -122,13 +122,13 @@
     }
   },
   "categories_recent": [
-    "personal-care",
     "laundry-clothing",
     "health-wellness",
     "pet",
-    "condiments-sauces"
+    "condiments-sauces",
+    "kitchen"
   ],
-  "total_candidates": 4775,
-  "total_ideas": 635,
+  "total_candidates": 4793,
+  "total_ideas": 638,
   "total_rejected": 1627
 }
