@@ -117,18 +117,18 @@
       "ideas": 19
     },
     "singapore": {
-      "candidates": 139,
-      "ideas": 21
+      "candidates": 159,
+      "ideas": 24
     }
   },
   "categories_recent": [
-    "kitchen",
     "personal-care",
     "laundry-clothing",
     "stationery",
-    "bathroom"
+    "bathroom",
+    "snacks-candy"
   ],
-  "total_candidates": 4621,
-  "total_ideas": 609,
-  "total_rejected": 1556
+  "total_candidates": 4641,
+  "total_ideas": 612,
+  "total_rejected": 1557
 }
