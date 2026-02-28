@@ -29,10 +29,10 @@
     "israel": {"candidates": 134, "ideas": 15},
     "egypt": {"candidates": 136, "ideas": 17},
     "malaysia": {"candidates": 127, "ideas": 16},
-    "singapore": {"candidates": 119, "ideas": 16}
+    "singapore": {"candidates": 139, "ideas": 21}
   },
-  "categories_recent": ["kitchen", "personal-care", "cleaning", "fitness", "snacks-candy"],
-  "total_candidates": 4110,
-  "total_ideas": 512,
-  "total_rejected": 1433
+  "categories_recent": ["personal-care", "cleaning", "fitness", "snacks-candy", "health-wellness"],
+  "total_candidates": 4130,
+  "total_ideas": 517,
+  "total_rejected": 1448
 }
