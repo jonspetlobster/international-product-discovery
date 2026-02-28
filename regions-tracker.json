@@ -105,8 +105,8 @@
       "ideas": 21
     },
     "israel": {
-      "candidates": 134,
-      "ideas": 15
+      "candidates": 154,
+      "ideas": 18
     },
     "egypt": {
       "candidates": 136,
@@ -122,13 +122,13 @@
     }
   },
   "categories_recent": [
+    "bathroom",
+    "condiments-sauces",
     "snacks-candy",
     "grocery-pantry",
-    "health-wellness",
-    "personal-care",
-    "condiments-sauces"
+    "health-wellness"
   ],
-  "total_candidates": 4498,
-  "total_ideas": 586,
+  "total_candidates": 4518,
+  "total_ideas": 589,
   "total_rejected": 1508
 }
