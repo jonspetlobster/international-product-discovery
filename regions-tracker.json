@@ -16,7 +16,7 @@
     "italy": {"candidates": 140, "ideas": 20},
     "netherlands": {"candidates": 144, "ideas": 20},
     "poland": {"candidates": 141, "ideas": 20},
-    "turkey": {"candidates": 125, "ideas": 18},
+    "turkey": {"candidates": 137, "ideas": 23},
     "mexico": {"candidates": 142, "ideas": 19},
     "brazil": {"candidates": 128, "ideas": 15},
     "colombia": {"candidates": 133, "ideas": 21},
@@ -32,13 +32,13 @@
     "singapore": {"candidates": 139, "ideas": 21}
   },
   "categories_recent": [
+    "health-wellness",
     "personal-care",
     "kitchen",
     "cleaning",
-    "grocery-pantry",
-    "fitness"
+    "grocery-pantry"
   ],
-  "total_candidates": 4271,
-  "total_ideas": 545,
-  "total_rejected": 1448
+  "total_candidates": 4283,
+  "total_ideas": 550,
+  "total_rejected": 1455
 }
