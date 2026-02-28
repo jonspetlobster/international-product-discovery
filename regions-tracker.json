@@ -85,8 +85,8 @@
       "ideas": 23
     },
     "morocco": {
-      "candidates": 121,
-      "ideas": 15
+      "candidates": 141,
+      "ideas": 20
     },
     "kenya": {
       "candidates": 131,
@@ -122,13 +122,13 @@
     }
   },
   "categories_recent": [
-    "kitchen",
     "cleaning",
     "fitness",
     "snacks-candy",
-    "health-wellness"
+    "health-wellness",
+    "personal-care"
   ],
-  "total_candidates": 4170,
-  "total_ideas": 526,
+  "total_candidates": 4190,
+  "total_ideas": 531,
   "total_rejected": 1448
 }
