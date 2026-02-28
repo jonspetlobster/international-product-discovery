@@ -73,8 +73,8 @@
       "ideas": 19
     },
     "brazil": {
-      "candidates": 128,
-      "ideas": 15
+      "candidates": 148,
+      "ideas": 19
     },
     "colombia": {
       "candidates": 133,
@@ -122,13 +122,13 @@
     }
   },
   "categories_recent": [
-    "grocery-pantry",
     "bathroom",
     "health-wellness",
     "personal-care",
-    "kitchen"
+    "kitchen",
+    "cleaning"
   ],
-  "total_candidates": 4328,
-  "total_ideas": 556,
-  "total_rejected": 1455
+  "total_candidates": 4348,
+  "total_ideas": 560,
+  "total_rejected": 1471
 }
