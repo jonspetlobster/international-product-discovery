@@ -14,7 +14,7 @@
     "uk": {"candidates": 138, "ideas": 24},
     "france": {"candidates": 127, "ideas": 17},
     "italy": {"candidates": 140, "ideas": 20},
-    "netherlands": {"candidates": 124, "ideas": 17},
+    "netherlands": {"candidates": 144, "ideas": 20},
     "poland": {"candidates": 141, "ideas": 20},
     "turkey": {"candidates": 125, "ideas": 18},
     "mexico": {"candidates": 142, "ideas": 19},
@@ -32,13 +32,13 @@
     "singapore": {"candidates": 139, "ideas": 21}
   },
   "categories_recent": [
-    "health-wellness",
     "personal-care",
     "kitchen",
     "cleaning",
-    "grocery-pantry"
+    "grocery-pantry",
+    "fitness"
   ],
-  "total_candidates": 4251,
-  "total_ideas": 542,
+  "total_candidates": 4271,
+  "total_ideas": 545,
   "total_rejected": 1448
 }
