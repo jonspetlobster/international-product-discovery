@@ -1,0 +1,41 @@
+VALIDATION SESSION - 2026-02-27
+
+Validating 5 German snack/candy concepts:
+
+1. AHOJ-BRAUSE SHERBET POWDER
+   - Format: Fizzy sherbet powder sachets
+   - US equivalent check: Fun Dip exists but different format (lollipop stick). Pixy Stix similar but less versatile.
+   - Gap: No premium/natural version. All US sherbet is artificial colors/flavors.
+   - Manufacturing: Simple - mix citric acid, sugar, flavoring, bicarbonate. Easy co-packer work.
+   - MOQ: Likely under 1000 units with flexible pouch co-packer
+   - Twist: Natural fruit powder + organic cane sugar + botanical flavors. Adult nostalgia branding.
+
+2. NIMM2 SOFT (Vitamin Fruit Chews)
+   - Format: Chewy fruit candies with added vitamins
+   - US equivalent: Vitafusion gummies exist but different texture. SmartyPants gummies but expensive.
+   - Gap: No vitamin-enriched CHEWY CANDY (vs gummies). Non-gummy format has less competition.
+   - Manufacturing: Moderate - need vitamin fortification capabilities. Many gummy manufacturers can do this.
+   - Twist: Clean ingredients (real fruit, no corn syrup, natural colors) + vitamins. Position as "sneaky vitamins for picky eaters"
+
+3. SCHO-KA-KOLA CAFFEINE CHOCOLATE
+   - Format: Dark chocolate wedges with kola nut + coffee, 200mg caffeine per tin
+   - US equivalent: Awake chocolate bars exist but discontinued. Trader Joe's had similar, also gone.
+   - Gap: WIDE OPEN. Energy chocolate category barely exists in US. Most caffeine = drinks.
+   - Manufacturing: Easy - contract chocolate maker + caffeine/coffee extract. Tin packaging adds premium feel.
+   - Twist: Positioned as outdoor/adventure fuel (hiking, camping) not office energy. Biodegradable packaging.
+
+4. KATJES YOGURT-GUMS (Vegan Probiotic Gummies)
+   - Format: Vegan fruit gummies with yogurt cultures, no gelatin
+   - US equivalent: Most gummies are gelatin-based. Few vegan options (SmartSweets, Project 7).
+   - Gap: ZERO vegan probiotic gummy candy. Probiotic gummies exist but medicinal-looking.
+   - Manufacturing: Need pectin-based gummy maker with probiotic capability. More specialized.
+   - Twist: First truly tasty vegan probiotic candy. Position at gut health + indulgence intersection.
+
+5. DICKMANN'S (Better S'mores Cookie)
+   - Format: Marshmallow foam on wafer, chocolate-covered
+   - US equivalent: MoonPie exists but stale reputation. Mallomars seasonal only.
+   - Gap: Modern, premium version of this format doesn't exist. S'mores products all DIY kits.
+   - Manufacturing: Moderate complexity - need marshmallow depositing + chocolate enrobing. Doable.
+   - Twist: Emphasize artisan s'mores experience. Better chocolate, real vanilla marshmallow, Graham-style wafer.
+
+TOP 3 TO DEVELOP: #3 (Scho-Ka-Kola), #4 (Katjes), #1 (Ahoj-Brause)
