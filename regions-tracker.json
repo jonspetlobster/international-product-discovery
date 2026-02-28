@@ -3,7 +3,7 @@
     "japan": {"candidates": 142, "ideas": 14},
     "south_korea": {"candidates": 148, "ideas": 17},
     "taiwan": {"candidates": 139, "ideas": 19},
-    "china": {"candidates": 129, "ideas": 19},
+    "china": {"candidates": 152, "ideas": 24},
     "thailand": {"candidates": 142, "ideas": 20},
     "vietnam": {"candidates": 140, "ideas": 21},
     "philippines": {"candidates": 150, "ideas": 16},
@@ -13,6 +13,7 @@
     "sweden": {"candidates": 148, "ideas": 16},
     "uk": {"candidates": 138, "ideas": 24},
     "france": {"candidates": 152, "ideas": 20},
+    "thailand": {"candidates": 142, "ideas": 20},
     "italy": {"candidates": 140, "ideas": 20},
     "netherlands": {"candidates": 144, "ideas": 20},
     "poland": {"candidates": 141, "ideas": 20},
@@ -31,8 +32,8 @@
     "malaysia": {"candidates": 147, "ideas": 19},
     "singapore": {"candidates": 139, "ideas": 21}
   },
-  "categories_recent": ["personal-care", "kitchen", "cleaning", "snacks-candy", "bathroom"],
-  "total_candidates": 4390,
-  "total_ideas": 567,
-  "total_rejected": 1471
+  "categories_recent": ["home-tools", "personal-care", "kitchen", "cleaning", "snacks-candy"],
+  "total_candidates": 4413,
+  "total_ideas": 572,
+  "total_rejected": 1489
 }
