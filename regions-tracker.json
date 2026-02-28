@@ -69,8 +69,8 @@
       "ideas": 28
     },
     "mexico": {
-      "candidates": 142,
-      "ideas": 19
+      "candidates": 165,
+      "ideas": 24
     },
     "brazil": {
       "candidates": 148,
@@ -122,13 +122,13 @@
     }
   },
   "categories_recent": [
-    "health-wellness",
     "pet",
     "condiments-sauces",
     "kitchen",
-    "snacks-candy"
+    "snacks-candy",
+    "bathroom"
   ],
-  "total_candidates": 4813,
-  "total_ideas": 643,
-  "total_rejected": 1642
+  "total_candidates": 4836,
+  "total_ideas": 648,
+  "total_rejected": 1660
 }
