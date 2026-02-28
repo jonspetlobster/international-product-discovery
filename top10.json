@@ -1,7 +1,7 @@
 {
-  "generated": "2026-02-27 19:24",
-  "total_ideas": 508,
-  "total_candidates_evaluated": 4190,
+  "generated": "2026-02-27 19:54",
+  "total_ideas": 514,
+  "total_candidates_evaluated": 4211,
   "total_rejected": 1448,
   "top10": [
     {
@@ -59,6 +59,64 @@
         "1. Order horsetail silica samples, test formulation (capsule vs. powder), nail down COGs with co-packer",
         "2. Build killer TikTok-ready brand (name, packaging, story: 'the European beauty secret US brands don't want you to know')",
         "3. Pre-launch with 50-100 influencer gifting (micro beauty influencers), collect UGC testimonials, launch DTC with waitlist strategy"
+      ]
+    },
+    {
+      "id": "idea_532",
+      "date": "2026-02-27",
+      "inspiration_product": "Thai Wire Mango Slicer",
+      "inspiration_brand": "Street vendor tools",
+      "inspiration_country": "thailand",
+      "category": "kitchen",
+      "us_brand_concept": "MangoCube \u2014 Viral TikTok mango tool that creates perfect cubes in seconds",
+      "the_twist": "Position as the 'mango hack' tool that food TikTok has been waiting for - show the dramatic before/after of messy knife cutting vs. perfect wire cubes. Market to Gen Z/Millennial home cooks, not just Thai food enthusiasts.",
+      "twist_type": "brand-upgrade|niche-targeting",
+      "target_customer": "TikTok/Instagram food content creators, mango lovers frustrated with messy cutting, parents wanting easy fruit prep for kids, home cooks who meal prep",
+      "description": "Thai street vendors use a simple wire frame tool to remove mango pits and create uniform cubes in one motion - it's mesmerizing to watch and produces zero waste. The tool is common in Thailand but unknown in the US. OXO makes a mango splitter but it only cuts the mango in half - you still have to dice it. The Thai wire tool does BOTH pit removal and cubing. Viral video potential is massive - the transformation from whole mango to perfect cubes in 3 seconds is pure food porn. Brand it with modern packaging, create TikTok demo content, and watch it spread.",
+      "problem_solved": "Cutting mangos is messy, wasteful, and difficult. People search YouTube for 'how to cut a mango' constantly. The Thai wire tool solves it completely - zero knife skills needed, perfect cubes every time, no slippery mess.",
+      "us_competitive_landscape": "OXO Good Grips Mango Splitter ($11.99 on Amazon, 4K+ reviews) is the category leader but it only splits - doesn't cube. Generic 'mango slicers' exist but they're ugly import products with bad reviews. Nobody owns the 'viral mango cube tool' category yet. Massive white space.",
+      "demand_signals": [
+        "'How to cut a mango' has millions of YouTube views",
+        "Mango consumption in US up 50% in past decade",
+        "Food hack videos dominate TikTok (2B+ views on #foodhacks)",
+        "OXO mango splitter proves demand (4K reviews)",
+        "Every food blogger struggles with mango presentation"
+      ],
+      "source_urls": [
+        "https://www.youtube.com/results?search_query=thai+mango+cutter",
+        "https://www.amazon.com/OXO-Grips-Mango-Splitter-Black/dp/B004SJD13I"
+      ],
+      "manufacturing_path": "Source from Thai kitchen tool manufacturers (stainless wire frame, simple construction). Upgrade to 304 stainless steel. MOQ likely 1000 units @ $1.50-2.50 per tool landed. Could also manufacture domestically (simple wire bending/welding).",
+      "estimated_cogs_per_unit": 2.0,
+      "target_retail_price": 16.99,
+      "estimated_margin_multiplier": 8.5,
+      "startup_cost_estimate": "$3K - $5K for first 1000 units + packaging + branding + TikTok creator seeding",
+      "go_to_market": "TikTok-first strategy. Send 50 tools to food content creators with mangos and ask them to film the transformation. Create branded TikTok account posting mango cube videos daily. Shopify DTC with heavy TikTok ad spend. Amazon FBA as second channel once viral. PR pitch: 'The mango tool breaking the internet.' Summer launch timing (peak mango season).",
+      "google_trends": {
+        "avg": 0,
+        "recent": 0,
+        "trend": "no_data"
+      },
+      "scores": {
+        "demand_proof": 8,
+        "us_gap": 9,
+        "manufacturing_ease": 10,
+        "twist_strength": 9,
+        "margin_potential": 10,
+        "brandability": 9,
+        "low_capital_start": 10
+      },
+      "score_avg": 9.3,
+      "risks": [
+        "One-trick pony product (only works for mangos)",
+        "Low repeat purchase (lasts forever)",
+        "Competitors will copy if it goes viral (first-mover advantage critical)",
+        "Mango availability seasonal in some regions"
+      ],
+      "first_3_steps": [
+        "Order 10 sample Thai mango slicers from Alibaba/Thai suppliers ($50), test on various mango sizes/varieties",
+        "Film 20 TikTok-style demo videos showing the transformation, test which angles/captions get most engagement",
+        "Design packaging with QR code to tutorial video, create brand identity that feels fun/viral not boring kitchen tool"
       ]
     },
     {
@@ -508,62 +566,6 @@
         "Order samples from 3-5 Turkish kolonya brands + test with 20 potential customers to identify winning scent profile",
         "Source private label manufacturer, get 3 scent samples made (lemon, magnolia, rosemary), design luxury packaging/labels",
         "Pre-sell 100 units via Instagram ads to entertaining/hosting audience - validate $24 price point and messaging before full production run"
-      ]
-    },
-    {
-      "id": "idea_033",
-      "date": "2026-02-15",
-      "inspiration_product": "Hagelslag / Vlokken",
-      "inspiration_brand": "De Ruijter",
-      "inspiration_country": "netherlands",
-      "category": "grocery-pantry",
-      "us_brand_concept": "Sprinkle Mornings - Gourmet Breakfast Sprinkles for Grown-Ups",
-      "the_twist": "Skip the authentic Dutch chocolate sprinkles (too unfamiliar). Instead, create AMERICAN-friendly breakfast sprinkle flavors: cinnamon sugar, maple pecan, espresso chocolate, brown butter. Market as a breakfast ritual - the cereal alternative for toast lovers.",
-      "twist_type": "format-change|ingredient-swap|niche-targeting|brand-upgrade",
-      "target_customer": "Toast-for-breakfast people (massive audience); parents wanting fun breakfast without sugar cereal; millennials seeking rituals and nostalgia; people who buy fancy butter and jam",
-      "description": "Hagelslag (chocolate sprinkles on buttered bread) is a Dutch breakfast ritual. Americans don't do this - sprinkles are for ice cream and cupcakes only. But the format is genius: easy, portion-controlled, fun, customizable. Sprinkle Mornings adapts the concept with flavors that make sense to Americans. Think cinnamon-sugar (like cinnamon toast) but elevated. Espresso-chocolate for coffee lovers. Maple-pecan for pancake vibes. Sold in shaker jars with premium branding.",
-      "problem_solved": "Boring toast; breakfast fatigue; desire for quick, fun, customizable breakfast without cooking; alternative to sugary cereal",
-      "us_competitive_landscape": "NOTHING exists in this space. Cinnamon sugar exists but as baking ingredient, not breakfast topping. Nutella/jam are spreads. Cereal requires milk and bowl. Granola is a topping but not sprinkle format. ZERO breakfast sprinkle brands in US.",
-      "demand_signals": [
-        "Toast culture is huge (sourdough boom, avocado toast, fancy butter)",
-        "Ritual-seeking behavior (matcha, pour-over coffee, overnight oats)",
-        "Customization trend (build-your-own-everything)",
-        "Hagelslag gets curiosity from Americans who try it in Netherlands"
-      ],
-      "source_urls": [
-        "https://dutchreview.com/culture/food/6-weird-dutch-bread-toppings/",
-        "https://www.reddit.com/r/Netherlands/comments/16oo3ew/your_favourite_dutch_products/"
-      ],
-      "manufacturing_path": "Dry-mix co-packer or spice blending company. Simple ingredients (sugar, cinnamon, cocoa, flavor oils). Very low MOQ possible (250-500 units). Glass or plastic shaker jars.",
-      "estimated_cogs_per_unit": 1.5,
-      "target_retail_price": 8.99,
-      "estimated_margin_multiplier": 6.0,
-      "startup_cost_estimate": "$2K-4K for first run (500 units x 3 flavors), label design, food-safe jars. Could start even smaller with local contract packer.",
-      "go_to_market": "DTC Shopify. Instagram/TikTok content: 'The European breakfast trend you didn't know you needed.' Target food bloggers and breakfast enthusiasts. Subscription box (monthly flavor). Partner with fancy bakeries. Eventually: Whole Foods breakfast aisle.",
-      "google_trends": {
-        "avg": 0,
-        "recent": 0,
-        "trend": "no_data"
-      },
-      "scores": {
-        "demand_proof": 5,
-        "us_gap": 10,
-        "manufacturing_ease": 10,
-        "twist_strength": 9,
-        "margin_potential": 9,
-        "brandability": 10,
-        "low_capital_start": 10
-      },
-      "score_avg": 9.0,
-      "risks": [
-        "Totally new category requires heavy consumer education",
-        "Sprinkles = kids/dessert association in US might be hard to overcome",
-        "Need viral moment or influencer to create demand"
-      ],
-      "first_3_steps": [
-        "Make 5 homemade flavor prototypes, test with 20 people for flavor + naming feedback",
-        "Design packaging mockup: glass jar, minimalist label, emphasize 'morning ritual' not 'kid food'",
-        "Find dry-goods co-packer, get quotes for 3 flavors x 500 units, or start with local spice shop for micro-batch"
       ]
     }
   ]
