@@ -109,8 +109,8 @@
       "ideas": 18
     },
     "egypt": {
-      "candidates": 136,
-      "ideas": 17
+      "candidates": 160,
+      "ideas": 22
     },
     "malaysia": {
       "candidates": 147,
@@ -122,13 +122,13 @@
     }
   },
   "categories_recent": [
-    "condiments-sauces",
     "snacks-candy",
     "grocery-pantry",
     "health-wellness",
-    "kitchen"
+    "kitchen",
+    "personal-care"
   ],
-  "total_candidates": 4536,
-  "total_ideas": 593,
-  "total_rejected": 1522
+  "total_candidates": 4560,
+  "total_ideas": 598,
+  "total_rejected": 1523
 }
