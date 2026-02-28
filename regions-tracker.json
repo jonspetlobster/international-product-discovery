@@ -26,14 +26,14 @@
     "kenya": {"candidates": 131, "ideas": 21},
     "south_africa": {"candidates": 136, "ideas": 15},
     "australia": {"candidates": 130, "ideas": 15},
-    "new_zealand": {"candidates": 129, "ideas": 16},
+    "new_zealand": {"candidates": 152, "ideas": 21},
     "israel": {"candidates": 134, "ideas": 15},
     "egypt": {"candidates": 136, "ideas": 17},
     "malaysia": {"candidates": 147, "ideas": 19},
     "singapore": {"candidates": 139, "ideas": 21}
   },
-  "categories_recent": ["home-tools", "personal-care", "kitchen", "cleaning", "snacks-candy"],
-  "total_candidates": 4413,
-  "total_ideas": 572,
-  "total_rejected": 1489
+  "categories_recent": ["personal-care", "kitchen", "cleaning", "snacks-candy", "grocery-pantry"],
+  "total_candidates": 4436,
+  "total_ideas": 577,
+  "total_rejected": 1507
 }
