@@ -28,17 +28,17 @@
     "new_zealand": {"candidates": 152, "ideas": 21},
     "israel": {"candidates": 154, "ideas": 18},
     "egypt": {"candidates": 160, "ideas": 22},
-    "malaysia": {"candidates": 147, "ideas": 19},
+    "malaysia": {"candidates": 171, "ideas": 22},
     "singapore": {"candidates": 159, "ideas": 24}
   },
   "categories_recent": [
-    "cleaning",
     "kitchen",
     "snacks-candy",
     "bathroom",
-    "personal-care"
+    "personal-care",
+    "health-wellness"
   ],
-  "total_candidates": 4902,
-  "total_ideas": 659,
-  "total_rejected": 1705
+  "total_candidates": 4926,
+  "total_ideas": 662,
+  "total_rejected": 1726
 }
