@@ -1,10 +1,10 @@
 {
   "batch_size": 10,
   "total_to_process": 100,
-  "processed_count": 10,
-  "current_batch": 1,
+  "processed_count": 20,
+  "current_batch": 2,
   "started_at": "2026-03-01T12:20:52.690511",
-  "last_batch_at": "2026-03-01T12:40:00.000000",
+  "last_batch_at": "2026-03-01T21:00:00.000000",
   "completed": false,
   "batch1_summary": {
     "avg_original_score": 8.6,
@@ -13,5 +13,14 @@
     "rejected": 1,
     "top_ideas": ["idea_010", "idea_002", "idea_037"],
     "report": "batch1-revalidation-report.md"
+  },
+  "batch2_summary": {
+    "avg_original_score": 9.0,
+    "avg_revised_score": 5.4,
+    "major_downgrades": 10,
+    "rejected": 3,
+    "top_ideas": ["idea_634", "idea_332", "idea_701"],
+    "report": "batch2_validation_results.md",
+    "key_finding": "Severe overestimation of US gaps. Many claimed 'white space' products already exist."
   }
 }
