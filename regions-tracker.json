@@ -117,18 +117,18 @@
       "ideas": 22
     },
     "singapore": {
-      "candidates": 159,
-      "ideas": 24
+      "candidates": 184,
+      "ideas": 27
     }
   },
   "categories_recent": [
-    "personal-care",
     "pet",
     "laundry-clothing",
     "snacks-candy",
-    "condiments-sauces"
+    "condiments-sauces",
+    "kitchen"
   ],
-  "total_candidates": 5243,
-  "total_ideas": 714,
+  "total_candidates": 5268,
+  "total_ideas": 717,
   "total_rejected": 1827
 }

@@ -1,0 +1,78 @@
+International Brand Ideas Run
+=============================
+Date: 2026-03-01 05:49 AM PST
+Region: Singapore
+Category: Kitchen
+Candidates Generated: 25
+Ideas Validated: 3
+
+CONTEXT:
+- Singapore is least explored region (was 159 candidates, now 184)
+- Avoided recent categories: personal-care, pet, laundry-clothing, snacks-candy, condiments-sauces
+- Focused on kitchen tools/gadgets unique to Singapore/Asian cooking
+
+CANDIDATES GENERATED (25):
+Kitchen tools inspired by Singapore/Asian cooking culture:
+- Kopi sock coffee filters
+- CCK carbon steel cleavers
+- Pineapple tart molds
+- Mooncake press molds
+- Kueh molds
+- Shamoji rice paddles
+- Multi-tier bamboo steamers
+- Spider strainer wire skimmers
+- Wok chuan curved spatulas
+- Kopi brewing pots
+- Sushi rolling mats (makisu)
+- Japanese fishbone tweezers
+- Hangiri wooden sushi rice mixing tubs
+- Asian mixing bowls with pour spouts
+- Japanese whetstone sharpening sets
+- Oyster sauce dispenser bottles
+- Clay pot / sand pot cooking vessels
+- Chopstick rests (hashioki)
+- Otoshibuta drop lids (inner pot lids)
+- Tamagoyaki rectangular omelet pans
+- Donabe Japanese hot pots
+- Garlic/ginger ceramic graters (oroshiki)
+- Benriner mandoline slicers
+- Granite mortar and pestles
+- Nori seaweed multi-blade scissors
+
+TOP 3 IDEAS VALIDATED:
+
+1. **DropLid** (idea_715) - Score: 8.1
+   Silicone otoshibuta (Japanese drop lids) in 3-pack
+   Twist: Silicone vs. wood/steel, dishwasher-safe, flexible sizing
+   US Gap: Huge - almost unknown technique in US
+   Target: $14.99, COGS $2.50, margin 6x
+   Startup: $1500-$3000 for 500-1000 units
+
+2. **RollPan** (idea_716) - Score: 7.1
+   Premium rectangular omelet pan (tamagoyaki) with ceramic non-stick
+   Twist: Modern coating, ergonomic handle, multi-use recipe book
+   US Gap: Only cheap Japanese imports, no premium Western brand
+   Target: $34.99, COGS $8, margin 4.4x
+   Startup: $3000-$6000 import/rebrand or $8000-$12000 custom
+
+3. **StonePound** (idea_717) - Score: 6.7
+   Modern granite mortar & pestle with non-slip base
+   Twist: Silicone base ring, ergonomic pestle grip, spice cards
+   US Gap: No premium modern brand, just cheap imports
+   Target: $69.99, COGS $18, margin 3.9x
+   Startup: $4000-$8000 (shipping costs due to weight)
+
+INSIGHTS:
+- Kitchen tools = higher capital requirements than food products
+- Drop lid technique almost unknown in US = education challenge but also opportunity
+- Asian cooking tools exist as cheap imports but lack premium US branding
+- All 3 ideas require showing the product IN USE via video content
+- Best DTC angle: educational content on TikTok/Instagram/YouTube
+
+NEXT OPPORTUNITIES:
+- Other regions: South Korea (169), Taiwan (184), Thailand (184) also underexplored
+- Other kitchen niches: specialty baking tools, fermentation equipment, precision tools
+
+BRAVE SEARCH USAGE:
+Used 10 searches this run. Total to date: check brave-search-usage.json
+
