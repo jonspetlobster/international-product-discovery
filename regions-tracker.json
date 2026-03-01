@@ -41,8 +41,8 @@
       "ideas": 25
     },
     "sweden": {
-      "candidates": 148,
-      "ideas": 16
+      "candidates": 173,
+      "ideas": 21
     },
     "uk": {
       "candidates": 156,
@@ -122,13 +122,13 @@
     }
   },
   "categories_recent": [
-    "snacks-candy",
     "bathroom",
     "personal-care",
     "health-wellness",
-    "grocery-pantry"
+    "grocery-pantry",
+    "kitchen"
   ],
-  "total_candidates": 4946,
-  "total_ideas": 666,
-  "total_rejected": 1726
+  "total_candidates": 4971,
+  "total_ideas": 671,
+  "total_rejected": 1746
 }
