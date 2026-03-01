@@ -1,6 +1,8 @@
 {
-  "processed_count": 60,
-  "current_batch": 6,
+  "processed_count": 70,
+  "current_batch": 7,
   "completed": false,
-  "last_updated": "2026-03-01T14:00:00-08:00"
+  "last_updated": "2026-03-01T14:40:00-08:00",
+  "batch_size": 10,
+  "total_target": 100
 }
