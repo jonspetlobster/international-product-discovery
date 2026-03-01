@@ -49,8 +49,8 @@
       "ideas": 27
     },
     "france": {
-      "candidates": 152,
-      "ideas": 20
+      "candidates": 176,
+      "ideas": 24
     },
     "italy": {
       "candidates": 160,
@@ -122,13 +122,13 @@
     }
   },
   "categories_recent": [
+    "health-wellness",
     "grocery-pantry",
     "kitchen",
     "snacks-candy",
-    "laundry-clothing",
-    "personal-care"
+    "laundry-clothing"
   ],
-  "total_candidates": 5041,
-  "total_ideas": 681,
-  "total_rejected": 1770
+  "total_candidates": 5065,
+  "total_ideas": 685,
+  "total_rejected": 1790
 }
