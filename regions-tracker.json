@@ -105,8 +105,8 @@
       "ideas": 24
     },
     "israel": {
-      "candidates": 154,
-      "ideas": 18
+      "candidates": 179,
+      "ideas": 23
     },
     "egypt": {
       "candidates": 160,
@@ -122,13 +122,13 @@
     }
   },
   "categories_recent": [
+    "kitchen",
     "snacks-candy",
     "laundry-clothing",
     "pet",
-    "personal-care",
-    "condiments-sauces"
+    "personal-care"
   ],
-  "total_candidates": 5128,
-  "total_ideas": 694,
+  "total_candidates": 5153,
+  "total_ideas": 699,
   "total_rejected": 1817
 }
