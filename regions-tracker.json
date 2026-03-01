@@ -97,8 +97,8 @@
       "ideas": 19
     },
     "australia": {
-      "candidates": 148,
-      "ideas": 18
+      "candidates": 173,
+      "ideas": 21
     },
     "new_zealand": {
       "candidates": 152,
@@ -122,13 +122,13 @@
     }
   },
   "categories_recent": [
-    "personal-care",
     "health-wellness",
     "grocery-pantry",
     "kitchen",
-    "snacks-candy"
+    "snacks-candy",
+    "laundry-clothing"
   ],
-  "total_candidates": 4991,
-  "total_ideas": 674,
-  "total_rejected": 1748
+  "total_candidates": 5016,
+  "total_ideas": 677,
+  "total_rejected": 1770
 }
