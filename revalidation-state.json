@@ -1,0 +1,17 @@
+{
+  "batch_size": 10,
+  "total_to_process": 100,
+  "processed_count": 10,
+  "current_batch": 1,
+  "started_at": "2026-03-01T12:20:52.690511",
+  "last_batch_at": "2026-03-01T12:40:00.000000",
+  "completed": false,
+  "batch1_summary": {
+    "avg_original_score": 8.6,
+    "avg_revalidated_score": 7.2,
+    "major_downgrades": 3,
+    "rejected": 1,
+    "top_ideas": ["idea_010", "idea_002", "idea_037"],
+    "report": "batch1-revalidation-report.md"
+  }
+}
