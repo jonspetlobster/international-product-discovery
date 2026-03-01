@@ -8,7 +8,7 @@
     "vietnam": {"candidates": 163, "ideas": 26},
     "philippines": {"candidates": 150, "ideas": 16},
     "indonesia": {"candidates": 167, "ideas": 21},
-    "india": {"candidates": 143, "ideas": 19},
+    "india": {"candidates": 164, "ideas": 24},
     "germany": {"candidates": 162, "ideas": 25},
     "sweden": {"candidates": 148, "ideas": 16},
     "uk": {"candidates": 156, "ideas": 27},
@@ -32,13 +32,13 @@
     "singapore": {"candidates": 159, "ideas": 24}
   },
   "categories_recent": [
-    "condiments-sauces",
     "kitchen",
     "snacks-candy",
     "bathroom",
-    "personal-care"
+    "personal-care",
+    "stationery"
   ],
-  "total_candidates": 4860,
-  "total_ideas": 651,
-  "total_rejected": 1681
+  "total_candidates": 4881,
+  "total_ideas": 656,
+  "total_rejected": 1697
 }
