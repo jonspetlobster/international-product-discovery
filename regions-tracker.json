@@ -45,8 +45,8 @@
       "ideas": 21
     },
     "uk": {
-      "candidates": 156,
-      "ideas": 27
+      "candidates": 179,
+      "ideas": 30
     },
     "france": {
       "candidates": 176,
@@ -122,13 +122,13 @@
     }
   },
   "categories_recent": [
+    "outdoor-garden",
     "personal-care",
     "pet",
     "laundry-clothing",
-    "snacks-candy",
-    "kitchen"
+    "snacks-candy"
   ],
-  "total_candidates": 5197,
-  "total_ideas": 707,
-  "total_rejected": 1823
+  "total_candidates": 5220,
+  "total_ideas": 710,
+  "total_rejected": 1827
 }
