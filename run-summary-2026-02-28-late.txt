@@ -1,0 +1,119 @@
+International Brand Ideas Run - February 28, 2026 (Late Evening)
+
+REGION: Netherlands
+CATEGORY: Cleaning
+RUN TYPE: Full exploration - 21 candidates generated, 3 validated brand concepts
+
+## Search Summary (11 searches used)
+1. Netherlands cleaning products foreigners love reddit
+2. Dutch household cleaning products better than American
+3. site:reddit.com Netherlands products wish existed in US cleaning
+4. HG cleaning products Netherlands specialist cleaners
+5. schoonmaakazijn cleaning vinegar Netherlands concentrated
+6. "WC Eend" toilet cleaner Netherlands popular
+7. concentrated cleaning vinegar 80% US amazon
+8. fragrance free unscented all purpose cleaner US market
+9. dishwasher powder bulk refill US brands
+10. "duck neck" toilet cleaner bottle shaped applicator US
+11. pre-made baking soda cleaning paste jar US brands
+
+## Candidates Generated: 21
+- Schoonmaakazijn 80% concentrated cleaning vinegar
+- WC Eend duck-neck toilet cleaners (multiple variants)
+- Klok Eco unscented all-purpose cleaner
+- Neutral fragrance-free all-purpose cleaner
+- Lidl/Aldi dishwasher tabs (Dutch-made)
+- Action biodegradable cleaning wipes
+- HG specialist cleaners (multiple products)
+- Glorix bleach
+- Jacques Briochin vinegar spray
+- Baking soda paste method
+- Dutch cleaning recipe mixes
+- Ariel pods (Dutch formula)
+- Dishwasher powder philosophy
+- Green Care Professional cleaners
+
+## Rejected During Validation: 8
+1. Schoonmaakazijn 80% - US brands exist (Calyptus, SimpleNature)
+2. Klok Eco - fragmented but existing US market
+3. Neutral - same as above
+4. Lidl/Aldi tabs - Nellie's dominates this space
+5. Dishwasher powder - Nellie's owns it
+6. WC Eend variants - Toilet Duck exists in North America
+7. WC Eend #1 Ontkalker - same brand
+8. WC Eend Fresh Discs - same brand
+
+## Validated Brand Concepts: 3
+
+### 1. ScrubCraft - Artisan Cleaning Paste
+**Score: 8.3/10**
+- Pre-made baking soda cleaning paste in glass jars
+- Format change: DIY method → ready-to-use product
+- Target: Eco-conscious homeowners who want natural cleaning without the hassle
+- US Gap: NO pre-made baking soda paste exists (only powder and DIY recipes)
+- Retail: $12.99 | COGS: $2.50 | Margin: 5.2x
+- First Steps: Source paste co-packers, test 60-day shelf stability, build TikTok audience
+
+### 2. CleanLab Co. - Cleaning Chemistry Kits
+**Score: 8.1/10**
+- Pre-measured packets for safe DIY cleaning recipes
+- Bundle kit: Window Kit, Bathroom Kit, Kitchen Degreaser Kit
+- Target: DIY enthusiasts who want to avoid harsh chemicals but don't know safe ratios
+- US Gap: No educational cleaning chemistry kits exist
+- Retail: $34.99 | COGS: $8.00 | Margin: 4.4x
+- First Steps: Validate recipes with chemist, design safety insert, build YouTube authority
+
+### 3. JanCo Supply - Pro-Grade Cleaning for Home
+**Score: 7.7/10**
+- Commercial janitorial products for residential consumers
+- "What the pros actually use" positioning
+- Target: Value-conscious homeowners, landlords, property managers
+- US Gap: No aspirational janitorial-to-consumer brand exists
+- Retail: $19.99 | COGS: $4.00 | Margin: 5.0x
+- First Steps: Research janitorial suppliers, test commercial vs consumer brands, film comparison videos
+
+## Key Insights
+
+**Dutch Cleaning Philosophy:**
+- Minimalism: One product for many uses (allesreiniger)
+- Concentration: Buy concentrate, dilute yourself (80% vinegar)
+- Specialization: HG has 300+ products for specific surfaces/problems
+- Value: Dishwasher powder > pods, bulk > individual packaging
+- Eco-friendly: Biodegradable, unscented, natural options mainstream
+
+**US Market Gaps:**
+1. Pre-made convenience versions of DIY cleaning methods (baking soda paste, vinegar mixes)
+2. Educational kits teaching safe cleaning chemistry
+3. Bridge between commercial/janitorial and consumer products
+4. Premium positioning for basic cleaning concepts
+
+**Manufacturing Notes:**
+- Paste products need shelf-life testing (60+ days)
+- Pre-measured packets require co-packer with pouch filling capability
+- Private label options exist for most cleaning formulas
+- Glass jars add premium feel but increase shipping costs
+
+## Tracker Updates
+- Netherlands: 144 → 165 candidates (+21)
+- Netherlands: 20 → 23 brand ideas (+3)
+- Total candidates: 4881 → 4902 (+21)
+- Total ideas: 656 → 659 (+3)
+- Total rejected: 1697 → 1705 (+8)
+- Categories recent: [cleaning, kitchen, snacks-candy, bathroom, personal-care]
+
+## Files Updated
+- candidates.jsonl (+21 entries)
+- brand-ideas.jsonl (+3 validated ideas)
+- rejected.jsonl (+8 entries)
+- regions-tracker.json (updated counts)
+- top10.json (regenerated)
+
+## Next Steps
+Top remaining low-candidate regions:
+- Malaysia (147 candidates)
+- South Korea (148 candidates)
+- Brazil (148 candidates)
+- Australia (148 candidates)
+- Sweden (148 candidates)
+
+Suggested next run: Malaysia or South Korea (both at 147-148 candidates)
